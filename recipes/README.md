@@ -4,7 +4,7 @@
 
 This is not what Costco sells ready-to-eat — that's in [prepared foods](../prepared/). These are recipes for when you get home with a cart full of bulk groceries and need to turn it all into actual dinners. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
 
-50 recipes. Cheapest is $0.42/serving (churros). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
+75 recipes. Cheapest is $0.42/serving (churros). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
 
 ---
 
@@ -49,6 +49,36 @@ For when you get home at 6:30 and someone is already asking what's for dinner.
 - [Coconut Curry Shrimp](weeknight-dinners/coconut-curry-shrimp.md) — ~$4.00/serving
 - [Bibigo Dumpling Stir-Fry](weeknight-dinners/bibigo-dumpling-stir-fry.md) — ~$2.50/serving
 - [Dump-and-Go Chili](weeknight-dinners/dump-and-go-chili.md) — ~$2.25/serving
+- [Fish Tacos](weeknight-dinners/fish-tacos.md) — ~$3.50/serving
+- [Miso Glazed Salmon](weeknight-dinners/miso-glazed-salmon.md) — ~$5.50/serving
+- [Seared Scallops](weeknight-dinners/seared-scallops.md) — ~$8.00/serving
+- [Pad Thai](weeknight-dinners/pad-thai.md) — ~$3.50/serving
+- [Thai Green Curry](weeknight-dinners/thai-green-curry.md) — ~$3.00/serving
+- [Chicken Lettuce Wraps](weeknight-dinners/chicken-lettuce-wraps.md) — ~$2.50/serving
+- [Chickpea Pasta Marinara](weeknight-dinners/chickpea-pasta-marinara.md) — ~$2.50/serving *(vegetarian)*
+- [Vegetable Fried Rice](weeknight-dinners/vegetable-fried-rice.md) — ~$1.50/serving *(vegetarian)*
+
+## Soups
+A bowl of something warm for when it's cold, raining, or you just need comfort.
+
+- [Butternut Squash Soup](soups/butternut-squash-soup.md) — ~$1.50/serving
+- [Chicken & Wild Rice Soup](soups/chicken-wild-rice-soup.md) — ~$2.25/serving
+- [Creamy Tomato Basil](soups/creamy-tomato-basil.md) — ~$1.25/serving
+- [Minestrone](soups/minestrone.md) — ~$1.75/serving
+
+## Salads
+For when you realize you should probably eat a vegetable.
+
+- [Quinoa Power Salad](salads/quinoa-power-salad.md) — ~$2.00/serving
+- [Asian Sesame Noodle Salad](salads/asian-sesame-noodle-salad.md) — ~$2.25/serving
+- [Caprese Salad](salads/caprese-salad.md) — ~$3.00/serving
+
+## Grilling
+Fire up the grill. Or the broiler. We don't judge.
+
+- [Baby Back Ribs](grilling/baby-back-ribs.md) — ~$4.50/serving
+- [Steak Kabobs](grilling/steak-kabobs.md) — ~$5.00/serving
+- [BBQ Chicken Sandwiches](grilling/bbq-chicken-sandwiches.md) — ~$2.50/serving
 
 ## Meal Prep
 Sunday cooking so weekday-you doesn't have to think.
@@ -58,6 +88,9 @@ Sunday cooking so weekday-you doesn't have to think.
 - [Egg Muffin Cups](meal-prep/egg-muffin-cups.md) — ~$0.75/serving
 - [Greek Chicken Meal Prep](meal-prep/greek-chicken-meal-prep.md) — ~$3.00/serving
 - [Overnight Oats](meal-prep/overnight-oats.md) — ~$1.25/serving
+- [French Toast Casserole](meal-prep/french-toast-casserole.md) — ~$2.00/serving
+- [Breakfast Burritos](meal-prep/breakfast-burritos.md) — ~$1.50/serving
+- [Berry Protein Pancakes](meal-prep/berry-protein-pancakes.md) — ~$1.25/serving
 
 ## Appetizers
 The stuff you bring to a party and everyone asks for the recipe.
@@ -66,6 +99,8 @@ The stuff you bring to a party and everyone asks for the recipe.
 - [Spinach Artichoke Dip](appetizers/spinach-artichoke-dip.md) — ~$1.25/serving
 - [Bacon-Wrapped Stuffed Jalapenos](appetizers/bacon-wrapped-stuffed-jalapenos.md) — ~$1.00/serving
 - [Street Corn Dip](appetizers/street-corn-dip.md) — ~$1.00/serving
+- [Charcuterie Board](appetizers/charcuterie-board.md) — ~$3.00/serving
+- [Bruschetta](appetizers/bruschetta.md) — ~$0.75/serving
 
 ## Feeding a Crowd
 When you need to feed 10+ people and don't want to spend $200 on takeout.
@@ -85,6 +120,8 @@ Because you bought 4.5 lbs of chocolate chips and now you need a plan.
 - [Chocolate Lava Cakes](desserts/chocolate-lava-cakes.md) — ~$1.25/serving
 - [Tres Leches Cake](desserts/tres-leches-cake.md) — ~$2.00/serving
 - [Berry Crumble](desserts/berry-crumble.md) — ~$1.75/serving
+- [Banana Bread](desserts/banana-bread.md) — ~$0.75/serving
+- [Peanut Butter Cookies](desserts/peanut-butter-cookies.md) — ~$0.50/serving
 
 ---
 

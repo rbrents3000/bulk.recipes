@@ -39,18 +39,20 @@ Highlights:
 
 ### [Recipes](recipes/)
 
-What you make at home with all that stuff. 50 homemade recipes built around Costco ingredients, each with a Costco shopping list and cost-per-serving breakdown.
+What you make at home with all that stuff. 75 homemade recipes built around Costco ingredients, each with a Costco shopping list and cost-per-serving breakdown.
 
 A few favorites:
 - [Birria Tacos](recipes/weeknight-dinners/birria-tacos.md) — slow-braised chuck roast, crispy dipped tacos — $3.50/serving
-- [Carnitas](recipes/feeding-a-crowd/carnitas.md) — pork shoulder, orange juice, patience — $2.25/serving
-- [Chicken Pot Pie](recipes/rotisserie-chicken/chicken-pot-pie.md) — rotisserie chicken + puff pastry — $2.50/serving
-- [Garlic Butter Steak Bites](recipes/weeknight-dinners/garlic-butter-steak-bites.md) — weeknight fancy — $5.50/serving
+- [Baby Back Ribs](recipes/grilling/baby-back-ribs.md) — dry-rubbed, low and slow, worth the wait — $4.50/serving
+- [Pad Thai](recipes/weeknight-dinners/pad-thai.md) — shrimp, rice noodles, peanuts, tamarind — $3.50/serving
+- [Chicken & Wild Rice Soup](recipes/soups/chicken-wild-rice-soup.md) — rotisserie chicken in creamy broth — $2.25/serving
+- [Seared Scallops](recipes/weeknight-dinners/seared-scallops.md) — restaurant-quality, screaming hot pan — $8.00/serving
 - [Churros](recipes/costco-copycats/churros.md) — reverse-engineered from the food court — $0.42/serving
-- [Chocolate Lava Cakes](recipes/desserts/chocolate-lava-cakes.md) — molten centers, Kirkland chocolate chips — $1.25/serving
-- [Egg Muffin Cups](recipes/meal-prep/egg-muffin-cups.md) — meal prep for $0.75/serving
+- [Peanut Butter Cookies](recipes/desserts/peanut-butter-cookies.md) — three ingredients, somehow incredible — $0.50/serving
+- [French Toast Casserole](recipes/meal-prep/french-toast-casserole.md) — Costco croissants soaked overnight — $2.00/serving
+- [Charcuterie Board](recipes/appetizers/charcuterie-board.md) — Costco cheese + meats, looks like you tried — $3.00/serving
 
-**[Browse all 50 recipes →](recipes/)**
+**[Browse all 75 recipes →](recipes/)**
 
 ---
 
