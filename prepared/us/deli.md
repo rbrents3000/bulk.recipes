@@ -63,6 +63,28 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Mediterranean Pasta Salad | $9.99 | ~2 lbs | Rotini with vegetables and Italian dressing |
 | Chinese Chicken Salad | $9.99 | ~2 lbs | Cabbage-based with crispy wontons |
 
+### Sandwiches & Wraps
+
+| Item | Price | Size | Notes |
+|------|-------|------|-------|
+| Turkey & Provolone Pinwheels | $9.99 | 20 count | Rolled flour tortilla with turkey, provolone, lettuce |
+| Ham & Swiss Pinwheels | $9.99 | 20 count | Rolled flour tortilla with ham, Swiss, lettuce |
+| Croissant Sandwich Platter | $19.99 | 8 count | Turkey/ham/roast beef on butter croissants |
+| Chicken Wraps | $11.99 | 5 count | Grilled chicken, lettuce, tomato in a flour tortilla |
+
+### Party Platters & Entertaining
+
+| Item | Price | Size | Notes |
+|------|-------|------|-------|
+| Shrimp Cocktail Platter | $39.99 | ~4 lbs (serves 15-20) | Large ring of cooked shrimp with cocktail sauce |
+| Fruit Platter | $24.99 | Serves 15-20 | Seasonal fresh fruit, sometimes with yogurt dip |
+| Vegetable Platter | $19.99 | Serves 15-20 | Broccoli, carrots, celery, tomatoes, ranch dip |
+| Cheese & Crackers Platter | $22.99 | Serves 15-20 | Assorted cheeses with crackers and dried fruit |
+| Deli Sandwich Platter | $29.99 | 12 half-sandwiches | Assorted sub-style sandwiches |
+| Cookie Platter | $18.99 | 60+ count | Assorted mini cookies |
+| Mini Quiche Tray | $14.99 | 24 count | Assorted flavors — lorraine, florentine |
+| Chicken Wings Platter | $24.99 | ~5 lbs | Pre-cooked wings, various sauces |
+
 ### Soups (Seasonal / Rotating)
 
 | Item | Price | Size | Notes |
@@ -70,3 +92,15 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Clam Chowder | $11.99 | ~2 lbs | New England-style |
 | Chicken Tortilla Soup | $9.99 | ~2 lbs | Southwest-style with tortilla strips |
 | Broccoli Cheddar Soup | $9.99 | ~2 lbs | Creamy broccoli and cheddar |
+| Tomato Basil Soup | $9.99 | ~2 lbs | Seasonal |
+| Chicken Noodle Soup | $9.99 | ~2 lbs | Classic — seasonal |
+
+### Grab-and-Go
+
+| Item | Price | Size | Notes |
+|------|-------|------|-------|
+| Kirkland Signature Lemonade | $2.79 | 52 oz | Fresh-squeezed style |
+| Pesto Pasta Salad | $9.99 | ~2 lbs | Rotini with pesto, sun-dried tomatoes |
+| Asian Cashew Chopped Salad | $9.99 | ~2 lbs | Cabbage, edamame, cashews, sesame dressing |
+| Chicken Noodle Soup Cup | $3.99 | Single serve | Grab-and-go from the hot case |
+| Beef Chili | $11.99 | ~2 lbs | Hearty ground beef chili |
