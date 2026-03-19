@@ -10,15 +10,18 @@ No web app. No framework. Just organized markdown files you can browse right her
 
 Catalogs of everything Costco sells in their food court, deli, and bakery — organized by country.
 
-**12 countries covered:** US, Canada, Mexico, Japan, South Korea, Taiwan, China, Australia, UK, France, Spain, Sweden
+**All 14 countries with Costco:** US, Canada, Mexico, Japan, South Korea, Taiwan, China, Australia, New Zealand, UK, France, Spain, Sweden, Iceland
 
 Highlights:
 - The full US food court, deli, and bakery lineup with prices
-- Japan's sushi platters, takoyaki, and matcha cakes
-- Korea's bulgogi bake, kimchi jjigae kits, and garlic cream cheese bread
-- Taiwan's bubble tea and braised pork
-- Mexico's poutine... wait, that's Canada. Mexico has cochinita pibil and tamales
-- France's duck confit and crème brûlée
+- Japan's bulgogi bake, sushi platters, takoyaki, and matcha cakes
+- Korea's tteokbokki, pork bake, Korean fried chicken, and yakgwa
+- Taiwan's beef noodle soup, bubble tea, and crispy chicken buckets
+- China's truffle pizza, Peking duck rolls, and earl grey soft serve
+- Canada's poutine and butter tarts
+- Mexico's torta al pastor, cochinita pibil, and tamales
+- France's croque monsieur, duck confit, tartiflette, and canelés
+- Iceland's gelato and Icelandic hot dogs
 - And more
 
 ### [Recipes](recipes/)
