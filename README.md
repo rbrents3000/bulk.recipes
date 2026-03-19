@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# bulk.recipes
 
-## Getting Started
+A curated catalog of Costco prepared foods and recipes from around the world. Every recipe is built around specific Costco products with cost-per-serving breakdowns.
 
-First, run the development server:
+No web app. No framework. Just organized markdown files you can browse right here on GitHub.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## What's Here
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### [Costco Prepared Foods](products/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Catalogs of everything Costco sells in their food court, deli, and bakery — organized by country.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**12 countries covered:** US, Canada, Mexico, Japan, South Korea, Taiwan, China, Australia, UK, France, Spain, Sweden
 
-## Learn More
+Highlights:
+- The full US food court, deli, and bakery lineup with prices
+- Japan's sushi platters, takoyaki, and matcha cakes
+- Korea's bulgogi bake, kimchi jjigae kits, and garlic cream cheese bread
+- Taiwan's bubble tea and braised pork
+- Mexico's poutine... wait, that's Canada. Mexico has cochinita pibil and tamales
+- France's duck confit and crème brûlée
+- And more
 
-To learn more about Next.js, take a look at the following resources:
+### [Recipes](recipes/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+15 recipes designed around Costco ingredients:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Rotisserie Chicken**
+- [Chicken Enchiladas](recipes/rotisserie-chicken/chicken-enchiladas.md) — $2.90/serving
+- [Chicken Fried Rice](recipes/rotisserie-chicken/chicken-fried-rice.md) — $1.88/serving
+- [Chicken Tortilla Soup](recipes/rotisserie-chicken/chicken-tortilla-soup.md) — $2.00/serving
 
-## Deploy on Vercel
+**Copycat Food Court**
+- [Chicken Bake](recipes/copycat-food-court/chicken-bake.md) — $3.00/serving
+- [Churros](recipes/copycat-food-court/churros.md) — $0.42/serving
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Weeknight Dinners**
+- [Bulgogi Rice Bowls](recipes/weeknight-dinners/bulgogi-rice-bowls.md) — $3.67/serving
+- [Shrimp Scampi Pasta](recipes/weeknight-dinners/shrimp-scampi-pasta.md) — $4.50/serving
+- [Lemon Butter Salmon](recipes/weeknight-dinners/lemon-butter-salmon.md) — $6.50/serving
+- [Pesto Chicken Pasta](recipes/weeknight-dinners/pesto-chicken-pasta.md) — $2.33/serving
+- [Sheet Pan Sausage & Peppers](recipes/weeknight-dinners/sheet-pan-sausage-peppers.md) — $2.00/serving
+- [Baked Stuffed Salmon](recipes/weeknight-dinners/baked-stuffed-salmon.md) — $8.50/serving
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Meal Prep**
+- [Breakfast Croissant Sandwiches](recipes/meal-prep/breakfast-croissant-sandwiches.md) — $2.33/serving
+
+**Appetizers**
+- [Buffalo Chicken Dip](recipes/appetizers/buffalo-chicken-dip.md) — $1.50/serving
+
+**Feeding a Crowd**
+- [Street Taco Bar](recipes/feeding-a-crowd/street-taco-bar.md) — $4.00/serving
+- [Costco Meatloaf Dinner](recipes/feeding-a-crowd/costco-meatloaf-dinner.md) — $3.00/serving
+
+## Why This Exists
+
+Costco sells amazing food at great prices, but the quantities are huge. This repo helps you:
+
+1. **Know what's available** — especially prepared items that vary by country and season
+2. **Cook with what you bought** — recipes designed around actual Costco package sizes
+3. **Minimize waste** — use up bulk ingredients across multiple recipes
+4. **Save money** — cost-per-serving breakdowns show the real value
+
+## Contributing
+
+Want to add a recipe, update prices, or add items from your local Costco? See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Not affiliated with Costco Wholesale Corporation.
