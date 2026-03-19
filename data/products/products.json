@@ -1,0 +1,234 @@
+[
+  {
+    "id": "rotisserie-chicken",
+    "name": "Kirkland Signature Rotisserie Chicken",
+    "category": "deli",
+    "approximatePrice": 4.99,
+    "packageSize": "3 lb whole chicken",
+    "description": "Fully cooked, seasoned whole chicken"
+  },
+  {
+    "id": "ks-chicken-broth",
+    "name": "Kirkland Signature Organic Chicken Broth",
+    "category": "kirkland",
+    "approximatePrice": 11.99,
+    "packageSize": "6 x 32 oz cartons",
+    "description": "Organic chicken broth"
+  },
+  {
+    "id": "ks-shredded-mexican-cheese",
+    "name": "Kirkland Signature Shredded Mexican Blend Cheese",
+    "category": "kirkland",
+    "approximatePrice": 12.99,
+    "packageSize": "2.5 lb bag",
+    "description": "Blend of cheddar, monterey jack, queso quesadilla, and asadero cheeses"
+  },
+  {
+    "id": "ks-flour-tortillas",
+    "name": "Kirkland Signature Flour Tortillas",
+    "category": "kirkland",
+    "approximatePrice": 4.49,
+    "packageSize": "24 count",
+    "description": "Burrito-size flour tortillas"
+  },
+  {
+    "id": "ks-olive-oil",
+    "name": "Kirkland Signature Extra Virgin Olive Oil",
+    "category": "kirkland",
+    "approximatePrice": 13.99,
+    "packageSize": "2 L",
+    "description": "First cold pressed extra virgin olive oil"
+  },
+  {
+    "id": "ks-canned-tomatoes",
+    "name": "Kirkland Signature Organic Diced Tomatoes",
+    "category": "kirkland",
+    "approximatePrice": 7.99,
+    "packageSize": "8 x 14.5 oz cans",
+    "description": "Organic diced tomatoes"
+  },
+  {
+    "id": "ks-jasmine-rice",
+    "name": "Kirkland Signature Jasmine Rice",
+    "category": "kirkland",
+    "approximatePrice": 16.99,
+    "packageSize": "25 lb bag",
+    "description": "Thai hom mali jasmine rice"
+  },
+  {
+    "id": "ks-bacon",
+    "name": "Kirkland Signature Thick-Sliced Bacon",
+    "category": "kirkland",
+    "approximatePrice": 18.99,
+    "packageSize": "4 x 1 lb packs",
+    "description": "Hickory smoked thick-sliced bacon"
+  },
+  {
+    "id": "ks-eggs",
+    "name": "Kirkland Signature Large Eggs",
+    "category": "kirkland",
+    "approximatePrice": 7.99,
+    "packageSize": "5 dozen",
+    "description": "Grade AA large eggs"
+  },
+  {
+    "id": "ks-butter",
+    "name": "Kirkland Signature Unsalted Butter",
+    "category": "kirkland",
+    "approximatePrice": 12.99,
+    "packageSize": "4 x 1 lb bars",
+    "description": "USDA Grade AA unsalted butter"
+  },
+  {
+    "id": "ks-pasta",
+    "name": "Kirkland Signature Penne Rigate",
+    "category": "kirkland",
+    "approximatePrice": 8.99,
+    "packageSize": "4 x 1 lb boxes",
+    "description": "Italian penne rigate pasta"
+  },
+  {
+    "id": "ks-frozen-shrimp",
+    "name": "Kirkland Signature Raw Tail-On Shrimp",
+    "category": "kirkland",
+    "approximatePrice": 17.99,
+    "packageSize": "2 lb bag, 21-25 count",
+    "description": "Peeled, deveined, raw tail-on shrimp"
+  },
+  {
+    "id": "ks-parmigiano",
+    "name": "Kirkland Signature Shredded Parmigiano Reggiano",
+    "category": "kirkland",
+    "approximatePrice": 14.99,
+    "packageSize": "1 lb tub",
+    "description": "Aged 24 months, imported from Italy"
+  },
+  {
+    "id": "ks-chicken-breasts",
+    "name": "Kirkland Signature Boneless Skinless Chicken Breasts",
+    "category": "kirkland",
+    "approximatePrice": 22.99,
+    "packageSize": "6.5 lb pack",
+    "description": "Fresh boneless skinless chicken breasts"
+  },
+  {
+    "id": "ks-ground-beef",
+    "name": "Kirkland Signature Ground Beef 88/12",
+    "category": "kirkland",
+    "approximatePrice": 24.99,
+    "packageSize": "6 lb pack",
+    "description": "88% lean ground beef"
+  },
+  {
+    "id": "ks-cream-cheese",
+    "name": "Kirkland Signature Cream Cheese",
+    "category": "kirkland",
+    "approximatePrice": 7.49,
+    "packageSize": "2 x 16 oz bars",
+    "description": "Philadelphia-style cream cheese"
+  },
+  {
+    "id": "ks-italian-sausage",
+    "name": "Kirkland Signature Italian Sausage",
+    "category": "kirkland",
+    "approximatePrice": 14.99,
+    "packageSize": "5 lb pack",
+    "description": "Sweet Italian pork sausage links"
+  },
+  {
+    "id": "baby-spinach",
+    "name": "Organic Baby Spinach",
+    "category": "bulk-grocery",
+    "approximatePrice": 5.99,
+    "packageSize": "1 lb clamshell",
+    "description": "Pre-washed organic baby spinach"
+  },
+  {
+    "id": "bell-peppers",
+    "name": "Sweet Bell Peppers",
+    "category": "bulk-grocery",
+    "approximatePrice": 6.99,
+    "packageSize": "6-pack assorted colors",
+    "description": "Red, yellow, and orange bell peppers"
+  },
+  {
+    "id": "avocados",
+    "name": "Hass Avocados",
+    "category": "bulk-grocery",
+    "approximatePrice": 6.99,
+    "packageSize": "5-pack",
+    "description": "Large Hass avocados"
+  },
+  {
+    "id": "romaine-hearts",
+    "name": "Romaine Hearts",
+    "category": "bulk-grocery",
+    "approximatePrice": 4.99,
+    "packageSize": "6-pack",
+    "description": "Fresh romaine lettuce hearts"
+  },
+  {
+    "id": "fc-pizza-slice",
+    "name": "Food Court Pizza Slice",
+    "category": "food-court",
+    "approximatePrice": 1.99,
+    "packageSize": "1 slice",
+    "description": "Cheese, pepperoni, or combo"
+  },
+  {
+    "id": "fc-chicken-bake",
+    "name": "Food Court Chicken Bake",
+    "category": "food-court",
+    "approximatePrice": 3.99,
+    "packageSize": "1 piece",
+    "description": "Chicken, cheese, bacon, Caesar dressing in baked bread"
+  },
+  {
+    "id": "fc-hot-dog",
+    "name": "Food Court Hot Dog Combo",
+    "category": "food-court",
+    "approximatePrice": 1.50,
+    "packageSize": "1 hot dog + 20 oz soda",
+    "description": "1/4 lb all-beef hot dog with drink"
+  },
+  {
+    "id": "fc-churro",
+    "name": "Food Court Twisted Churro",
+    "category": "food-court",
+    "approximatePrice": 1.99,
+    "packageSize": "1 churro",
+    "description": "Cinnamon sugar coated twisted churro"
+  },
+  {
+    "id": "fc-acai-bowl",
+    "name": "Food Court Açaí Bowl",
+    "category": "food-court",
+    "approximatePrice": 4.99,
+    "packageSize": "1 bowl",
+    "description": "Açaí blend with granola, strawberries, blueberries, and banana"
+  },
+  {
+    "id": "bakery-croissants",
+    "name": "Kirkland Signature Butter Croissants",
+    "category": "bakery",
+    "approximatePrice": 5.99,
+    "packageSize": "12 count",
+    "description": "All-butter croissants baked in-store"
+  },
+  {
+    "id": "bakery-muffins",
+    "name": "Kirkland Signature Muffins",
+    "category": "bakery",
+    "approximatePrice": 8.99,
+    "packageSize": "12 count (2 flavors)",
+    "description": "Assorted oversized muffins"
+  },
+  {
+    "id": "bakery-cinnamon-rolls",
+    "name": "Kirkland Signature Cinnamon Rolls",
+    "category": "bakery",
+    "approximatePrice": 7.99,
+    "packageSize": "12 count",
+    "description": "Frosted cinnamon rolls"
+  }
+]

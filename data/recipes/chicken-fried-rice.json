@@ -1,0 +1,43 @@
+{
+  "id": "chicken-fried-rice",
+  "title": "Rotisserie Chicken Fried Rice",
+  "description": "A fast weeknight dinner that uses Costco rotisserie chicken and jasmine rice. Better than takeout and ready in 20 minutes.",
+  "category": "weeknight-dinner",
+  "tags": ["quick", "family-friendly", "asian", "one-pan"],
+  "costcoProducts": [
+    { "productId": "rotisserie-chicken", "amountNeeded": "2 cups shredded" },
+    { "productId": "ks-jasmine-rice", "amountNeeded": "3 cups cooked (about 1.5 cups dry)" },
+    { "productId": "ks-eggs", "amountNeeded": "3 eggs" },
+    { "productId": "ks-olive-oil", "amountNeeded": "2 tablespoons" }
+  ],
+  "additionalIngredients": [
+    { "name": "Soy sauce", "amount": "3", "unit": "tablespoons" },
+    { "name": "Sesame oil", "amount": "1", "unit": "tablespoon" },
+    { "name": "Frozen peas and carrots", "amount": "1", "unit": "cup" },
+    { "name": "Garlic", "amount": "3", "unit": "cloves, minced" },
+    { "name": "Green onions", "amount": "4", "unit": "stalks, sliced" }
+  ],
+  "costEstimate": {
+    "total": 7.50,
+    "perServing": 1.88
+  },
+  "servings": 4,
+  "prepTimeMinutes": 10,
+  "cookTimeMinutes": 10,
+  "difficulty": "easy",
+  "instructions": [
+    { "step": 1, "text": "Use day-old rice if possible — freshly cooked rice will be too moist. Spread leftover rice on a sheet pan and refrigerate for at least 30 minutes if using fresh.", "tip": "Day-old rice is the secret to great fried rice. Cook a big batch when you first open the Costco rice bag." },
+    { "step": 2, "text": "Heat olive oil in a large skillet or wok over high heat." },
+    { "step": 3, "text": "Scramble the eggs in the hot pan, breaking them into small pieces. Remove and set aside." },
+    { "step": 4, "text": "Add garlic and frozen peas/carrots to the pan. Stir-fry for 2 minutes." },
+    { "step": 5, "text": "Add the cold rice and press it flat against the pan. Let it sit for 30 seconds to get slightly crispy, then stir. Repeat a few times." },
+    { "step": 6, "text": "Add the shredded chicken, scrambled eggs, soy sauce, and sesame oil. Toss everything together for 1-2 minutes." },
+    { "step": 7, "text": "Top with sliced green onions and serve." }
+  ],
+  "storageInstructions": "Refrigerate up to 4 days. Reheat in a skillet for best results.",
+  "leftoverIdeas": [
+    "Wrap in a tortilla for a fusion burrito",
+    "Stuff into bell peppers and bake"
+  ],
+  "relatedRecipes": ["chicken-enchiladas", "chicken-tortilla-soup"]
+}

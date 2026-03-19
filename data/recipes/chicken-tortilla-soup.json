@@ -1,0 +1,46 @@
+{
+  "id": "chicken-tortilla-soup",
+  "title": "Slow Cooker Chicken Tortilla Soup",
+  "description": "Dump-and-go soup using Costco rotisserie chicken and pantry staples. Set it in the morning, eat it for dinner.",
+  "category": "meal-prep",
+  "tags": ["slow-cooker", "meal-prep", "freezer-friendly", "mexican", "soup"],
+  "costcoProducts": [
+    { "productId": "rotisserie-chicken", "amountNeeded": "1 chicken (about 4 cups shredded)" },
+    { "productId": "ks-chicken-broth", "amountNeeded": "2 cartons (64 oz total)" },
+    { "productId": "ks-canned-tomatoes", "amountNeeded": "2 cans (14.5 oz each)" },
+    { "productId": "ks-shredded-mexican-cheese", "amountNeeded": "1 cup for topping" }
+  ],
+  "additionalIngredients": [
+    { "name": "Black beans", "amount": "1", "unit": "can (15 oz), drained and rinsed" },
+    { "name": "Corn kernels", "amount": "1", "unit": "cup (frozen or canned)" },
+    { "name": "Onion", "amount": "1", "unit": "medium, diced" },
+    { "name": "Garlic", "amount": "3", "unit": "cloves, minced" },
+    { "name": "Cumin", "amount": "1", "unit": "tablespoon" },
+    { "name": "Chili powder", "amount": "1", "unit": "tablespoon" },
+    { "name": "Lime", "amount": "2", "unit": "limes, juiced" },
+    { "name": "Tortilla chips", "amount": "1", "unit": "handful per bowl, for serving" },
+    { "name": "Avocado", "amount": "1", "unit": "sliced, for topping", "optional": true },
+    { "name": "Sour cream", "amount": "1", "unit": "dollop per bowl", "optional": true }
+  ],
+  "costEstimate": {
+    "total": 16.00,
+    "perServing": 2.00
+  },
+  "servings": 8,
+  "prepTimeMinutes": 15,
+  "cookTimeMinutes": 240,
+  "difficulty": "easy",
+  "instructions": [
+    { "step": 1, "text": "Shred the rotisserie chicken, discarding skin and bones." },
+    { "step": 2, "text": "Add chicken, broth, diced tomatoes, black beans, corn, onion, garlic, cumin, and chili powder to the slow cooker." },
+    { "step": 3, "text": "Cook on low for 6-8 hours or high for 3-4 hours." },
+    { "step": 4, "text": "Stir in lime juice just before serving." },
+    { "step": 5, "text": "Ladle into bowls. Top with crushed tortilla chips, shredded cheese, avocado, and sour cream." }
+  ],
+  "storageInstructions": "Refrigerate up to 5 days. Freezes beautifully for up to 3 months — freeze without toppings.",
+  "leftoverIdeas": [
+    "Reduce the soup and use as a burrito filling",
+    "Pour over rice for a soup-and-rice bowl"
+  ],
+  "relatedRecipes": ["chicken-enchiladas", "chicken-fried-rice"]
+}
