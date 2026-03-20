@@ -31,6 +31,7 @@ Everything is baked in-store daily. The quantities are huge and the prices are r
 | Danishes | $8.99 | 12 count | Cheese, apple, or cherry |
 | Almond Danish Twist | $7.99 | 1 large | Braided pastry with almond filling |
 | Scones | $7.99 | 8 count | Seasonal flavors |
+| Almond Croissants | ~$6.99 | 12 count | Flaky with sweet almond paste filling |
 | Bear Claws | $8.99 | 6 count | Almond-filled pastry |
 | Turnovers | $7.99 | 8 count | Apple or cherry |
 
@@ -55,6 +56,7 @@ Everything is baked in-store daily. The quantities are huge and the prices are r
 | Apple Pie | $12.99 | 12" | Lattice top, year-round |
 | Pecan Pie | $14.99 | 12" | Seasonal (fall/winter) |
 | Key Lime Pie | $14.99 | 12" | Seasonal (spring/summer) |
+| Chocolate Brownie Walnut Pie | $21.99 | 12" | Graham crust, chocolate ganache, walnut topping |
 
 ## Cookies & Desserts
 
@@ -63,6 +65,7 @@ Everything is baked in-store daily. The quantities are huge and the prices are r
 | Mini Cookies Variety | $8.99 | 36+ count | Chocolate chip, sugar, white chocolate macadamia |
 | Brownies | $9.99 | 12 count | Fudge brownies in a tray |
 | Cookie Platter | $18.99 | 60+ count | Party-sized assortment |
+| Reese's Peanut Butter Monster Cookies | ~$9.99 | 12 count | Peanut butter, chocolate, oats |
 | Raspberry Crumble Cookies | $9.99 | 12 count | Seasonal |
 
 ## Seasonal Specialties

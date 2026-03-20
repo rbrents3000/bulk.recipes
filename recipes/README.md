@@ -4,7 +4,7 @@
 
 This is not what Costco sells ready-to-eat — that's in [prepared foods](../prepared/). These are recipes for when you get home with a cart full of bulk groceries and need to turn it all into actual dinners. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
 
-75 recipes. Cheapest is $0.42/serving (churros). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
+98 recipes. Cheapest is $0.42/serving (churros). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
 
 ---
 
@@ -28,6 +28,7 @@ Your best attempts at recreating what they make in the food court. Some come clo
 - [Açaí Bowl](costco-copycats/acai-bowl.md) — ~$3.50/serving
 - [Berry Sundae](costco-copycats/berry-sundae.md) — ~$1.50/serving
 - [Costco-Style Pizza](costco-copycats/pizza-dough.md) — ~$2.00/serving
+- [Combo Calzone](costco-copycats/combo-calzone.md) — ~$2.50/serving
 
 ## Weeknight Dinners
 For when you get home at 6:30 and someone is already asking what's for dinner.
@@ -55,6 +56,11 @@ For when you get home at 6:30 and someone is already asking what's for dinner.
 - [Pad Thai](weeknight-dinners/pad-thai.md) — ~$3.50/serving
 - [Thai Green Curry](weeknight-dinners/thai-green-curry.md) — ~$3.00/serving
 - [Chicken Lettuce Wraps](weeknight-dinners/chicken-lettuce-wraps.md) — ~$2.50/serving
+- [Gyro Bowls](weeknight-dinners/gyro-bowls.md) — ~$3.50/serving
+- [Sheet Pan Fajitas](weeknight-dinners/sheet-pan-fajitas.md) — ~$2.75/serving
+- [One-Pot Lasagna](weeknight-dinners/one-pot-lasagna.md) — ~$2.50/serving
+- [Chicken Parmesan](weeknight-dinners/chicken-parmesan.md) — ~$3.50/serving
+- [Shakshuka](weeknight-dinners/shakshuka.md) — ~$1.75/serving *(vegetarian)*
 - [Chickpea Pasta Marinara](weeknight-dinners/chickpea-pasta-marinara.md) — ~$2.50/serving *(vegetarian)*
 - [Vegetable Fried Rice](weeknight-dinners/vegetable-fried-rice.md) — ~$1.50/serving *(vegetarian)*
 
@@ -65,6 +71,7 @@ A bowl of something warm for when it's cold, raining, or you just need comfort.
 - [Chicken & Wild Rice Soup](soups/chicken-wild-rice-soup.md) — ~$2.25/serving
 - [Creamy Tomato Basil](soups/creamy-tomato-basil.md) — ~$1.25/serving
 - [Minestrone](soups/minestrone.md) — ~$1.75/serving
+- [Chicken Noodle Soup](soups/chicken-noodle-soup.md) — ~$1.75/serving
 
 ## Salads
 For when you realize you should probably eat a vegetable.
@@ -72,6 +79,7 @@ For when you realize you should probably eat a vegetable.
 - [Quinoa Power Salad](salads/quinoa-power-salad.md) — ~$2.00/serving
 - [Asian Sesame Noodle Salad](salads/asian-sesame-noodle-salad.md) — ~$2.25/serving
 - [Caprese Salad](salads/caprese-salad.md) — ~$3.00/serving
+- [Southwest Chicken Salad](salads/southwest-chicken-salad.md) — ~$2.50/serving
 
 ## Grilling
 Fire up the grill. Or the broiler. We don't judge.
@@ -79,6 +87,7 @@ Fire up the grill. Or the broiler. We don't judge.
 - [Baby Back Ribs](grilling/baby-back-ribs.md) — ~$4.50/serving
 - [Steak Kabobs](grilling/steak-kabobs.md) — ~$5.00/serving
 - [BBQ Chicken Sandwiches](grilling/bbq-chicken-sandwiches.md) — ~$2.50/serving
+- [Smoked Tri-Tip](grilling/smoked-tri-tip.md) — ~$5.00/serving
 
 ## Meal Prep
 Sunday cooking so weekday-you doesn't have to think.
@@ -101,6 +110,7 @@ The stuff you bring to a party and everyone asks for the recipe.
 - [Street Corn Dip](appetizers/street-corn-dip.md) — ~$1.00/serving
 - [Charcuterie Board](appetizers/charcuterie-board.md) — ~$3.00/serving
 - [Bruschetta](appetizers/bruschetta.md) — ~$0.75/serving
+- [Soup Dumplings](appetizers/soup-dumplings.md) — ~$1.50/serving
 
 ## Feeding a Crowd
 When you need to feed 10+ people and don't want to spend $200 on takeout.
@@ -112,6 +122,7 @@ When you need to feed 10+ people and don't want to spend $200 on takeout.
 - [Breakfast Casserole](feeding-a-crowd/breakfast-casserole.md) — ~$1.50/serving
 - [Baked Mac and Cheese](feeding-a-crowd/mac-and-cheese.md) — ~$1.75/serving
 - [Carnitas](feeding-a-crowd/carnitas.md) — ~$2.25/serving
+- [Taco Pasta](feeding-a-crowd/taco-pasta.md) — ~$2.00/serving
 
 ## Desserts
 Because you bought 4.5 lbs of chocolate chips and now you need a plan.
@@ -122,6 +133,30 @@ Because you bought 4.5 lbs of chocolate chips and now you need a plan.
 - [Berry Crumble](desserts/berry-crumble.md) — ~$1.75/serving
 - [Banana Bread](desserts/banana-bread.md) — ~$0.75/serving
 - [Peanut Butter Cookies](desserts/peanut-butter-cookies.md) — ~$0.50/serving
+- [Cookie Skillet](desserts/cookie-skillet.md) — ~$1.00/serving
+
+## Slow Cooker
+Set it before work. Eat when you get home. The Costco chuck roast was born for this.
+
+- [Beef Stew](slow-cooker/beef-stew.md) — ~$3.00/serving
+- [Chicken Tikka Masala](slow-cooker/chicken-tikka-masala.md) — ~$2.75/serving
+- [Mississippi Pot Roast](slow-cooker/mississippi-pot-roast.md) — ~$3.50/serving
+- [White Chicken Chili](slow-cooker/white-chicken-chili.md) — ~$2.25/serving
+
+## Snacks & Lunch
+For the gap between breakfast and dinner that somehow requires three separate eating events.
+
+- [Trail Mix](snacks/trail-mix.md) — ~$1.50/serving
+- [Pizza Bagels](snacks/pizza-bagels.md) — ~$1.00/serving
+- [Chicken Salad Croissants](snacks/chicken-salad-croissants.md) — ~$2.50/serving
+- [Granola Bars](snacks/granola-bars.md) — ~$0.50/serving
+
+## Drinks
+Because Costco sells fruit by the metric ton and you need to drink some of it.
+
+- [Berry Smoothie](drinks/berry-smoothie.md) — ~$1.50/serving
+- [Mango Lassi](drinks/mango-lassi.md) — ~$1.25/serving
+- [Cold Brew Concentrate](drinks/cold-brew-concentrate.md) — ~$0.50/serving
 
 ---
 
@@ -129,3 +164,4 @@ Because you bought 4.5 lbs of chocolate chips and now you need a plan.
 
 - **[Costco Groceries](../products/)** — Browse the raw ingredients these recipes use
 - **[Prepared Foods](../prepared/)** — What Costco sells ready-to-eat (food court, deli, bakery)
+- **[Guides](../guides/)** — Meal plans, freezer tips, cost index, and more

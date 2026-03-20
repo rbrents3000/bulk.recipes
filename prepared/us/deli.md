@@ -14,6 +14,8 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Chicken Pot Pie | $18.99 | ~4 lbs | Large family-sized pie, ready to bake |
 | Seasoned Chicken Wings | $17.99 | ~3 lbs | Various flavors — buffalo, teriyaki, garlic Parmesan |
 | Chicken Marsala | $16.99 | ~3 lbs | Chicken breast with mushroom marsala sauce |
+| Enchilada Bake | ~$15.99 | ~3 lbs | Rotisserie chicken enchiladas, ready to bake |
+| Flame-Seared Chipotle Chicken | ~$14.99 | ~2 lbs | Grilled chicken, great for fajitas or salads |
 
 ### Beef & Pork
 
@@ -26,6 +28,7 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Beef Short Ribs | $24.99 | ~3 lbs | Pre-seasoned, bone-in |
 | Pulled Pork | $14.99 | ~2.5 lbs | Smoked and shredded |
 | Shepherd's Pie | $15.99 | ~3 lbs | Ground beef with mashed potato topping |
+| Braised Beef with Mashed Potatoes | ~$18.99 | ~3 lbs | Split tray, microwave-ready |
 
 ### Seafood
 
@@ -53,6 +56,7 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Tikka Masala / Butter Chicken Kit | $16.99 | ~3 lbs | Indian-style chicken with sauce and basmati rice |
 | Spanakopita | $12.99 | 36 pieces | Spinach and feta in phyllo dough |
 | Spring Rolls / Egg Rolls | $11.99 | 20+ count | Ready to bake or fry |
+| Gyro Meal Kit | ~$20.00 | ~3 lbs (serves 6) | Gyro meat, pita, tzatziki, romaine, feta, tomato-cucumber salad |
 
 ### Salads
 
@@ -62,6 +66,7 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Quinoa Salad | $9.99 | ~2 lbs | Mediterranean-style with vegetables |
 | Mediterranean Pasta Salad | $9.99 | ~2 lbs | Rotini with vegetables and Italian dressing |
 | Chinese Chicken Salad | $9.99 | ~2 lbs | Cabbage-based with crispy wontons |
+| Mediterranean Orzo Pasta Salad | ~$9.99 | ~2 lbs | Salami, feta, vegetables, vinaigrette |
 
 ### Sandwiches & Wraps
 
@@ -104,3 +109,4 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Asian Cashew Chopped Salad | $9.99 | ~2 lbs | Cabbage, edamame, cashews, sesame dressing |
 | Chicken Noodle Soup Cup | $3.99 | Single serve | Grab-and-go from the hot case |
 | Beef Chili | $11.99 | ~2 lbs | Hearty ground beef chili |
+| Six-Layer Dip | ~$12.99 | ~2 lbs | Beans, guacamole, sour cream, salsa, cheese, olives |
