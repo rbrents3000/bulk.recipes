@@ -30,8 +30,12 @@ Costco's seafood section quietly punches way above its weight. The frozen stuff 
 | Sea Scallops | ~$29.99 | 2 lbs | Get a blazing hot pan, sear 90 seconds per side, thank us later |
 
 ## Recipes Using These
-- [Lemon Butter Salmon](../recipes/seafood/lemon-butter-salmon.md) — bright, buttery, done in 15 minutes
-- [Teriyaki Salmon Bowls](../recipes/seafood/teriyaki-salmon-bowls.md) — meal prep that you'll actually look forward to eating
-- [Baked Stuffed Salmon](../recipes/seafood/baked-stuffed-salmon.md) — dinner party showstopper, weeknight easy
-- [Shrimp Scampi Pasta](../recipes/seafood/shrimp-scampi-pasta.md) — garlic, wine, butter, shrimp — need we say more?
-- [Coconut Curry Shrimp](../recipes/seafood/coconut-curry-shrimp.md) — creamy, spicy, and on the table in 25 minutes
+- [Lemon Butter Salmon](../recipes/weeknight-dinners/lemon-butter-salmon.md) — bright, buttery, done in 15 minutes
+- [Teriyaki Salmon Bowls](../recipes/weeknight-dinners/teriyaki-salmon-bowls.md) — meal prep that you'll actually look forward to eating
+- [Baked Stuffed Salmon](../recipes/weeknight-dinners/baked-stuffed-salmon.md) — dinner party showstopper, weeknight easy
+- [Shrimp Scampi Pasta](../recipes/weeknight-dinners/shrimp-scampi-pasta.md) — garlic, wine, butter, shrimp — need we say more?
+- [Coconut Curry Shrimp](../recipes/weeknight-dinners/coconut-curry-shrimp.md) — creamy, spicy, and on the table in 25 minutes
+- [Miso Glazed Salmon](../recipes/weeknight-dinners/miso-glazed-salmon.md) — sweet-savory miso glaze, caramelized under the broiler
+- [Fish Tacos](../recipes/weeknight-dinners/fish-tacos.md) — crispy cod, crunchy slaw, lime crema, done
+- [Seared Scallops](../recipes/weeknight-dinners/seared-scallops.md) — screaming hot pan, 90 seconds per side, restaurant-quality
+- [Pad Thai](../recipes/weeknight-dinners/pad-thai.md) — shrimp, rice noodles, peanuts, tamarind — better than takeout

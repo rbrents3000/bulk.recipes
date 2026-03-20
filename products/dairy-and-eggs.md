@@ -37,9 +37,9 @@ Costco dairy is where bulk buying truly shines. Eggs by the 60-count, butter by 
 | Kirkland Whole Milk | ~$5.49 | 2 gallons | Two gallons at what most stores charge for one |
 
 ## Recipes Using These
-- [Egg Muffin Cups](../recipes/breakfast/egg-muffin-cups.md) — meal prep breakfast in a muffin tin
-- [Breakfast Casserole](../recipes/breakfast/breakfast-casserole.md) — eggs, cheese, and whatever else you've got
-- [Mac and Cheese](../recipes/pasta/mac-and-cheese.md) — sharp cheddar + butter + cream = the good stuff
+- [Egg Muffin Cups](../recipes/meal-prep/egg-muffin-cups.md) — meal prep breakfast in a muffin tin
+- [Breakfast Casserole](../recipes/feeding-a-crowd/breakfast-casserole.md) — eggs, cheese, and whatever else you've got
+- [Mac and Cheese](../recipes/feeding-a-crowd/mac-and-cheese.md) — sharp cheddar + butter + cream = the good stuff
 - [No-Bake Cheesecake](../recipes/desserts/no-bake-cheesecake.md) — four bricks of cream cheese finally meet their destiny
 - [Bacon-Wrapped Stuffed Jalapenos](../recipes/appetizers/bacon-wrapped-stuffed-jalapenos.md) — cream cheese + jalapenos + bacon = game day legend
-- [Ravioli Bake](../recipes/pasta/ravioli-bake.md) — dump, layer, cover in mozzarella, bake, done
+- [Ravioli Bake](../recipes/weeknight-dinners/ravioli-bake.md) — dump, layer, cover in mozzarella, bake, done

@@ -13,6 +13,8 @@ The "did that really just cost less than a dollar?" tier.
 | Recipe | Category | Cost/Serving | Servings |
 |--------|----------|-------------|----------|
 | [Churros](../recipes/costco-copycats/churros.md) | Costco Copycats | $0.42 | 12 |
+| [Cold Brew Concentrate](../recipes/drinks/cold-brew-concentrate.md) | Drinks | $0.50 | 8 |
+| [Granola Bars](../recipes/snacks/granola-bars.md) | Snacks | $0.50 | 16 |
 | [Peanut Butter Cookies](../recipes/desserts/peanut-butter-cookies.md) | Desserts | $0.50 | 24 |
 | [Egg Muffin Cups](../recipes/meal-prep/egg-muffin-cups.md) | Meal Prep | $0.75 | 12 |
 | [Banana Bread](../recipes/desserts/banana-bread.md) | Desserts | $0.75 | 10 |
@@ -28,12 +30,15 @@ The sweet spot. Real meals for pocket change.
 |--------|----------|-------------|----------|
 | [Bacon-Wrapped Stuffed Jalapenos](../recipes/appetizers/bacon-wrapped-stuffed-jalapenos.md) | Appetizers | $1.00 | 12 |
 | [Cookie Skillet](../recipes/desserts/cookie-skillet.md) | Desserts | $1.00 | 8 |
+| [Pizza Bagels](../recipes/snacks/pizza-bagels.md) | Snacks | $1.00 | 12 |
 | [Street Corn Dip](../recipes/appetizers/street-corn-dip.md) | Appetizers | $1.00 | 10 |
 | [Berry Protein Pancakes](../recipes/meal-prep/berry-protein-pancakes.md) | Meal Prep | $1.25 | 6 |
 | [Chocolate Lava Cakes](../recipes/desserts/chocolate-lava-cakes.md) | Desserts | $1.25 | 6 |
 | [Creamy Tomato Basil Soup](../recipes/soups/creamy-tomato-basil.md) | Soups | $1.25 | 6 |
 | [Overnight Oats](../recipes/meal-prep/overnight-oats.md) | Meal Prep | $1.25 | 5 |
+| [Mango Lassi](../recipes/drinks/mango-lassi.md) | Drinks | $1.25 | 4 |
 | [Spinach Artichoke Dip](../recipes/appetizers/spinach-artichoke-dip.md) | Appetizers | $1.25 | 12 |
+| [Berry Smoothie](../recipes/drinks/berry-smoothie.md) | Drinks | $1.50 | 4 |
 | [Soup Dumplings](../recipes/appetizers/soup-dumplings.md) | Appetizers | $1.50 | 6 |
 | [Berry Sundae](../recipes/costco-copycats/berry-sundae.md) | Costco Copycats | $1.50 | 6 |
 | [Breakfast Burritos](../recipes/meal-prep/breakfast-burritos.md) | Meal Prep | $1.50 | 12 |
@@ -43,6 +48,7 @@ The sweet spot. Real meals for pocket change.
 | [No-Bake Cheesecake](../recipes/desserts/no-bake-cheesecake.md) | Desserts | $1.50 | 12 |
 | [Trail Mix](../recipes/snacks/trail-mix.md) | Snacks | $1.50 | 12 |
 | [Vegetable Fried Rice](../recipes/weeknight-dinners/vegetable-fried-rice.md) | Weeknight Dinners | $1.50 | 4 |
+| [Chicken Noodle Soup](../recipes/soups/chicken-noodle-soup.md) | Soups | $1.75 | 8 |
 | [Chicken Quesadillas](../recipes/rotisserie-chicken/chicken-quesadillas.md) | Rotisserie Chicken | $1.75 | 6 |
 | [Berry Crumble](../recipes/desserts/berry-crumble.md) | Desserts | $1.75 | 8 |
 | [Mac and Cheese](../recipes/feeding-a-crowd/mac-and-cheese.md) | Feeding a Crowd | $1.75 | 10 |
@@ -78,6 +84,7 @@ The "this is a legitimately good dinner" tier.
 | [Bibigo Dumpling Stir-Fry](../recipes/weeknight-dinners/bibigo-dumpling-stir-fry.md) | Weeknight Dinners | $2.50 | 4 |
 | [Chicken Burrito Bowls](../recipes/meal-prep/chicken-burrito-bowls.md) | Meal Prep | $2.50 | 6 |
 | [Chicken Lettuce Wraps](../recipes/weeknight-dinners/chicken-lettuce-wraps.md) | Weeknight Dinners | $2.50 | 4 |
+| [Chicken Salad Croissants](../recipes/snacks/chicken-salad-croissants.md) | Snacks | $2.50 | 6 |
 | [Chickpea Pasta Marinara](../recipes/weeknight-dinners/chickpea-pasta-marinara.md) | Weeknight Dinners | $2.50 | 4 |
 | [Combo Calzone](../recipes/costco-copycats/combo-calzone.md) | Costco Copycats | $2.50 | 6 |
 | [One-Pot Lasagna](../recipes/weeknight-dinners/one-pot-lasagna.md) | Weeknight Dinners | $2.50 | 6 |
@@ -85,6 +92,7 @@ The "this is a legitimately good dinner" tier.
 | [Slow Cooker Pulled Pork](../recipes/feeding-a-crowd/slow-cooker-pulled-pork.md) | Feeding a Crowd | $2.50 | 12 |
 | [Southwest Chicken Salad](../recipes/salads/southwest-chicken-salad.md) | Salads | $2.50 | 4 |
 | [Honey Garlic Chicken Thighs](../recipes/weeknight-dinners/honey-garlic-chicken-thighs.md) | Weeknight Dinners | $2.50 | 6 |
+| [Sheet Pan Teriyaki Chicken](../recipes/weeknight-dinners/sheet-pan-teriyaki-chicken.md) | Weeknight Dinners | $2.50 | 6 |
 | [Baked Ziti](../recipes/feeding-a-crowd/baked-ziti.md) | Feeding a Crowd | $2.75 | 10 |
 | [BBQ Chicken Pizza](../recipes/rotisserie-chicken/bbq-chicken-pizza.md) | Rotisserie Chicken | $2.75 | 4 |
 | [Chicken Alfredo Pasta](../recipes/weeknight-dinners/chicken-alfredo-pasta.md) | Weeknight Dinners | $2.75 | 6 |
@@ -101,6 +109,7 @@ Weeknight dinners that feel like going out.
 | Recipe | Category | Cost/Serving | Servings |
 |--------|----------|-------------|----------|
 | [Beef Stew](../recipes/slow-cooker/beef-stew.md) | Slow Cooker | $3.00 | 8 |
+| [French Dip Sandwiches](../recipes/slow-cooker/french-dip-sandwiches.md) | Slow Cooker | $3.00 | 8 |
 | [Butter Chicken](../recipes/weeknight-dinners/butter-chicken.md) | Weeknight Dinners | $3.00 | 6 |
 | [Caprese Salad](../recipes/salads/caprese-salad.md) | Salads | $3.00 | 4 |
 | [Charcuterie Board](../recipes/appetizers/charcuterie-board.md) | Appetizers | $3.00 | 10 |
@@ -147,8 +156,8 @@ The "treat yourself" tier. Still cheaper than a restaurant.
 - **Cheapest recipe:** Churros at $0.42/serving — literally cheaper than gum
 - **Most expensive:** Baked Stuffed Salmon at $8.50/serving — still less than a sad airport salad
 - **Average cost per serving across all recipes:** ~$2.70
-- **Total recipes indexed:** 87
-- **Recipes under $2/serving:** 28
-- **Recipes under $3/serving:** 57
+- **Total recipes indexed:** 100
+- **Recipes under $2/serving:** 35
+- **Recipes under $3/serving:** 68
 
 The Costco food court combo (hot dog + soda) costs $1.50. If your homemade dinner beats that per serving, you're basically a financial genius.

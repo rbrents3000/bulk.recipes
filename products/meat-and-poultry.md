@@ -40,11 +40,16 @@ Costco's meat department is the real reason you drove past three other grocery s
 | Ground Turkey | ~$4.99/lb | Bulk pack | Leaner swap for ground beef in almost any recipe |
 
 ## Recipes Using These
-- [Birria Tacos](../recipes/beef/birria-tacos.md) — slow-braised, deeply spiced, consomme-dipped perfection
-- [Carnitas](../recipes/pork/carnitas.md) — that pork shoulder was born for this
-- [Garlic Butter Steak Bites](../recipes/beef/garlic-butter-steak-bites.md) — sirloin cubed, seared, and swimming in garlic butter
-- [Korean Short Ribs](../recipes/beef/korean-short-ribs.md) — flanken-cut ribs meet soy-pear marinade magic
-- [Honey Garlic Chicken Thighs](../recipes/chicken/honey-garlic-chicken-thighs.md) — sticky, sweet, impossibly easy
-- [Slow Cooker Pulled Pork](../recipes/pork/slow-cooker-pulled-pork.md) — set it, forget it, shred it, devour it
-- [Sheet Pan Sausage & Peppers](../recipes/pork/sheet-pan-sausage-peppers.md) — one pan, zero fuss, all flavor
-- [Dump-and-Go Chili](../recipes/beef/dump-and-go-chili.md) — ground beef + cans of stuff + time = dinner
+- [Birria Tacos](../recipes/weeknight-dinners/birria-tacos.md) — slow-braised, deeply spiced, consomme-dipped perfection
+- [Carnitas](../recipes/feeding-a-crowd/carnitas.md) — that pork shoulder was born for this
+- [Garlic Butter Steak Bites](../recipes/weeknight-dinners/garlic-butter-steak-bites.md) — sirloin cubed, seared, and swimming in garlic butter
+- [Korean Short Ribs](../recipes/weeknight-dinners/korean-short-ribs.md) — flanken-cut ribs meet soy-pear marinade magic
+- [Honey Garlic Chicken Thighs](../recipes/weeknight-dinners/honey-garlic-chicken-thighs.md) — sticky, sweet, impossibly easy
+- [Slow Cooker Pulled Pork](../recipes/feeding-a-crowd/slow-cooker-pulled-pork.md) — set it, forget it, shred it, devour it
+- [Sheet Pan Sausage & Peppers](../recipes/weeknight-dinners/sheet-pan-sausage-peppers.md) — one pan, zero fuss, all flavor
+- [Dump-and-Go Chili](../recipes/weeknight-dinners/dump-and-go-chili.md) — ground beef + cans of stuff + time = dinner
+- [Mississippi Pot Roast](../recipes/slow-cooker/mississippi-pot-roast.md) — five ingredients, zero effort, internet-famous for a reason
+- [Beef Stew](../recipes/slow-cooker/beef-stew.md) — chuck roast goes into the slow cooker, magic comes out
+- [Smoked Tri-Tip](../recipes/grilling/smoked-tri-tip.md) — salt, pepper, garlic, smoke — California BBQ at its finest
+- [Baby Back Ribs](../recipes/grilling/baby-back-ribs.md) — dry-rubbed and slow-cooked until they fall off the bone
+- [Sheet Pan Fajitas](../recipes/weeknight-dinners/sheet-pan-fajitas.md) — chicken thighs and peppers, one pan, 30 minutes

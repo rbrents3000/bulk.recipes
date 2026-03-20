@@ -4,7 +4,7 @@
 
 This is not what Costco sells ready-to-eat — that's in [prepared foods](../prepared/). These are recipes for when you get home with a cart full of bulk groceries and need to turn it all into actual dinners. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
 
-98 recipes. Cheapest is $0.42/serving (churros). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
+100 recipes. Cheapest is $0.42/serving (churros). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
 
 ---
 
@@ -60,6 +60,7 @@ For when you get home at 6:30 and someone is already asking what's for dinner.
 - [Sheet Pan Fajitas](weeknight-dinners/sheet-pan-fajitas.md) — ~$2.75/serving
 - [One-Pot Lasagna](weeknight-dinners/one-pot-lasagna.md) — ~$2.50/serving
 - [Chicken Parmesan](weeknight-dinners/chicken-parmesan.md) — ~$3.50/serving
+- [Sheet Pan Teriyaki Chicken](weeknight-dinners/sheet-pan-teriyaki-chicken.md) — ~$2.50/serving
 - [Shakshuka](weeknight-dinners/shakshuka.md) — ~$1.75/serving *(vegetarian)*
 - [Chickpea Pasta Marinara](weeknight-dinners/chickpea-pasta-marinara.md) — ~$2.50/serving *(vegetarian)*
 - [Vegetable Fried Rice](weeknight-dinners/vegetable-fried-rice.md) — ~$1.50/serving *(vegetarian)*
@@ -142,6 +143,7 @@ Set it before work. Eat when you get home. The Costco chuck roast was born for t
 - [Chicken Tikka Masala](slow-cooker/chicken-tikka-masala.md) — ~$2.75/serving
 - [Mississippi Pot Roast](slow-cooker/mississippi-pot-roast.md) — ~$3.50/serving
 - [White Chicken Chili](slow-cooker/white-chicken-chili.md) — ~$2.25/serving
+- [French Dip Sandwiches](slow-cooker/french-dip-sandwiches.md) — ~$3.00/serving
 
 ## Snacks & Lunch
 For the gap between breakfast and dinner that somehow requires three separate eating events.
