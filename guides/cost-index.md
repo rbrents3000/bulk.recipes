@@ -28,6 +28,7 @@ The sweet spot. Real meals for pocket change.
 
 | Recipe | Category | Cost/Serving | Servings |
 |--------|----------|-------------|----------|
+| [Costco Hot Dog](../recipes/costco-copycats/hot-dog.md) | Costco Copycats | $1.00 | 8 |
 | [Bacon-Wrapped Stuffed Jalapenos](../recipes/appetizers/bacon-wrapped-stuffed-jalapenos.md) | Appetizers | $1.00 | 12 |
 | [Cookie Skillet](../recipes/desserts/cookie-skillet.md) | Desserts | $1.00 | 8 |
 | [Pizza Bagels](../recipes/snacks/pizza-bagels.md) | Snacks | $1.00 | 12 |
@@ -37,9 +38,11 @@ The sweet spot. Real meals for pocket change.
 | [Creamy Tomato Basil Soup](../recipes/soups/creamy-tomato-basil.md) | Soups | $1.25 | 6 |
 | [Overnight Oats](../recipes/meal-prep/overnight-oats.md) | Meal Prep | $1.25 | 5 |
 | [Mango Lassi](../recipes/drinks/mango-lassi.md) | Drinks | $1.25 | 4 |
+| [Mango Smoothie](../recipes/costco-copycats/mango-smoothie.md) | Costco Copycats | $1.25 | 4 |
 | [Spinach Artichoke Dip](../recipes/appetizers/spinach-artichoke-dip.md) | Appetizers | $1.25 | 12 |
 | [Berry Smoothie](../recipes/drinks/berry-smoothie.md) | Drinks | $1.50 | 4 |
 | [Soup Dumplings](../recipes/appetizers/soup-dumplings.md) | Appetizers | $1.50 | 6 |
+| [Pepperoni Pizza](../recipes/costco-copycats/pepperoni-pizza.md) | Costco Copycats | $1.50 | 8 |
 | [Berry Sundae](../recipes/costco-copycats/berry-sundae.md) | Costco Copycats | $1.50 | 6 |
 | [Breakfast Burritos](../recipes/meal-prep/breakfast-burritos.md) | Meal Prep | $1.50 | 12 |
 | [Breakfast Casserole](../recipes/feeding-a-crowd/breakfast-casserole.md) | Feeding a Crowd | $1.50 | 12 |
@@ -68,6 +71,7 @@ The "this is a legitimately good dinner" tier.
 | [Chicken Tortilla Soup](../recipes/rotisserie-chicken/chicken-tortilla-soup.md) | Rotisserie Chicken | $2.00 | 8 |
 | [French Toast Casserole](../recipes/meal-prep/french-toast-casserole.md) | Meal Prep | $2.00 | 8 |
 | [Pizza Dough](../recipes/costco-copycats/pizza-dough.md) | Costco Copycats | $2.00 | 8 |
+| [Turkey & Provolone Sandwich](../recipes/costco-copycats/turkey-provolone-sandwich.md) | Costco Copycats | $2.00 | 6 |
 | [Quinoa Power Salad](../recipes/salads/quinoa-power-salad.md) | Salads | $2.00 | 6 |
 | [Sheet Pan Sausage & Peppers](../recipes/weeknight-dinners/sheet-pan-sausage-peppers.md) | Weeknight Dinners | $2.00 | 5 |
 | [Taco Pasta](../recipes/feeding-a-crowd/taco-pasta.md) | Feeding a Crowd | $2.00 | 10 |
@@ -156,8 +160,8 @@ The "treat yourself" tier. Still cheaper than a restaurant.
 - **Cheapest recipe:** Churros at $0.42/serving — literally cheaper than gum
 - **Most expensive:** Baked Stuffed Salmon at $8.50/serving — still less than a sad airport salad
 - **Average cost per serving across all recipes:** ~$2.70
-- **Total recipes indexed:** 100
-- **Recipes under $2/serving:** 35
-- **Recipes under $3/serving:** 68
+- **Total recipes indexed:** 104
+- **Recipes under $2/serving:** 39
+- **Recipes under $3/serving:** 72
 
 The Costco food court combo (hot dog + soda) costs $1.50. If your homemade dinner beats that per serving, you're basically a financial genius.

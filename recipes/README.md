@@ -4,7 +4,7 @@
 
 This is not what Costco sells ready-to-eat — that's in [prepared foods](../prepared/). These are recipes for when you get home with a cart full of bulk groceries and need to turn it all into actual dinners. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
 
-100 recipes. Cheapest is $0.42/serving (churros). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
+104 recipes. Cheapest is $0.42/serving (churros). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
 
 ---
 
@@ -29,6 +29,10 @@ Your best attempts at recreating what they make in the food court. Some come clo
 - [Berry Sundae](costco-copycats/berry-sundae.md) — ~$1.50/serving
 - [Costco-Style Pizza](costco-copycats/pizza-dough.md) — ~$2.00/serving
 - [Combo Calzone](costco-copycats/combo-calzone.md) — ~$2.50/serving
+- [Costco Hot Dog](costco-copycats/hot-dog.md) — ~$1.00/serving
+- [Pepperoni Pizza](costco-copycats/pepperoni-pizza.md) — ~$1.50/serving
+- [Turkey & Provolone Sandwich](costco-copycats/turkey-provolone-sandwich.md) — ~$2.00/serving
+- [Mango Smoothie](costco-copycats/mango-smoothie.md) — ~$1.25/serving
 
 ## Weeknight Dinners
 For when you get home at 6:30 and someone is already asking what's for dinner.

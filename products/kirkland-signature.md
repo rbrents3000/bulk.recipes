@@ -35,6 +35,23 @@ But it's not just about borrowed pedigree. Costco's quality standards are famous
 
 The result is a private label that doesn't feel like a private label. No corners cut, no "good enough for the price" compromises. Just solid products at prices that make the name brands feel a little embarrassed.
 
+## Recipes Using These
+
+Every recipe in this repo relies on at least a few Kirkland products. Here's a greatest-hits sampler:
+
+- [Chicken Fried Rice](../recipes/rotisserie-chicken/chicken-fried-rice.md) — jasmine rice + eggs + avocado oil, Kirkland trifecta
+- [Lemon Butter Salmon](../recipes/weeknight-dinners/lemon-butter-salmon.md) — frozen salmon + butter + olive oil, all Kirkland
+- [Shrimp Scampi Pasta](../recipes/weeknight-dinners/shrimp-scampi-pasta.md) — frozen shrimp + olive oil + butter doing incredible things
+- [Overnight Oats](../recipes/meal-prep/overnight-oats.md) — rolled oats + Greek yogurt + honey + frozen berries
+- [Pesto Chicken Pasta](../recipes/weeknight-dinners/pesto-chicken-pasta.md) — that Kirkland pesto jar was born for this recipe
+- [Chocolate Lava Cakes](../recipes/desserts/chocolate-lava-cakes.md) — chocolate chips + butter + eggs, all from one warehouse trip
+- [Acai Bowl](../recipes/costco-copycats/acai-bowl.md) — frozen acai packets + honey + frozen berries, breakfast for $3.50
+- [Chicken Enchiladas](../recipes/rotisserie-chicken/chicken-enchiladas.md) — rotisserie chicken + shredded cheese, the Costco dinner starter pack
+- [Egg Muffin Cups](../recipes/meal-prep/egg-muffin-cups.md) — cage-free eggs + bacon + cheese, 75 cents per meal prep serving
+- [Berry Crumble](../recipes/desserts/berry-crumble.md) — frozen berries + oats + butter + sugar, all the Kirkland essentials in one dessert
+
+**[Browse all 104 recipes →](../recipes/)**
+
 ## See Also
 
 Individual category pages for full product listings:

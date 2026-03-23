@@ -39,7 +39,7 @@ Highlights:
 
 ### [Recipes](recipes/)
 
-What you make at home with all that stuff. 100 homemade recipes built around Costco ingredients, each with a Costco shopping list and cost-per-serving breakdown.
+What you make at home with all that stuff. 104 homemade recipes built around Costco ingredients, each with a Costco shopping list and cost-per-serving breakdown.
 
 A few favorites:
 - [Birria Tacos](recipes/weeknight-dinners/birria-tacos.md) — slow-braised chuck roast, crispy dipped tacos — $3.50/serving
@@ -55,17 +55,20 @@ A few favorites:
 - [Gyro Bowls](recipes/weeknight-dinners/gyro-bowls.md) — Costco gyro kit deconstructed into rice bowls — $3.50/serving
 - [Granola Bars](recipes/snacks/granola-bars.md) — no-bake, Kirkland oats and peanut butter — $0.50/serving
 
-**[Browse all 100 recipes →](recipes/)**
+**[Browse all 104 recipes →](recipes/)**
 
 ### [Guides](guides/)
 
-The stuff you wish someone had told you before your first Costco run. Meal plans, freezer strategies, and a full cost index so you can find the cheapest dinner in the repo without scrolling through 100 recipes.
+The stuff you wish someone had told you before your first Costco run. Meal plans, freezer strategies, a full cost index, and a dietary guide so you can find exactly what fits your budget and your diet without scrolling through 104 recipes.
 
 [Meal Plans](guides/meal-plans.md) ·
 [One Chicken, Five Meals](guides/rotisserie-chicken.md) ·
 [Freezer Guide](guides/freezer-guide.md) ·
 [Cost Index](guides/cost-index.md) ·
-[Seasonal Guide](guides/seasonal.md)
+[Seasonal Guide](guides/seasonal.md) ·
+[Your First Trip](guides/first-trip.md) ·
+[Party Planning](guides/party-planning.md) ·
+[Dietary Index](guides/dietary.md)
 
 ---
 

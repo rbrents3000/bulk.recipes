@@ -44,3 +44,11 @@ Costco's produce section is a bit of a gamble — and that's part of the fun. Th
 - [Greek Chicken Meal Prep](../recipes/meal-prep/greek-chicken-meal-prep.md) — fresh veggies and herbs make these containers actually exciting
 - [Street Corn Dip](../recipes/appetizers/street-corn-dip.md) — limes and cilantro turn this into the appetizer everyone hovers over
 - [Butter Chicken](../recipes/weeknight-dinners/butter-chicken.md) — fresh garlic, onions, and tomatoes build a sauce worth writing home about
+- [Sheet Pan Fajitas](../recipes/weeknight-dinners/sheet-pan-fajitas.md) — bell peppers and onions, sliced and roasted until charred and sweet
+- [Birria Tacos](../recipes/weeknight-dinners/birria-tacos.md) — onions, cilantro, limes — the holy trinity of taco toppings
+- [Shakshuka](../recipes/weeknight-dinners/shakshuka.md) — tomatoes, garlic, and peppers simmered into a spiced bath for poached eggs
+- [Fish Tacos](../recipes/weeknight-dinners/fish-tacos.md) — cilantro and lime slaw makes these sing
+- [Bruschetta](../recipes/appetizers/bruschetta.md) — roma tomatoes, fresh basil, garlic — summer on toast
+- [Caprese Salad](../recipes/salads/caprese-salad.md) — tomatoes and basil doing the absolute least and absolutely nailing it
+- [Southwest Chicken Salad](../recipes/salads/southwest-chicken-salad.md) — avocado, cilantro, lime, and every pepper in the six-pack
+- [Gyro Bowls](../recipes/weeknight-dinners/gyro-bowls.md) — tomatoes, onions, and cucumber over rice with tzatziki

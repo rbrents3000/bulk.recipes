@@ -43,3 +43,8 @@ Costco dairy is where bulk buying truly shines. Eggs by the 60-count, butter by 
 - [No-Bake Cheesecake](../recipes/desserts/no-bake-cheesecake.md) — four bricks of cream cheese finally meet their destiny
 - [Bacon-Wrapped Stuffed Jalapenos](../recipes/appetizers/bacon-wrapped-stuffed-jalapenos.md) — cream cheese + jalapenos + bacon = game day legend
 - [Ravioli Bake](../recipes/weeknight-dinners/ravioli-bake.md) — dump, layer, cover in mozzarella, bake, done
+- [Shakshuka](../recipes/weeknight-dinners/shakshuka.md) — eggs poached in spiced tomato sauce, best enjoyed with crusty bread
+- [French Toast Casserole](../recipes/meal-prep/french-toast-casserole.md) — eggs, cream, butter, and Costco croissants soaked overnight
+- [Chicken Alfredo Pasta](../recipes/weeknight-dinners/chicken-alfredo-pasta.md) — butter, cream, and parm doing the Lord's work
+- [Mango Lassi](../recipes/drinks/mango-lassi.md) — Greek yogurt blended with frozen mango and a touch of cardamom
+- [Baked Ziti](../recipes/feeding-a-crowd/baked-ziti.md) — mozzarella blanketed over pasta and meat sauce

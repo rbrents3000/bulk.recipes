@@ -38,3 +38,8 @@ Here's the thing about Costco's frozen section — it's not where you go when yo
 - [Berry Sundae](../recipes/costco-copycats/berry-sundae.md) — three berry blend over vanilla ice cream, drizzled and done
 - [Chicken Pot Pie](../recipes/rotisserie-chicken/chicken-pot-pie.md) — mixed vegetables and broccoli make this a one-stop freezer pull
 - [Overnight Oats](../recipes/meal-prep/overnight-oats.md) — top with frozen berries that thaw overnight into jammy perfection
+- [Berry Smoothie](../recipes/drinks/berry-smoothie.md) — that three berry blend was literally made for blending
+- [Berry Protein Pancakes](../recipes/meal-prep/berry-protein-pancakes.md) — frozen berries fold right into the batter, no thawing needed
+- [Mango Smoothie](../recipes/costco-copycats/mango-smoothie.md) — frozen mango chunks whipped into tropical bliss
+- [Thai Green Curry](../recipes/weeknight-dinners/thai-green-curry.md) — stir-fry veggies go straight from freezer to curry pot
+- [Soup Dumplings](../recipes/appetizers/soup-dumplings.md) — when you want the dumpling experience but fancier

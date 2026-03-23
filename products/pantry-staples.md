@@ -70,3 +70,12 @@ This is the backbone of your kitchen. Costco's pantry section is where bulk buyi
 - [Chocolate Lava Cakes](../recipes/desserts/chocolate-lava-cakes.md) — those chocolate chips become molten, gooey centers
 - [Berry Crumble](../recipes/desserts/berry-crumble.md) — oats, sugar, flour, and butter doing what they do best
 - [Dump-and-Go Chili](../recipes/weeknight-dinners/dump-and-go-chili.md) — canned tomatoes, black beans, broth, and zero effort
+- [Cookie Skillet](../recipes/desserts/cookie-skillet.md) — that 4.5 lb bag of chocolate chips finally has a worthy nemesis
+- [Granola Bars](../recipes/snacks/granola-bars.md) — oats, honey, and chocolate chips pressed into portable perfection
+- [Chicken Noodle Soup](../recipes/soups/chicken-noodle-soup.md) — broth, pasta, and everything good about being alive
+- [Beef Stew](../recipes/slow-cooker/beef-stew.md) — broth and canned tomatoes slow-cooked into something deeply comforting
+- [White Chicken Chili](../recipes/slow-cooker/white-chicken-chili.md) — chicken broth and beans, creamy and warming
+- [Baked Ziti](../recipes/feeding-a-crowd/baked-ziti.md) — eight pounds of pasta was made for feeding a crowd
+- [One-Pot Lasagna](../recipes/weeknight-dinners/one-pot-lasagna.md) — pasta, tomato sauce, and cheese, no layering required
+- [Taco Pasta](../recipes/feeding-a-crowd/taco-pasta.md) — pasta meets taco night in a carb-on-carb situation nobody regrets
+- [Shakshuka](../recipes/weeknight-dinners/shakshuka.md) — canned tomatoes, a skillet, and some eggs — the ultimate pantry dinner

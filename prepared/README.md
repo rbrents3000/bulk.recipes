@@ -11,22 +11,22 @@ Costco doesn't just sell groceries. They run massive kitchens in every warehouse
 ### North America
 - **[United States](us/)** — [Food Court](us/food-court.md) · [Deli](us/deli.md) · [Bakery](us/bakery.md)
 - **[Canada](canada/)** — [Food Court](canada/food-court.md) · [Deli](canada/deli.md) · [Bakery](canada/bakery.md)
-- **[Mexico](mexico/)** — [Food Court](mexico/food-court.md) · [Deli](mexico/deli.md)
+- **[Mexico](mexico/)** — [Food Court](mexico/food-court.md) · [Deli](mexico/deli.md) · [Bakery](mexico/bakery.md)
 
 ### Asia-Pacific
 - **[Japan](japan/)** — [Food Court](japan/food-court.md) · [Deli](japan/deli.md) · [Bakery](japan/bakery.md)
 - **[South Korea](korea/)** — [Food Court](korea/food-court.md) · [Deli](korea/deli.md) · [Bakery](korea/bakery.md)
-- **[Taiwan](taiwan/)** — [Food Court](taiwan/food-court.md) · [Deli](taiwan/deli.md)
-- **[China](china/)** — [Food Court](china/food-court.md) · [Deli](china/deli.md)
-- **[Australia](australia/)** — [Food Court](australia/food-court.md) · [Deli](australia/deli.md)
-- **[New Zealand](new-zealand/)** — [Food Court](new-zealand/food-court.md)
+- **[Taiwan](taiwan/)** — [Food Court](taiwan/food-court.md) · [Deli](taiwan/deli.md) · [Bakery](taiwan/bakery.md)
+- **[China](china/)** — [Food Court](china/food-court.md) · [Deli](china/deli.md) · [Bakery](china/bakery.md)
+- **[Australia](australia/)** — [Food Court](australia/food-court.md) · [Deli](australia/deli.md) · [Bakery](australia/bakery.md)
+- **[New Zealand](new-zealand/)** — [Food Court](new-zealand/food-court.md) · [Deli](new-zealand/deli.md)
 
 ### Europe
-- **[United Kingdom](uk/)** — [Food Court](uk/food-court.md) · [Deli](uk/deli.md)
-- **[France](france/)** — [Food Court](france/food-court.md) · [Deli](france/deli.md)
-- **[Spain](spain/)** — [Food Court](spain/food-court.md) · [Deli](spain/deli.md)
-- **[Sweden](sweden/)** — [Food Court](sweden/food-court.md)
-- **[Iceland](iceland/)** — [Food Court](iceland/food-court.md)
+- **[United Kingdom](uk/)** — [Food Court](uk/food-court.md) · [Deli](uk/deli.md) · [Bakery](uk/bakery.md)
+- **[France](france/)** — [Food Court](france/food-court.md) · [Deli](france/deli.md) · [Bakery](france/bakery.md)
+- **[Spain](spain/)** — [Food Court](spain/food-court.md) · [Deli](spain/deli.md) · [Bakery](spain/bakery.md)
+- **[Sweden](sweden/)** — [Food Court](sweden/food-court.md) · [Deli](sweden/deli.md)
+- **[Iceland](iceland/)** — [Food Court](iceland/food-court.md) · [Deli](iceland/deli.md)
 
 ## Warehouse Count by Country
 
