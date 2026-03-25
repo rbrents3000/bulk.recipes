@@ -1,6 +1,6 @@
 # Dietary Index
 
-> Because "what can I actually eat?" shouldn't require reading 104 recipe files.
+> Because "what can I actually eat?" shouldn't require reading 115 recipe files.
 
 Whether you're vegetarian, gluten-free, dairy-free, or just trying to figure out what to cook for that one friend with "a few dietary things," this page has you covered. Every recipe, tagged and sorted, so you can stop guessing.
 
@@ -8,11 +8,11 @@ Whether you're vegetarian, gluten-free, dairy-free, or just trying to figure out
 
 ## Quick Stats
 
-Out of **104 total recipes:**
+Out of **115 total recipes:**
 
-- **31 Vegetarian** — no meat, no fish, no problem
-- **32 Gluten-Free** — naturally, or close enough with easy swaps
-- **25 Dairy-Free** — no cheese was harmed in the making of these meals
+- **38 Vegetarian** — no meat, no fish, no problem
+- **38 Gluten-Free** — naturally, or close enough with easy swaps
+- **31 Dairy-Free** — no cheese was harmed in the making of these meals
 
 ---
 
@@ -78,10 +78,16 @@ Out of **104 total recipes:**
 | [Asian Sesame Noodle Salad](../recipes/salads/asian-sesame-noodle-salad.md) | Salads | $2.25 | | | |
 | [Caprese Salad](../recipes/salads/caprese-salad.md) | Salads | $3.00 | ✓ | ✓ | |
 | [Southwest Chicken Salad](../recipes/salads/southwest-chicken-salad.md) | Salads | $2.50 | | ✓ | |
+| [Broccoli Crunch Salad](../recipes/salads/broccoli-crunch-salad.md) | Salads | $1.50 | | | ✓ |
+| [Caesar Salad](../recipes/salads/caesar-salad.md) | Salads | $1.75 | ✓ | | |
+| [Greek Salad](../recipes/salads/greek-salad.md) | Salads | $2.00 | ✓ | ✓ | |
 | [Baby Back Ribs](../recipes/grilling/baby-back-ribs.md) | Grilling | $4.50 | | ✓ | ✓ |
 | [Steak Kabobs](../recipes/grilling/steak-kabobs.md) | Grilling | $5.00 | | ✓ | ✓ |
 | [BBQ Chicken Sandwiches](../recipes/grilling/bbq-chicken-sandwiches.md) | Grilling | $2.50 | | | ✓ |
 | [Smoked Tri-Tip](../recipes/grilling/smoked-tri-tip.md) | Grilling | $5.00 | | ✓ | ✓ |
+| [Grilled Salmon](../recipes/grilling/grilled-salmon.md) | Grilling | $5.50 | | ✓ | |
+| [Classic Smash Burgers](../recipes/grilling/burgers.md) | Grilling | $2.50 | | | ✓ |
+| [Grilled Chicken Thighs](../recipes/grilling/grilled-chicken-thighs.md) | Grilling | $2.00 | | ✓ | ✓ |
 | [Breakfast Croissant Sandwiches](../recipes/meal-prep/breakfast-croissant-sandwiches.md) | Meal Prep | $2.33 | | | |
 | [Chicken Burrito Bowls](../recipes/meal-prep/chicken-burrito-bowls.md) | Meal Prep | $2.50 | | ✓ | |
 | [Egg Muffin Cups](../recipes/meal-prep/egg-muffin-cups.md) | Meal Prep | $0.75 | ✓ | | |
@@ -121,9 +127,14 @@ Out of **104 total recipes:**
 | [Pizza Bagels](../recipes/snacks/pizza-bagels.md) | Snacks | $1.00 | | | |
 | [Chicken Salad Croissants](../recipes/snacks/chicken-salad-croissants.md) | Snacks | $2.50 | | | |
 | [Granola Bars](../recipes/snacks/granola-bars.md) | Snacks | $0.50 | ✓ | | ✓ |
+| [Hummus & Veggie Cups](../recipes/snacks/hummus-and-veggies.md) | Snacks | $1.00 | ✓ | ✓ | ✓ |
+| [Buffalo Chicken Wraps](../recipes/snacks/buffalo-chicken-wraps.md) | Snacks | $2.00 | | | |
 | [Berry Smoothie](../recipes/drinks/berry-smoothie.md) | Drinks | $1.50 | ✓ | ✓ | ✓ |
 | [Mango Lassi](../recipes/drinks/mango-lassi.md) | Drinks | $1.25 | ✓ | ✓ | |
 | [Cold Brew Concentrate](../recipes/drinks/cold-brew-concentrate.md) | Drinks | $0.50 | ✓ | ✓ | ✓ |
+| [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) | Drinks | $0.40 | ✓ | ✓ | ✓ |
+| [Iced Chai Latte](../recipes/drinks/iced-chai-latte.md) | Drinks | $0.75 | ✓ | ✓ | |
+| [Agua Fresca](../recipes/drinks/agua-fresca.md) | Drinks | $0.50 | ✓ | ✓ | ✓ |
 
 ---
 

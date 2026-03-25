@@ -14,6 +14,7 @@ Beyond recipes and product listings, these guides help you plan, save, and waste
 | [Your First Costco Trip](first-trip.md) | Membership tiers, what to buy first, pro tips for newbies |
 | [Party Planning](party-planning.md) | How to feed 10, 25, or 50 people without losing your mind |
 | [Dietary Index](dietary.md) | Which recipes are vegetarian, gluten-free, or dairy-free |
+| [Holiday & Event Collections](holidays.md) | Thanksgiving, Super Bowl, Summer BBQ, Holiday Baking, Back to School |
 
 ## See Also
 - **[Costco Groceries](../products/)** — Raw ingredients

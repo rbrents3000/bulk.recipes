@@ -118,3 +118,4 @@ Don't try to do everything day-of. Spread the work across the week and you'll ac
 - [Weekly Meal Plans](meal-plans.md) — For when the party's over and it's back to real life
 - [Cost Index](cost-index.md) — Know exactly what each dish costs per serving
 - [Freezer Guide](freezer-guide.md) — How to handle party leftovers like a pro
+- [Holiday & Event Collections](holidays.md) — Thanksgiving, Super Bowl, Summer BBQ, and more

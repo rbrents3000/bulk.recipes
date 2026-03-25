@@ -4,7 +4,7 @@
 
 This is not what Costco sells ready-to-eat — that's in [prepared foods](../prepared/). These are recipes for when you get home with a cart full of bulk groceries and need to turn it all into actual dinners. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
 
-104 recipes. Cheapest is $0.42/serving (churros). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
+115 recipes. Cheapest is $0.40/serving (lemonade). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
 
 ---
 
@@ -85,6 +85,9 @@ For when you realize you should probably eat a vegetable.
 - [Asian Sesame Noodle Salad](salads/asian-sesame-noodle-salad.md) — ~$2.25/serving
 - [Caprese Salad](salads/caprese-salad.md) — ~$3.00/serving
 - [Southwest Chicken Salad](salads/southwest-chicken-salad.md) — ~$2.50/serving
+- [Broccoli Crunch Salad](salads/broccoli-crunch-salad.md) — ~$1.50/serving
+- [Caesar Salad](salads/caesar-salad.md) — ~$1.75/serving
+- [Greek Salad](salads/greek-salad.md) — ~$2.00/serving
 
 ## Grilling
 Fire up the grill. Or the broiler. We don't judge.
@@ -93,6 +96,9 @@ Fire up the grill. Or the broiler. We don't judge.
 - [Steak Kabobs](grilling/steak-kabobs.md) — ~$5.00/serving
 - [BBQ Chicken Sandwiches](grilling/bbq-chicken-sandwiches.md) — ~$2.50/serving
 - [Smoked Tri-Tip](grilling/smoked-tri-tip.md) — ~$5.00/serving
+- [Grilled Salmon](grilling/grilled-salmon.md) — ~$5.50/serving
+- [Classic Smash Burgers](grilling/burgers.md) — ~$2.50/serving
+- [Grilled Chicken Thighs](grilling/grilled-chicken-thighs.md) — ~$2.00/serving
 
 ## Meal Prep
 Sunday cooking so weekday-you doesn't have to think.
@@ -156,6 +162,8 @@ For the gap between breakfast and dinner that somehow requires three separate ea
 - [Pizza Bagels](snacks/pizza-bagels.md) — ~$1.00/serving
 - [Chicken Salad Croissants](snacks/chicken-salad-croissants.md) — ~$2.50/serving
 - [Granola Bars](snacks/granola-bars.md) — ~$0.50/serving
+- [Hummus & Veggie Cups](snacks/hummus-and-veggies.md) — ~$1.00/serving
+- [Buffalo Chicken Wraps](snacks/buffalo-chicken-wraps.md) — ~$2.00/serving
 
 ## Drinks
 Because Costco sells fruit by the metric ton and you need to drink some of it.
@@ -163,6 +171,9 @@ Because Costco sells fruit by the metric ton and you need to drink some of it.
 - [Berry Smoothie](drinks/berry-smoothie.md) — ~$1.50/serving
 - [Mango Lassi](drinks/mango-lassi.md) — ~$1.25/serving
 - [Cold Brew Concentrate](drinks/cold-brew-concentrate.md) — ~$0.50/serving
+- [Lemonade Concentrate](drinks/lemonade-concentrate.md) — ~$0.40/serving
+- [Iced Chai Latte](drinks/iced-chai-latte.md) — ~$0.75/serving
+- [Agua Fresca](drinks/agua-fresca.md) — ~$0.50/serving
 
 ---
 
