@@ -110,3 +110,18 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Chicken Noodle Soup Cup | $3.99 | Single serve | Grab-and-go from the hot case |
 | Beef Chili | $11.99 | ~2 lbs | Hearty ground beef chili |
 | Six-Layer Dip | ~$12.99 | ~2 lbs | Beans, guacamole, sour cream, salsa, cheese, olives |
+
+## Seasonal Deli Highlights
+
+The deli rotates items with the seasons. Here's what to watch for:
+
+| Season | Item | Notes |
+|--------|------|-------|
+| Summer | Seasoned Pork Back Ribs | Pre-seasoned, BBQ-ready — they know you're grilling |
+| Summer | Seasoned St. Louis Ribs | Bigger cut, same summer energy |
+| Fall/Winter | Chicken Pot Pie (large) | Returns to the hot case when it gets cold |
+| Thanksgiving/Christmas | Standing Rib Roast (bone-in) | USDA Choice, pre-seasoned — order ahead, appears ~2 weeks before each holiday |
+| Easter | Spiral Sliced Ham | Hickory-smoked, fully cooked, includes glaze packet |
+| Spring | Rotisserie Chicken Enchilada Bake | Returning fan-favorite — rotisserie chicken, black beans, cheddar, rice (~$23-26/tray) |
+
+> **Tip:** The standing rib roast sells out fast. Ask the meat department if your store takes pre-orders — some do, some don't.

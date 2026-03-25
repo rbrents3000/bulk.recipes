@@ -34,3 +34,20 @@ Easter in Australia happens in autumn, which means you're eating hot cross buns 
 | Fruit Mince Pies | ~$12.99 AUD (12-pack) | Technically Christmas but Costco Australia sometimes extends them into autumn |
 
 Australians complain every single year that hot cross buns appear earlier and earlier — and then immediately buy them. It's a national tradition in its own right. The buns show up in January, everyone says "this is ridiculous," and then the 12-packs fly off the shelves anyway. We love a good contradiction.
+
+### Summer/Christmas Seasonal (Dec-Feb)
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Christmas Pudding | ~$16.99 AUD (~$11.05) | Traditional, dense, fruited — served warm with custard |
+| Pav Decorating Kit | ~$19.99 AUD (~$13.00) | Meringue base + cream + fruit — assemble your own pavlova |
+| Strawberry-topped Cheesecake | ~$18.99 AUD (~$12.35) | Fresh summer strawberries on cheesecake — peak December vibes |
+
+### Winter Seasonal (June-Aug)
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Chunky Meat Pies (6-pack) | ~$14.99 AUD (~$9.75) | The bakery leans into pies when it's cold — as it should |
+| Apple Crumble Cake | ~$14.99 AUD (~$9.75) | Warm spices, crumbly topping — winter comfort |
+
+Australian winter is comfort food season. Expect more pies, stews in the deli, and dense cakes in the bakery.

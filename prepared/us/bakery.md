@@ -93,3 +93,43 @@ The bakery goes hard in spring. These items are on shelves now:
 | Cranberry Orange Bisconie | ~$6.99 | Kirkland invention — half scone, half biscotti, entirely addictive |
 
 > The Costco bakery digital ordering rollout (via the app) is expected through 2026, replacing the old paper order forms. Custom cakes may be orderable from your couch soon.
+
+### Summer (June-Aug)
+
+Berry season. The bakery leans into fruit and keeps things light.
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Strawberry Shortcake Bar Cake | ~$18.99 | Layers of vanilla cake, whipped cream, and fresh strawberries — the summer showstopper |
+| Cherry Pie | ~$12.99 | Seasonal lattice-top, available June-August |
+| Peaches and Cream Bar Cake | ~$18.99 | Vanilla layers with peach jam and whipped cream |
+| Summer Cupcakes | ~$8.99 (12-pack) | Rotating flavors with seasonal frosting colors |
+
+### Fall (Sept-Nov)
+
+Pumpkin everything. The bakery's final form.
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Pumpkin Streusel Muffins | ~$8.99 (12-pack) | Massive, spiced, with a crumble topping that makes you forget about other muffins |
+| Pumpkin Cheesecake | ~$16.99 | Pumpkin-spiced layer on a New York cheesecake base |
+| Caramel Apple Strudel Bites | $8.99 (12-pack) | Flaky pastry, apple filling, caramel drizzle — dangerously snackable |
+| Pumpkin Spice Bagels | $7.99 (12-pack) | Yes, Costco went there. They're actually good. |
+| Autumn Sugar Cookies | ~$8.99 (12-pack) | Leaf and pumpkin shapes with fall-colored sprinkles |
+
+> The $5.99 pumpkin pie (12", serves 12, nearly 4 lbs) appears in September and runs through Thanksgiving. It is widely considered the single best deal in the entire bakery. Do not overthink this. Just buy it.
+
+### Winter (Dec-Feb)
+
+Holiday baking season. The bakery goes all out.
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Holiday Cookie Tray | ~$24.99 (60-count) | Chocolate chunk, brown butter sugar, chocolate chip, double nut, candy gem — party essential |
+| Ginger Cookies | ~$9.99 | Soft, chewy, perfectly spiced |
+| Mini Gingerbread Cakes | ~$9.99 (6-pack) | Gingerbread cake with vanilla buttercream and a chocolate gingerbread man topper |
+| Chocolate Chunk Peppermint Loaf | ~$8.99 | Chocolate cake meets candy cane — seasonal only |
+| Vanilla Crème Brûlée Bar Cake | ~$16.99 | Custard layers with festive gold sugar topping |
+| Gingerbread Cookie Kit | $10.59 | Pre-baked pieces, no oven needed, just decorate — kids love it |
+
+> The Yule Log (listed above) is the other winter highlight. Chocolate mousse bûche de Noël, available December only, and it photographs beautifully.

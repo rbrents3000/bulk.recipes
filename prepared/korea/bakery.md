@@ -33,3 +33,26 @@ Korean strawberry season runs December through May, and it's basically a nationa
 |------|-----------|-------------|-------------|
 | Strawberry Tart | ~₩15,900 | ~$11.80 | Korean strawberries are legendary — this tart does them justice |
 | Strawberry Layer Cake | ~₩18,900 | ~$14.00 | Multi-layer sponge with fresh strawberries and cream |
+
+### Year-Round Trending Items
+
+These aren't strictly seasonal, but they rotate in and out of Korea's bakery depending on what Seoul is obsessing over this month. Korean bakery trends move fast — if something's hot on social media, Costco Korea will have a bulk version within weeks.
+
+| Item | Price (₩) | Price (~USD) | Description |
+|------|-----------|-------------|-------------|
+| Yakgwa (Korean honey cookies) | ~₩12,900 | ~$9.55 | Deep-fried wheat, honey, ginger, soju — currently a huge trend |
+| Salt Bread | ~₩8,900 | ~$6.60 | Butter-filled, crusty outside, soft inside — the Korean bakery obsession |
+| Croffles | ~₩9,900 | ~$7.35 | Croissant-waffle hybrid — crispy, flaky, served with cream or ice cream |
+| Mini Crodots (16-pack) | ~₩11,900 | ~$8.80 | Croissant-donut mashup — also available in Japan |
+
+> These prices are higher than the everyday versions listed above because the trending packs tend to be larger or premium editions. If you see the regular-priced versions, even better.
+
+### Winter Seasonal (Dec-Feb)
+
+Korean Christmas is more of a couples' holiday — think Valentine's Day with better desserts. The cakes sell accordingly: smaller, fancier, and marketed toward date night rather than family gatherings.
+
+| Item | Price (₩) | Price (~USD) | Description |
+|------|-----------|-------------|-------------|
+| Christmas Cake | ~₩24,900 | ~$18.45 | Costco Korea's take on the holiday cake tradition — cream and fruit |
+
+> Don't expect the same Christmas cake frenzy as Japan. But do expect it to sell out the week before Christmas — couples plan ahead.

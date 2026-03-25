@@ -36,6 +36,8 @@ These rotate by location and season:
 | Double Cheeseburger | ~$4.99 | Test market only — limited locations |
 | French Fries | ~$3.49 | Test market only — limited locations |
 | Roast Beef Sandwich | $4.99 | Regional |
+| Salted Caramel Brownie Sundae | $2.99 | Fall seasonal — brownie chunks, caramel, soft serve |
+| Caramel Churro Sundae | $2.99 | Winter seasonal — mini churro bites, salted caramel, soft serve |
 
 ## Retired Fan Favorites
 

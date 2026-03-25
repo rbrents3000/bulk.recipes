@@ -52,3 +52,28 @@ The UK takes Easter baking seriously — it's basically the baking equivalent of
 | Simnel Cake | ~£9.99 | Traditional fruit cake with marzipan — a proper Easter classic |
 
 Hot cross buns now appear earlier every year — they're practically a January item at this point. Costco has been spotted stocking them before Valentine's Day, which feels wrong but also delicious, so nobody's really complaining.
+
+### Summer Seasonal (June-Aug)
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Mini Victoria Sponge Cakes (6-pack) | ~£8.99 (~$11.40) | Cream and strawberry jam, powdered sugar — perfect summer party cakes |
+| Summer Fruit Tart | ~£12.99 (~$16.50) | Seasonal berries on custard — when British summer actually cooperates |
+
+### Fall Seasonal (Sept-Nov)
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Pumpkin Pie | ~£9.99 (~$12.70) | The American import that's quietly winning over Brits |
+| Autumn Sugar Cookies | ~£5.99 (~$7.60) | Leaf shapes with fall-colored icing |
+
+### Winter/Christmas Seasonal (Dec-Feb)
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Mince Pies (11-pack) | ~£7.99 (~$10.15) | Frangipane-topped, currants, sultanas, candied citrus — THE British Christmas item |
+| Mini Gingerbread Cakes | ~£8.99 (~$11.40) | Gingerbread cake with buttercream and gingerbread man topper |
+| Ginger Muffins | ~£7.99 (~$10.15) | Seasonal alongside the mince pies |
+| Holiday Cookie Tray | ~£14.99 (~$19.05) | 60-count variety pack — office party sorted |
+
+Mince pies are the UK Costco bakery's holiday superstar. They appear in November and are gone by Boxing Day.
