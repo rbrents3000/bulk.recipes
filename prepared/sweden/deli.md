@@ -23,4 +23,17 @@ Standard US deli items also available:
 - Chicken Wings
 - Mac and Cheese
 
-> **On the meatball question:** Costco's 30-pack meatball kit outsells most items in the deli case. Whether they're better than IKEA's is a matter of personal conviction, household allegiance, and how you feel about lingonberries.
+### Christmas Seasonal (December)
+
+The Swedish Christmas season — *jul* — is a serious affair, built around the *julbord* (Christmas table), a massive buffet spread that takes days to prepare from scratch. Costco leans into this hard, and the deli case in December is basically a julbord starter kit:
+
+- **Gravlax (extra holiday portions)** — The regular gravlax gets upsized for the season. Dill-cured salmon, sliced thin, essential for any self-respecting julbord. Costco's bulk format means you won't run out mid-party, which is the nightmare scenario.
+- **Julskinka (Christmas ham)** — Pre-cooked, glazed ham with mustard crust. The centerpiece of the Swedish Christmas table. Costco's version is large enough to anchor a proper julbord and still leave leftovers for Boxing Day sandwiches.
+- **Janssons frestelse (Jansson's Temptation)** — A creamy potato-and-anchovy gratin that sounds odd and tastes incredible. Pre-assembled, ready to bake. This dish is non-negotiable at a Swedish Christmas, and having a shortcut version is genuinely life-improving.
+- **Köttbullar (meatball) party pack** — The 30-pack meatball kit, but in a holiday-sized 50-pack for julbord service. With cream sauce on the side.
+- **Glögg supplies** — Swedish mulled wine kits with the spice blend (cinnamon, cardamom, cloves, ginger), plus blanched almonds and raisins for garnish. The non-alcoholic version is also available for the kids' table.
+- **Lussekatter (saffron buns)** — Golden, S-shaped saffron buns for Lucia Day (December 13). Lightly sweet, perfumed with saffron, studded with raisins. Lucia is one of Sweden's most beloved traditions, and lussekatter are as essential to the celebration as the candle crowns.
+- **Pepparkakor (ginger snaps)** — Thin, crispy ginger cookies in bulk tins. Technically available year-round, but consumption spikes dramatically in December.
+- **Prinskorv (small sausages)** — Tiny cocktail sausages that appear on every julbord. Simple, porky, and pan-fried until slightly crispy.
+
+> **On the meatball question:** Costco's 30-pack meatball kit outsells most items in the deli case. Whether they're better than IKEA's is a matter of personal conviction, household allegiance, and how you feel about lingonberries. At Christmas, the question becomes even more charged, because julbord meatballs are *sacred*.

@@ -23,4 +23,21 @@ Standard US deli items also available:
 - Chicken Wings
 - Mac and Cheese
 
-> **The numbers don't lie:** With one warehouse serving a nation of 380,000, Iceland almost certainly has the highest Costco-visits-per-capita rate in the world. On busy weekends, the Garðabær parking lot is basically a national gathering.
+### Christmas Seasonal (December)
+
+Icelandic Christmas (*jól*) is a deeply food-centric affair, blending Norse tradition with modern celebration. The deli case in December shifts to reflect this:
+
+- **Hangikjöt (smoked lamb)** — The star of the Icelandic Christmas table. Lamb smoked over birch wood (or dried sheep dung, traditionally — yes, really), thinly sliced and served cold on *laufabrauð* or warm with béchamel sauce and potatoes. Costco carries it pre-smoked and ready to slice, which saves you the trouble of building a smokehouse.
+- **Laufabrauð (leaf bread)** — Paper-thin, deep-fried flatbread with intricate carved geometric patterns. Traditionally made as a family activity in December, with everyone gathered around the kitchen table with sharp knives and templates. If Costco carries a pre-made version, it's a time-saver — though purists will insist on doing it themselves.
+- **Hamborgarhryggur (pork loin)** — Smoked pork loin, another Christmas essential. Sliced thin and served alongside the hangikjöt.
+- **Rjómabollur cream puffs** — Choux pastry filled with cream and topped with chocolate, popular during *bóndadagur* (Husband's Day) in late January but appearing in the deli case from December onward.
+
+### Þorrablót Seasonal (January–February)
+
+*Þorrablót* is Iceland's mid-winter festival, a celebration of old Norse food traditions that ranges from "delicious" to "genuinely challenging for outsiders." Costco dips a toe into this with:
+
+- **Harðfiskur** stays well-stocked — dried fish with butter is Þorrablót-friendly and accessible to everyone
+- Increased stock of Icelandic lamb products
+- Look for seasonal trays with traditional accompaniments — the deli won't carry *hákarl* (fermented shark), because some things shouldn't be sold in bulk, but the milder Þorrablót items make appearances
+
+> **The numbers don't lie:** With one warehouse serving a nation of 380,000, Iceland almost certainly has the highest Costco-visits-per-capita rate in the world. On busy weekends, the Garðabær parking lot is basically a national gathering. At Christmas, it's standing room only in the best possible way.
