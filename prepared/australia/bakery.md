@@ -22,3 +22,15 @@ We acknowledge that both Australia and New Zealand claim the pavlova. Costco sel
 ## Also Available
 
 Standard US bakery lineup is mostly here — muffins, cinnamon rolls, cakes, and the rest. But the meat pies and sausage rolls are why you came.
+
+### Easter Seasonal (March-April)
+
+Easter in Australia happens in autumn, which means you're eating hot cross buns in a light cardigan instead of a sundress. The vibes are different but the baked goods are just as good.
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Hot Cross Buns | ~$6.99 AUD (12-pack) | Easter tradition survives even in autumn — they appear as early as January |
+| Easter Decorated Cake | ~$18.99 AUD | Chocolate cake with pastel decorations |
+| Fruit Mince Pies | ~$12.99 AUD (12-pack) | Technically Christmas but Costco Australia sometimes extends them into autumn |
+
+Australians complain every single year that hot cross buns appear earlier and earlier — and then immediately buy them. It's a national tradition in its own right. The buns show up in January, everyone says "this is ridiculous," and then the 12-packs fly off the shelves anyway. We love a good contradiction.

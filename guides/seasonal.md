@@ -17,11 +17,27 @@ The produce section wakes up, the bakery gets fruity, and grilling season starts
 - **Easter candy and bakery items** — hot cross buns, lamb-shaped cakes, and enough Cadbury eggs to fill a bathtub.
 - **Patio furniture and grills** — not food, but this is when the selection is best. By summer, the good ones are gone.
 
+### Spring 2026 Bakery Highlights
+The bakery is going off right now. New and returning items on shelves:
+- **Twice-Baked Chocolate-Filled Croissants** ($9.99/6-pack) — crispy, flaky, molten center
+- **Peaches and Cream Pastries** (8-pack) — croissant exterior, peach filling, yogurt-cream cheese blend
+- **Lemon Custard Pie** ($18.99) — returning classic
+- **Strawberries and Cream Dessert** ($14.99) — fresh strawberries layered with cream
+- **Chocolate Hazelnut Crunch Cake** ($14.99) — basically a Ferrero Rocher in cake form
+- **Cranberry Orange Bisconie** — Kirkland's scone-biscotti hybrid invention
+
+The **Rotisserie Chicken Enchilada Bake** is back in the deli (~$23-26 per tray). Grab it before it rotates out again.
+
+Internationally: Japan's sakura (cherry blossom) bakery items are on shelves, UK and Australia have hot cross buns, and Korea's strawberry tarts are in full swing.
+
 ### Recipes to Make
 - [Bruschetta](../recipes/appetizers/bruschetta.md) — fresh tomatoes are starting to get good
 - [Caprese Salad](../recipes/salads/caprese-salad.md) — mozzarella + tomatoes + basil, peak simplicity
 - [Berry Crumble](../recipes/desserts/berry-crumble.md) — those strawberries need a purpose
 - [Quinoa Power Salad](../recipes/salads/quinoa-power-salad.md) — light, fresh, and full of spring energy
+- [Greek Salad](../recipes/salads/greek-salad.md) — spring vegetables at their crunchiest
+- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) — those 5 lb lemon bags are calling
+- [Grilled Chicken Thighs](../recipes/grilling/grilled-chicken-thighs.md) — first grilling weekend of the season
 
 ---
 
@@ -45,6 +61,10 @@ Peak Costco season. The produce section is overflowing, the meat department is s
 - [Southwest Chicken Salad](../recipes/salads/southwest-chicken-salad.md) — too hot to cook, perfect for summer
 - [Cookie Skillet](../recipes/desserts/cookie-skillet.md) — topped with that Kirkland vanilla ice cream
 - [Street Corn Dip](../recipes/appetizers/street-corn-dip.md) — peak corn means peak dip
+- [Classic Smash Burgers](../recipes/grilling/burgers.md) — the obvious summer essential
+- [Grilled Salmon](../recipes/grilling/grilled-salmon.md) — seafood on the grill for when you're feeling fancy
+- [Agua Fresca](../recipes/drinks/agua-fresca.md) — watermelon + lime + ice, the ultimate summer drink
+- [Broccoli Crunch Salad](../recipes/salads/broccoli-crunch-salad.md) — the BBQ side salad everyone goes back for
 
 ---
 

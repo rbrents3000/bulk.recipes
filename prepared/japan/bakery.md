@@ -21,3 +21,14 @@ Also carries most US bakery items:
 - Cinnamon Rolls
 - Various cakes (chocolate, cheesecake)
 - Baguettes
+
+### Spring Seasonal (March-May)
+
+Sakura season turns every Costco Japan bakery into a pink wonderland. From mid-March through early May, the bakery case gets a full cherry blossom makeover — and these items typically sell out within hours of being stocked. If you see them, grab them. Hesitation is not your friend here.
+
+| Item | Price (¥) | Price (~USD) | Description |
+|------|-----------|-------------|-------------|
+| Sakura Roll Cake | ~¥1,580 | ~$10.50 | Pink sponge roll with whipped cream, cherry blossom themed — Instagram gold |
+| Strawberry Tart | ~¥1,280 | ~$8.50 | Japan's strawberry season peaks in spring — these sell out fast |
+| Sakura Chiffon Cake | ~¥1,380 | ~$9.20 | Light, airy, subtly cherry blossom flavored |
+| Strawberry Tiramisu | ~¥1,480 | ~$9.85 | Mascarpone cream with fresh Japanese strawberries |

@@ -77,3 +77,19 @@ Everything is baked in-store daily. The quantities are huge and the prices are r
 | Heart-Shaped Cake | Valentine's Day (Feb) | Red velvet or chocolate |
 | Mini Cheesecakes | Various | Assorted toppings |
 | Braided Apple Strudel | Fall | Flaky pastry with apple filling |
+
+### Spring 2026
+
+The bakery goes hard in spring. These items are on shelves now:
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Twice-Baked Chocolate-Filled Croissants | $9.99 (6-pack) | Crispy, flaky, molten chocolate center — a fan-favorite return |
+| Peaches and Cream Pastries | ~$9.99 (8-pack) | Croissant exterior, peach filling, Greek yogurt-cream cheese blend, apricot glaze |
+| Lemon Custard Pie | $18.99 | Returning spring classic — baked lemon custard, whipped topping, flaky crust |
+| Strawberries and Cream Dessert | $14.99 | Fresh strawberries layered with cream — screams "it's finally warm out" |
+| Chocolate Hazelnut Crunch Cake | $14.99 | Creamy hazelnut filling with crunchy topping — think Ferrero Rocher in cake form |
+| Raspberry Filled Sugar Cookies | ~$9.99 (15-pack) | Sugar cookies with raspberry filling, dusted with powdered sugar |
+| Cranberry Orange Bisconie | ~$6.99 | Kirkland invention — half scone, half biscotti, entirely addictive |
+
+> The Costco bakery digital ordering rollout (via the app) is expected through 2026, replacing the old paper order forms. Custom cakes may be orderable from your couch soon.

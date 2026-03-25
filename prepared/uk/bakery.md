@@ -39,3 +39,16 @@ Also carries most US bakery staples:
 The scones are a frequent and passionate topic of debate among Costco UK members. Cream first, then jam (the Cornish way)? Or jam first, then cream (the Devon way)? We're not weighing in. We just know you'll need clotted cream either way, and Costco sells that too.
 
 Freezer tip: scones, croissants, and hot cross buns all freeze well. Defrost overnight and warm in the oven for a few minutes. The shortbread keeps for ages in a tin, but realistically it won't last that long.
+
+### Easter Seasonal
+
+The UK takes Easter baking seriously — it's basically the baking equivalent of the Super Bowl, except with more marzipan and fewer commercials.
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Hot Cross Buns | ~£4.99 (12-pack) | Spiced, fruited, and absolutely essential from Good Friday onward |
+| Easter Decorated Cupcakes | ~£8.99 (12-pack) | Pastel frosting, sprinkles, bunny decorations — kids go feral |
+| Mini Egg Celebration Cake | ~£12.99 | Chocolate cake topped with Cadbury Mini Eggs — the crossover event of the year |
+| Simnel Cake | ~£9.99 | Traditional fruit cake with marzipan — a proper Easter classic |
+
+Hot cross buns now appear earlier every year — they're practically a January item at this point. Costco has been spotted stocking them before Valentine's Day, which feels wrong but also delicious, so nobody's really complaining.

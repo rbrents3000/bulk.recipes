@@ -24,3 +24,12 @@ Also carries most US bakery staples:
 - Cinnamon Rolls
 - Various cakes and pies
 - Baguettes
+
+### Spring Seasonal (March-May)
+
+Korean strawberry season runs December through May, and it's basically a national obsession. Costco Korea leans into it hard — the bakery case turns into a strawberry shrine every spring. These are worth a special trip.
+
+| Item | Price (₩) | Price (~USD) | Description |
+|------|-----------|-------------|-------------|
+| Strawberry Tart | ~₩15,900 | ~$11.80 | Korean strawberries are legendary — this tart does them justice |
+| Strawberry Layer Cake | ~₩18,900 | ~$14.00 | Multi-layer sponge with fresh strawberries and cream |
