@@ -106,7 +106,7 @@ Out of **181 total recipes:**
 | [Chicken Alfredo Pasta](../recipes/weeknight-dinners/chicken-alfredo-pasta.md) | Weeknight Dinners | $2.75 | | | |
 | [Teriyaki Salmon Bowls](../recipes/weeknight-dinners/teriyaki-salmon-bowls.md) | Weeknight Dinners | $5.00 | | | ✓ |
 | [Ravioli Bake](../recipes/weeknight-dinners/ravioli-bake.md) | Weeknight Dinners | $3.00 | | | |
-| [Korean Short Ribs](../recipes/weeknight-dinners/korean-short-ribs.md) | Weeknight Dinners | $6.00 | | | |
+| [Korean Short Ribs](../recipes/weeknight-dinners/korean-short-ribs.md) | Weeknight Dinners | $13.00 | | | |
 | [Honey Garlic Chicken Thighs](../recipes/weeknight-dinners/honey-garlic-chicken-thighs.md) | Weeknight Dinners | $2.50 | | | |
 | [Birria Tacos](../recipes/weeknight-dinners/birria-tacos.md) | Weeknight Dinners | $3.50 | | ✓ | ✓ |
 | [Butter Chicken](../recipes/weeknight-dinners/butter-chicken.md) | Weeknight Dinners | $3.00 | | ✓ | |

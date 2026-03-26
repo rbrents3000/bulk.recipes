@@ -224,7 +224,7 @@ The "treat yourself" tier. Still cheaper than a restaurant.
 | [Grilled Salmon](../recipes/grilling/grilled-salmon.md) | Grilling | $5.50 | 4 |
 | [Salmon Milano](../recipes/costco-copycats/deli/salmon-milano.md) | Costco Copycats | $6.00 | 4 |
 | [Miso Glazed Salmon](../recipes/weeknight-dinners/miso-glazed-salmon.md) | Weeknight Dinners | $5.50 | 4 |
-| [Korean Short Ribs](../recipes/weeknight-dinners/korean-short-ribs.md) | Weeknight Dinners | $6.00 | 4 |
+| [Korean Short Ribs](../recipes/weeknight-dinners/korean-short-ribs.md) | Weeknight Dinners | $13.00 | 4 |
 | [Lemon Butter Salmon](../recipes/weeknight-dinners/lemon-butter-salmon.md) | Weeknight Dinners | $6.50 | 4 |
 | [Seared Scallops](../recipes/weeknight-dinners/seared-scallops.md) | Weeknight Dinners | $8.00 | 4 |
 | [Stuffed Salmon](../recipes/costco-copycats/deli/stuffed-salmon.md) | Costco Copycats | $7.00 | 4 |
