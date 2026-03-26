@@ -1,0 +1,61 @@
+---
+import { readFileSync, existsSync } from 'node:fs';
+import { join } from 'node:path';
+import { marked } from 'marked';
+import Base from '../../layouts/Base.astro';
+import CountryTabs from '../../components/CountryTabs';
+import { countries } from '../../data/countries';
+
+export function getStaticPaths() {
+  return countries.map(c => ({
+    params: { country: c.slug },
+    props: { country: c },
+  }));
+}
+
+const { country } = Astro.props;
+
+// Read and render markdown files
+const basePath = join(process.cwd(), '..', 'prepared', country.slug);
+
+function readAndRender(filename: string): string | null {
+  const filePath = join(basePath, filename);
+  if (!existsSync(filePath)) return null;
+  const md = readFileSync(filePath, 'utf-8');
+  return marked(md) as string;
+}
+
+const foodCourt = readAndRender('food-court.md') || '<p>No food court data available.</p>';
+const deli = readAndRender('deli.md') || '<p>No deli data available.</p>';
+const bakery = readAndRender('bakery.md');
+---
+
+<Base title={`${country.name} Costco — bulk.recipes`} description={`Costco ${country.name}: food court menu, deli items, and bakery offerings across ${country.warehouses} warehouses.`}>
+  <div class="py-8 max-w-5xl mx-auto">
+    <!-- Country Hero -->
+    <header class="text-center mb-12">
+      <div class="text-8xl mb-6">{country.emoji}</div>
+      <h1 class="text-4xl md:text-6xl font-headline font-extrabold tracking-tight mb-4">
+        Costco <span class="text-primary italic">{country.name}</span>
+      </h1>
+      <div class="flex justify-center gap-4 mb-4">
+        <span class="inline-flex items-center gap-2 px-4 py-2 bg-secondary-container text-on-secondary-container rounded-full text-sm font-bold">
+          <span class="material-symbols-outlined text-sm">warehouse</span>
+          {country.warehouses} Warehouses
+        </span>
+      </div>
+      <p class="text-lg text-on-surface-variant font-medium">{country.highlight}</p>
+    </header>
+
+    <!-- Tabs -->
+    <CountryTabs client:load foodCourt={foodCourt} deli={deli} bakery={bakery} />
+
+    <!-- Back link -->
+    <div class="text-center mt-12">
+      <a href="/prepared" class="inline-flex items-center gap-2 text-primary font-bold hover:underline">
+        <span class="material-symbols-outlined text-sm">arrow_back</span>
+        All Countries
+      </a>
+    </div>
+  </div>
+</Base>

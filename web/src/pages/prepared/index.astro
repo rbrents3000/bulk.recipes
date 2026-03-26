@@ -1,15 +1,36 @@
 ---
 import Base from '../../layouts/Base.astro';
+import { countries } from '../../data/countries';
 ---
 
-<Base title="Prepared Foods by Country — bulk.recipes">
-  <div class="flex flex-col items-center justify-center min-h-[40vh] text-center gap-6 py-16">
-    <h1 class="text-4xl md:text-5xl font-headline font-black tracking-tight">
-      Costco Around the World
-    </h1>
-    <p class="text-lg text-on-surface-variant font-body max-w-xl">
-      Food court, deli, and bakery menus from all 14 countries where Costco operates.
-    </p>
-    <p class="text-sm text-on-surface-variant">Coming soon. <a href="https://github.com/rbrents3000/bulk.recipes/tree/main/prepared" class="text-primary hover:underline">Browse on GitHub →</a></p>
+<Base title="Costco Around the World — bulk.recipes" description="Food court, deli, and bakery menus from all 14 countries where Costco operates.">
+  <div class="py-8">
+    <div class="text-center mb-12">
+      <h1 class="text-4xl md:text-6xl font-headline font-black tracking-tight mb-4">
+        Costco Around the <span class="text-primary">World</span>
+      </h1>
+      <p class="text-lg text-on-surface-variant font-body max-w-2xl mx-auto">
+        Food court, deli, and bakery menus from all 14 countries where Costco operates. Same warehouse energy, different flavors.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+      {countries.map(country => (
+        <a href={`/prepared/${country.slug}`} class="group block">
+          <div class="bg-surface-container-lowest rounded-xl p-6 shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300 text-center">
+            <div class="text-5xl mb-4">{country.emoji}</div>
+            <h2 class="font-headline font-bold text-xl mb-1 group-hover:text-primary transition-colors">
+              {country.name}
+            </h2>
+            <p class="text-sm text-on-surface-variant font-bold mb-3">
+              {country.warehouses} warehouses
+            </p>
+            <p class="text-xs text-on-surface-variant line-clamp-2">
+              {country.highlight}
+            </p>
+          </div>
+        </a>
+      ))}
+    </div>
   </div>
 </Base>
