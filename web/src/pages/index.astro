@@ -63,6 +63,18 @@ const newRecipes = recipes
 ---
 
 <Base title="bulk.recipes — Cook with Costco">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "bulk.recipes",
+    "url": "https://bulk.recipes",
+    "description": `The unofficial field guide to cooking with Costco groceries. ${recipes.length} recipes with Costco shopping lists and cost-per-serving breakdowns.`,
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://bulk.recipes/recipes?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  })} />
   <HeroSearch recipeCount={recipes.length} />
   <CountryPicker />
   <MonthlyPicks recipes={marchPicks} />
