@@ -1,32 +1,77 @@
 ---
-import { readFileSync } from 'node:fs';
-import { join } from 'node:path';
-import { marked } from 'marked';
 import Base from '../../layouts/Base.astro';
 
-const md = readFileSync(join(process.cwd(), '..', 'products', 'README.md'), 'utf-8');
-const rawHtml = marked(md) as string;
-const html = rawHtml
-  .replace(/href="([a-z-]+)\.md"/g, 'href="/products/$1"')
-  .replace(/href="\.\.\/prepared\/"/g, 'href="/prepared"')
-  .replace(/href="\.\.\/prepared\/([^"]+?)\.md"/g, 'href="/prepared/$1"')
-  .replace(/href="\.\.\/recipes\/"/g, 'href="/recipes"')
-  .replace(/href="\.\.\/recipes\/([^"]+?)\.md"/g, 'href="/recipes/$1"');
+const categories = [
+  { slug: 'meat-and-poultry', title: 'Meat & Poultry', description: 'Chicken breasts, ground beef, pork shoulder, bacon — the protein aisle', icon: 'restaurant' },
+  { slug: 'seafood', title: 'Seafood', description: 'Salmon, shrimp, cod, crab legs — fresh and frozen', icon: 'set_meal' },
+  { slug: 'dairy-and-eggs', title: 'Dairy & Eggs', description: 'Five dozen eggs, blocks of cheese, industrial butter', icon: 'egg' },
+  { slug: 'pantry-staples', title: 'Pantry Staples', description: 'Olive oil, rice, pasta, canned goods, flour, nuts', icon: 'kitchen' },
+  { slug: 'frozen', title: 'Frozen', description: 'Frozen veggies, fruit, dumplings — the freezer essentials', icon: 'ac_unit' },
+  { slug: 'produce', title: 'Produce', description: 'Avocados, berries, potatoes, garlic — the fresh stuff', icon: 'nutrition' },
+  { slug: 'kirkland-signature', title: 'Kirkland Signature Hits', description: "The greatest hits of Costco's house brand", icon: 'star' },
+];
+
+const bestBuys = [
+  { name: 'Rotisserie Chicken', price: '$4.99', why: 'The loss leader that launched a thousand recipes' },
+  { name: 'Kirkland Olive Oil', price: '~$13.99 / 2L', why: 'Wins blind taste tests against oils 3x the price' },
+  { name: 'Cage-Free Eggs', price: '~$7.99 / 5 doz', why: '$0.13 per egg — breakfast is basically free' },
+  { name: 'Kirkland Bacon', price: '~$16.99 / 4 lbs', why: 'Thick-cut, freezes beautifully, lasts months' },
+  { name: 'Three Berry Blend', price: '~$11.99 / 4 lbs', why: 'Smoothies, oatmeal, crumbles — the freezer MVP' },
+  { name: 'Parmigiano Reggiano', price: '~$16.99 / 2 lbs', why: 'Real PDO Italian parm at a fraction of specialty store price' },
+  { name: 'Chicken Thighs', price: '~$2.99/lb', why: 'More flavor than breasts, nearly impossible to overcook' },
+  { name: 'Jasmine Rice', price: '~$16.99 / 25 lbs', why: 'Roughly $0.04 per serving. Twenty-five pounds lasts months.' },
+];
 ---
 
 <Base title="Costco Groceries — bulk.recipes" description="The raw ingredients you buy at Costco — meat, seafood, dairy, pantry staples, frozen, produce, and Kirkland Signature hits.">
-  <article class="max-w-4xl mx-auto py-8 prose prose-lg max-w-none
-    prose-headings:font-headline prose-headings:tracking-tight
-    prose-h1:text-4xl prose-h1:font-black
-    prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10
-    prose-p:text-on-surface-variant prose-p:leading-relaxed
-    prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-    prose-table:text-sm
-    prose-th:text-left prose-th:font-bold prose-th:bg-surface-container-low prose-th:p-3
-    prose-td:p-3 prose-td:border-b prose-td:border-surface-container
-    prose-strong:text-on-surface
-    prose-li:text-on-surface-variant
-  ">
-    <Fragment set:html={html} />
-  </article>
+  <div class="py-8">
+    <div class="text-center mb-12">
+      <h1 class="text-4xl md:text-6xl font-headline font-black tracking-tight mb-4">
+        Costco <span class="text-primary">Groceries</span>
+      </h1>
+      <p class="text-lg text-on-surface-variant font-body max-w-2xl mx-auto">
+        The stuff in your cart that makes the cashier raise an eyebrow. Raw ingredients you haul home and turn into actual meals.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-16">
+      {categories.map(cat => (
+        <a href={`/products/${cat.slug}`} class="group block">
+          <div class="bg-surface-container-lowest rounded-xl p-6 shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300 h-full">
+            <span class="material-symbols-outlined text-3xl text-primary mb-4 block" aria-hidden="true">{cat.icon}</span>
+            <h2 class="font-headline font-bold text-lg mb-2 group-hover:text-primary transition-colors">
+              {cat.title}
+            </h2>
+            <p class="text-sm text-on-surface-variant leading-relaxed">
+              {cat.description}
+            </p>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <div class="mb-12">
+      <h2 class="font-headline text-2xl font-extrabold tracking-tight mb-6 border-b-4 border-primary inline-block pb-1">
+        Best Value Buys
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        {bestBuys.map(item => (
+          <div class="bg-surface-container-lowest rounded-xl p-5 shadow-[0_4px_16px_rgba(47,47,47,0.04)]">
+            <h3 class="font-headline font-bold text-sm mb-1">{item.name}</h3>
+            <p class="text-primary font-bold text-lg mb-2">{item.price}</p>
+            <p class="text-xs text-on-surface-variant leading-relaxed">{item.why}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <div class="p-6 bg-surface-container-low rounded-xl">
+      <h2 class="font-headline font-bold text-lg mb-3">See Also</h2>
+      <div class="flex flex-wrap gap-4">
+        <a href="/prepared" class="text-primary font-bold hover:underline">Prepared Foods</a>
+        <a href="/recipes" class="text-primary font-bold hover:underline">All Recipes</a>
+        <a href="/guides" class="text-primary font-bold hover:underline">Guides</a>
+      </div>
+    </div>
+  </div>
 </Base>
