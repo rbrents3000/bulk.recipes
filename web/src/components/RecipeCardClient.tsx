@@ -1,4 +1,5 @@
 import FavoriteButton from './FavoriteButton';
+import { getCategoryImage } from '../data/categoryImages';
 
 interface Recipe {
   id: string;
@@ -35,34 +36,16 @@ const categoryLabels: Record<string, string> = {
   'soups': 'Soups',
 };
 
-const categoryImageMap: Record<string, string> = {
-  'costco-copycats/food-court': '/assets/categories/copycats.webp',
-  'costco-copycats/deli': '/assets/categories/copycats.webp',
-  'costco-copycats/bakery': '/assets/categories/desserts.webp',
-  'costco-copycats/international': '/assets/categories/copycats.webp',
-  'weeknight-dinners': '/assets/categories/weeknight.webp',
-  'rotisserie-chicken': '/assets/categories/rotisserie.webp',
-  'feeding-a-crowd': '/assets/categories/crowd.webp',
-  'meal-prep': '/assets/categories/meal-prep.webp',
-  'slow-cooker': '/assets/categories/slow-cooker.webp',
-  'appetizers': '/assets/categories/appetizers.webp',
-  'desserts': '/assets/categories/desserts.webp',
-  'drinks': '/assets/categories/drinks.webp',
-  'grilling': '/assets/categories/grilling.webp',
-  'salads': '/assets/categories/salads.webp',
-  'snacks': '/assets/categories/snacks.webp',
-  'soups': '/assets/categories/soups.webp',
-};
 
 export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const { id, title, description, cost, cost_unit, prep, cook, servings, category, vegetarian, gluten_free, dairy_free } = recipe;
   const href = `/recipes/${id}`;
-  const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}` : `$${cost.toFixed(2)}/${cost_unit}`;
+  const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
   const label = categoryLabels[category] || category.split('/').pop()?.replace(/-/g, ' ') || '';
   const isBudget = cost <= 2;
   const isQuick = recipe.prep.includes('10 min') || recipe.prep.includes('5 min');
   const recipeImage = `/assets/recipes/${id.split('/').pop()}.webp`;
-  const categoryImage = categoryImageMap[category] || '/assets/categories/weeknight.webp';
+  const categoryImage = getCategoryImage(category);
 
   return (
     <a href={href} class="group block">

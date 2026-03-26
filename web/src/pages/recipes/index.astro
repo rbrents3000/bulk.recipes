@@ -41,6 +41,6 @@ const topTags = [...tagCounts.entries()]
   .map(([tag]) => tag);
 ---
 
-<Base title="Browse Recipes — bulk.recipes" description="Search, filter, and sort 181 Costco recipes by cost, cook time, diet, and ingredient.">
+<Base title="Browse Recipes — bulk.recipes" description={`Search, filter, and sort ${recipes.length} Costco recipes by cost, cook time, diet, and ingredient.`}>
   <RecipeBrowser client:load recipes={recipeData} categories={categories} ingredientTags={topTags} />
 </Base>

@@ -5,7 +5,13 @@ import { marked } from 'marked';
 import Base from '../../layouts/Base.astro';
 
 const md = readFileSync(join(process.cwd(), '..', 'products', 'README.md'), 'utf-8');
-const html = marked(md) as string;
+const rawHtml = marked(md) as string;
+const html = rawHtml
+  .replace(/href="([a-z-]+)\.md"/g, 'href="/products/$1"')
+  .replace(/href="\.\.\/prepared\/"/g, 'href="/prepared"')
+  .replace(/href="\.\.\/prepared\/([^"]+?)\.md"/g, 'href="/prepared/$1"')
+  .replace(/href="\.\.\/recipes\/"/g, 'href="/recipes"')
+  .replace(/href="\.\.\/recipes\/([^"]+?)\.md"/g, 'href="/recipes/$1"');
 ---
 
 <Base title="Costco Groceries — bulk.recipes" description="The raw ingredients you buy at Costco — meat, seafood, dairy, pantry staples, frozen, produce, and Kirkland Signature hits.">
