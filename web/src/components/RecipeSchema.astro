@@ -73,7 +73,7 @@ const schema: Record<string, unknown> = {
   "@type": "Recipe",
   "name": title,
   "description": description,
-  "image": "https://bulk.recipes/og-default.png",
+  "image": `https://bulk.recipes/og/${slug}.png`,
   "prepTime": toISO(prep),
   "cookTime": toISO(cook),
   "totalTime": minutesToISO(totalMinutes),

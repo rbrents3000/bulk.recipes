@@ -44,7 +44,7 @@ const related = allRecipes
   .slice(0, 4);
 ---
 
-<Base title={`${title} — bulk.recipes`} description={description}>
+<Base title={`${title} — bulk.recipes`} description={description} ogImage={`/og/${recipe.id}.png`}>
   <RecipeSchema
     title={title} description={description} prep={prep} cook={cook}
     servings={servings} cost={cost} costUnit={cost_unit} category={category}
