@@ -169,13 +169,14 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
             <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Cook Time</label>
             <div class="grid grid-cols-2 gap-2">
               {[
+                { value: '', label: 'All', ariaLabel: 'All cook times' },
                 { value: '<30', label: '⏱️ < 30m', ariaLabel: 'Under 30 minutes' },
                 { value: '30-60', label: '⏱️ 30-60m', ariaLabel: '30 to 60 minutes' },
                 { value: '1-2h', label: '⏱️ 1-2h', ariaLabel: '1 to 2 hours' },
                 { value: '2h+', label: '⏱️ 2h+', ariaLabel: 'Over 2 hours' },
               ].map(opt => (
                 <button
-                  key={opt.value}
+                  key={opt.value || 'all'}
                   aria-label={opt.ariaLabel}
                   aria-pressed={cookTime === opt.value}
                   class={`py-3 px-4 rounded-xl font-bold text-xs transition-all ${
@@ -183,7 +184,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
                       ? 'bg-secondary-container text-on-secondary-container'
                       : 'bg-surface-container-highest text-on-surface-variant hover:bg-surface-container-high'
                   }`}
-                  onClick={() => { setCookTime(cookTime === opt.value ? '' : opt.value); setPage(0); }}
+                  onClick={() => { setCookTime(opt.value); setPage(0); }}
                 >
                   {opt.label}
                 </button>

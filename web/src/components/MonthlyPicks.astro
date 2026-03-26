@@ -47,7 +47,7 @@ const categoryImageMap: Record<string, string> = {
       </h2>
     </div>
     <a
-      href={`/recipes?month=${monthName.toLowerCase()}`}
+      href="/recipes"
       class="inline-flex items-center gap-1.5 text-primary font-headline font-bold hover:underline whitespace-nowrap"
     >
       View {monthName} Index
@@ -61,11 +61,13 @@ const categoryImageMap: Record<string, string> = {
         <div class="bg-surface-container-lowest rounded-xl overflow-hidden shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300">
           <div class="relative aspect-[4/3] bg-surface-container overflow-hidden">
             <img src={categoryImageMap[recipe.category] || '/assets/categories/weeknight.png'} alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" aria-hidden="true" loading="lazy" />
-            <div class="absolute top-3 right-3">
-              <span class="px-3 py-1 bg-tertiary-container text-on-tertiary-container rounded-full text-[10px] font-black uppercase tracking-wider">
-                {recipe.cost < 2 ? 'Cheap!' : `${recipe.servings} servings`}
-              </span>
-            </div>
+            {recipe.cost <= 2 && (
+              <div class="absolute top-3 left-3">
+                <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-[10px] font-black uppercase tracking-wider">
+                  💰 Budget
+                </span>
+              </div>
+            )}
           </div>
           <div class="p-5">
             <h3 class="font-headline font-bold text-xl mb-2 group-hover:text-primary transition-colors line-clamp-2">

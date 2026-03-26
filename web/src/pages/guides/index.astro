@@ -5,7 +5,9 @@ import { marked } from 'marked';
 import Base from '../../layouts/Base.astro';
 
 const md = readFileSync(join(process.cwd(), '..', 'guides', 'README.md'), 'utf-8');
-const html = marked(md) as string;
+const rawHtml = marked(md) as string;
+// Fix relative .md links to use proper /guides/ routes
+const html = rawHtml.replace(/href="([^"]+)\.md"/g, (_match, slug) => `href="/guides/${slug}"`);
 ---
 
 <Base title="Guides — bulk.recipes" description="Tips, tricks, and strategies for getting the most out of your Costco haul.">
