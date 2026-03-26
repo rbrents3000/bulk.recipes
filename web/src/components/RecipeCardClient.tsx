@@ -33,7 +33,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const categoryImage = getCategoryImage(category);
 
   return (
-    <a href={href} class="group block" aria-label={title}>
+    <a href={href} class="group block">
       <div class="bg-surface-container-lowest rounded-xl overflow-visible shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_24px_48px_rgba(0,0,0,0.08)] transition-all duration-300">
         <div class="p-3">
           <div class="relative h-44 md:h-56 w-full rounded-lg overflow-hidden bg-surface-container">

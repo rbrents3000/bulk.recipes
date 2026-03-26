@@ -144,8 +144,8 @@
     display: none !important;
   }
 
-  /* Hide back link */
-  article > a:first-child {
+  /* Hide breadcrumb nav in print */
+  article > nav:first-child {
     display: none !important;
   }
 

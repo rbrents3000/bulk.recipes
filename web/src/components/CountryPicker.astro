@@ -1,20 +1,15 @@
 ---
-const countries = [
-  { iso: 'us', label: 'USA', slug: 'us' },
-  { iso: 'ca', label: 'Canada', slug: 'canada' },
-  { iso: 'mx', label: 'Mexico', slug: 'mexico' },
-  { iso: 'gb', label: 'UK', slug: 'uk' },
-  { iso: 'kr', label: 'Korea', slug: 'korea' },
-  { iso: 'jp', label: 'Japan', slug: 'japan' },
-  { iso: 'au', label: 'Australia', slug: 'australia' },
-  { iso: 'es', label: 'Spain', slug: 'spain' },
-  { iso: 'fr', label: 'France', slug: 'france' },
-  { iso: 'cn', label: 'China', slug: 'china' },
-  { iso: 'is', label: 'Iceland', slug: 'iceland' },
-  { iso: 'nz', label: 'NZ', slug: 'new-zealand' },
-  { iso: 'se', label: 'Sweden', slug: 'sweden' },
-  { iso: 'tw', label: 'Taiwan', slug: 'taiwan' },
-];
+import { countries as allCountries } from '../data/countries';
+
+const shortNames: Record<string, string> = {
+  us: 'USA', gb: 'UK', nz: 'NZ', kr: 'Korea',
+};
+
+const countries = allCountries.map(c => ({
+  iso: c.iso,
+  label: shortNames[c.iso] || c.name,
+  slug: c.slug,
+}));
 ---
 
 <section class="px-6 md:px-12 py-16 max-w-7xl mx-auto">

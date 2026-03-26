@@ -35,7 +35,7 @@ const seasonCats = seasonCategories[season];
 
 // Prioritize impressive hero categories, exclude drinks/snacks from homepage
 const heroCats = ['weeknight-dinners', 'grilling', 'feeding-a-crowd', 'rotisserie-chicken', 'meal-prep', 'slow-cooker'];
-const marchPicks = recipes
+const seasonalPicks = recipes
   .filter(r => heroCats.includes(r.data.category) || seasonCats.includes(r.data.category))
   .filter(r => !['drinks', 'snacks'].includes(r.data.category))
   .sort((a, b) => {
@@ -86,7 +86,7 @@ const newRecipes = recipes
   })} />
   <HeroSearch recipeCount={recipes.length} />
   <CountryPicker />
-  <MonthlyPicks recipes={marchPicks} />
+  <MonthlyPicks recipes={seasonalPicks} />
   <BakeryStrip />
   <CategoryBento categoryCounts={categoryCounts} />
   <InternationalSpotlight />
