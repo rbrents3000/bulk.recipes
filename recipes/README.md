@@ -4,13 +4,13 @@
 
 This is not what Costco sells ready-to-eat — that's in [prepared foods](../prepared/). These are recipes for when you get home with a cart full of bulk groceries and need to turn it all into actual dinners. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
 
-165 recipes. Cheapest is $0.35/piece (spanakopita). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
+181 recipes. Cheapest is $0.35/piece (spanakopita). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
 
 ---
 
 ## Quick Picks
 
-Don't want to scroll through 165 recipes? Start here.
+Don't want to scroll through 181 recipes? Start here.
 
 **Under 30 Minutes:**
 [Chicken Fried Rice](rotisserie-chicken/chicken-fried-rice.md) ·
@@ -109,6 +109,9 @@ Your best attempts at recreating what they make in the food court, deli, and bak
 - [Poke Bowls](costco-copycats/deli/poke-bowls.md) — ~$5.00/serving
 - [Turkey Provolone Pinwheels](costco-copycats/deli/turkey-provolone-pinwheels.md) — ~$0.50/pinwheel
 - [Six-Layer Dip](costco-copycats/deli/six-layer-dip.md) — ~$1.25/serving
+- [Chicken Alfredo](costco-copycats/deli/chicken-alfredo.md) — penne, chicken, creamy alfredo — ~$2.50/serving
+- [Korean BBQ Bulgogi](costco-copycats/deli/bulgogi-marinade.md) — the raw marinated beef, cook it yourself — ~$3.00/serving
+- [Chicken Pot Pie (Deli)](costco-copycats/deli/chicken-pot-pie-deli.md) — the 4-lb behemoth with puff pastry — ~$2.50/serving
 
 ### Bakery
 - [Cinnamon Rolls](costco-copycats/bakery/cinnamon-rolls.md) — ~$0.75/roll
@@ -117,6 +120,11 @@ Your best attempts at recreating what they make in the food court, deli, and bak
 - [Almond Croissants](costco-copycats/bakery/almond-croissants.md) — ~$1.25/each
 - [Danishes](costco-copycats/bakery/danishes.md) — cheese, apple, or cherry — ~$0.75/each
 - [Mini Quiche Tray](costco-copycats/bakery/mini-quiche-tray.md) — lorraine and florentine — ~$0.75/each
+- [Pumpkin Pie](costco-copycats/bakery/pumpkin-pie.md) — the $5.99 legend, nearly 4 lbs — ~$0.75/slice
+- [Blueberry Muffins](costco-copycats/bakery/blueberry-muffins.md) — softball-sized, domed streusel top — ~$0.75/muffin
+- [Sheet Cake](costco-copycats/bakery/sheet-cake.md) — the office birthday classic, feeds 48 — ~$0.50/slice
+- [Tuxedo Mousse Cake](costco-copycats/bakery/tuxedo-mousse-cake.md) — three layers of chocolate mousse — ~$1.25/slice
+- [Scones](costco-copycats/bakery/scones.md) — giant, buttery, blueberry or cranberry — ~$0.75/scone
 
 ### International
 Copycats of prepared items from Costco locations around the world — made with Costco US ingredients.
@@ -188,6 +196,9 @@ A bowl of something warm for when it's cold, raining, or you just need comfort.
 - [Creamy Tomato Basil](soups/creamy-tomato-basil.md) — ~$1.25/serving
 - [Minestrone](soups/minestrone.md) — ~$1.75/serving
 - [Chicken Noodle Soup](soups/chicken-noodle-soup.md) — ~$1.75/serving
+- [Loaded Baked Potato Soup](soups/potato-soup.md) — ~$1.50/serving
+- [Italian Wedding Soup](soups/italian-wedding-soup.md) — ~$2.00/serving
+- [Corn Chowder](soups/corn-chowder.md) — ~$1.50/serving
 
 ## Salads
 For when you realize you should probably eat a vegetable.
@@ -256,6 +267,8 @@ Because you bought 4.5 lbs of chocolate chips and now you need a plan.
 - [Banana Bread](desserts/banana-bread.md) — ~$0.75/serving
 - [Peanut Butter Cookies](desserts/peanut-butter-cookies.md) — ~$0.50/serving
 - [Cookie Skillet](desserts/cookie-skillet.md) — ~$1.00/serving
+- [Rice Krispie Treats](desserts/rice-krispie-treats.md) — ~$0.25/bar
+- [Apple Crisp](desserts/apple-crisp.md) — ~$1.00/serving
 
 ## Slow Cooker
 Set it before work. Eat when you get home. The Costco chuck roast was born for this.
@@ -265,6 +278,9 @@ Set it before work. Eat when you get home. The Costco chuck roast was born for t
 - [Mississippi Pot Roast](slow-cooker/mississippi-pot-roast.md) — ~$3.50/serving
 - [White Chicken Chili](slow-cooker/white-chicken-chili.md) — ~$2.25/serving
 - [French Dip Sandwiches](slow-cooker/french-dip-sandwiches.md) — ~$3.00/serving
+- [Honey Garlic Pork](slow-cooker/honey-garlic-pork.md) — ~$2.50/serving
+- [Slow Cooker Chicken Tortilla Soup](slow-cooker/chicken-tortilla-slow-cooker.md) — ~$2.00/serving
+- [Chicago Italian Beef](slow-cooker/italian-beef.md) — ~$3.00/serving
 
 ## Snacks & Lunch
 For the gap between breakfast and dinner that somehow requires three separate eating events.

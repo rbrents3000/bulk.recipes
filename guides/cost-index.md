@@ -18,8 +18,13 @@ The "did that really just cost less than a dollar?" tier.
 | [Cold Brew Concentrate](../recipes/drinks/cold-brew-concentrate.md) | Drinks | $0.50 | 8 |
 | [Granola Bars](../recipes/snacks/granola-bars.md) | Snacks | $0.50 | 16 |
 | [Double Chocolate Chunk Cookie](../recipes/costco-copycats/food-court/chocolate-chunk-cookie.md) | Costco Copycats | $0.50 | 12 |
+| [Rice Krispie Treats](../recipes/desserts/rice-krispie-treats.md) | Desserts | $0.25 | 24 |
+| [Sheet Cake](../recipes/costco-copycats/bakery/sheet-cake.md) | Costco Copycats | $0.50 | 48 |
 | [Peanut Butter Cookies](../recipes/desserts/peanut-butter-cookies.md) | Desserts | $0.50 | 24 |
 | [Egg Muffin Cups](../recipes/meal-prep/egg-muffin-cups.md) | Meal Prep | $0.75 | 12 |
+| [Pumpkin Pie](../recipes/costco-copycats/bakery/pumpkin-pie.md) | Costco Copycats | $0.75 | 12 |
+| [Blueberry Muffins](../recipes/costco-copycats/bakery/blueberry-muffins.md) | Costco Copycats | $0.75 | 12 |
+| [Scones](../recipes/costco-copycats/bakery/scones.md) | Costco Copycats | $0.75 | 8 |
 | [Cinnamon Coffee Cake](../recipes/costco-copycats/bakery/cinnamon-coffee-cake.md) | Costco Copycats | $0.75 | 12 |
 | [Triple Chocolate Loaf](../recipes/costco-copycats/bakery/triple-chocolate-loaf.md) | Costco Copycats | $0.75 | 10 |
 | [Banana Bread](../recipes/desserts/banana-bread.md) | Desserts | $0.75 | 10 |
@@ -41,6 +46,7 @@ The sweet spot. Real meals for pocket change.
 
 | Recipe | Category | Cost/Serving | Servings |
 |--------|----------|-------------|----------|
+| [Apple Crisp](../recipes/desserts/apple-crisp.md) | Desserts | $1.00 | 8 |
 | [Hummus & Veggie Cups](../recipes/snacks/hummus-and-veggies.md) | Snacks | $1.00 | 8 |
 | [Costco Hot Dog](../recipes/costco-copycats/food-court/hot-dog.md) | Costco Copycats | $1.00 | 8 |
 | [Bacon-Wrapped Stuffed Jalapenos](../recipes/appetizers/bacon-wrapped-stuffed-jalapenos.md) | Appetizers | $1.00 | 12 |
@@ -58,6 +64,9 @@ The sweet spot. Real meals for pocket change.
 | [Berry Smoothie](../recipes/drinks/berry-smoothie.md) | Drinks | $1.50 | 4 |
 | [Soup Dumplings](../recipes/appetizers/soup-dumplings.md) | Appetizers | $1.50 | 6 |
 | [Pepperoni Pizza](../recipes/costco-copycats/food-court/pepperoni-pizza.md) | Costco Copycats | $1.50 | 8 |
+| [Tuxedo Mousse Cake](../recipes/costco-copycats/bakery/tuxedo-mousse-cake.md) | Costco Copycats | $1.25 | 16 |
+| [Potato Soup](../recipes/soups/potato-soup.md) | Soups | $1.50 | 8 |
+| [Corn Chowder](../recipes/soups/corn-chowder.md) | Soups | $1.50 | 8 |
 | [Broccoli Crunch Salad](../recipes/salads/broccoli-crunch-salad.md) | Salads | $1.50 | 8 |
 | [Berry Sundae](../recipes/costco-copycats/food-court/berry-sundae.md) | Costco Copycats | $1.50 | 6 |
 | [Breakfast Burritos](../recipes/meal-prep/breakfast-burritos.md) | Meal Prep | $1.50 | 12 |
@@ -92,6 +101,8 @@ The "this is a legitimately good dinner" tier.
 |--------|----------|-------------|----------|
 | [Caesar Salad](../recipes/salads/caesar-salad.md) | Salads | $1.75 | 6 |
 | [Chicken Caesar Wraps](../recipes/rotisserie-chicken/chicken-caesar-wraps.md) | Rotisserie Chicken | $2.00 | 6 |
+| [Italian Wedding Soup](../recipes/soups/italian-wedding-soup.md) | Soups | $2.00 | 8 |
+| [Slow Cooker Chicken Tortilla Soup](../recipes/slow-cooker/chicken-tortilla-slow-cooker.md) | Slow Cooker | $2.00 | 8 |
 | [Chicken Tortilla Soup](../recipes/rotisserie-chicken/chicken-tortilla-soup.md) | Rotisserie Chicken | $2.00 | 8 |
 | [French Toast Casserole](../recipes/meal-prep/french-toast-casserole.md) | Meal Prep | $2.00 | 8 |
 | [Pizza Dough](../recipes/costco-copycats/food-court/pizza-dough.md) | Costco Copycats | $2.00 | 8 |
@@ -111,6 +122,9 @@ The "this is a legitimately good dinner" tier.
 | [White Chicken Chili](../recipes/slow-cooker/white-chicken-chili.md) | Slow Cooker | $2.25 | 8 |
 | [Breakfast Croissant Sandwiches](../recipes/meal-prep/breakfast-croissant-sandwiches.md) | Meal Prep | $2.33 | 6 |
 | [Pesto Chicken Pasta](../recipes/weeknight-dinners/pesto-chicken-pasta.md) | Weeknight Dinners | $2.33 | 6 |
+| [Chicken Alfredo (Deli)](../recipes/costco-copycats/deli/chicken-alfredo.md) | Costco Copycats | $2.50 | 6 |
+| [Chicken Pot Pie (Deli)](../recipes/costco-copycats/deli/chicken-pot-pie-deli.md) | Costco Copycats | $2.50 | 8 |
+| [Honey Garlic Pork](../recipes/slow-cooker/honey-garlic-pork.md) | Slow Cooker | $2.50 | 8 |
 | [Yakisoba Stir Fry](../recipes/costco-copycats/deli/yakisoba-stir-fry.md) | Costco Copycats | $2.50 | 6 |
 | [Classic Smash Burgers](../recipes/grilling/burgers.md) | Grilling | $2.50 | 8 |
 | [BBQ Chicken Sandwiches](../recipes/grilling/bbq-chicken-sandwiches.md) | Grilling | $2.50 | 6 |
@@ -159,6 +173,8 @@ Weeknight dinners that feel like going out.
 
 | Recipe | Category | Cost/Serving | Servings |
 |--------|----------|-------------|----------|
+| [Korean BBQ Bulgogi](../recipes/costco-copycats/deli/bulgogi-marinade.md) | Costco Copycats | $3.00 | 6 |
+| [Italian Beef](../recipes/slow-cooker/italian-beef.md) | Slow Cooker | $3.00 | 8 |
 | [Birria Tacos Kit](../recipes/costco-copycats/deli/birria-tacos-kit.md) | Costco Copycats | $3.00 | 8 |
 | [Beef Stew](../recipes/slow-cooker/beef-stew.md) | Slow Cooker | $3.00 | 8 |
 | [French Dip Sandwiches](../recipes/slow-cooker/french-dip-sandwiches.md) | Slow Cooker | $3.00 | 8 |
@@ -221,7 +237,7 @@ The "treat yourself" tier. Still cheaper than a restaurant.
 - **Cheapest recipe:** Lemonade Concentrate at $0.40/serving — literally cheaper than water from a vending machine
 - **Most expensive:** Baked Stuffed Salmon at $8.50/serving — still less than a sad airport salad
 - **Average cost per serving across all recipes:** ~$2.60
-- **Total recipes indexed:** 165
+- **Total recipes indexed:** 181
 - **Recipes under $2/serving:** 66
 - **Recipes under $3/serving:** 112
 
