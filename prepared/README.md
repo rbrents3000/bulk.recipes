@@ -28,6 +28,8 @@ Costco doesn't just sell groceries. They run massive kitchens in every warehouse
 - **[Sweden](sweden/)** — [Food Court](sweden/food-court.md) · [Deli](sweden/deli.md)
 - **[Iceland](iceland/)** — [Food Court](iceland/food-court.md) · [Deli](iceland/deli.md)
 
+> **Note:** Countries with 1-2 warehouses (Iceland, New Zealand, Sweden) may not have a dedicated bakery page — their bakeries typically carry the same global Costco items (croissants, muffins, sheet cakes) without distinctive local specialties.
+
 ## Warehouse Count by Country
 
 | Country | Warehouses | What Makes It Special |

@@ -19,8 +19,8 @@ Beyond recipes and product listings, these guides help you plan, save, and waste
 |-------|---------------|
 | [Cost Index](cost-index.md) | Every recipe ranked by cost-per-serving |
 | [Dietary Index](dietary.md) | Which recipes are vegetarian, gluten-free, or dairy-free |
-| [Seasonal Guide](seasonal.md) | What's available when — and what to grab before it disappears |
-| [What's In Season](whats-in-season.md) | Month-by-month recipe calendar — what to cook right now |
+| [Seasonal Guide](seasonal.md) | What ingredients to buy by season — produce, meat deals, bakery rotations |
+| [What's In Season](whats-in-season.md) | What to cook this month — recipes matched to current Costco offerings |
 | [Freezer Guide](freezer-guide.md) | What to freeze, how long it lasts, and how to thaw it |
 | [Recipes by Ingredient](by-ingredient.md) | Find recipes by what protein or ingredient you have |
 
