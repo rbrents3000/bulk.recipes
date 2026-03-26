@@ -19,16 +19,14 @@ Costco doesn't just sell groceries. They run massive kitchens in every warehouse
 - **[Taiwan](taiwan/)** — [Food Court](taiwan/food-court.md) · [Deli](taiwan/deli.md) · [Bakery](taiwan/bakery.md)
 - **[China](china/)** — [Food Court](china/food-court.md) · [Deli](china/deli.md) · [Bakery](china/bakery.md)
 - **[Australia](australia/)** — [Food Court](australia/food-court.md) · [Deli](australia/deli.md) · [Bakery](australia/bakery.md)
-- **[New Zealand](new-zealand/)** — [Food Court](new-zealand/food-court.md) · [Deli](new-zealand/deli.md)
+- **[New Zealand](new-zealand/)** — [Food Court](new-zealand/food-court.md) · [Deli](new-zealand/deli.md) · [Bakery](new-zealand/bakery.md)
 
 ### Europe
 - **[United Kingdom](uk/)** — [Food Court](uk/food-court.md) · [Deli](uk/deli.md) · [Bakery](uk/bakery.md)
 - **[France](france/)** — [Food Court](france/food-court.md) · [Deli](france/deli.md) · [Bakery](france/bakery.md)
 - **[Spain](spain/)** — [Food Court](spain/food-court.md) · [Deli](spain/deli.md) · [Bakery](spain/bakery.md)
-- **[Sweden](sweden/)** — [Food Court](sweden/food-court.md) · [Deli](sweden/deli.md)
-- **[Iceland](iceland/)** — [Food Court](iceland/food-court.md) · [Deli](iceland/deli.md)
-
-> **Note:** Countries with 1-2 warehouses (Iceland, New Zealand, Sweden) may not have a dedicated bakery page — their bakeries typically carry the same global Costco items (croissants, muffins, sheet cakes) without distinctive local specialties.
+- **[Sweden](sweden/)** — [Food Court](sweden/food-court.md) · [Deli](sweden/deli.md) · [Bakery](sweden/bakery.md)
+- **[Iceland](iceland/)** — [Food Court](iceland/food-court.md) · [Deli](iceland/deli.md) · [Bakery](iceland/bakery.md)
 
 ## Warehouse Count by Country
 
