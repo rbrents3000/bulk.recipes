@@ -1,15 +1,86 @@
 ---
+import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import RecipeCard from '../../components/RecipeCard.astro';
+
+const recipes = await getCollection('recipes');
+
+// Group by category
+const categories = new Map<string, typeof recipes>();
+for (const recipe of recipes) {
+  const cat = recipe.data.category;
+  if (!categories.has(cat)) categories.set(cat, []);
+  categories.get(cat)!.push(recipe);
+}
+
+// Sort categories, copycats first, then alphabetical
+const sortedCategories = [...categories.entries()].sort(([a], [b]) => {
+  if (a.startsWith('costco-copycats') && !b.startsWith('costco-copycats')) return -1;
+  if (!a.startsWith('costco-copycats') && b.startsWith('costco-copycats')) return 1;
+  return a.localeCompare(b);
+});
+
+// Category display names
+const categoryNames: Record<string, string> = {
+  'costco-copycats/food-court': 'Costco Copycats — Food Court',
+  'costco-copycats/deli': 'Costco Copycats — Deli',
+  'costco-copycats/bakery': 'Costco Copycats — Bakery',
+  'costco-copycats/international': 'Costco Copycats — International',
+  'weeknight-dinners': 'Weeknight Dinners',
+  'rotisserie-chicken': 'Rotisserie Chicken',
+  'feeding-a-crowd': 'Feeding a Crowd',
+  'meal-prep': 'Meal Prep',
+  'slow-cooker': 'Slow Cooker',
+  'appetizers': 'Appetizers',
+  'desserts': 'Desserts',
+  'drinks': 'Drinks',
+  'grilling': 'Grilling',
+  'salads': 'Salads',
+  'snacks': 'Snacks & Lunch',
+  'soups': 'Soups',
+};
 ---
 
-<Base title="Recipes — bulk.recipes">
-  <div class="flex flex-col items-center justify-center min-h-[40vh] text-center gap-6 py-16">
-    <h1 class="text-4xl md:text-5xl font-headline font-black tracking-tight">
-      Recipes
-    </h1>
-    <p class="text-lg text-on-surface-variant font-body max-w-xl">
-      181 homemade recipes built around Costco ingredients. Search, filter, and find what to cook tonight.
-    </p>
-    <p class="text-sm text-on-surface-variant">Coming soon. <a href="https://github.com/rbrents3000/bulk.recipes/tree/main/recipes" class="text-primary hover:underline">Browse on GitHub →</a></p>
+<Base title="Recipes — bulk.recipes" description="181 homemade recipes built around Costco ingredients. Every recipe has a Costco shopping list and cost-per-serving breakdown.">
+  <div class="py-8">
+    <!-- Header -->
+    <div class="mb-12 text-center">
+      <h1 class="text-4xl md:text-6xl font-headline font-black tracking-tight mb-4">
+        <span class="text-primary">{recipes.length}</span> Recipes
+      </h1>
+      <p class="text-lg text-on-surface-variant font-body max-w-2xl mx-auto">
+        Homemade meals built around Costco ingredients. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
+      </p>
+    </div>
+
+    <!-- Recipe grid by category -->
+    {sortedCategories.map(([cat, catRecipes]) => (
+      <section class="mb-16">
+        <h2 class="text-2xl font-headline font-black tracking-tight mb-6 border-b-4 border-primary inline-block pb-1">
+          {categoryNames[cat] || cat.replace(/[-/]/g, ' ')}
+        </h2>
+        <span class="text-sm text-on-surface-variant ml-3">({catRecipes.length})</span>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mt-4">
+          {catRecipes
+            .sort((a, b) => a.data.cost - b.data.cost)
+            .map(recipe => (
+              <RecipeCard
+                title={recipe.data.title}
+                description={recipe.data.description}
+                cost={recipe.data.cost}
+                cost_unit={recipe.data.cost_unit}
+                prep={recipe.data.prep}
+                cook={recipe.data.cook}
+                servings={recipe.data.servings}
+                category={recipe.data.category}
+                vegetarian={recipe.data.vegetarian}
+                gluten_free={recipe.data.gluten_free}
+                dairy_free={recipe.data.dairy_free}
+                slug={recipe.id}
+              />
+            ))}
+        </div>
+      </section>
+    ))}
   </div>
 </Base>

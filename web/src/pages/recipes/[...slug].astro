@@ -1,0 +1,131 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import RecipeCard from '../../components/RecipeCard.astro';
+
+export async function getStaticPaths() {
+  const recipes = await getCollection('recipes');
+  return recipes.map(recipe => ({
+    params: { slug: recipe.id },
+    props: { recipe },
+  }));
+}
+
+const { recipe } = Astro.props;
+const { Content } = await render(recipe);
+const { title, description, prep, cook, servings, cost, cost_unit, category, vegetarian, gluten_free, dairy_free } = recipe.data;
+
+const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
+
+// Get related recipes (same category, excluding current)
+const allRecipes = await getCollection('recipes');
+const related = allRecipes
+  .filter(r => r.data.category === category && r.id !== recipe.id)
+  .slice(0, 4);
+---
+
+<Base title={`${title} — bulk.recipes`} description={description}>
+  <article class="max-w-4xl mx-auto py-8">
+    <!-- Back link -->
+    <a href="/recipes" class="inline-flex items-center gap-1 text-sm text-on-surface-variant hover:text-primary transition-colors mb-6">
+      <span class="material-symbols-outlined text-sm">arrow_back</span>
+      All Recipes
+    </a>
+
+    <!-- Hero -->
+    <header class="mb-8">
+      <!-- Category badge -->
+      <div class="mb-4">
+        <span class="inline-flex items-center gap-2 px-4 py-1.5 bg-secondary-container text-on-secondary-container rounded-full text-xs font-bold uppercase tracking-wider">
+          {category.replace(/[-/]/g, ' ')}
+        </span>
+      </div>
+
+      <h1 class="text-4xl md:text-6xl font-headline font-extrabold tracking-tight text-on-surface leading-tight mb-4">
+        {title}
+      </h1>
+
+      <p class="text-xl md:text-2xl text-on-surface-variant font-medium italic mb-6">
+        "{description}"
+      </p>
+
+      <!-- Metadata bar -->
+      <div class="flex flex-wrap gap-4 p-6 bg-surface-container-low rounded-xl">
+        <div class="flex flex-col gap-1 pr-6 border-r border-outline-variant/20">
+          <span class="text-xs uppercase font-bold text-on-surface-variant tracking-widest">Prep</span>
+          <span class="text-lg font-bold">{prep}</span>
+        </div>
+        <div class="flex flex-col gap-1 pr-6 border-r border-outline-variant/20">
+          <span class="text-xs uppercase font-bold text-on-surface-variant tracking-widest">Cook</span>
+          <span class="text-lg font-bold">{cook}</span>
+        </div>
+        <div class="flex flex-col gap-1 pr-6 border-r border-outline-variant/20">
+          <span class="text-xs uppercase font-bold text-on-surface-variant tracking-widest">Servings</span>
+          <span class="text-lg font-bold">{servings}</span>
+        </div>
+        <div class="flex flex-col gap-1">
+          <span class="text-xs uppercase font-bold text-on-surface-variant tracking-widest">Cost</span>
+          <span class="text-lg font-bold text-tertiary">{costDisplay}</span>
+        </div>
+      </div>
+
+      <!-- Diet badges -->
+      {(vegetarian || gluten_free || dairy_free) && (
+        <div class="flex gap-2 mt-4">
+          {vegetarian && <span class="text-xs px-3 py-1 bg-green-100 text-green-800 rounded-full font-bold">Vegetarian</span>}
+          {gluten_free && <span class="text-xs px-3 py-1 bg-amber-100 text-amber-800 rounded-full font-bold">Gluten-Free</span>}
+          {dairy_free && <span class="text-xs px-3 py-1 bg-blue-100 text-blue-800 rounded-full font-bold">Dairy-Free</span>}
+        </div>
+      )}
+    </header>
+
+    <!-- Recipe content (rendered markdown) -->
+    <div class="prose prose-lg max-w-none
+      prose-headings:font-headline prose-headings:tracking-tight
+      prose-h2:text-2xl prose-h2:font-bold prose-h2:border-b-4 prose-h2:border-primary prose-h2:inline-block prose-h2:pb-1 prose-h2:mt-10 prose-h2:mb-4
+      prose-h3:text-xl prose-h3:font-bold
+      prose-p:text-on-surface-variant prose-p:leading-relaxed
+      prose-li:text-on-surface-variant
+      prose-strong:text-on-surface
+      prose-blockquote:bg-primary-container/10 prose-blockquote:border-l-4 prose-blockquote:border-primary-container prose-blockquote:rounded-r-lg prose-blockquote:py-3 prose-blockquote:px-4 prose-blockquote:not-italic
+      prose-a:text-primary prose-a:no-underline hover:prose-a:underline
+      prose-table:text-sm
+      prose-th:text-left prose-th:font-bold
+    ">
+      <Content />
+    </div>
+  </article>
+
+  <!-- Related Recipes -->
+  {related.length > 0 && (
+    <section class="max-w-7xl mx-auto mt-16 mb-8">
+      <div class="flex justify-between items-end mb-8">
+        <div>
+          <h2 class="text-3xl font-headline font-black tracking-tight">More Like This</h2>
+          <p class="text-on-surface-variant font-medium">From the same category</p>
+        </div>
+        <a href="/recipes" class="px-6 py-2 bg-surface-container-highest rounded-full text-sm font-bold hover:bg-outline-variant transition-colors">
+          View All
+        </a>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        {related.map(r => (
+          <RecipeCard
+            title={r.data.title}
+            description={r.data.description}
+            cost={r.data.cost}
+            cost_unit={r.data.cost_unit}
+            prep={r.data.prep}
+            cook={r.data.cook}
+            servings={r.data.servings}
+            category={r.data.category}
+            vegetarian={r.data.vegetarian}
+            gluten_free={r.data.gluten_free}
+            dairy_free={r.data.dairy_free}
+            slug={r.id}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+</Base>
