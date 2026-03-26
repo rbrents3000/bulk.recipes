@@ -109,7 +109,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
   const hasFilters = category || maxCost < 10 || cookTime || vegetarian || glutenFree || dairyFree;
 
   return (
-    <div class="py-8">
+    <div class="py-8 overflow-x-hidden">
       {/* Mobile filter toggle */}
       <button
         class="md:hidden w-full mb-6 h-16 bg-gradient-to-r from-primary to-primary-container text-on-primary rounded-full font-headline font-extrabold text-lg flex items-center justify-center gap-2 shadow-[0_12px_24px_rgba(186,0,39,0.2)] hover:scale-[1.02] active:scale-95 transition-all"
@@ -121,7 +121,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
 
       <div class="flex flex-col md:flex-row gap-8 lg:gap-12">
         {/* Sidebar */}
-        <aside class={`w-full md:w-80 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
+        <aside class={`w-full md:w-64 lg:w-80 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
           <h2 class="font-headline text-2xl font-extrabold tracking-tight">Filter by</h2>
 
           {/* Category */}
