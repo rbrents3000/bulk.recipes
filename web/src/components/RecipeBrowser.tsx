@@ -5,6 +5,7 @@ interface Recipe {
   id: string;
   title: string;
   description: string;
+  card_description?: string;
   cost: number;
   cost_unit: string;
   prep: string;
@@ -61,6 +62,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
   const [page, setPage] = useState(0);
   const [showFilters, setShowFilters] = useState(!!params?.get('filter'));
   const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(new Set());
+  const [searchQuery, setSearchQuery] = useState(params?.get('q') || '');
 
   const toggleIngredient = (tag: string) => {
     setSelectedIngredients(prev => {
@@ -75,6 +77,14 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
   const filtered = useMemo(() => {
     let result = [...recipes];
 
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      result = result.filter(r =>
+        r.title.toLowerCase().includes(q) ||
+        r.description.toLowerCase().includes(q) ||
+        r.ingredientTags.some(t => t.toLowerCase().includes(q))
+      );
+    }
     if (category) {
       result = result.filter(r => r.category === category || r.category.startsWith(category + '/'));
     }
@@ -115,12 +125,13 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
     }
 
     return result;
-  }, [category, maxCost, cookTime, vegetarian, glutenFree, dairyFree, selectedIngredients, sortBy, recipes]);
+  }, [searchQuery, category, maxCost, cookTime, vegetarian, glutenFree, dairyFree, selectedIngredients, sortBy, recipes]);
 
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
   const paged = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
 
   const clearFilters = () => {
+    setSearchQuery('');
     setCategory('');
     setMaxCost(10);
     setCookTime('');
@@ -131,7 +142,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
     setPage(0);
   };
 
-  const hasFilters = category || maxCost < 10 || cookTime || vegetarian || glutenFree || dairyFree || selectedIngredients.size > 0;
+  const hasFilters = searchQuery || category || maxCost < 10 || cookTime || vegetarian || glutenFree || dairyFree || selectedIngredients.size > 0;
 
   return (
     <div class="py-8 overflow-x-hidden">
@@ -147,6 +158,28 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
       <div class="flex flex-col md:flex-row gap-8 lg:gap-12">
         {/* Sidebar */}
         <aside class={`w-full md:w-56 lg:w-64 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
+          {/* Search */}
+          <div class="relative">
+            <span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-on-surface-variant text-lg" aria-hidden="true">search</span>
+            <input
+              type="text"
+              placeholder="Search recipes..."
+              aria-label="Search recipes"
+              value={searchQuery}
+              onInput={(e) => { setSearchQuery((e.target as HTMLInputElement).value); setPage(0); }}
+              class="w-full h-14 bg-surface-container-highest border-none rounded-xl pl-11 pr-10 font-medium focus:ring-2 focus:ring-primary placeholder:text-on-surface-variant/50"
+            />
+            {searchQuery && (
+              <button
+                onClick={() => { setSearchQuery(''); setPage(0); }}
+                class="absolute right-3 top-1/2 -translate-y-1/2 p-1 rounded-full hover:bg-surface-container transition-colors"
+                aria-label="Clear search"
+              >
+                <span class="material-symbols-outlined text-on-surface-variant text-lg" aria-hidden="true">close</span>
+              </button>
+            )}
+          </div>
+
           <h2 class="font-headline text-2xl font-extrabold tracking-tight">Filter by</h2>
 
           {/* Category */}

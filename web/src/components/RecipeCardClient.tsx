@@ -5,6 +5,7 @@ interface Recipe {
   id: string;
   title: string;
   description: string;
+  card_description?: string;
   cost: number;
   cost_unit: string;
   prep: string;
@@ -68,7 +69,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
           <h3 class="font-headline font-bold text-lg mb-1 group-hover:text-primary transition-colors line-clamp-1">
             {title}
           </h3>
-          <p class="text-sm text-on-surface-variant line-clamp-2 mb-3">{description}</p>
+          <p class="text-sm text-on-surface-variant line-clamp-2 mb-3">{recipe.card_description || description}</p>
           <div class="flex items-center gap-4 text-xs text-on-surface-variant">
             <span class="flex items-center gap-1">
               <span class="material-symbols-outlined text-sm" aria-hidden="true">payments</span>

@@ -15,9 +15,6 @@ const QTY_PATTERN = /(\d+\.?\d*)\s*(lbs?|pounds?|oz|ounces?|cups?|tbsp|tsp|table
 // Fraction patterns like "1/2" or "3/4"
 const FRACTION_PATTERN = /(\d+)\/(\d+)\s*(lbs?|pounds?|oz|ounces?|cups?|tbsp|tsp|tablespoons?|teaspoons?)/gi;
 
-// Embedded price pattern like "~$3.99"
-const PRICE_PATTERN = /~\$(\d+\.?\d*)/g;
-
 function formatQuantity(n: number): string {
   if (n <= 0) return '0';
   const whole = Math.floor(n);
@@ -93,12 +90,6 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
         const original = parseFloat(num);
         const newVal = original * ratio;
         return `${formatQuantity(newVal)} ${unit}`;
-      });
-
-      // Scale embedded prices like "~$3.99"
-      scaled = scaled.replace(PRICE_PATTERN, (match, price) => {
-        const newPrice = (parseFloat(price) * ratio).toFixed(2);
-        return `~$${newPrice}`;
       });
 
       el.textContent = scaled;

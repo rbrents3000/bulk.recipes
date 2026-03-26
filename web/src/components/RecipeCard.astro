@@ -5,6 +5,7 @@ import { getCategoryImage } from '../data/categoryImages';
 interface Props {
   title: string;
   description: string;
+  card_description?: string;
   cost: number;
   cost_unit: string;
   prep: string;
@@ -17,7 +18,7 @@ interface Props {
   slug: string;
 }
 
-const { title, description, cost, cost_unit, prep, cook, servings, category, vegetarian, gluten_free, dairy_free, slug } = Astro.props;
+const { title, description, card_description, cost, cost_unit, prep, cook, servings, category, vegetarian, gluten_free, dairy_free, slug } = Astro.props;
 
 const href = `/recipes/${slug}`;
 const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
@@ -77,7 +78,7 @@ const categoryImage = getCategoryImage(category);
         {title}
       </h3>
       <p class="text-sm text-on-surface-variant line-clamp-2 mb-3">
-        {description}
+        {card_description || description}
       </p>
       <div class="flex items-center gap-4 text-xs text-on-surface-variant">
         <span class="flex items-center gap-1">
