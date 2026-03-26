@@ -1,36 +1,55 @@
 ---
-title: "Turkey Provolone Pinwheels"
-description: "The deli sells 20 pinwheels for $10 and they vanish at every party. These are dead simple — roll, slice, done. Make them the night before and you're a hero."
-prep: "15 min"
-cook: "0 min"
-servings: "20 pinwheels"
+title: Turkey Provolone Pinwheels
+description: >-
+  The deli sells 20 pinwheels for $10 and they vanish at every party. These are
+  dead simple — roll, slice, done. Make them the night before and you're a hero.
+prep: 15 min
+cook: 0 min
+servings: 20 pinwheels
 cost: 0.5
-cost_unit: "pinwheel"
-category: "costco-copycats/deli"
+cost_unit: pinwheel
+category: costco-copycats/deli
 vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Signature Oven Roasted Turkey Breast — 1 lb, thinly sliced (~$11.99, 2 lb pack)"
-  - "Provolone Cheese — 8 slices (~$8.99, 2 lb pack)"
-  - "Kirkland Signature Flour Tortillas — 4 large (~$4.49, 24 count)"
-  - "Kirkland Signature Organic Spring Mix — 2 cups (~$4.99, 1 lb clamshell)"
+  - >-
+    Kirkland Signature Oven Roasted Turkey Breast — 1 lb, thinly sliced
+    (~$11.99, 2 lb pack)
+  - 'Provolone Cheese — 8 slices (~$8.99, 2 lb pack)'
+  - 'Kirkland Signature Flour Tortillas — 4 large (~$4.49, 24 count)'
+  - 'Kirkland Signature Organic Spring Mix — 2 cups (~$4.99, 1 lb clamshell)'
 other_ingredients:
-  - "4 tablespoons cream cheese, softened"
-  - "1 tablespoon Dijon mustard"
-  - "1/2 teaspoon garlic powder"
-  - "Salt and pepper to taste"
+  - '4 tablespoons cream cheese, softened'
+  - 1 tablespoon Dijon mustard
+  - 1/2 teaspoon garlic powder
+  - Salt and pepper to taste
 instructions:
-  - "Mix cream cheese, Dijon mustard, and garlic powder until smooth."
-  - "Spread a thin layer of the cream cheese mixture across each tortilla, edge to edge."
-  - "Layer turkey slices, provolone, and spring mix evenly across each tortilla, leaving a 1-inch border at the top edge."
-  - "Roll each tortilla tightly from the bottom, keeping it as snug as possible. The cream cheese acts as glue."
-  - "Wrap each roll tightly in plastic wrap. Refrigerate at least 1 hour (overnight is best — they firm up and slice cleaner)."
-  - "Unwrap and trim the uneven ends. Slice each roll into 5 pinwheels."
-storage: "Refrigerate wrapped rolls up to 3 days. Slice just before serving for the cleanest presentation. Don't freeze — the lettuce turns to mush."
+  - 'Mix cream cheese, Dijon mustard, and garlic powder until smooth.'
+  - >-
+    Spread a thin layer of the cream cheese mixture across each tortilla, edge
+    to edge.
+  - >-
+    Layer turkey slices, provolone, and spring mix evenly across each tortilla,
+    leaving a 1-inch border at the top edge.
+  - >-
+    Roll each tortilla tightly from the bottom, keeping it as snug as possible.
+    The cream cheese acts as glue.
+  - >-
+    Wrap each roll tightly in plastic wrap. Refrigerate at least 1 hour
+    (overnight is best — they firm up and slice cleaner).
+  - Unwrap and trim the uneven ends. Slice each roll into 5 pinwheels.
+storage: >-
+  Refrigerate wrapped rolls up to 3 days. Slice just before serving for the
+  cleanest presentation. Don't freeze — the lettuce turns to mush.
 leftover_ideas:
-  - "Serve unsliced as wraps for a quick lunch"
-  - "Skip the lettuce and pack in a lunchbox — holds up better"
+  - Serve unsliced as wraps for a quick lunch
+  - Skip the lettuce and pack in a lunchbox — holds up better
+nutrition:
+  calories: 103
+  protein: 9
+  carbs: 5
+  fat: 5
 ---
 # Copycat Costco Turkey Provolone Pinwheels
 

@@ -1,44 +1,67 @@
 ---
-title: "Triple Chocolate Loaf"
-description: "Three kinds of chocolate in one loaf. The bakery's 2025 MVP, now in your kitchen."
-prep: "15 min"
-cook: "55 min"
-servings: "10 slices"
+title: Triple Chocolate Loaf
+description: >-
+  Three kinds of chocolate in one loaf. The bakery's 2025 MVP, now in your
+  kitchen.
+prep: 15 min
+cook: 55 min
+servings: 10 slices
 cost: 0.75
-cost_unit: "slice"
-category: "costco-copycats/bakery"
+cost_unit: slice
+category: costco-copycats/bakery
 vegetarian: true
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Signature Semi-Sweet Chocolate Chips — 1.5 cups (~$9.99, 4.5 lb bag)"
-  - "Kirkland Signature Unsalted Butter — 1/2 cup (1 stick) (~$12.99, 4 x 1 lb bars)"
-  - "Kirkland Signature Cage-Free Eggs — 3 eggs (~$7.99, 5 dozen)"
+  - >-
+    Kirkland Signature Semi-Sweet Chocolate Chips — 1.5 cups (~$9.99, 4.5 lb
+    bag)
+  - >-
+    Kirkland Signature Unsalted Butter — 1/2 cup (1 stick) (~$12.99, 4 x 1 lb
+    bars)
+  - 'Kirkland Signature Cage-Free Eggs — 3 eggs (~$7.99, 5 dozen)'
 other_ingredients:
-  - "1 cup all-purpose flour"
-  - "1/2 cup unsweetened cocoa powder"
-  - "3/4 cup sugar"
-  - "1 teaspoon baking powder"
-  - "1/2 teaspoon salt"
-  - "1/2 cup sour cream"
-  - "2 teaspoons vanilla extract"
-  - "1/2 cup white chocolate chips *(for the drizzle on top)*"
+  - 1 cup all-purpose flour
+  - 1/2 cup unsweetened cocoa powder
+  - 3/4 cup sugar
+  - 1 teaspoon baking powder
+  - 1/2 teaspoon salt
+  - 1/2 cup sour cream
+  - 2 teaspoons vanilla extract
+  - 1/2 cup white chocolate chips *(for the drizzle on top)*
 instructions:
-  - "Preheat oven to 350°F (175°C). Grease a standard 9x5 loaf pan and line with parchment paper."
-  - "Melt butter and 1 cup of the chocolate chips together in a saucepan over low heat, stirring constantly. Remove from heat and let cool slightly."
-  - "In a large bowl, whisk eggs, sugar, vanilla, and sour cream until smooth."
-  - "Pour the melted chocolate mixture into the egg mixture and fold together."
-  - "Sift flour, cocoa powder, baking powder, and salt over the batter. Fold in gently — you want it just combined, not beaten into submission."
-  - "Fold in the remaining 1/2 cup chocolate chips."
-  - "Pour into prepared loaf pan and smooth the top."
-  - "Bake 50-55 minutes until a toothpick inserted in the center comes out with moist crumbs (not wet batter)."
-  - "Cool in pan 15 minutes, then turn out onto a wire rack to cool completely."
-  - "Melt white chocolate chips and drizzle over the top in dramatic zigzags. This is the triple in triple chocolate."
-storage: "Keeps 5 days wrapped tightly at room temperature. Freezes beautifully — wrap individual slices for grab-and-go chocolate emergencies."
+  - >-
+    Preheat oven to 350°F (175°C). Grease a standard 9x5 loaf pan and line with
+    parchment paper.
+  - >-
+    Melt butter and 1 cup of the chocolate chips together in a saucepan over low
+    heat, stirring constantly. Remove from heat and let cool slightly.
+  - 'In a large bowl, whisk eggs, sugar, vanilla, and sour cream until smooth.'
+  - Pour the melted chocolate mixture into the egg mixture and fold together.
+  - >-
+    Sift flour, cocoa powder, baking powder, and salt over the batter. Fold in
+    gently — you want it just combined, not beaten into submission.
+  - Fold in the remaining 1/2 cup chocolate chips.
+  - Pour into prepared loaf pan and smooth the top.
+  - >-
+    Bake 50-55 minutes until a toothpick inserted in the center comes out with
+    moist crumbs (not wet batter).
+  - 'Cool in pan 15 minutes, then turn out onto a wire rack to cool completely.'
+  - >-
+    Melt white chocolate chips and drizzle over the top in dramatic zigzags.
+    This is the triple in triple chocolate.
+storage: >-
+  Keeps 5 days wrapped tightly at room temperature. Freezes beautifully — wrap
+  individual slices for grab-and-go chocolate emergencies.
 leftover_ideas:
-  - "French toast made with thick chocolate loaf slices (yes, really)"
-  - "Chocolate bread pudding with a splash of bourbon cream"
-  - "Crumble over vanilla ice cream for an instant sundae"
+  - 'French toast made with thick chocolate loaf slices (yes, really)'
+  - Chocolate bread pudding with a splash of bourbon cream
+  - Crumble over vanilla ice cream for an instant sundae
+nutrition:
+  calories: 410
+  protein: 6
+  carbs: 48
+  fat: 24
 ---
 # Triple Chocolate Loaf
 

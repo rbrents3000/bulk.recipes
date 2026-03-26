@@ -1,40 +1,65 @@
 ---
-title: "Spanakopita"
-description: "Flaky, buttery phyllo triangles stuffed with spinach and feta — the Costco deli sells 36 for $13 but homemade ones are crispier, cheesier, and you get to eat them hot."
-prep: "25 min"
-cook: "25 min"
-servings: "36 pieces"
+title: Spanakopita
+description: >-
+  Flaky, buttery phyllo triangles stuffed with spinach and feta — the Costco
+  deli sells 36 for $13 but homemade ones are crispier, cheesier, and you get to
+  eat them hot.
+prep: 25 min
+cook: 25 min
+servings: 36 pieces
 cost: 0.35
-cost_unit: "piece"
-category: "costco-copycats/deli"
+cost_unit: piece
+category: costco-copycats/deli
 vegetarian: true
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Signature Organic Frozen Spinach — 16 oz, thawed and squeezed dry (~$7.49, 4 lb bag)"
-  - "Kirkland Signature Feta Cheese — 8 oz crumbled (~$7.99, 24 oz container)"
-  - "Kirkland Signature Large Eggs — 2 eggs (~$7.99, 5 dozen)"
-  - "Kirkland Signature Unsalted Butter — 1/2 cup, melted (~$12.99, 4 x 1 lb bars)"
+  - >-
+    Kirkland Signature Organic Frozen Spinach — 16 oz, thawed and squeezed dry
+    (~$7.49, 4 lb bag)
+  - 'Kirkland Signature Feta Cheese — 8 oz crumbled (~$7.99, 24 oz container)'
+  - 'Kirkland Signature Large Eggs — 2 eggs (~$7.99, 5 dozen)'
+  - >-
+    Kirkland Signature Unsalted Butter — 1/2 cup, melted (~$12.99, 4 x 1 lb
+    bars)
 other_ingredients:
-  - "1 package (16 oz) phyllo dough, thawed"
-  - "1/2 medium onion, finely diced"
-  - "2 cloves garlic, minced"
-  - "2 tablespoons olive oil"
-  - "1/4 cup fresh dill, chopped (or 1 tablespoon dried)"
-  - "1/4 teaspoon nutmeg"
-  - "Salt and pepper to taste"
+  - '1 package (16 oz) phyllo dough, thawed'
+  - '1/2 medium onion, finely diced'
+  - '2 cloves garlic, minced'
+  - 2 tablespoons olive oil
+  - '1/4 cup fresh dill, chopped (or 1 tablespoon dried)'
+  - 1/4 teaspoon nutmeg
+  - Salt and pepper to taste
 instructions:
-  - "Preheat oven to 375°F (190°C). Line two baking sheets with parchment paper."
-  - "Heat olive oil in a skillet over medium heat. Cook onion 3-4 minutes until soft. Add garlic and cook 30 seconds. Let cool."
-  - "In a bowl, combine squeezed spinach, crumbled feta, eggs, onion mixture, dill, and nutmeg. Season with salt and pepper. Mix well."
-  - "Unroll phyllo dough and keep covered with a damp towel (it dries out fast). Take one sheet, brush with melted butter, and cut lengthwise into 3 strips."
-  - "Place a tablespoon of filling at the bottom corner of each strip. Fold corner up to make a triangle, then keep folding like a flag until you reach the end. Brush the outside with more butter."
-  - "Repeat until filling is used up. Place triangles seam-side down on baking sheets."
-  - "Bake 20-25 minutes until deep golden brown and crispy."
-storage: "Refrigerate cooked spanakopita up to 3 days. Reheat in a 350°F oven for 8-10 minutes to re-crisp. Freeze unbaked for up to 3 months."
+  - Preheat oven to 375°F (190°C). Line two baking sheets with parchment paper.
+  - >-
+    Heat olive oil in a skillet over medium heat. Cook onion 3-4 minutes until
+    soft. Add garlic and cook 30 seconds. Let cool.
+  - >-
+    In a bowl, combine squeezed spinach, crumbled feta, eggs, onion mixture,
+    dill, and nutmeg. Season with salt and pepper. Mix well.
+  - >-
+    Unroll phyllo dough and keep covered with a damp towel (it dries out fast).
+    Take one sheet, brush with melted butter, and cut lengthwise into 3 strips.
+  - >-
+    Place a tablespoon of filling at the bottom corner of each strip. Fold
+    corner up to make a triangle, then keep folding like a flag until you reach
+    the end. Brush the outside with more butter.
+  - >-
+    Repeat until filling is used up. Place triangles seam-side down on baking
+    sheets.
+  - Bake 20-25 minutes until deep golden brown and crispy.
+storage: >-
+  Refrigerate cooked spanakopita up to 3 days. Reheat in a 350°F oven for 8-10
+  minutes to re-crisp. Freeze unbaked for up to 3 months.
 leftover_ideas:
-  - "Serve cold with tzatziki as a snack"
-  - "Crumble over a Greek salad for extra crunch"
+  - Serve cold with tzatziki as a snack
+  - Crumble over a Greek salad for extra crunch
+nutrition:
+  calories: 52
+  protein: 1
+  carbs: 1
+  fat: 5
 ---
 # Copycat Costco Spanakopita
 

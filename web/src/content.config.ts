@@ -21,6 +21,12 @@ const recipes = defineCollection({
     instructions: z.array(z.string()).optional().default([]),
     storage: z.string().optional().default(''),
     leftover_ideas: z.array(z.string()).optional().default([]),
+    nutrition: z.object({
+      calories: z.number(),
+      protein: z.number(),
+      carbs: z.number(),
+      fat: z.number(),
+    }).optional(),
   }),
 });
 

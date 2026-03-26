@@ -1,41 +1,53 @@
 ---
-title: "White Chicken Chili"
-description: "Creamy, slightly spicy, and suspiciously easy for something this comforting."
-prep: "15 min"
-cook: "4 hr"
-servings: "8"
+title: White Chicken Chili
+description: 'Creamy, slightly spicy, and suspiciously easy for something this comforting.'
+prep: 15 min
+cook: 4 hr
+servings: '8'
 cost: 2.25
-cost_unit: "serving"
-category: "slow-cooker"
+cost_unit: serving
+category: slow-cooker
 vegetarian: false
 gluten_free: true
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Rotisserie Chicken — 1, shredded (~$4.99, whole chicken)"
-  - "Kirkland Chicken Broth — 4 cups (~$11.49, 6-pack cartons)"
-  - "Cream Cheese — 8 oz block (~$7.99, Kirkland 2-pack)"
+  - 'Kirkland Rotisserie Chicken — 1, shredded (~$4.99, whole chicken)'
+  - 'Kirkland Chicken Broth — 4 cups (~$11.49, 6-pack cartons)'
+  - 'Cream Cheese — 8 oz block (~$7.99, Kirkland 2-pack)'
 other_ingredients:
-  - "2 cans (15 oz each) great northern white beans, drained and rinsed"
-  - "2 cans (4 oz each) diced green chiles"
-  - "1 medium onion, diced"
-  - "4 cloves garlic, minced"
-  - "1 tbsp cumin"
-  - "1 tsp oregano"
-  - "1/2 tsp cayenne pepper (optional)"
-  - "Salt and pepper to taste"
-  - "Sour cream, shredded cheese, tortilla chips for topping"
+  - '2 cans (15 oz each) great northern white beans, drained and rinsed'
+  - 2 cans (4 oz each) diced green chiles
+  - '1 medium onion, diced'
+  - '4 cloves garlic, minced'
+  - 1 tbsp cumin
+  - 1 tsp oregano
+  - 1/2 tsp cayenne pepper (optional)
+  - Salt and pepper to taste
+  - 'Sour cream, shredded cheese, tortilla chips for topping'
 instructions:
-  - "Add shredded rotisserie chicken, white beans, green chiles, onion, garlic, cumin, oregano, cayenne, and chicken broth to the slow cooker. Stir."
-  - "Cover and cook on LOW for 4 hours or HIGH for 2 hours."
-  - "Cut the cream cheese into cubes and stir into the chili during the last 30 minutes of cooking. Stir occasionally until fully melted and creamy."
-  - "Season with salt and pepper to taste."
-  - "Serve topped with sour cream, shredded cheese, and crushed tortilla chips."
-storage: "Refrigerate for up to 4 days. Freezes well for up to 3 months, though the cream cheese may change the texture slightly. Stir vigorously when reheating to bring it back together."
+  - >-
+    Add shredded rotisserie chicken, white beans, green chiles, onion, garlic,
+    cumin, oregano, cayenne, and chicken broth to the slow cooker. Stir.
+  - Cover and cook on LOW for 4 hours or HIGH for 2 hours.
+  - >-
+    Cut the cream cheese into cubes and stir into the chili during the last 30
+    minutes of cooking. Stir occasionally until fully melted and creamy.
+  - Season with salt and pepper to taste.
+  - 'Serve topped with sour cream, shredded cheese, and crushed tortilla chips.'
+storage: >-
+  Refrigerate for up to 4 days. Freezes well for up to 3 months, though the
+  cream cheese may change the texture slightly. Stir vigorously when reheating
+  to bring it back together.
 leftover_ideas:
-  - "Use as a dip with tortilla chips for game day"
-  - "Stuff into burritos with rice and extra cheese"
-  - "Spoon over cornbread for a hearty open-faced meal"
-  - "Top baked potatoes for loaded chili potatoes"
+  - Use as a dip with tortilla chips for game day
+  - Stuff into burritos with rice and extra cheese
+  - Spoon over cornbread for a hearty open-faced meal
+  - Top baked potatoes for loaded chili potatoes
+nutrition:
+  calories: 123
+  protein: 4
+  carbs: 3
+  fat: 11
 ---
 # White Chicken Chili
 

@@ -1,42 +1,53 @@
 ---
-title: "Chicago-Style Italian Beef"
-description: "A sandwich so good that people drive across state lines for it. The slow cooker handles the 8-hour braise while you handle literally anything else."
-prep: "10 min"
-cook: "8 hr"
-servings: "8"
+title: Chicago-Style Italian Beef
+description: >-
+  A sandwich so good that people drive across state lines for it. The slow
+  cooker handles the 8-hour braise while you handle literally anything else.
+prep: 10 min
+cook: 8 hr
+servings: '8'
 cost: 3
-cost_unit: "serving"
-category: "slow-cooker"
+cost_unit: serving
+category: slow-cooker
 vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "USDA Choice Beef Chuck Roast — 3 lbs (~$6.99/lb, sold per lb)"
-  - "Kirkland Chicken Broth — 2 cups (~$4.99, 6-pack cartons)"
+  - 'USDA Choice Beef Chuck Roast — 3 lbs (~$6.99/lb, sold per lb)'
+  - 'Kirkland Chicken Broth — 2 cups (~$4.99, 6-pack cartons)'
 other_ingredients:
-  - "1 packet Italian dressing mix"
-  - "1 jar Giardiniera, hot or mild, 16 oz — this is non-negotiable"
-  - "4-5 Pepperoncini peppers + 1/4 cup of their jar juice"
-  - "8 Hoagie rolls (sturdy ones — they need to survive the jus)"
+  - 1 packet Italian dressing mix
+  - '1 jar Giardiniera, hot or mild, 16 oz — this is non-negotiable'
+  - 4-5 Pepperoncini peppers + 1/4 cup of their jar juice
+  - 8 Hoagie rolls (sturdy ones — they need to survive the jus)
 instructions:
-  - "Place the chuck roast in the slow cooker fat-side up."
-  - "Sprinkle the Italian dressing mix all over the top and sides of the roast."
-  - "Tuck the pepperoncini peppers around the roast."
-  - "Cover and cook on LOW for 8 hours."
-  - "The meat should shred with zero resistance."
-  - "Pull the beef out onto a cutting board."
-  - "Return the shredded beef to the pot."
-  - "Toast the hoagie rolls under the broiler until just golden, about 2 minutes."
-  - "Pile the beef generously onto the rolls."
-  - "Serve each sandwich with a small bowl of warm jus for dipping."
-storage: "Beef and jus refrigerate together for up to 5 days. Freezes well for up to 3 months. The jus solidifies into a beefy gelatin in the fridge — that's a sign of quality, not a problem. Reheat on the stove over medium-low until liquid and warmed through."
+  - Place the chuck roast in the slow cooker fat-side up.
+  - Sprinkle the Italian dressing mix all over the top and sides of the roast.
+  - Tuck the pepperoncini peppers around the roast.
+  - Cover and cook on LOW for 8 hours.
+  - The meat should shred with zero resistance.
+  - Pull the beef out onto a cutting board.
+  - Return the shredded beef to the pot.
+  - 'Toast the hoagie rolls under the broiler until just golden, about 2 minutes.'
+  - Pile the beef generously onto the rolls.
+  - Serve each sandwich with a small bowl of warm jus for dipping.
+storage: >-
+  Beef and jus refrigerate together for up to 5 days. Freezes well for up to 3
+  months. The jus solidifies into a beefy gelatin in the fridge — that's a sign
+  of quality, not a problem. Reheat on the stove over medium-low until liquid
+  and warmed through.
 leftover_ideas:
-  - "Spread on pizza dough with mozzarella for Italian beef pizza"
-  - "Stuff into quesadillas with provolone cheese"
-  - "Toss into fried rice with soy sauce and sesame oil (seriously, it works)"
-  - "Serve over creamy polenta with a ladle of jus"
-  - "Pile onto nachos with melted provolone and pickled peppers"
-  - "Wrap in egg roll wrappers and fry for Italian beef egg rolls"
+  - Spread on pizza dough with mozzarella for Italian beef pizza
+  - Stuff into quesadillas with provolone cheese
+  - 'Toss into fried rice with soy sauce and sesame oil (seriously, it works)'
+  - Serve over creamy polenta with a ladle of jus
+  - Pile onto nachos with melted provolone and pickled peppers
+  - Wrap in egg roll wrappers and fry for Italian beef egg rolls
+nutrition:
+  calories: 596
+  protein: 42
+  carbs: 47
+  fat: 26
 ---
 # Chicago-Style Italian Beef
 

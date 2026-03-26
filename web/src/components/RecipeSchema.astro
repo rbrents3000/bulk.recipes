@@ -12,9 +12,10 @@ interface Props {
   ingredients: string[];
   instructions: string[];
   keywords: string;
+  nutrition?: { calories: number; protein: number; carbs: number; fat: number };
 }
 
-const { title, description, prep, cook, servings, cost, costUnit, category, slug, ingredients, instructions, keywords } = Astro.props;
+const { title, description, prep, cook, servings, cost, costUnit, category, slug, ingredients, instructions, keywords, nutrition } = Astro.props;
 
 // Convert "15 min" or "8 hr" to ISO 8601 duration "PT15M" or "PT8H"
 function toISO(time: string): string {
@@ -89,6 +90,17 @@ const schema: Record<string, unknown> = {
   },
   "url": `https://bulk.recipes/recipes/${slug}`,
 };
+
+// Add nutrition if available
+if (nutrition) {
+  schema["nutrition"] = {
+    "@type": "NutritionInformation",
+    "calories": `${nutrition.calories} calories`,
+    "proteinContent": `${nutrition.protein} g`,
+    "carbohydrateContent": `${nutrition.carbs} g`,
+    "fatContent": `${nutrition.fat} g`,
+  };
+}
 
 // Only add ingredients if we found any
 if (ingredients.length > 0) {

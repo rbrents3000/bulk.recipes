@@ -1,45 +1,67 @@
 ---
-title: "Classic Chicken Noodle Soup"
-description: "The soup your grandma would make if she had a Costco membership and a busy schedule."
-prep: "15 min"
-cook: "20 min"
-servings: "8"
+title: Classic Chicken Noodle Soup
+description: >-
+  The soup your grandma would make if she had a Costco membership and a busy
+  schedule.
+prep: 15 min
+cook: 20 min
+servings: '8'
 cost: 1.75
-cost_unit: "serving"
-category: "soups"
+cost_unit: serving
+category: soups
 vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Rotisserie Chicken — 1 whole, shredded (~$4.99)"
-  - "Kirkland Chicken Broth — 8 cups (~$2.00, from 6-pack of 32 oz cartons)"
-  - "Organic Carrots — 4 medium, peeled and sliced (~$1.00, from 10 lb bag)"
-  - "Organic Celery — 4 stalks, sliced (~$0.75, from celery bunch)"
-  - "Kirkland Olive Oil — 2 tbsp (~$0.20, from 2L bottle)"
+  - 'Kirkland Rotisserie Chicken — 1 whole, shredded (~$4.99)'
+  - 'Kirkland Chicken Broth — 8 cups (~$2.00, from 6-pack of 32 oz cartons)'
+  - 'Organic Carrots — 4 medium, peeled and sliced (~$1.00, from 10 lb bag)'
+  - 'Organic Celery — 4 stalks, sliced (~$0.75, from celery bunch)'
+  - 'Kirkland Olive Oil — 2 tbsp (~$0.20, from 2L bottle)'
 other_ingredients:
-  - "8 oz wide egg noodles"
-  - "1 medium yellow onion, diced"
-  - "3 cloves garlic, minced"
-  - "2 bay leaves"
-  - "1 tsp dried thyme"
-  - "1/2 tsp dried rosemary"
-  - "1 tsp salt (adjust to taste)"
-  - "1/2 tsp black pepper"
-  - "2 tbsp fresh parsley, chopped"
-  - "Squeeze of lemon juice (optional, but it brightens everything)"
+  - 8 oz wide egg noodles
+  - '1 medium yellow onion, diced'
+  - '3 cloves garlic, minced'
+  - 2 bay leaves
+  - 1 tsp dried thyme
+  - 1/2 tsp dried rosemary
+  - 1 tsp salt (adjust to taste)
+  - 1/2 tsp black pepper
+  - '2 tbsp fresh parsley, chopped'
+  - 'Squeeze of lemon juice (optional, but it brightens everything)'
 instructions:
-  - "Heat olive oil in a large pot or Dutch oven over medium heat. Add onion, carrots, and celery. Cook for 5 minutes until the vegetables start to soften."
-  - "Add garlic, thyme, and rosemary. Stir for 30 seconds until fragrant."
-  - "Pour in the chicken broth. Add bay leaves, salt, and pepper. Bring to a boil."
-  - "Add egg noodles and cook for 8-10 minutes until the noodles are tender."
-  - "Stir in the shredded rotisserie chicken and cook 2-3 minutes more until heated through."
-  - "Remove bay leaves. Stir in fresh parsley and a squeeze of lemon juice if using. Taste and adjust seasoning."
-  - "Ladle into bowls and serve with crusty bread, because that's the law."
-storage: "Refrigerate in an airtight container for up to 5 days. The noodles will soak up broth as it sits — add a splash of extra broth when reheating. Freezes well for up to 3 months, but consider freezing the soup without the noodles and adding fresh ones when you reheat (frozen noodles get mushy)."
+  - >-
+    Heat olive oil in a large pot or Dutch oven over medium heat. Add onion,
+    carrots, and celery. Cook for 5 minutes until the vegetables start to
+    soften.
+  - 'Add garlic, thyme, and rosemary. Stir for 30 seconds until fragrant.'
+  - >-
+    Pour in the chicken broth. Add bay leaves, salt, and pepper. Bring to a
+    boil.
+  - Add egg noodles and cook for 8-10 minutes until the noodles are tender.
+  - >-
+    Stir in the shredded rotisserie chicken and cook 2-3 minutes more until
+    heated through.
+  - >-
+    Remove bay leaves. Stir in fresh parsley and a squeeze of lemon juice if
+    using. Taste and adjust seasoning.
+  - 'Ladle into bowls and serve with crusty bread, because that''s the law.'
+storage: >-
+  Refrigerate in an airtight container for up to 5 days. The noodles will soak
+  up broth as it sits — add a splash of extra broth when reheating. Freezes well
+  for up to 3 months, but consider freezing the soup without the noodles and
+  adding fresh ones when you reheat (frozen noodles get mushy).
 leftover_ideas:
-  - "Pour over mashed potatoes for a cozy open-face situation"
-  - "Strain out the solids and use them as a pot pie filling"
-  - "Reduce the broth and toss with buttered egg noodles for a quick chicken noodle skillet"
+  - Pour over mashed potatoes for a cozy open-face situation
+  - Strain out the solids and use them as a pot pie filling
+  - >-
+    Reduce the broth and toss with buttered egg noodles for a quick chicken
+    noodle skillet
+nutrition:
+  calories: 180
+  protein: 8
+  carbs: 26
+  fat: 5
 ---
 # Classic Chicken Noodle Soup
 

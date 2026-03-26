@@ -1,43 +1,56 @@
 ---
-title: "Honey Garlic Pork"
-description: "Sweet, sticky, garlicky pulled pork that practically shreds itself — five ingredients and the kind of flavor that has no business being this easy."
-prep: "10 min"
-cook: "8 hr"
-servings: "8"
+title: Honey Garlic Pork
+description: >-
+  Sweet, sticky, garlicky pulled pork that practically shreds itself — five
+  ingredients and the kind of flavor that has no business being this easy.
+prep: 10 min
+cook: 8 hr
+servings: '8'
 cost: 2.5
-cost_unit: "serving"
-category: "slow-cooker"
+cost_unit: serving
+category: slow-cooker
 vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Pork Shoulder/Butt — 3-4 lbs (~$2.49/lb, sold per lb)"
-  - "Kirkland Honey — 1/3 cup (~$12.99, 5 lb jug)"
+  - 'Kirkland Pork Shoulder/Butt — 3-4 lbs (~$2.49/lb, sold per lb)'
+  - 'Kirkland Honey — 1/3 cup (~$12.99, 5 lb jug)'
 other_ingredients:
-  - "1/3 cup Soy sauce"
-  - "4 cloves Garlic, minced"
-  - "2 tbsp Ketchup"
-  - "1 tbsp Sriracha or red chili flakes (optional, but encouraged)"
-  - "1 tbsp Cornstarch"
-  - "2 tbsp Cold water"
+  - 1/3 cup Soy sauce
+  - '4 cloves Garlic, minced'
+  - 2 tbsp Ketchup
+  - '1 tbsp Sriracha or red chili flakes (optional, but encouraged)'
+  - 1 tbsp Cornstarch
+  - 2 tbsp Cold water
 instructions:
-  - "Place the pork shoulder in the slow cooker fat-side up."
-  - "In a small bowl, whisk together the honey, soy sauce, minced garlic, ketchup, and sriracha."
-  - "Cover and cook on LOW for 8 hours or HIGH for 4 hours."
-  - "Carefully remove the pork to a cutting board."
-  - "Return the shredded pork to the slow cooker."
-  - "In a small cup, mix the cornstarch and cold water into a smooth slurry."
-  - "Cook on HIGH with the lid off for 15 more minutes."
-  - "Give it one final stir and let it sit with the lid on for 10 minutes."
-storage: "Refrigerate in an airtight container for up to 5 days. Freezes well for up to 3 months — freeze in individual portions for easy weeknight dinners. The sauce thickens in the fridge, which is normal. Add a splash of water when reheating on the stove or in the microwave."
+  - Place the pork shoulder in the slow cooker fat-side up.
+  - >-
+    In a small bowl, whisk together the honey, soy sauce, minced garlic,
+    ketchup, and sriracha.
+  - Cover and cook on LOW for 8 hours or HIGH for 4 hours.
+  - Carefully remove the pork to a cutting board.
+  - Return the shredded pork to the slow cooker.
+  - 'In a small cup, mix the cornstarch and cold water into a smooth slurry.'
+  - Cook on HIGH with the lid off for 15 more minutes.
+  - Give it one final stir and let it sit with the lid on for 10 minutes.
+storage: >-
+  Refrigerate in an airtight container for up to 5 days. Freezes well for up to
+  3 months — freeze in individual portions for easy weeknight dinners. The sauce
+  thickens in the fridge, which is normal. Add a splash of water when reheating
+  on the stove or in the microwave.
 leftover_ideas:
-  - "Pile onto slider buns with a quick pickle slaw"
-  - "Serve over jasmine rice with a fried egg for lazy rice bowls"
-  - "Toss into fried rice with frozen veggies and scrambled eggs"
-  - "Wrap in butter lettuce for low-carb lettuce wraps"
-  - "Drop into a bowl of instant ramen for an instant upgrade"
-  - "Fill flour tortillas with pork, pickled onions, and cilantro"
-  - "Stir into mac and cheese for a sweet-savory situation"
+  - Pile onto slider buns with a quick pickle slaw
+  - Serve over jasmine rice with a fried egg for lazy rice bowls
+  - Toss into fried rice with frozen veggies and scrambled eggs
+  - Wrap in butter lettuce for low-carb lettuce wraps
+  - Drop into a bowl of instant ramen for an instant upgrade
+  - 'Fill flour tortillas with pork, pickled onions, and cilantro'
+  - Stir into mac and cheese for a sweet-savory situation
+nutrition:
+  calories: 177
+  protein: 11
+  carbs: 15
+  fat: 8
 ---
 # Honey Garlic Pork
 

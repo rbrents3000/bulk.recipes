@@ -1,44 +1,71 @@
 ---
-title: "Birria Tacos (Costco Deli Style)"
-description: "The deli kit everyone fights over, with the consommé for dipping. Now you control portion sizes (and nobody has to share)."
-prep: "20 min"
-cook: "3 hr"
-servings: "8"
+title: Birria Tacos (Costco Deli Style)
+description: >-
+  The deli kit everyone fights over, with the consommé for dipping. Now you
+  control portion sizes (and nobody has to share).
+prep: 20 min
+cook: 3 hr
+servings: '8'
 cost: 3
-cost_unit: "serving"
-category: "costco-copycats/deli"
+cost_unit: serving
+category: costco-copycats/deli
 vegetarian: false
 gluten_free: true
 dairy_free: false
 costco_ingredients:
-  - "USDA Choice Beef Chuck Roast — 3 lbs (~$6.99/lb)"
-  - "Kirkland Signature Shredded Mexican Blend Cheese — 1 cup (~$12.99, 2.5 lb bag)"
+  - USDA Choice Beef Chuck Roast — 3 lbs (~$6.99/lb)
+  - >-
+    Kirkland Signature Shredded Mexican Blend Cheese — 1 cup (~$12.99, 2.5 lb
+    bag)
 other_ingredients:
-  - "4 dried guajillo chiles"
-  - "2 dried ancho chiles"
-  - "1 can (14 oz) diced tomatoes"
-  - "1 onion, quartered"
-  - "4 cloves garlic"
-  - "2 teaspoons cumin"
-  - "1 teaspoon dried oregano"
-  - "1 teaspoon smoked paprika"
-  - "Salt and pepper to taste"
-  - "24 corn tortillas"
-  - "Fresh cilantro, diced white onion, and lime wedges for serving"
+  - 4 dried guajillo chiles
+  - 2 dried ancho chiles
+  - 1 can (14 oz) diced tomatoes
+  - '1 onion, quartered'
+  - 4 cloves garlic
+  - 2 teaspoons cumin
+  - 1 teaspoon dried oregano
+  - 1 teaspoon smoked paprika
+  - Salt and pepper to taste
+  - 24 corn tortillas
+  - 'Fresh cilantro, diced white onion, and lime wedges for serving'
 instructions:
-  - "Toast dried guajillo and ancho chiles in a dry skillet about 30 seconds per side until fragrant and pliable. Don't let them burn — bitter chiles ruin everything."
-  - "Soak toasted chiles in hot water for 20 minutes until soft."
-  - "Blend soaked chiles with diced tomatoes, quartered onion, garlic, cumin, oregano, and smoked paprika until smooth."
-  - "Season chuck roast generously with salt and pepper. Sear all sides in a hot Dutch oven until deeply browned."
-  - "Pour the chile sauce over the seared meat. Cover and braise in a 325°F oven for 3 hours until the meat falls apart with a fork."
-  - "Pull the meat from the pot and shred with two forks. Strain the braising liquid — this is your consommé. Taste it. Try not to drink it all straight from the pot."
-  - "Dip corn tortillas in the warm consommé, then griddle them with a sprinkle of cheese until the edges get crispy and lacy."
-  - "Fill with shredded birria. Serve with a bowl of hot consommé for dipping, plus cilantro, diced onion, and lime wedges."
-storage: "Shredded meat and consommé keep 4 days in the fridge, or freeze separately for up to 3 months."
+  - >-
+    Toast dried guajillo and ancho chiles in a dry skillet about 30 seconds per
+    side until fragrant and pliable. Don't let them burn — bitter chiles ruin
+    everything.
+  - Soak toasted chiles in hot water for 20 minutes until soft.
+  - >-
+    Blend soaked chiles with diced tomatoes, quartered onion, garlic, cumin,
+    oregano, and smoked paprika until smooth.
+  - >-
+    Season chuck roast generously with salt and pepper. Sear all sides in a hot
+    Dutch oven until deeply browned.
+  - >-
+    Pour the chile sauce over the seared meat. Cover and braise in a 325°F oven
+    for 3 hours until the meat falls apart with a fork.
+  - >-
+    Pull the meat from the pot and shred with two forks. Strain the braising
+    liquid — this is your consommé. Taste it. Try not to drink it all straight
+    from the pot.
+  - >-
+    Dip corn tortillas in the warm consommé, then griddle them with a sprinkle
+    of cheese until the edges get crispy and lacy.
+  - >-
+    Fill with shredded birria. Serve with a bowl of hot consommé for dipping,
+    plus cilantro, diced onion, and lime wedges.
+storage: >-
+  Shredded meat and consommé keep 4 days in the fridge, or freeze separately for
+  up to 3 months.
 leftover_ideas:
-  - "Birria ramen: consommé + ramen noodles + a soft-boiled egg"
-  - "Birria quesadillas on flour tortillas"
-  - "Use the consommé as a soup base with rice and vegetables"
+  - 'Birria ramen: consommé + ramen noodles + a soft-boiled egg'
+  - Birria quesadillas on flour tortillas
+  - Use the consommé as a soup base with rice and vegetables
+nutrition:
+  calories: 571
+  protein: 41
+  carbs: 38
+  fat: 30
 ---
 # Birria Tacos (Costco Deli Style)
 

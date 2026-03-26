@@ -1,40 +1,65 @@
 ---
-title: "Chicken Marsala"
-description: "Tender chicken breasts in a rich mushroom Marsala wine sauce — the deli version costs $17, but you can make a bigger batch for less and it tastes better warm out of the pan."
-prep: "10 min"
-cook: "25 min"
-servings: "6"
+title: Chicken Marsala
+description: >-
+  Tender chicken breasts in a rich mushroom Marsala wine sauce — the deli
+  version costs $17, but you can make a bigger batch for less and it tastes
+  better warm out of the pan.
+prep: 10 min
+cook: 25 min
+servings: '6'
 cost: 3.5
-cost_unit: "serving"
-category: "costco-copycats/deli"
+cost_unit: serving
+category: costco-copycats/deli
 vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Signature Boneless Skinless Chicken Breasts — 3 breasts (about 2 lbs) (~$22.99, 6.5 lb pack)"
-  - "Kirkland Signature Sliced Baby Bella Mushrooms — 16 oz (~$4.49, 24 oz pack)"
-  - "Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)"
-  - "Kirkland Signature Extra Virgin Olive Oil — 2 tablespoons (~$13.99, 2 L)"
+  - >-
+    Kirkland Signature Boneless Skinless Chicken Breasts — 3 breasts (about 2
+    lbs) (~$22.99, 6.5 lb pack)
+  - 'Kirkland Signature Sliced Baby Bella Mushrooms — 16 oz (~$4.49, 24 oz pack)'
+  - 'Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)'
+  - 'Kirkland Signature Extra Virgin Olive Oil — 2 tablespoons (~$13.99, 2 L)'
 other_ingredients:
-  - "3/4 cup Marsala wine"
-  - "1/2 cup chicken broth"
-  - "1/3 cup heavy cream"
-  - "1/3 cup all-purpose flour"
-  - "2 cloves garlic, minced"
-  - "Salt and pepper to taste"
-  - "Fresh parsley for garnish *(optional)*"
+  - 3/4 cup Marsala wine
+  - 1/2 cup chicken broth
+  - 1/3 cup heavy cream
+  - 1/3 cup all-purpose flour
+  - '2 cloves garlic, minced'
+  - Salt and pepper to taste
+  - Fresh parsley for garnish *(optional)*
 instructions:
-  - "Slice chicken breasts in half horizontally to make thin cutlets. Season with salt and pepper, then dredge lightly in flour, shaking off excess."
-  - "Heat olive oil and 1 tablespoon butter in a large skillet over medium-high heat. Sear chicken cutlets 3-4 minutes per side until golden and cooked through. Remove and set aside."
-  - "In the same skillet, add another tablespoon of butter. Sauté mushrooms for 5-6 minutes until golden brown. Add garlic and cook 30 seconds."
-  - "Pour in Marsala wine and chicken broth. Scrape up any browned bits from the bottom. Let it simmer for 3-4 minutes until reduced by about a third."
-  - "Stir in heavy cream and remaining 2 tablespoons butter. Simmer for 2 minutes until the sauce thickens slightly."
-  - "Return chicken to the skillet and spoon sauce over the top. Cook 1-2 minutes to warm through."
-storage: "Refrigerate up to 3 days. Reheat gently in a skillet with a splash of broth to keep the sauce from breaking."
+  - >-
+    Slice chicken breasts in half horizontally to make thin cutlets. Season with
+    salt and pepper, then dredge lightly in flour, shaking off excess.
+  - >-
+    Heat olive oil and 1 tablespoon butter in a large skillet over medium-high
+    heat. Sear chicken cutlets 3-4 minutes per side until golden and cooked
+    through. Remove and set aside.
+  - >-
+    In the same skillet, add another tablespoon of butter. Sauté mushrooms for
+    5-6 minutes until golden brown. Add garlic and cook 30 seconds.
+  - >-
+    Pour in Marsala wine and chicken broth. Scrape up any browned bits from the
+    bottom. Let it simmer for 3-4 minutes until reduced by about a third.
+  - >-
+    Stir in heavy cream and remaining 2 tablespoons butter. Simmer for 2 minutes
+    until the sauce thickens slightly.
+  - >-
+    Return chicken to the skillet and spoon sauce over the top. Cook 1-2 minutes
+    to warm through.
+storage: >-
+  Refrigerate up to 3 days. Reheat gently in a skillet with a splash of broth to
+  keep the sauce from breaking.
 leftover_ideas:
-  - "Slice the chicken and serve over pasta with extra sauce"
-  - "Shred into a panini with provolone and arugula"
-  - "Chop and toss with penne for a quick marsala pasta"
+  - Slice the chicken and serve over pasta with extra sauce
+  - Shred into a panini with provolone and arugula
+  - Chop and toss with penne for a quick marsala pasta
+nutrition:
+  calories: 467
+  protein: 51
+  carbs: 8
+  fat: 24
 ---
 # Copycat Costco Chicken Marsala
 

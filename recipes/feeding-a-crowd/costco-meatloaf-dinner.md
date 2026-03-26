@@ -1,35 +1,52 @@
 ---
-title: "Costco Meatloaf with Mashed Potatoes"
-description: "The Costco deli meatloaf is a sleeper hit. Bake it up with a sheet pan of potatoes and you've got a full comfort food dinner for 8 with almost no work."
-prep: "15 min"
-cook: "60 min"
-servings: "8"
+title: Costco Meatloaf with Mashed Potatoes
+description: >-
+  The Costco deli meatloaf is a sleeper hit. Bake it up with a sheet pan of
+  potatoes and you've got a full comfort food dinner for 8 with almost no work.
+prep: 15 min
+cook: 60 min
+servings: '8'
 cost: 3
-cost_unit: "serving"
-category: "feeding-a-crowd"
+cost_unit: serving
+category: feeding-a-crowd
 vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Signature Meatloaf — 1 package (~4 lbs) (~$17.99, ~4 lbs (serves 8))"
-  - "Russet Potatoes — 3 lbs (about 6 large) (~$5.99, 10 lb bag)"
-  - "Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)"
-  - "Kirkland Signature Heavy Whipping Cream — 1/2 cup (~$9.99, 1.5 quarts)"
+  - >-
+    Kirkland Signature Meatloaf — 1 package (~4 lbs) (~$17.99, ~4 lbs (serves
+    8))
+  - 'Russet Potatoes — 3 lbs (about 6 large) (~$5.99, 10 lb bag)'
+  - 'Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)'
+  - 'Kirkland Signature Heavy Whipping Cream — 1/2 cup (~$9.99, 1.5 quarts)'
 other_ingredients:
-  - "to taste Salt and pepper"
-  - "1 lb, trimmed Green beans *(optional)*"
-  - "1/4 cup (for extra glaze) Ketchup *(optional)*"
+  - to taste Salt and pepper
+  - '1 lb, trimmed Green beans *(optional)*'
+  - 1/4 cup (for extra glaze) Ketchup *(optional)*
 instructions:
-  - "Preheat oven to 375°F (190°C)."
-  - "Remove the meatloaf from packaging and place on a foil-lined sheet pan or in the provided tray. If you want extra glaze, brush the top with ketchup."
-  - "Bake for 55-65 minutes until internal temperature reaches 160°F."
-  - "While meatloaf bakes, peel and cube the potatoes. Boil in salted water for 15-18 minutes until fork-tender."
-  - "Drain potatoes. Add butter and heavy cream. Mash to your preferred texture. Season with salt and pepper."
-  - "Let the meatloaf rest 10 minutes before slicing. Serve with mashed potatoes."
-storage: "Refrigerate leftover meatloaf and mashed potatoes separately for up to 4 days. Meatloaf freezes well for up to 3 months."
+  - Preheat oven to 375°F (190°C).
+  - >-
+    Remove the meatloaf from packaging and place on a foil-lined sheet pan or in
+    the provided tray. If you want extra glaze, brush the top with ketchup.
+  - Bake for 55-65 minutes until internal temperature reaches 160°F.
+  - >-
+    While meatloaf bakes, peel and cube the potatoes. Boil in salted water for
+    15-18 minutes until fork-tender.
+  - >-
+    Drain potatoes. Add butter and heavy cream. Mash to your preferred texture.
+    Season with salt and pepper.
+  - Let the meatloaf rest 10 minutes before slicing. Serve with mashed potatoes.
+storage: >-
+  Refrigerate leftover meatloaf and mashed potatoes separately for up to 4 days.
+  Meatloaf freezes well for up to 3 months.
 leftover_ideas:
-  - "Meatloaf sandwiches on Costco bakery bread with ketchup and pickles"
-  - "Crumble leftover meatloaf into pasta sauce for a quick bolognese"
+  - Meatloaf sandwiches on Costco bakery bread with ketchup and pickles
+  - Crumble leftover meatloaf into pasta sauce for a quick bolognese
+nutrition:
+  calories: 332
+  protein: 9
+  carbs: 59
+  fat: 8
 ---
 # Costco Meatloaf with Mashed Potatoes
 

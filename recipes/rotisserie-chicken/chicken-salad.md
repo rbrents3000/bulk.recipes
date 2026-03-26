@@ -1,40 +1,63 @@
 ---
-title: "Classic Chicken Salad"
-description: "Creamy, crunchy chicken salad that turns one Costco rotisserie chicken into a week's worth of sandwiches, crackers, and straight-from-the-bowl snacking."
-prep: "15 min"
-cook: "0 min"
-servings: "6"
+title: Classic Chicken Salad
+description: >-
+  Creamy, crunchy chicken salad that turns one Costco rotisserie chicken into a
+  week's worth of sandwiches, crackers, and straight-from-the-bowl snacking.
+prep: 15 min
+cook: 0 min
+servings: '6'
 cost: 2.25
-cost_unit: "serving"
-category: "rotisserie-chicken"
+cost_unit: serving
+category: rotisserie-chicken
 vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Signature Rotisserie Chicken — 1 chicken (about 3 cups shredded) (~$4.99, 3 lb whole chicken)"
-  - "Kirkland Signature Pecan Halves — 1/2 cup, roughly chopped (~$13.99, 2 lb bag)"
-  - "Red Seedless Grapes — 1 cup, halved (~$6.99, 3 lb bag)"
-  - "Kirkland Signature Mayonnaise — 1/2 cup (~$6.49, 64 oz jar)"
+  - >-
+    Kirkland Signature Rotisserie Chicken — 1 chicken (about 3 cups shredded)
+    (~$4.99, 3 lb whole chicken)
+  - >-
+    Kirkland Signature Pecan Halves — 1/2 cup, roughly chopped (~$13.99, 2 lb
+    bag)
+  - 'Red Seedless Grapes — 1 cup, halved (~$6.99, 3 lb bag)'
+  - 'Kirkland Signature Mayonnaise — 1/2 cup (~$6.49, 64 oz jar)'
 other_ingredients:
-  - "2 stalks Celery, diced"
-  - "2 tablespoons Dijon mustard"
-  - "1 tablespoon Lemon juice"
-  - "1/2 teaspoon Salt"
-  - "1/4 teaspoon Black pepper"
-  - "Bread, crackers, or lettuce wraps *(for serving)*"
+  - '2 stalks Celery, diced'
+  - 2 tablespoons Dijon mustard
+  - 1 tablespoon Lemon juice
+  - 1/2 teaspoon Salt
+  - 1/4 teaspoon Black pepper
+  - 'Bread, crackers, or lettuce wraps *(for serving)*'
 instructions:
-  - "Shred the rotisserie chicken into bite-sized pieces, discarding skin and bones. You want about 3 cups."
-  - "In a large bowl, combine the mayo, Dijon mustard, lemon juice, salt, and pepper. Stir until smooth."
-  - "Add the shredded chicken, diced celery, halved grapes, and chopped pecans to the bowl."
-  - "Fold everything together gently until the chicken is evenly coated. Don't overmix — you want chunks, not paste."
-  - "Taste and adjust salt and pepper as needed."
-  - "Refrigerate for at least 30 minutes before serving to let the flavors come together."
-  - "Serve on bread, with crackers, or scooped into lettuce cups."
-storage: "Refrigerate in an airtight container up to 4 days. Does not freeze well due to the mayo and grapes."
+  - >-
+    Shred the rotisserie chicken into bite-sized pieces, discarding skin and
+    bones. You want about 3 cups.
+  - >-
+    In a large bowl, combine the mayo, Dijon mustard, lemon juice, salt, and
+    pepper. Stir until smooth.
+  - >-
+    Add the shredded chicken, diced celery, halved grapes, and chopped pecans to
+    the bowl.
+  - >-
+    Fold everything together gently until the chicken is evenly coated. Don't
+    overmix — you want chunks, not paste.
+  - Taste and adjust salt and pepper as needed.
+  - >-
+    Refrigerate for at least 30 minutes before serving to let the flavors come
+    together.
+  - 'Serve on bread, with crackers, or scooped into lettuce cups.'
+storage: >-
+  Refrigerate in an airtight container up to 4 days. Does not freeze well due to
+  the mayo and grapes.
 leftover_ideas:
-  - "Stuff into a halved avocado for a low-carb lunch"
-  - "Scoop onto Costco croissants for chicken salad sandwiches"
-  - "Spread into a tortilla wrap with lettuce and tomato"
+  - Stuff into a halved avocado for a low-carb lunch
+  - Scoop onto Costco croissants for chicken salad sandwiches
+  - Spread into a tortilla wrap with lettuce and tomato
+nutrition:
+  calories: 152
+  protein: 2
+  carbs: 3
+  fat: 14
 ---
 # Classic Chicken Salad
 

@@ -1,35 +1,63 @@
 ---
-title: "Peanut Butter Cookies"
-description: "Three ingredients. No flour. No butter. No mixer. Somehow, these are some of the best cookies you'll ever make. We don't understand it either."
-prep: "10 min"
-cook: "12 min"
-servings: "24"
+title: Peanut Butter Cookies
+description: >-
+  Three ingredients. No flour. No butter. No mixer. Somehow, these are some of
+  the best cookies you'll ever make. We don't understand it either.
+prep: 10 min
+cook: 12 min
+servings: '24'
 cost: 0.5
-cost_unit: "serving"
-category: "desserts"
+cost_unit: serving
+category: desserts
 vegetarian: true
 gluten_free: true
 dairy_free: true
 costco_ingredients:
-  - "Kirkland Creamy Peanut Butter — 1 cup (~$1.50, 2-pack/28 oz jars)"
-  - "Kirkland Large Eggs — 1 (~$0.25, 24-count)"
+  - 'Kirkland Creamy Peanut Butter — 1 cup (~$1.50, 2-pack/28 oz jars)'
+  - 'Kirkland Large Eggs — 1 (~$0.25, 24-count)'
 other_ingredients:
-  - "1 cup granulated sugar"
-  - "1 tsp vanilla extract (optional, but nice)"
-  - "Flaky sea salt for topping (optional, but transformative)"
+  - 1 cup granulated sugar
+  - '1 tsp vanilla extract (optional, but nice)'
+  - 'Flaky sea salt for topping (optional, but transformative)'
 instructions:
-  - "Preheat the oven to 350 degrees. Line two baking sheets with parchment paper. That's half the cleanup already done."
-  - "In a medium bowl, mix the peanut butter, sugar, and egg together until smooth and fully combined. It'll look a bit oily and loose — that's normal. Stir in the vanilla if using."
-  - "Scoop the dough into tablespoon-sized balls and place them on the baking sheets about 2 inches apart. You should get about 24 cookies."
-  - "Press each ball with the back of a fork to make that classic crosshatch pattern, pressing down gently until about 1/2 inch thick. Rotate 90 degrees and press again."
-  - "Sprinkle each cookie with a tiny pinch of flaky sea salt if you're feeling fancy. (You should be feeling fancy.)"
-  - "Bake for 10–12 minutes, until the edges are set and just starting to turn golden. The centers will look slightly underdone — that's what you want. They firm up as they cool."
-  - "Let the cookies cool on the baking sheet for 5 minutes before transferring to a wire rack. They're fragile when hot but sturdy once cool."
-storage: "Store in an airtight container at room temperature for up to 5 days. They actually taste even better the next day once the flavors have mellowed. Freeze baked cookies for up to 2 months, or freeze the dough balls and bake from frozen (add 2 minutes to bake time)."
+  - >-
+    Preheat the oven to 350 degrees. Line two baking sheets with parchment
+    paper. That's half the cleanup already done.
+  - >-
+    In a medium bowl, mix the peanut butter, sugar, and egg together until
+    smooth and fully combined. It'll look a bit oily and loose — that's normal.
+    Stir in the vanilla if using.
+  - >-
+    Scoop the dough into tablespoon-sized balls and place them on the baking
+    sheets about 2 inches apart. You should get about 24 cookies.
+  - >-
+    Press each ball with the back of a fork to make that classic crosshatch
+    pattern, pressing down gently until about 1/2 inch thick. Rotate 90 degrees
+    and press again.
+  - >-
+    Sprinkle each cookie with a tiny pinch of flaky sea salt if you're feeling
+    fancy. (You should be feeling fancy.)
+  - >-
+    Bake for 10–12 minutes, until the edges are set and just starting to turn
+    golden. The centers will look slightly underdone — that's what you want.
+    They firm up as they cool.
+  - >-
+    Let the cookies cool on the baking sheet for 5 minutes before transferring
+    to a wire rack. They're fragile when hot but sturdy once cool.
+storage: >-
+  Store in an airtight container at room temperature for up to 5 days. They
+  actually taste even better the next day once the flavors have mellowed. Freeze
+  baked cookies for up to 2 months, or freeze the dough balls and bake from
+  frozen (add 2 minutes to bake time).
 leftover_ideas:
-  - "Crumble over vanilla ice cream for an instant peanut butter sundae"
-  - "Sandwich two cookies with Nutella or jam in the middle"
-  - "Crush them into a crust for a no-bake peanut butter pie"
+  - Crumble over vanilla ice cream for an instant peanut butter sundae
+  - Sandwich two cookies with Nutella or jam in the middle
+  - Crush them into a crust for a no-bake peanut butter pie
+nutrition:
+  calories: 104
+  protein: 0
+  carbs: 8
+  fat: 8
 ---
 # Peanut Butter Cookies
 

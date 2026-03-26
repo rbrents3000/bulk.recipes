@@ -1,47 +1,63 @@
 ---
-title: "Slow Cooker Chicken Tortilla Soup"
-description: "Smoky, spicy chicken soup loaded with black beans and fire-roasted tomatoes, finished with all the crunchy toppings you can pile on."
-prep: "10 min"
-cook: "6 hr"
-servings: "8"
+title: Slow Cooker Chicken Tortilla Soup
+description: >-
+  Smoky, spicy chicken soup loaded with black beans and fire-roasted tomatoes,
+  finished with all the crunchy toppings you can pile on.
+prep: 10 min
+cook: 6 hr
+servings: '8'
 cost: 2
-cost_unit: "serving"
-category: "slow-cooker"
+cost_unit: serving
+category: slow-cooker
 vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Boneless Skinless Chicken Thighs — 1.5 lbs (~$2.99/lb)"
-  - "Kirkland Diced Tomatoes — 1 can, 14 oz (~$6.99, 8-pack)"
-  - "Kirkland Organic Black Beans — 1 can, 15 oz, drained and rinsed (~$7.49, 8-pack)"
-  - "Kirkland Chicken Broth — 4 cups (~$4.99, 6-pack cartons)"
-  - "Kirkland Shredded Mexican Blend Cheese — 1 cup for topping (~$12.99, 2.5 lb bag)"
+  - Kirkland Boneless Skinless Chicken Thighs — 1.5 lbs (~$2.99/lb)
+  - 'Kirkland Diced Tomatoes — 1 can, 14 oz (~$6.99, 8-pack)'
+  - >-
+    Kirkland Organic Black Beans — 1 can, 15 oz, drained and rinsed (~$7.49,
+    8-pack)
+  - 'Kirkland Chicken Broth — 4 cups (~$4.99, 6-pack cartons)'
+  - >-
+    Kirkland Shredded Mexican Blend Cheese — 1 cup for topping (~$12.99, 2.5 lb
+    bag)
 other_ingredients:
-  - "1 Onion, diced"
-  - "2 cloves Garlic, minced"
-  - "1 cup Frozen corn kernels"
-  - "1 tbsp Cumin"
-  - "1 tsp Chili powder"
-  - "1 tsp Smoked paprika"
-  - "Salt and pepper to taste"
-  - "Juice of 1 lime"
-  - "Toppings: tortilla strips or crushed chips, avocado, sour cream, cilantro"
+  - '1 Onion, diced'
+  - '2 cloves Garlic, minced'
+  - 1 cup Frozen corn kernels
+  - 1 tbsp Cumin
+  - 1 tsp Chili powder
+  - 1 tsp Smoked paprika
+  - Salt and pepper to taste
+  - Juice of 1 lime
+  - 'Toppings: tortilla strips or crushed chips, avocado, sour cream, cilantro'
 instructions:
-  - "Put the chicken thighs, diced tomatoes (with their juice), black beans, chicken broth, onion, garlic, and frozen corn into the slow cooker."
-  - "Add the cumin, chili powder, and smoked paprika."
-  - "Cover and cook on LOW for 6 hours or HIGH for 3 hours."
-  - "Pull the chicken thighs out onto a cutting board."
-  - "Return the shredded chicken to the pot."
-  - "Season with salt and pepper to taste."
-  - "Ladle into deep bowls and pile on the toppings."
-storage: "Refrigerate in airtight containers for up to 5 days. Freezes beautifully for up to 3 months — leave off the toppings before freezing. The soup thickens as it sits, which is normal. Add a splash of broth or water when reheating."
+  - >-
+    Put the chicken thighs, diced tomatoes (with their juice), black beans,
+    chicken broth, onion, garlic, and frozen corn into the slow cooker.
+  - 'Add the cumin, chili powder, and smoked paprika.'
+  - Cover and cook on LOW for 6 hours or HIGH for 3 hours.
+  - Pull the chicken thighs out onto a cutting board.
+  - Return the shredded chicken to the pot.
+  - Season with salt and pepper to taste.
+  - Ladle into deep bowls and pile on the toppings.
+storage: >-
+  Refrigerate in airtight containers for up to 5 days. Freezes beautifully for
+  up to 3 months — leave off the toppings before freezing. The soup thickens as
+  it sits, which is normal. Add a splash of broth or water when reheating.
 leftover_ideas:
-  - "Use as burrito filling with rice and extra cheese"
-  - "Pour over tortilla chips for loaded nachos"
-  - "Serve over cilantro-lime rice as a taco-style bowl"
-  - "Stuff into quesadillas with extra shredded cheese"
-  - "Thin it out with more broth for a lighter lunch portion"
-  - "Scramble eggs into reheated soup for a Tex-Mex breakfast bowl"
+  - Use as burrito filling with rice and extra cheese
+  - Pour over tortilla chips for loaded nachos
+  - Serve over cilantro-lime rice as a taco-style bowl
+  - Stuff into quesadillas with extra shredded cheese
+  - Thin it out with more broth for a lighter lunch portion
+  - Scramble eggs into reheated soup for a Tex-Mex breakfast bowl
+nutrition:
+  calories: 318
+  protein: 23
+  carbs: 17
+  fat: 17
 ---
 # Slow Cooker Chicken Tortilla Soup
 

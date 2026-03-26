@@ -1,41 +1,64 @@
 ---
-title: "Chicken Burrito Bowls"
-description: "Rotisserie chicken burrito bowls with cilantro-lime rice and all the fixings — meal prep that you'll actually look forward to eating on Thursday."
-prep: "15 min"
-cook: "10 min"
-servings: "6"
+title: Chicken Burrito Bowls
+description: >-
+  Rotisserie chicken burrito bowls with cilantro-lime rice and all the fixings —
+  meal prep that you'll actually look forward to eating on Thursday.
+prep: 15 min
+cook: 10 min
+servings: '6'
 cost: 2.5
-cost_unit: "serving"
-category: "meal-prep"
+cost_unit: serving
+category: meal-prep
 vegetarian: false
 gluten_free: true
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Rotisserie Chicken — 1 chicken (~$4.99, whole cooked chicken)"
-  - "Kirkland Cilantro Lime Rice — 1 bag (~$6.49, 6-pack microwavable pouches)"
-  - "Kirkland Black Beans — 1 can (~$0.89, 15 oz can from 8-pack case)"
-  - "Kirkland Frozen Corn — 1 cup (~$0.60, 5.5 lb bag)"
-  - "Kirkland Shredded Mexican Cheese — 1 cup (~$1.50, 2.5 lb bag)"
-  - "Kirkland Organic Salsa — 6 tbsp (~$0.80, 2-pack 38 oz jars)"
+  - 'Kirkland Rotisserie Chicken — 1 chicken (~$4.99, whole cooked chicken)'
+  - 'Kirkland Cilantro Lime Rice — 1 bag (~$6.49, 6-pack microwavable pouches)'
+  - 'Kirkland Black Beans — 1 can (~$0.89, 15 oz can from 8-pack case)'
+  - 'Kirkland Frozen Corn — 1 cup (~$0.60, 5.5 lb bag)'
+  - 'Kirkland Shredded Mexican Cheese — 1 cup (~$1.50, 2.5 lb bag)'
+  - 'Kirkland Organic Salsa — 6 tbsp (~$0.80, 2-pack 38 oz jars)'
 other_ingredients:
-  - "1 lime, juiced"
-  - "1 tsp cumin"
-  - "1 tsp chili powder"
-  - "Salt and pepper to taste"
-  - "Optional: sour cream, hot sauce, sliced jalapenos, diced avocado"
+  - '1 lime, juiced'
+  - 1 tsp cumin
+  - 1 tsp chili powder
+  - Salt and pepper to taste
+  - 'Optional: sour cream, hot sauce, sliced jalapenos, diced avocado'
 instructions:
-  - "Shred the rotisserie chicken into bite-sized pieces, discarding skin and bones. You should get about 3-4 cups of meat."
-  - "Heat the cilantro lime rice according to package directions. If you want to stretch it further, cook your own rice and toss with chopped cilantro and lime juice."
-  - "Drain and rinse the black beans. Warm them in a small saucepan with cumin, chili powder, and a pinch of salt for 3-4 minutes."
-  - "Microwave or pan-toast the frozen corn until heated through, about 2-3 minutes."
-  - "Divide the rice evenly among 6 meal prep containers."
-  - "Top each container with shredded chicken, seasoned black beans, corn, and a sprinkle of shredded cheese."
-  - "Add a tablespoon of salsa to each container or pack it in a small side cup to keep things from getting soggy."
-storage: "Keeps in the fridge for up to 5 days. Reheat in the microwave for 2-3 minutes, stirring halfway through. The bowls can also be frozen for up to 2 months -- thaw overnight in the fridge before reheating."
+  - >-
+    Shred the rotisserie chicken into bite-sized pieces, discarding skin and
+    bones. You should get about 3-4 cups of meat.
+  - >-
+    Heat the cilantro lime rice according to package directions. If you want to
+    stretch it further, cook your own rice and toss with chopped cilantro and
+    lime juice.
+  - >-
+    Drain and rinse the black beans. Warm them in a small saucepan with cumin,
+    chili powder, and a pinch of salt for 3-4 minutes.
+  - >-
+    Microwave or pan-toast the frozen corn until heated through, about 2-3
+    minutes.
+  - Divide the rice evenly among 6 meal prep containers.
+  - >-
+    Top each container with shredded chicken, seasoned black beans, corn, and a
+    sprinkle of shredded cheese.
+  - >-
+    Add a tablespoon of salsa to each container or pack it in a small side cup
+    to keep things from getting soggy.
+storage: >-
+  Keeps in the fridge for up to 5 days. Reheat in the microwave for 2-3 minutes,
+  stirring halfway through. The bowls can also be frozen for up to 2 months --
+  thaw overnight in the fridge before reheating.
 leftover_ideas:
-  - "Wrap everything in a large flour tortilla for a quick burrito"
-  - "Toss leftover chicken and beans into a quesadilla with extra cheese"
-  - "Use as a topping for nachos with tortilla chips"
+  - Wrap everything in a large flour tortilla for a quick burrito
+  - Toss leftover chicken and beans into a quesadilla with extra cheese
+  - Use as a topping for nachos with tortilla chips
+nutrition:
+  calories: 118
+  protein: 5
+  carbs: 21
+  fat: 2
 ---
 # Chicken Burrito Bowls
 

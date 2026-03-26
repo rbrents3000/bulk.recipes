@@ -1,39 +1,51 @@
 ---
-title: "Rice Krispie Treats"
-description: "Three ingredients. Ten minutes. Zero skill required. The fact that these taste this good with this little effort is genuinely unfair to other desserts."
-prep: "5 min"
-cook: "5 min"
-servings: "24 bars"
+title: Rice Krispie Treats
+description: >-
+  Three ingredients. Ten minutes. Zero skill required. The fact that these taste
+  this good with this little effort is genuinely unfair to other desserts.
+prep: 5 min
+cook: 5 min
+servings: 24 bars
 cost: 0.25
-cost_unit: "bar"
-category: "desserts"
+cost_unit: bar
+category: desserts
 vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:
-  - "Kirkland Unsalted Butter — 3 tbsp (~$4.29, 4-stick pack)"
-  - "Large Bag of Marshmallows — 10 oz / half bag (~$5.99, full bag)"
+  - 'Kirkland Unsalted Butter — 3 tbsp (~$4.29, 4-stick pack)'
+  - 'Large Bag of Marshmallows — 10 oz / half bag (~$5.99, full bag)'
 other_ingredients:
-  - "6 cups Rice Krispies cereal"
-  - "Pinch of salt (don't skip this — it makes the sweetness pop)"
-  - "1 tsp Vanilla extract (optional but worth it)"
+  - 6 cups Rice Krispies cereal
+  - Pinch of salt (don't skip this — it makes the sweetness pop)
+  - 1 tsp Vanilla extract (optional but worth it)
 instructions:
-  - "Melt the butter in a large pot over LOW heat."
-  - "Add the marshmallows and the vanilla extract if using."
-  - "Remove the pot from heat immediately."
-  - "Add the Rice Krispies cereal and a generous pinch of salt."
-  - "Butter a 9x13-inch baking pan or line it with parchment paper."
-  - "Press into an even layer using buttered hands or a buttered spatula."
-  - "Let them cool at room temperature for at least 30 minutes before cutting."
-  - "Cut into 24 bars (6 rows by 4 columns)."
-storage: "Keep in an airtight container at room temperature for up to 3 days. Place wax paper or parchment between layers so they don't fuse into one mega-treat. Do not refrigerate — cold firms up the marshmallow and kills the gooey texture."
+  - Melt the butter in a large pot over LOW heat.
+  - Add the marshmallows and the vanilla extract if using.
+  - Remove the pot from heat immediately.
+  - Add the Rice Krispies cereal and a generous pinch of salt.
+  - Butter a 9x13-inch baking pan or line it with parchment paper.
+  - Press into an even layer using buttered hands or a buttered spatula.
+  - Let them cool at room temperature for at least 30 minutes before cutting.
+  - Cut into 24 bars (6 rows by 4 columns).
+storage: >-
+  Keep in an airtight container at room temperature for up to 3 days. Place wax
+  paper or parchment between layers so they don't fuse into one mega-treat. Do
+  not refrigerate — cold firms up the marshmallow and kills the gooey texture.
 leftover_ideas:
-  - "Crumble over vanilla ice cream for a ridiculous sundae"
-  - "Dip the ends in melted chocolate and let set on parchment paper"
-  - "Make s'mores treats by folding in mini chocolate chips and crushed graham crackers"
-  - "Crumble into a bowl of warm milk for the world's laziest cereal"
-  - "Press into muffin tins for individual cup-shaped treat portions"
-  - "Drizzle with peanut butter and a pinch of flaky salt"
+  - Crumble over vanilla ice cream for a ridiculous sundae
+  - Dip the ends in melted chocolate and let set on parchment paper
+  - >-
+    Make s'mores treats by folding in mini chocolate chips and crushed graham
+    crackers
+  - Crumble into a bowl of warm milk for the world's laziest cereal
+  - Press into muffin tins for individual cup-shaped treat portions
+  - Drizzle with peanut butter and a pinch of flaky salt
+nutrition:
+  calories: 55
+  protein: 1
+  carbs: 10
+  fat: 2
 ---
 # Rice Krispie Treats
 

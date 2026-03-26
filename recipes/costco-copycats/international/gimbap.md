@@ -1,44 +1,72 @@
 ---
-title: "Gimbap"
-description: "Korean sushi rolls stuffed with seasoned rice, vegetables, and beef — colorful, portable, and wildly snackable. Costco Korea sells these by the platter, but a bag of bulk rice and some nori gets you there for a fraction of the price."
-prep: "30 min"
-cook: "20 min"
-servings: "4 (8 rolls)"
+title: Gimbap
+description: >-
+  Korean sushi rolls stuffed with seasoned rice, vegetables, and beef —
+  colorful, portable, and wildly snackable. Costco Korea sells these by the
+  platter, but a bag of bulk rice and some nori gets you there for a fraction of
+  the price.
+prep: 30 min
+cook: 20 min
+servings: 4 (8 rolls)
 cost: 2
-cost_unit: "serving"
-category: "costco-copycats/international"
+cost_unit: serving
+category: costco-copycats/international
 vegetarian: false
 gluten_free: false
 dairy_free: true
 costco_ingredients:
-  - "Kirkland Signature Jasmine Rice — 3 cups dry (~$16.99, 25 lb bag)"
-  - "Kirkland Signature Ground Beef 88/12 — 1/2 lb (~$6.99/lb)"
-  - "Kirkland Signature Large Eggs — 3 eggs (~$7.99, 5 dozen)"
-  - "Kirkland Signature Sesame Oil — 2 tablespoons (~$6.99, 20 oz)"
+  - 'Kirkland Signature Jasmine Rice — 3 cups dry (~$16.99, 25 lb bag)'
+  - Kirkland Signature Ground Beef 88/12 — 1/2 lb (~$6.99/lb)
+  - 'Kirkland Signature Large Eggs — 3 eggs (~$7.99, 5 dozen)'
+  - 'Kirkland Signature Sesame Oil — 2 tablespoons (~$6.99, 20 oz)'
 other_ingredients:
-  - "8 sheets roasted seaweed (gim/nori)"
-  - "3 cups cooked rice, seasoned with 1 tablespoon sesame oil and 1 teaspoon salt"
-  - "2 carrots, julienned"
-  - "1 English cucumber, cut into long strips"
-  - "4 strips yellow pickled radish (danmuji)"
-  - "1 bunch spinach, blanched and squeezed dry"
-  - "2 tablespoons soy sauce"
-  - "1 tablespoon sugar"
-  - "1 clove garlic, minced"
-  - "Sesame seeds"
-  - "Vegetable oil for cooking"
+  - 8 sheets roasted seaweed (gim/nori)
+  - >-
+    3 cups cooked rice, seasoned with 1 tablespoon sesame oil and 1 teaspoon
+    salt
+  - '2 carrots, julienned'
+  - '1 English cucumber, cut into long strips'
+  - 4 strips yellow pickled radish (danmuji)
+  - '1 bunch spinach, blanched and squeezed dry'
+  - 2 tablespoons soy sauce
+  - 1 tablespoon sugar
+  - '1 clove garlic, minced'
+  - Sesame seeds
+  - Vegetable oil for cooking
 instructions:
-  - "**Beef:** Cook ground beef in a skillet with soy sauce, sugar, garlic, and a splash of sesame oil until browned. Set aside."
-  - "**Eggs:** Beat eggs with a pinch of salt. Cook as a thin omelet in a non-stick pan. Roll and slice into thin strips."
-  - "**Carrots:** Sauté julienned carrots in a little oil with a pinch of salt for 2 minutes."
-  - "**Spinach:** Toss blanched spinach with 1 teaspoon sesame oil, a pinch of salt, and sesame seeds."
-  - "**Assemble:** Place a nori sheet on a bamboo rolling mat (shiny side down). Spread a thin layer of seasoned rice, leaving 1 inch at the top edge. Lay fillings in a line across the center."
-  - "Roll tightly from the bottom, tucking as you go. Seal the top edge with a dab of water."
-  - "Brush the outside with sesame oil. Slice each roll into 8 pieces with a sharp, wet knife."
-storage: "Best eaten within a few hours. Wrap tightly in plastic wrap for up to 1 day. Don't refrigerate if you can help it — cold rice gets hard."
+  - >-
+    **Beef:** Cook ground beef in a skillet with soy sauce, sugar, garlic, and a
+    splash of sesame oil until browned. Set aside.
+  - >-
+    **Eggs:** Beat eggs with a pinch of salt. Cook as a thin omelet in a
+    non-stick pan. Roll and slice into thin strips.
+  - >-
+    **Carrots:** Sauté julienned carrots in a little oil with a pinch of salt
+    for 2 minutes.
+  - >-
+    **Spinach:** Toss blanched spinach with 1 teaspoon sesame oil, a pinch of
+    salt, and sesame seeds.
+  - >-
+    **Assemble:** Place a nori sheet on a bamboo rolling mat (shiny side down).
+    Spread a thin layer of seasoned rice, leaving 1 inch at the top edge. Lay
+    fillings in a line across the center.
+  - >-
+    Roll tightly from the bottom, tucking as you go. Seal the top edge with a
+    dab of water.
+  - >-
+    Brush the outside with sesame oil. Slice each roll into 8 pieces with a
+    sharp, wet knife.
+storage: >-
+  Best eaten within a few hours. Wrap tightly in plastic wrap for up to 1 day.
+  Don't refrigerate if you can help it — cold rice gets hard.
 leftover_ideas:
-  - "Slice and pan-fry for crispy gimbap (amazing)"
-  - "Unroll and use the fillings in a rice bowl"
+  - Slice and pan-fry for crispy gimbap (amazing)
+  - Unroll and use the fillings in a rice bowl
+nutrition:
+  calories: 666
+  protein: 24
+  carbs: 79
+  fat: 27
 ---
 # Copycat Costco Korea Gimbap
 

@@ -24,7 +24,6 @@ Don't want to scroll through 181 recipes? Start here.
 
 **Under $2/Serving:**
 [Churros](costco-copycats/food-court/churros.md) ·
-[Lemonade Concentrate](drinks/lemonade-concentrate.md) ·
 [Granola Bars](snacks/granola-bars.md) ·
 [Peanut Butter Cookies](desserts/peanut-butter-cookies.md) ·
 [Overnight Oats](meal-prep/overnight-oats.md) ·
@@ -316,7 +315,6 @@ Because Costco sells fruit by the metric ton and you need to drink some of it.
 - [Berry Smoothie](drinks/berry-smoothie.md) — ~$1.50/serving
 - [Mango Lassi](drinks/mango-lassi.md) — ~$1.25/serving
 - [Cold Brew Concentrate](drinks/cold-brew-concentrate.md) — ~$0.50/serving
-- [Lemonade Concentrate](drinks/lemonade-concentrate.md) — ~$0.40/serving
 - [Iced Chai Latte](drinks/iced-chai-latte.md) — ~$0.75/serving
 - [Agua Fresca](drinks/agua-fresca.md) — ~$0.50/serving
 

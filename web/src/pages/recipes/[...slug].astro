@@ -26,7 +26,7 @@ const {
   title, description, prep, cook, servings, cost, cost_unit, category,
   vegetarian, gluten_free, dairy_free,
   costco_ingredients, other_ingredients, instructions: recipeInstructions,
-  storage, leftover_ideas
+  storage, leftover_ideas, nutrition
 } = recipe.data;
 
 const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
@@ -103,6 +103,7 @@ if (related.length === 0) {
     servings={servings} cost={cost} costUnit={cost_unit} category={category}
     slug={recipe.id} ingredients={[...costco_ingredients, ...other_ingredients]}
     instructions={recipeInstructions} keywords={keywords.join(', ')}
+    nutrition={nutrition}
   />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
@@ -178,6 +179,30 @@ if (related.length === 0) {
           <span class="text-lg font-bold text-tertiary">{costDisplay}</span>
         </div>
       </div>
+
+      <!-- Nutrition estimate -->
+      {nutrition && (
+        <div class="flex items-center gap-6 mt-4 p-3 bg-surface-container rounded-xl text-sm">
+          <span class="flex items-center gap-1.5">
+            <span class="material-symbols-outlined text-base text-on-surface-variant" aria-hidden="true">local_fire_department</span>
+            <span class="font-bold">{nutrition.calories}</span>
+            <span class="text-on-surface-variant">cal</span>
+          </span>
+          <span class="flex items-center gap-1">
+            <span class="font-bold">{nutrition.protein}g</span>
+            <span class="text-on-surface-variant">protein</span>
+          </span>
+          <span class="flex items-center gap-1">
+            <span class="font-bold">{nutrition.carbs}g</span>
+            <span class="text-on-surface-variant">carbs</span>
+          </span>
+          <span class="flex items-center gap-1">
+            <span class="font-bold">{nutrition.fat}g</span>
+            <span class="text-on-surface-variant">fat</span>
+          </span>
+          <span class="ml-auto text-xs text-on-surface-variant italic hidden sm:inline" title="Estimated from ingredient quantities using USDA data">per serving (est.)</span>
+        </div>
+      )}
 
       <!-- Copycat callout -->
       {isCopycat && copycatTab && (

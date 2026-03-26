@@ -1,46 +1,77 @@
 ---
-title: "Slow Cooker Pulled Pork"
-description: "Fork-tender pulled pork that practically makes itself -- just season, set, and forget for 8 hours of low and slow magic."
-prep: "15 min"
-cook: "8 hr"
-servings: "12"
+title: Slow Cooker Pulled Pork
+description: >-
+  Fork-tender pulled pork that practically makes itself -- just season, set, and
+  forget for 8 hours of low and slow magic.
+prep: 15 min
+cook: 8 hr
+servings: '12'
 cost: 2.5
-cost_unit: "serving"
-category: "feeding-a-crowd"
+cost_unit: serving
+category: feeding-a-crowd
 vegetarian: false
 gluten_free: true
 dairy_free: true
 costco_ingredients:
-  - "Kirkland Pork Shoulder Butt — 1 roast, about 7-8 lbs (~$14.00, ~$1.79/lb bone-in)"
-  - "Kirkland Sweet Baby Ray's BBQ Sauce — 1.5 cups (~$2.00, 2-pack 40 oz bottles)"
-  - "Kirkland Brioche Buns — 12 buns (~$4.99, 12-pack)"
+  - >-
+    Kirkland Pork Shoulder Butt — 1 roast, about 7-8 lbs (~$14.00, ~$1.79/lb
+    bone-in)
+  - >-
+    Kirkland Sweet Baby Ray's BBQ Sauce — 1.5 cups (~$2.00, 2-pack 40 oz
+    bottles)
+  - 'Kirkland Brioche Buns — 12 buns (~$4.99, 12-pack)'
 other_ingredients:
-  - "2 tbsp brown sugar"
-  - "1 tbsp paprika"
-  - "1 tbsp garlic powder"
-  - "1 tbsp onion powder"
-  - "1 tsp cumin"
-  - "1 tsp chili powder"
-  - "2 tsp salt"
-  - "1 tsp black pepper"
-  - "1/2 cup apple cider vinegar"
-  - "1/2 cup chicken broth or water"
-  - "Optional: coleslaw, pickles, and extra BBQ sauce for serving"
+  - 2 tbsp brown sugar
+  - 1 tbsp paprika
+  - 1 tbsp garlic powder
+  - 1 tbsp onion powder
+  - 1 tsp cumin
+  - 1 tsp chili powder
+  - 2 tsp salt
+  - 1 tsp black pepper
+  - 1/2 cup apple cider vinegar
+  - 1/2 cup chicken broth or water
+  - 'Optional: coleslaw, pickles, and extra BBQ sauce for serving'
 instructions:
-  - "Mix the brown sugar, paprika, garlic powder, onion powder, cumin, chili powder, salt, and pepper together in a small bowl."
-  - "Pat the pork shoulder dry with paper towels. Rub the spice mixture generously over the entire surface, getting into all the crevices."
-  - "Place the seasoned pork shoulder fat-side up in a 6-quart or larger slow cooker."
-  - "Pour the apple cider vinegar and chicken broth around the sides of the meat (not over the top -- you want to keep that spice rub in place)."
-  - "Cover and cook on LOW for 8-10 hours, or HIGH for 5-6 hours. The pork is done when it shreds easily with two forks and the internal temperature hits 200-205°F."
-  - "Transfer the pork to a large cutting board or sheet pan. Discard the bone if using bone-in. Shred the meat with two forks, pulling apart the fibers."
-  - "Skim the fat from the cooking liquid in the slow cooker. Return the shredded pork to the pot and add the BBQ sauce. Stir everything together and let it warm on LOW for another 15-20 minutes so the flavors meld."
-  - "Serve piled high on brioche buns with your choice of toppings."
-storage: "Keeps in the fridge for up to 4 days in an airtight container. Freeze in portioned bags (lay flat for faster thawing) for up to 3 months. The pork actually tastes better the next day after the flavors have had time to soak in."
+  - >-
+    Mix the brown sugar, paprika, garlic powder, onion powder, cumin, chili
+    powder, salt, and pepper together in a small bowl.
+  - >-
+    Pat the pork shoulder dry with paper towels. Rub the spice mixture
+    generously over the entire surface, getting into all the crevices.
+  - >-
+    Place the seasoned pork shoulder fat-side up in a 6-quart or larger slow
+    cooker.
+  - >-
+    Pour the apple cider vinegar and chicken broth around the sides of the meat
+    (not over the top -- you want to keep that spice rub in place).
+  - >-
+    Cover and cook on LOW for 8-10 hours, or HIGH for 5-6 hours. The pork is
+    done when it shreds easily with two forks and the internal temperature hits
+    200-205°F.
+  - >-
+    Transfer the pork to a large cutting board or sheet pan. Discard the bone if
+    using bone-in. Shred the meat with two forks, pulling apart the fibers.
+  - >-
+    Skim the fat from the cooking liquid in the slow cooker. Return the shredded
+    pork to the pot and add the BBQ sauce. Stir everything together and let it
+    warm on LOW for another 15-20 minutes so the flavors meld.
+  - Serve piled high on brioche buns with your choice of toppings.
+storage: >-
+  Keeps in the fridge for up to 4 days in an airtight container. Freeze in
+  portioned bags (lay flat for faster thawing) for up to 3 months. The pork
+  actually tastes better the next day after the flavors have had time to soak
+  in.
 leftover_ideas:
-  - "Pile onto nachos with cheese, jalapenos, and a drizzle of BBQ sauce"
-  - "Toss with mac and cheese for loaded pulled pork mac"
-  - "Use as a taco filling with pickled onions and a tangy slaw"
-  - "Top a baked potato with pulled pork, cheddar, and sour cream"
+  - 'Pile onto nachos with cheese, jalapenos, and a drizzle of BBQ sauce'
+  - Toss with mac and cheese for loaded pulled pork mac
+  - Use as a taco filling with pickled onions and a tangy slaw
+  - 'Top a baked potato with pulled pork, cheddar, and sour cream'
+nutrition:
+  calories: 395
+  protein: 13
+  carbs: 52
+  fat: 14
 ---
 # Slow Cooker Pulled Pork
 
