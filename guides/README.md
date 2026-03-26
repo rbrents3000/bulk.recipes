@@ -22,6 +22,7 @@ Beyond recipes and product listings, these guides help you plan, save, and waste
 | [Seasonal Guide](seasonal.md) | What's available when — and what to grab before it disappears |
 | [What's In Season](whats-in-season.md) | Month-by-month recipe calendar — what to cook right now |
 | [Freezer Guide](freezer-guide.md) | What to freeze, how long it lasts, and how to thaw it |
+| [Recipes by Ingredient](by-ingredient.md) | Find recipes by what protein or ingredient you have |
 
 ### Special Occasions
 

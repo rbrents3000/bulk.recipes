@@ -75,7 +75,8 @@ The stuff you wish someone had told you before your first Costco run. Meal plans
 [Dietary Index](guides/dietary.md) ·
 [Holiday Collections](guides/holidays.md) ·
 [What's In Season](guides/whats-in-season.md) ·
-[Costco by Country](guides/by-country.md)
+[Costco by Country](guides/by-country.md) ·
+[By Ingredient](guides/by-ingredient.md)
 
 ---
 

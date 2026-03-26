@@ -55,6 +55,17 @@ Don't want to scroll through 181 recipes? Start here.
 [Garlic Butter Steak Bites](weeknight-dinners/garlic-butter-steak-bites.md) ·
 [Salmon Milano](costco-copycats/deli/salmon-milano.md)
 
+**By Ingredient:**
+[Chicken](../guides/by-ingredient.md#chicken) ·
+[Beef](../guides/by-ingredient.md#beef) ·
+[Pork](../guides/by-ingredient.md#pork) ·
+[Salmon](../guides/by-ingredient.md#salmon--fish) ·
+[Shrimp](../guides/by-ingredient.md#shrimp) ·
+[Eggs](../guides/by-ingredient.md#eggs) ·
+[Pasta](../guides/by-ingredient.md#pasta) ·
+[Vegetarian](../guides/by-ingredient.md#vegetarian) ·
+[Pantry Only](../guides/by-ingredient.md#pantry-only)
+
 ---
 
 ## Rotisserie Chicken
