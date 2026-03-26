@@ -1,3 +1,16 @@
+---
+title: "Berry Sundae"
+description: "A homemade version of the Costco food court berry sundae — creamy vanilla ice cream layered with sweet-tart mixed berry sauce and crunchy waffle cone pieces."
+prep: "10 min"
+cook: "5 min"
+servings: "6"
+cost: 1.5
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Berry Sundae
 
 > A homemade version of the Costco food court berry sundae — creamy vanilla ice cream layered with sweet-tart mixed berry sauce and crunchy waffle cone pieces.

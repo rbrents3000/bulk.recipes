@@ -1,3 +1,16 @@
+---
+title: "Corn Chowder"
+description: "Sweet, creamy, and smoky. The soup that makes you wonder why you ever bothered with cream of anything from a can."
+prep: "15 min"
+cook: "25 min"
+servings: "8"
+cost: 1.5
+cost_unit: "serving"
+category: "soups"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Corn Chowder
 
 > Sweet, creamy, and smoky. The soup that makes you wonder why you ever bothered with cream of anything from a can.

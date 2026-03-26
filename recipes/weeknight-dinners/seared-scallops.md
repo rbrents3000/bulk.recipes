@@ -1,3 +1,16 @@
+---
+title: "Seared Scallops"
+description: "Restaurant-quality scallops at home — golden crust, buttery center, and you didn't even need a reservation."
+prep: "10 min"
+cook: "8 min"
+servings: "4"
+cost: 8
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Seared Scallops
 
 > Restaurant-quality scallops at home — golden crust, buttery center, and you didn't even need a reservation.

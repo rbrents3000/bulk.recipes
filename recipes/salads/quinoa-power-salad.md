@@ -1,3 +1,16 @@
+---
+title: "Quinoa Power Salad"
+description: "Virtuous enough to feel healthy, delicious enough to actually eat the leftovers voluntarily."
+prep: "15 min"
+cook: "15 min"
+servings: "6"
+cost: 2
+cost_unit: "serving"
+category: "salads"
+vegetarian: true
+gluten_free: true
+dairy_free: false
+---
 # Quinoa Power Salad
 
 > Virtuous enough to feel healthy, delicious enough to actually eat the leftovers voluntarily.
@@ -6,14 +19,12 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Kirkland Organic Quinoa | 1 bag | ~$8.99 | 4.5 lb bag |
-| Feta Cheese (chunk or crumbled) | 1 container | ~$6.99 | 24 oz container |
-| Cucumber | 2 English | ~$3.99 | 3-pack |
-| Cherry Tomatoes | 1 container | ~$4.99 | 2 lb clamshell |
-| Red Onion | 1 | ~$4.49 | 3 lb bag |
-| Kalamata Olives | 1 jar | ~$6.49 | 33 oz jar |
+- Kirkland Organic Quinoa — 1 bag (~$8.99, 4.5 lb bag)
+- Feta Cheese (chunk or crumbled) — 1 container (~$6.99, 24 oz container)
+- Cucumber — 2 English (~$3.99, 3-pack)
+- Cherry Tomatoes — 1 container (~$4.99, 2 lb clamshell)
+- Red Onion — 1 (~$4.49, 3 lb bag)
+- Kalamata Olives — 1 jar (~$6.49, 33 oz jar)
 
 ## Other Ingredients
 - 3 tablespoons lemon juice (about 2 lemons)

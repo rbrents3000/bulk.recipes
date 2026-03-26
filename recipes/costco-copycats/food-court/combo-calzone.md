@@ -1,3 +1,16 @@
+---
+title: "Costco Food Court Combo Calzone"
+description: "Because the food court line is long, but your oven is right there."
+prep: "20 min"
+cook: "25 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Costco Food Court Combo Calzone
 
 > Because the food court line is long, but your oven is right there.

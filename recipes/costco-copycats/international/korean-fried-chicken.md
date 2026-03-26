@@ -1,3 +1,16 @@
+---
+title: "Korean Fried Chicken"
+description: "Costco Korea sells double-fried Korean fried chicken that's impossibly crispy with a sticky-sweet yangnyeom glaze. This is that — shatteringly crunchy, saucy, and dangerously addictive."
+prep: "20 min"
+cook: "25 min"
+servings: "6"
+cost: 3
+cost_unit: "serving"
+category: "costco-copycats/international"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Copycat Costco Korea Korean Fried Chicken
 
 > Costco Korea sells double-fried Korean fried chicken that's impossibly crispy with a sticky-sweet yangnyeom glaze. This is that — shatteringly crunchy, saucy, and dangerously addictive.
@@ -45,7 +58,7 @@
 > **Tip:** The double-fry is the whole secret. First fry cooks it through, second fry at higher heat crisps the coating. Don't skip it.
 
 ## Storage
-Best eaten immediately — the crispy coating doesn't survive storage well. Leftover chicken (unsauced) can be re-crisped in a 425°F oven for 10 minutes.
+Best eaten immediately — the crispy coating doesn't survive storage well. Leftover unsauced chicken keeps in the fridge for up to 3 days and can be re-crisped in a 425°F oven for 10 minutes. You can also freeze unsauced pieces for up to 1 month — reheat from frozen in a 425°F oven until crispy again.
 
 ## Leftover Ideas
 - Chop and toss into fried rice

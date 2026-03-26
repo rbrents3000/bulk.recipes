@@ -1,8 +1,21 @@
+---
+title: "Birria Tacos (Costco Deli Style)"
+description: "The deli kit everyone fights over, with the consommé for dipping. Now you control portion sizes (and nobody has to share)."
+prep: "20 min"
+cook: "3 hr (slow braise)"
+servings: "8"
+cost: 3
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Birria Tacos (Costco Deli Style)
 
 > The deli kit everyone fights over, with the consommé for dipping. Now you control portion sizes (and nobody has to share).
 
-**Prep:** 20 min | **Cook:** 3 hours (slow braise) | **Servings:** 8 | **Cost:** ~$3.00/serving
+**Prep:** 20 min | **Cook:** 3 hr (slow braise) | **Servings:** 8 | **Cost:** ~$3.00/serving
 
 ## Costco Shopping List
 - USDA Choice Beef Chuck Roast — 3 lbs (~$6.99/lb)

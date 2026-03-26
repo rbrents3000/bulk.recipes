@@ -1,3 +1,16 @@
+---
+title: "Turkey Provolone Pinwheels"
+description: "The deli sells 20 pinwheels for $10 and they vanish at every party. These are dead simple — roll, slice, done. Make them the night before and you're a hero."
+prep: "15 min"
+cook: "0 min"
+servings: "20 pinwheels"
+cost: 0.5
+cost_unit: "pinwheel"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Turkey Provolone Pinwheels
 
 > The deli sells 20 pinwheels for $10 and they vanish at every party. These are dead simple — roll, slice, done. Make them the night before and you're a hero.

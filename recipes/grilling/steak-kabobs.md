@@ -1,3 +1,16 @@
+---
+title: "Steak Kabobs"
+description: "Cubed sirloin on a stick with all the veggies — grilling's greatest hits, assembled."
+prep: "20 min"
+cook: "10 min"
+servings: "4"
+cost: 5
+cost_unit: "serving"
+category: "grilling"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Steak Kabobs
 
 > Cubed sirloin on a stick with all the veggies — grilling's greatest hits, assembled.

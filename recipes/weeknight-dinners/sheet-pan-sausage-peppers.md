@@ -1,3 +1,16 @@
+---
+title: "Sheet Pan Italian Sausage & Peppers"
+description: "A dead-simple sheet pan dinner using Costco's Italian sausage and bulk bell peppers. Minimal cleanup, maximum flavor."
+prep: "10 min"
+cook: "30 min"
+servings: "5"
+cost: 2
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Sheet Pan Italian Sausage & Peppers
 
 > A dead-simple sheet pan dinner using Costco's Italian sausage and bulk bell peppers. Minimal cleanup, maximum flavor.

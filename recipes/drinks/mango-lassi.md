@@ -1,3 +1,16 @@
+---
+title: "Mango Lassi"
+description: "A refreshing Indian yogurt drink that turns frozen mango chunks into liquid sunshine."
+prep: "5 min"
+cook: "0 min"
+servings: "4"
+cost: 1.25
+cost_unit: "serving"
+category: "drinks"
+vegetarian: true
+gluten_free: true
+dairy_free: false
+---
 # Mango Lassi
 
 > A refreshing Indian yogurt drink that turns frozen mango chunks into liquid sunshine.

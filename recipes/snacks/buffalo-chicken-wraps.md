@@ -1,3 +1,16 @@
+---
+title: "Buffalo Chicken Wraps"
+description: "Rotisserie chicken's spicy second act. Takes five minutes if you don't count the time spent wondering why you don't make these every day."
+prep: "10 min"
+cook: "0 min"
+servings: "6"
+cost: 2
+cost_unit: "serving"
+category: "snacks"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Buffalo Chicken Wraps
 
 > Rotisserie chicken's spicy second act. Takes five minutes if you don't count the time spent wondering why you don't make these every day.

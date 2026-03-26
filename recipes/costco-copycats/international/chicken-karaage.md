@@ -1,3 +1,16 @@
+---
+title: "Chicken Karaage"
+description: "Japanese fried chicken — marinated in soy, ginger, and garlic, coated in potato starch, and fried until shatteringly crispy. Costco Japan sells this in their deli and it flies off the shelf. Now it flies off your plate."
+prep: "15 min + 30 min marinate"
+cook: "10 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/international"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Copycat Costco Japan Chicken Karaage
 
 > Japanese fried chicken — marinated in soy, ginger, and garlic, coated in potato starch, and fried until shatteringly crispy. Costco Japan sells this in their deli and it flies off the shelf. Now it flies off your plate.
@@ -40,7 +53,7 @@
 > **Tip:** Potato starch gives a lighter, crunchier crust than flour. It's the traditional choice and you can find it at most grocery stores in the baking aisle.
 
 ## Storage
-Best eaten fresh. Reheat in a 425°F oven for 8-10 minutes to re-crisp. Don't microwave.
+Best eaten fresh. Leftovers keep in the fridge for up to 3 days — reheat in a 425°F oven for 8-10 minutes to re-crisp. Don't microwave. You can freeze cooked karaage for up to 1 month; reheat from frozen in a 425°F oven for about 12 minutes.
 
 ## Leftover Ideas
 - Toss with rice, furikake, and Kewpie mayo for a karaage rice bowl

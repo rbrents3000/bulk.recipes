@@ -94,6 +94,7 @@ Your best attempts at recreating what they make in the food court, deli, and bak
 - [Pepperoni Pizza](costco-copycats/food-court/pepperoni-pizza.md) — ~$1.50/serving
 - [Turkey & Provolone Sandwich](costco-copycats/food-court/turkey-provolone-sandwich.md) — ~$2.00/serving
 - [Mango Smoothie](costco-copycats/food-court/mango-smoothie.md) — ~$1.25/serving
+- [Double Chocolate Chunk Cookie](costco-copycats/food-court/chocolate-chunk-cookie.md) — ~$0.50/cookie
 
 ### Deli
 - [Chicken Marsala](costco-copycats/deli/chicken-marsala.md) — ~$3.50/serving
@@ -123,6 +124,10 @@ Your best attempts at recreating what they make in the food court, deli, and bak
 - [Chicken Alfredo](costco-copycats/deli/chicken-alfredo.md) — penne, chicken, creamy alfredo — ~$2.50/serving
 - [Korean BBQ Bulgogi](costco-copycats/deli/bulgogi-marinade.md) — the raw marinated beef, cook it yourself — ~$3.00/serving
 - [Chicken Pot Pie (Deli)](costco-copycats/deli/chicken-pot-pie-deli.md) — the 4-lb behemoth with puff pastry — ~$2.50/serving
+- [Birria Tacos Kit](costco-copycats/deli/birria-tacos-kit.md) — the deli kit with consommé — ~$3.00/serving
+- [Chicken & Waffles](costco-copycats/deli/chicken-waffles.md) — ~$3.50/serving
+- [Tempura Shrimp Tacos](costco-copycats/deli/tempura-shrimp-tacos.md) — ~$3.50/serving
+- [Yakisoba Stir-Fry](costco-copycats/deli/yakisoba-stir-fry.md) — ~$2.50/serving
 
 ### Bakery
 - [Cinnamon Rolls](costco-copycats/bakery/cinnamon-rolls.md) — ~$0.75/roll
@@ -136,6 +141,8 @@ Your best attempts at recreating what they make in the food court, deli, and bak
 - [Sheet Cake](costco-copycats/bakery/sheet-cake.md) — the office birthday classic, feeds 48 — ~$0.50/slice
 - [Tuxedo Mousse Cake](costco-copycats/bakery/tuxedo-mousse-cake.md) — three layers of chocolate mousse — ~$1.25/slice
 - [Scones](costco-copycats/bakery/scones.md) — giant, buttery, blueberry or cranberry — ~$0.75/scone
+- [Cinnamon Coffee Cake](costco-copycats/bakery/cinnamon-coffee-cake.md) — ~$0.75/serving
+- [Triple Chocolate Loaf](costco-copycats/bakery/triple-chocolate-loaf.md) — ~$0.75/slice
 
 ### International
 Copycats of prepared items from Costco locations around the world — made with Costco US ingredients.

@@ -1,3 +1,16 @@
+---
+title: "Rotisserie Chicken Pot Pie"
+description: "Comfort food made easy — Costco's rotisserie chicken and puff pastry turn a classic pot pie into a weeknight dinner with almost no effort."
+prep: "15 min"
+cook: "35 min"
+servings: "8"
+cost: 2.5
+cost_unit: "serving"
+category: "rotisserie-chicken"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Rotisserie Chicken Pot Pie
 
 > Comfort food made easy — Costco's rotisserie chicken and puff pastry turn a classic pot pie into a weeknight dinner with almost no effort.

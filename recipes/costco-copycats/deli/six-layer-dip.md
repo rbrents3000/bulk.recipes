@@ -1,3 +1,16 @@
+---
+title: "Six-Layer Dip"
+description: "The Costco deli's six-layer dip is a party staple — beans, guacamole, sour cream, salsa, cheese, and olives stacked in a tray. Yours will be fresher, bigger, and you won't have to fight over the last scoop."
+prep: "15 min"
+cook: "0 min"
+servings: "12"
+cost: 1.25
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: true
+gluten_free: true
+dairy_free: false
+---
 # Copycat Costco Six-Layer Dip
 
 > The Costco deli's six-layer dip is a party staple — beans, guacamole, sour cream, salsa, cheese, and olives stacked in a tray. Yours will be fresher, bigger, and you won't have to fight over the last scoop.

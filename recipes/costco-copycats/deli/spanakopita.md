@@ -1,3 +1,16 @@
+---
+title: "Spanakopita"
+description: "Flaky, buttery phyllo triangles stuffed with spinach and feta — the Costco deli sells 36 for $13 but homemade ones are crispier, cheesier, and you get to eat them hot."
+prep: "25 min"
+cook: "25 min"
+servings: "36 pieces"
+cost: 0.35
+cost_unit: "piece"
+category: "costco-copycats/deli"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Spanakopita
 
 > Flaky, buttery phyllo triangles stuffed with spinach and feta — the Costco deli sells 36 for $13 but homemade ones are crispier, cheesier, and you get to eat them hot.

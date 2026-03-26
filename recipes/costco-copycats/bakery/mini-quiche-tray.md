@@ -1,3 +1,16 @@
+---
+title: "Mini Quiche Tray"
+description: "The Costco deli sells a tray of 24 mini quiches in lorraine and florentine flavors. Make your own for half the price and serve them hot instead of room-temperature-mystery-warm."
+prep: "20 min"
+cook: "25 min"
+servings: "24 mini quiches"
+cost: 0.75
+cost_unit: "each"
+category: "costco-copycats/bakery"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Mini Quiche Tray
 
 > The Costco deli sells a tray of 24 mini quiches in lorraine and florentine flavors. Make your own for half the price and serve them hot instead of room-temperature-mystery-warm.

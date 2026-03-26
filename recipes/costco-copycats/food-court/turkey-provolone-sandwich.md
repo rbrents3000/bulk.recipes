@@ -1,3 +1,16 @@
+---
+title: "Turkey & Provolone Sandwich"
+description: "The food court sandwich that disappeared, came back, and we never stopped talking about it."
+prep: "10 min"
+cook: "5 min"
+servings: "6"
+cost: 2
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Turkey & Provolone Sandwich
 
 > The food court sandwich that disappeared, came back, and we never stopped talking about it.

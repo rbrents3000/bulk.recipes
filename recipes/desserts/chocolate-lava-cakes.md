@@ -1,3 +1,16 @@
+---
+title: "Chocolate Lava Cakes"
+description: "Individual molten chocolate cakes with a gooey center — easier to make than they look."
+prep: "15 min"
+cook: "14 min"
+servings: "6"
+cost: 1.25
+cost_unit: "serving"
+category: "desserts"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Chocolate Lava Cakes
 
 > Individual molten chocolate cakes with a gooey center — easier to make than they look.

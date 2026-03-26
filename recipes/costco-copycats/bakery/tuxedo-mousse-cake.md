@@ -1,3 +1,16 @@
+---
+title: "Tuxedo Chocolate Mousse Cake"
+description: "Three layers of chocolate. Two kinds of mousse. One cake to rule them all."
+prep: "45 min + 4 hr chill"
+cook: "25 min"
+servings: "16"
+cost: 1.25
+cost_unit: "slice"
+category: "costco-copycats/bakery"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Tuxedo Chocolate Mousse Cake
 
 > Three layers of chocolate. Two kinds of mousse. One cake to rule them all.

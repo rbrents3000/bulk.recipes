@@ -1,3 +1,16 @@
+---
+title: "Costco Stuffed Salmon Dinner"
+description: "Costco's crab-stuffed salmon is already incredible — here's how to bake it perfectly with roasted asparagus and lemon butter on the side."
+prep: "10 min"
+cook: "25 min"
+servings: "4"
+cost: 8.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Costco Stuffed Salmon Dinner
 
 > Costco's crab-stuffed salmon is already incredible — here's how to bake it perfectly with roasted asparagus and lemon butter on the side.

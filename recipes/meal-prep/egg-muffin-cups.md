@@ -1,3 +1,16 @@
+---
+title: "Egg Muffin Cups"
+description: "Protein-packed grab-and-go breakfast cups stuffed with ham, cheese, and bell peppers -- make a dozen in under 30 minutes."
+prep: "10 min"
+cook: "20 min"
+servings: "12"
+cost: 0.75
+cost_unit: "serving"
+category: "meal-prep"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Egg Muffin Cups
 
 > Protein-packed grab-and-go breakfast cups stuffed with ham, cheese, and bell peppers -- make a dozen in under 30 minutes.

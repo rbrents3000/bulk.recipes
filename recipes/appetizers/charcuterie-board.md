@@ -1,3 +1,16 @@
+---
+title: "Charcuterie Board"
+description: "A totally casual, no-big-deal cheese board that just happens to look like you hired a caterer. Costco is your secret weapon."
+prep: "20 min"
+cook: "0 min"
+servings: "10"
+cost: 3
+cost_unit: "serving"
+category: "appetizers"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Charcuterie Board
 
 > A totally casual, no-big-deal cheese board that just happens to look like you hired a caterer. Costco is your secret weapon.

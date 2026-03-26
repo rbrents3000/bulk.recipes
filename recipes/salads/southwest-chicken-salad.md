@@ -1,3 +1,16 @@
+---
+title: "Southwest Chicken Salad"
+description: "A salad that even salad skeptics will eat — because it's basically a burrito bowl that got deconstructed."
+prep: "15 min"
+cook: "0 min"
+servings: "4"
+cost: 2.5
+cost_unit: "serving"
+category: "salads"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Southwest Chicken Salad
 
 > A salad that even salad skeptics will eat — because it's basically a burrito bowl that got deconstructed.

@@ -1,3 +1,16 @@
+---
+title: "Teriyaki Salmon Bowls"
+description: "Glazed salmon fillets over fluffy rice with edamame and cool cucumber — a clean, filling dinner bowl that comes together fast using Costco's frozen salmon."
+prep: "10 min"
+cook: "15 min"
+servings: "4"
+cost: 5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Teriyaki Salmon Bowls
 
 > Glazed salmon fillets over fluffy rice with edamame and cool cucumber — a clean, filling dinner bowl that comes together fast using Costco's frozen salmon.
@@ -32,7 +45,7 @@
 > **Tip:** Don't skip patting the salmon dry. Surface moisture prevents browning and will cause the glaze to slide right off instead of sticking.
 
 ## Storage
-Store components separately for up to 3 days. The salmon reheats best in a 300°F oven for 8-10 minutes. Rice and edamame microwave fine.
+Store components separately in the fridge for up to 3 days. The salmon reheats best in a 300°F oven for 8-10 minutes. Rice and edamame microwave fine. You can freeze the rice and salmon (without fresh toppings) for up to 1 month — thaw overnight in the fridge before reheating.
 
 ## Leftover Ideas
 - Flake leftover salmon over a green salad with sesame dressing

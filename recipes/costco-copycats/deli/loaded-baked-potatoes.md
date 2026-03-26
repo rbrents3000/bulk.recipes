@@ -1,3 +1,16 @@
+---
+title: "Loaded Baked Potatoes"
+description: "Big, fluffy baked potatoes stuffed with cheese, bacon, and sour cream — the Costco deli sells 6 for $12 but you can make them better and cheaper with a bag of russets and some patience."
+prep: "10 min"
+cook: "60 min"
+servings: "6"
+cost: 1.75
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Copycat Costco Loaded Baked Potatoes
 
 > Big, fluffy baked potatoes stuffed with cheese, bacon, and sour cream — the Costco deli sells 6 for $12 but you can make them better and cheaper with a bag of russets and some patience.

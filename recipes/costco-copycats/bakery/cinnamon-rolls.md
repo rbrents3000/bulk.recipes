@@ -1,3 +1,16 @@
+---
+title: "Cinnamon Rolls"
+description: "Costco's bakery cinnamon rolls are enormous, gooey, and $7.99 for a tray of 12. These are just as big, just as soft, and your house will smell like a bakery for hours."
+prep: "30 min + 1.5 hr rise"
+cook: "25 min"
+servings: "12 rolls"
+cost: 0.75
+cost_unit: "roll"
+category: "costco-copycats/bakery"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Bakery Cinnamon Rolls
 
 > Costco's bakery cinnamon rolls are enormous, gooey, and $7.99 for a tray of 12. These are just as big, just as soft, and your house will smell like a bakery for hours.

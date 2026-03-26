@@ -1,3 +1,16 @@
+---
+title: "Pesto Chicken Pasta"
+description: "Three Costco ingredients, 20 minutes, and you've got a meal that tastes like way more effort than it actually was. Kirkland pesto does the heavy lifting."
+prep: "5 min"
+cook: "12 min"
+servings: "6"
+cost: 2.33
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Pesto Chicken Pasta
 
 > Three Costco ingredients, 20 minutes, and you've got a meal that tastes like way more effort than it actually was. Kirkland pesto does the heavy lifting.

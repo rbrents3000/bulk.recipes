@@ -1,3 +1,16 @@
+---
+title: "Beef Short Ribs"
+description: "Fall-off-the-bone braised short ribs in a rich, beefy sauce — the Costco deli charges $25 for a pre-seasoned tray. Yours will be fork-tender and taste like you spent all day cooking. You did, but the oven did the work."
+prep: "20 min"
+cook: "3 hr"
+servings: "6"
+cost: 5.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Copycat Costco Beef Short Ribs
 
 > Fall-off-the-bone braised short ribs in a rich, beefy sauce — the Costco deli charges $25 for a pre-seasoned tray. Yours will be fork-tender and taste like you spent all day cooking. You did, but the oven did the work.

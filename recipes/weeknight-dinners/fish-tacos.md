@@ -1,3 +1,16 @@
+---
+title: "Fish Tacos"
+description: "Crispy pan-fried fish, crunchy slaw, zippy lime crema — taco Tuesday just got a Costco-sized upgrade."
+prep: "15 min"
+cook: "10 min"
+servings: "4"
+cost: 3.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Fish Tacos
 
 > Crispy pan-fried fish, crunchy slaw, zippy lime crema — taco Tuesday just got a Costco-sized upgrade.

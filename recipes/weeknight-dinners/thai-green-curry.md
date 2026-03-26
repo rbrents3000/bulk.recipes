@@ -1,3 +1,16 @@
+---
+title: "Thai Green Curry"
+description: "A fragrant, coconut-milk-drenched curry that comes together faster than you can argue about what to order for dinner."
+prep: "15 min"
+cook: "20 min"
+servings: "4"
+cost: 3
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Thai Green Curry
 
 > A fragrant, coconut-milk-drenched curry that comes together faster than you can argue about what to order for dinner.

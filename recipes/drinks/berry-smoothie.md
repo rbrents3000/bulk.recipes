@@ -1,3 +1,16 @@
+---
+title: "Berry Smoothie"
+description: "Breakfast in a glass for people who think they don't have time for breakfast."
+prep: "5 min"
+cook: "0 min"
+servings: "4"
+cost: 1.5
+cost_unit: "serving"
+category: "drinks"
+vegetarian: true
+gluten_free: true
+dairy_free: true
+---
 # Berry Smoothie
 
 > Breakfast in a glass for people who think they don't have time for breakfast.

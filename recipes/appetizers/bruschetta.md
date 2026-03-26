@@ -1,3 +1,16 @@
+---
+title: "Bruschetta"
+description: "Crispy toasted Costco baguette piled high with garlicky tomatoes and fresh basil. The appetizer that proves simple ingredients done right always win."
+prep: "15 min"
+cook: "5 min"
+servings: "12"
+cost: 0.75
+cost_unit: "serving"
+category: "appetizers"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Bruschetta
 
 > Crispy toasted Costco baguette piled high with garlicky tomatoes and fresh basil. The appetizer that proves simple ingredients done right always win.

@@ -1,3 +1,16 @@
+---
+title: "Rotisserie Chicken Enchiladas"
+description: "Easy enchiladas using Costco's famous rotisserie chicken. Ready in 30 minutes and feeds the whole family."
+prep: "15 min"
+cook: "20 min"
+servings: "5"
+cost: 2.9
+cost_unit: "serving"
+category: "rotisserie-chicken"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Rotisserie Chicken Enchiladas
 
 > Easy enchiladas using Costco's famous rotisserie chicken. Ready in 30 minutes and feeds the whole family.

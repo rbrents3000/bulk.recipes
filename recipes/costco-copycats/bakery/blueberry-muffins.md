@@ -1,3 +1,16 @@
+---
+title: "Blueberry Muffins"
+description: "The size of a softball. The top is the best part. You know it, we know it, the streusel knows it."
+prep: "15 min"
+cook: "25 min"
+servings: "12 muffins"
+cost: 0.75
+cost_unit: "muffin"
+category: "costco-copycats/bakery"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Bakery Blueberry Muffins
 
 > The size of a softball. The top is the best part. You know it, we know it, the streusel knows it.

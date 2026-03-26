@@ -1,3 +1,16 @@
+---
+title: "Chicken Lettuce Wraps"
+description: "PF Chang's called — they want their recipe back. Too bad, we're making it at home with Costco chicken for a fraction of the price."
+prep: "10 min"
+cook: "10 min"
+servings: "4"
+cost: 2.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Chicken Lettuce Wraps
 
 > PF Chang's called — they want their recipe back. Too bad, we're making it at home with Costco chicken for a fraction of the price.

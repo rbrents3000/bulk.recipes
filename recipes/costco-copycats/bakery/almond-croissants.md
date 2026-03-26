@@ -1,3 +1,16 @@
+---
+title: "Almond Croissants"
+description: "Here's the hack: buy Kirkland butter croissants, split them, fill with almond cream, rebake, and you've got bakery-style almond croissants for a fraction of the price. This is literally what bakeries do with their day-old croissants."
+prep: "15 min"
+cook: "15 min"
+servings: "6"
+cost: 1.25
+cost_unit: "each"
+category: "costco-copycats/bakery"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Almond Croissants
 
 > Here's the hack: buy Kirkland butter croissants, split them, fill with almond cream, rebake, and you've got bakery-style almond croissants for a fraction of the price. This is literally what bakeries do with their day-old croissants.
@@ -42,4 +55,5 @@
 Best eaten the day they're made. Store at room temperature up to 1 day. Don't refrigerate — it kills the texture.
 
 ## Leftover Ideas
-- These don't tend to have leftovers, but if they do — slice and use as a base for a fancy French toast
+- Slice and use as the base for an over-the-top French toast
+- Crumble into a bowl and top with vanilla ice cream and a drizzle of honey

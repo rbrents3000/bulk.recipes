@@ -1,3 +1,16 @@
+---
+title: "Slow Cooker Chicken Tortilla Soup"
+description: "Everything goes in raw. Everything comes out delicious. The slow cooker does all the work and takes all the credit."
+prep: "10 min"
+cook: "6 hr (low) or 3 hr (high)"
+servings: "8"
+cost: 2
+cost_unit: "serving"
+category: "slow-cooker"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Slow Cooker Chicken Tortilla Soup
 
 > Everything goes in raw. Everything comes out delicious. The slow cooker does all the work and takes all the credit.
@@ -40,6 +53,8 @@
    The toppings are half the experience.
 
 > **Tip:** Chicken thighs > chicken breasts for slow cooking. Thighs stay juicy and flavorful after hours of heat. Breasts turn into dry cardboard. This is not up for debate. If you only have breasts, reduce cook time by an hour.
+
+*For a rotisserie chicken shortcut version, see the [Chicken Tortilla Soup (Rotisserie)](../rotisserie-chicken/chicken-tortilla-soup.md).*
 
 ## Storage
 Refrigerate in airtight containers for up to 5 days.

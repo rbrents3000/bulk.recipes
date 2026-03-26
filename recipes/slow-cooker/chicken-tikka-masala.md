@@ -1,3 +1,16 @@
+---
+title: "Chicken Tikka Masala"
+description: "Restaurant-quality tikka masala that simmers itself while you binge-watch your shows."
+prep: "15 min"
+cook: "6 hr"
+servings: "6"
+cost: 2.75
+cost_unit: "serving"
+category: "slow-cooker"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Chicken Tikka Masala
 
 > Restaurant-quality tikka masala that simmers itself while you binge-watch your shows.

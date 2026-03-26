@@ -1,3 +1,16 @@
+---
+title: "Acai Bowl"
+description: "A homemade take on the Costco food court acai bowl — thick, creamy blended acai topped with crunchy granola, fresh fruit, and a drizzle of honey."
+prep: "10 min"
+cook: "0 min"
+servings: "4"
+cost: 3.5
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: true
+gluten_free: true
+dairy_free: true
+---
 # Copycat Costco Acai Bowl
 
 > A homemade take on the Costco food court acai bowl — thick, creamy blended acai topped with crunchy granola, fresh fruit, and a drizzle of honey.

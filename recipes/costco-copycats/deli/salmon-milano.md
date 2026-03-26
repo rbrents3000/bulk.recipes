@@ -1,3 +1,16 @@
+---
+title: "Salmon Milano"
+description: "The deli's most elegant offering, recreated at home where nobody's reaching over you for a sample."
+prep: "10 min"
+cook: "20 min"
+servings: "4"
+cost: 6
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Salmon Milano
 
 > The deli's most elegant offering, recreated at home where nobody's reaching over you for a sample.

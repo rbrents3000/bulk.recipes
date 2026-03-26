@@ -1,3 +1,16 @@
+---
+title: "Chicken Burrito Bowls"
+description: "Easy meal prep burrito bowls loaded with rotisserie chicken, cilantro lime rice, black beans, and all the fixings."
+prep: "15 min"
+cook: "10 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "meal-prep"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Chicken Burrito Bowls
 
 > Easy meal prep burrito bowls loaded with rotisserie chicken, cilantro lime rice, black beans, and all the fixings.

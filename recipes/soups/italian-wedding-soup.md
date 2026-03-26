@@ -1,3 +1,16 @@
+---
+title: "Italian Wedding Soup"
+description: "Tiny meatballs, leafy greens, and the most comforting broth you've ever made. The marriage is between the meat and the greens, not you and your slow cooker."
+prep: "25 min"
+cook: "20 min"
+servings: "8"
+cost: 2
+cost_unit: "serving"
+category: "soups"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Italian Wedding Soup
 
 > Tiny meatballs, leafy greens, and the most comforting broth you've ever made. The marriage is between the meat and the greens, not you and your slow cooker.

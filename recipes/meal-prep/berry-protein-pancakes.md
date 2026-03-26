@@ -1,3 +1,16 @@
+---
+title: "Berry Protein Pancakes"
+description: "Fluffy, protein-packed pancakes that taste like a treat but won't put you back to sleep by 10 AM."
+prep: "10 min"
+cook: "15 min"
+servings: "6"
+cost: 1.25
+cost_unit: "serving"
+category: "meal-prep"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Berry Protein Pancakes
 
 > Fluffy, protein-packed pancakes that taste like a treat but won't put you back to sleep by 10 AM.

@@ -1,3 +1,16 @@
+---
+title: "Quiche Lorraine"
+description: "A big, custardy quiche loaded with bacon and cheese — Costco France sells a family-sized version in the deli. This one feeds 8, uses Kirkland bacon and eggs, and is the ultimate brunch centerpiece."
+prep: "15 min"
+cook: "45 min"
+servings: "8"
+cost: 2
+cost_unit: "serving"
+category: "costco-copycats/international"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco France Quiche Lorraine
 
 > A big, custardy quiche loaded with bacon and cheese — Costco France sells a family-sized version in the deli. This one feeds 8, uses Kirkland bacon and eggs, and is the ultimate brunch centerpiece.

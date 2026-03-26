@@ -1,3 +1,16 @@
+---
+title: "Pumpkin Pie"
+description: "The $5.99 legend. Nearly four pounds. Feeds twelve. The single best deal in the bakery, reverse-engineered for your oven. Thanksgiving will never be the same."
+prep: "20 min"
+cook: "55 min"
+servings: "12"
+cost: 0.75
+cost_unit: "slice"
+category: "costco-copycats/bakery"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Bakery Pumpkin Pie
 
 > The $5.99 legend. Nearly four pounds. Feeds twelve. The single best deal in the bakery, reverse-engineered for your oven. Thanksgiving will never be the same.

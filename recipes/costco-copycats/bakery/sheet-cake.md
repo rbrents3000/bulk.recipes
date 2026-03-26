@@ -1,3 +1,16 @@
+---
+title: "Sheet Cake"
+description: "The $22.99 half-sheet that has appeared at every office birthday, graduation, and \"we didn't plan this\" party since the dawn of Costco."
+prep: "20 min"
+cook: "30 min"
+servings: "48"
+cost: 0.5
+cost_unit: "slice"
+category: "costco-copycats/bakery"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Bakery Sheet Cake
 
 > The $22.99 half-sheet that has appeared at every office birthday, graduation, and "we didn't plan this" party since the dawn of Costco.

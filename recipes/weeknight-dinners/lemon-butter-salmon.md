@@ -1,3 +1,16 @@
+---
+title: "Lemon Butter Salmon with Broccoli"
+description: "Simple pan-seared salmon using Costco's Atlantic fillets. Lemon, butter, garlic — restaurant quality in 20 minutes flat."
+prep: "5 min"
+cook: "15 min"
+servings: "4"
+cost: 6.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Lemon Butter Salmon with Broccoli
 
 > Simple pan-seared salmon using Costco's Atlantic fillets. Lemon, butter, garlic — restaurant quality in 20 minutes flat.

@@ -1,3 +1,16 @@
+---
+title: "Egg Rolls"
+description: "Crispy, golden egg rolls stuffed with pork and cabbage — the Costco deli version is convenient but yours will be crunchier, fresher, and you can fry them properly instead of microwaving a soggy mess."
+prep: "25 min"
+cook: "15 min"
+servings: "20 rolls"
+cost: 0.6
+cost_unit: "roll"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Copycat Costco Egg Rolls
 
 > Crispy, golden egg rolls stuffed with pork and cabbage — the Costco deli version is convenient but yours will be crunchier, fresher, and you can fry them properly instead of microwaving a soggy mess.

@@ -1,3 +1,16 @@
+---
+title: "Overnight Oats"
+description: "Five jars of creamy, no-cook overnight oats loaded with Greek yogurt and mixed berries -- Sunday night prep, weekday breakfast on autopilot."
+prep: "10 min"
+cook: "0 min"
+servings: "5"
+cost: 1.25
+cost_unit: "serving"
+category: "meal-prep"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Overnight Oats
 
 > Five jars of creamy, no-cook overnight oats loaded with Greek yogurt and mixed berries -- Sunday night prep, weekday breakfast on autopilot.

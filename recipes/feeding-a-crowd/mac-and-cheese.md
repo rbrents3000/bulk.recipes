@@ -1,3 +1,16 @@
+---
+title: "Baked Mac and Cheese"
+description: "Rich, creamy, homemade baked mac and cheese with a crispy breadcrumb top. No boxed stuff here -- just sharp cheddar, butter, and a whole lot of cheese pull."
+prep: "15 min"
+cook: "35 min"
+servings: "10"
+cost: 1.75
+cost_unit: "serving"
+category: "feeding-a-crowd"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Baked Mac and Cheese
 
 > Rich, creamy, homemade baked mac and cheese with a crispy breadcrumb top. No boxed stuff here -- just sharp cheddar, butter, and a whole lot of cheese pull.

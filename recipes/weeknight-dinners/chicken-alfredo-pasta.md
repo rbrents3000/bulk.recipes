@@ -1,3 +1,16 @@
+---
+title: "Chicken Alfredo Pasta"
+description: "A weeknight cheat code — Costco rotisserie chicken and Kirkland alfredo sauce turn penne and broccoli into a creamy, satisfying dinner with almost no real cooking."
+prep: "10 min"
+cook: "10 min"
+servings: "6"
+cost: 2.75
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Chicken Alfredo Pasta
 
 > A weeknight cheat code — Costco rotisserie chicken and Kirkland alfredo sauce turn penne and broccoli into a creamy, satisfying dinner with almost no real cooking.

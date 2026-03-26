@@ -1,3 +1,16 @@
+---
+title: "Classic Smash Burgers"
+description: "The most obvious recipe we somehow didn't have yet. Fixed."
+prep: "10 min"
+cook: "10 min"
+servings: "8"
+cost: 2.5
+cost_unit: "serving"
+category: "grilling"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Classic Smash Burgers
 
 > The most obvious recipe we somehow didn't have yet. Fixed.

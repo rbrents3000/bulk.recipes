@@ -1,3 +1,16 @@
+---
+title: "Chicken Wild Rice Soup"
+description: "The soup equivalent of a warm flannel blanket — hearty, creamy, and gone way too fast."
+prep: "15 min"
+cook: "35 min"
+servings: "8"
+cost: 2.25
+cost_unit: "serving"
+category: "soups"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Chicken Wild Rice Soup
 
 > The soup equivalent of a warm flannel blanket — hearty, creamy, and gone way too fast.
@@ -6,14 +19,12 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Kirkland Rotisserie Chicken | 1 chicken | ~$4.99 | whole chicken |
-| Kirkland Wild Rice Blend | 1 bag | ~$8.99 | 3 lb bag |
-| Kirkland Chicken Broth | 1 carton | ~$4.49 | 6-pack / 32 oz each |
-| Kirkland Heavy Cream | 1 carton | ~$4.99 | 1 qt |
-| Carrots | 1 bag | ~$3.49 | 10 lb bag |
-| Celery | 1 pack | ~$2.99 | 2-pack hearts |
+- Kirkland Rotisserie Chicken — 1 chicken (~$4.99, whole chicken)
+- Kirkland Wild Rice Blend — 1 bag (~$8.99, 3 lb bag)
+- Kirkland Chicken Broth — 1 carton (~$4.49, 6-pack / 32 oz each)
+- Kirkland Heavy Cream — 1 carton (~$4.99, 1 qt)
+- Carrots — 1 bag (~$3.49, 10 lb bag)
+- Celery — 1 pack (~$2.99, 2-pack hearts)
 
 ## Other Ingredients
 - 1 large yellow onion, diced

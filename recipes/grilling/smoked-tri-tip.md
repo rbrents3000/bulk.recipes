@@ -1,3 +1,16 @@
+---
+title: "Smoked Tri-Tip"
+description: "The cut that proves you don't need a $200 steak to feel like a pitmaster."
+prep: "10 min"
+cook: "45 min"
+servings: "6"
+cost: 5
+cost_unit: "serving"
+category: "grilling"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Smoked Tri-Tip
 
 > The cut that proves you don't need a $200 steak to feel like a pitmaster.

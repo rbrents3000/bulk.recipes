@@ -1,3 +1,16 @@
+---
+title: "Enchilada Bake"
+description: "A layered enchilada casserole with shredded chicken, cheese, and red sauce — like the Costco deli tray but bigger, better, and straight from your oven with crispy cheese edges."
+prep: "15 min"
+cook: "30 min"
+servings: "8"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Enchilada Bake
 
 > A layered enchilada casserole with shredded chicken, cheese, and red sauce — like the Costco deli tray but bigger, better, and straight from your oven with crispy cheese edges.

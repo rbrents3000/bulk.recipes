@@ -1,3 +1,16 @@
+---
+title: "Spinach Artichoke Dip"
+description: "A hot, bubbly, cheesy dip loaded with spinach and artichoke hearts. Five minutes to assemble, then the oven does the rest."
+prep: "10 min"
+cook: "25 min"
+servings: "12"
+cost: 1.25
+cost_unit: "serving"
+category: "appetizers"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Spinach Artichoke Dip
 
 > A hot, bubbly, cheesy dip loaded with spinach and artichoke hearts. Five minutes to assemble, then the oven does the rest.

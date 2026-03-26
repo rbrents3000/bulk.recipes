@@ -1,3 +1,16 @@
+---
+title: "Broccoli Crunch Salad"
+description: "The potluck salad that people pretend they don't love and then go back for thirds."
+prep: "15 min"
+cook: "0 min"
+servings: "8"
+cost: 1.5
+cost_unit: "serving"
+category: "salads"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Broccoli Crunch Salad
 
 > The potluck salad that people pretend they don't love and then go back for thirds.
@@ -6,12 +19,10 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Kirkland Broccoli Florets (fresh) | 1 bag | ~$5.99 | large bag (use most of it) |
-| Kirkland Thick-Cut Bacon | 6–8 strips | ~$16.99 | 4 lb package |
-| Kirkland Dried Cranberries | 1/2 cup | ~$8.99 | large bag |
-| Kirkland Sunflower Seeds or Sliced Almonds | 1/3 cup | ~$9.99 | large bag |
+- Kirkland Broccoli Florets (fresh) — 1 bag (~$5.99, large bag (use most of it))
+- Kirkland Thick-Cut Bacon — 6–8 strips (~$16.99, 4 lb package)
+- Kirkland Dried Cranberries — 1/2 cup (~$8.99, large bag)
+- Kirkland Sunflower Seeds or Sliced Almonds — 1/3 cup (~$9.99, large bag)
 
 ## Other Ingredients
 - 1/2 red onion, diced small

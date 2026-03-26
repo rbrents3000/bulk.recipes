@@ -1,3 +1,16 @@
+---
+title: "Costco Deli Chicken Alfredo"
+description: "The deli tray you've been buying for $14.99, except now you can make it for half that and triple the garlic."
+prep: "10 min"
+cook: "20 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Costco Deli Chicken Alfredo
 
 > The deli tray you've been buying for $14.99, except now you can make it for half that and triple the garlic.

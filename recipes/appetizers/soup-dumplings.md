@@ -1,3 +1,16 @@
+---
+title: "Soup Dumplings"
+description: "Fifty dumplings for fifteen bucks. This is why we have a Costco membership."
+prep: "5 min"
+cook: "10 min"
+servings: "6"
+cost: 1.5
+cost_unit: "serving"
+category: "appetizers"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Soup Dumplings
 
 > Fifty dumplings for fifteen bucks. This is why we have a Costco membership.
@@ -37,7 +50,7 @@
 > **Tip:** The proper technique: place a dumpling on your spoon, nibble a small hole in the top, let the soup cool for a second (or don't, we respect reckless bravery), slurp the broth, then eat the rest. Dip in sauce between bites. This is the way.
 
 ## Storage
-Keep unopened bags frozen for up to the date on the package. Once you've opened the bag, reseal tightly and keep frozen — cook within a month for best quality. Do not thaw before cooking; steam them straight from frozen.
+Keep unopened bags frozen for up to the date on the package. Once you've opened the bag, reseal tightly and keep frozen — cook within a month for best quality. Do not thaw before cooking; steam them straight from frozen. Cooked dumplings keep in the fridge for up to 3 days — reheat by steaming briefly or pan-frying. You can also freeze uncooked homemade dumplings on a parchment-lined tray, then bag them once solid; they'll keep for up to 2 months.
 
 ## Leftover Ideas
 - Drop frozen dumplings into a quick chicken broth with bok choy and noodles for wonton-style soup

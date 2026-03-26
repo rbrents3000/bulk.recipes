@@ -1,3 +1,16 @@
+---
+title: "Pad Thai"
+description: "Restaurant-quality pad thai at home, starring Costco's frozen shrimp and a tamarind sauce that'll make you cancel your takeout order."
+prep: "20 min"
+cook: "10 min"
+servings: "4"
+cost: 3.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Pad Thai
 
 > Restaurant-quality pad thai at home, starring Costco's frozen shrimp and a tamarind sauce that'll make you cancel your takeout order.

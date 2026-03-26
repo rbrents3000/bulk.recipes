@@ -1,3 +1,16 @@
+---
+title: "Butter Chicken"
+description: "Tender Costco chicken thighs braised in a velvety, spiced tomato-cream sauce — the weeknight version of everyone's favorite Indian comfort food."
+prep: "10 min"
+cook: "25 min"
+servings: "6"
+cost: 3
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Butter Chicken
 
 > Tender Costco chicken thighs braised in a velvety, spiced tomato-cream sauce — the weeknight version of everyone's favorite Indian comfort food.

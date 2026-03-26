@@ -1,3 +1,16 @@
+---
+title: "Double Chocolate Chunk Cookie"
+description: "The food court cookie that quietly became everyone's favorite impulse buy. $2.49 there. About fifty cents here. Do the math."
+prep: "15 min"
+cook: "12 min"
+servings: "12 cookies"
+cost: 0.5
+cost_unit: "cookie"
+category: "costco-copycats/food-court"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Double Chocolate Chunk Cookie
 
 > The food court cookie that quietly became everyone's favorite impulse buy. $2.49 there. About fifty cents here. Do the math.

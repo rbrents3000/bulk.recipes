@@ -1,3 +1,16 @@
+---
+title: "Chicago-Style Italian Beef"
+description: "A sandwich so good that people drive across state lines for it. The slow cooker handles the 8-hour braise while you handle literally anything else."
+prep: "10 min"
+cook: "8 hr (low)"
+servings: "8"
+cost: 3
+cost_unit: "serving"
+category: "slow-cooker"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Chicago-Style Italian Beef
 
 > A sandwich so good that people drive across state lines for it. The slow cooker handles the 8-hour braise while you handle literally anything else.

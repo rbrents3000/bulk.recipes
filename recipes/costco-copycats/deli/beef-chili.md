@@ -1,3 +1,16 @@
+---
+title: "Beef Chili"
+description: "The grab-and-go chili from the Costco deli is hearty, beefy, and just spicy enough. This makes a full pot for the price of two of their containers — and your kitchen will smell incredible."
+prep: "15 min"
+cook: "45 min"
+servings: "10"
+cost: 2.25
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Copycat Costco Beef Chili
 
 > The grab-and-go chili from the Costco deli is hearty, beefy, and just spicy enough. This makes a full pot for the price of two of their containers — and your kitchen will smell incredible.
@@ -33,6 +46,8 @@
 6. Season with salt and pepper. Serve topped with shredded cheddar, sour cream, and green onions.
 
 > **Tip:** Chili is always better the next day. Make it ahead and let the flavors meld overnight in the fridge.
+
+*For a quicker weeknight version, see the [Dump-and-Go Chili](../../weeknight-dinners/dump-and-go-chili.md) — 30 minutes, no browning step.*
 
 ## Storage
 Refrigerate up to 5 days. Freezes perfectly for up to 4 months. One of the best batch-cooking recipes there is.

@@ -1,3 +1,16 @@
+---
+title: "Gyro Bowls"
+description: "The Costco gyro kit gets a glow-up — bowls are just better, and you know it."
+prep: "15 min"
+cook: "10 min"
+servings: "6"
+cost: 3.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Gyro Bowls
 
 > The Costco gyro kit gets a glow-up — bowls are just better, and you know it.
@@ -28,7 +41,7 @@
 > **Tip:** Warm the pita bread from the kit in the skillet for 30 seconds per side and slice it into dipping strips on the side.
 
 ## Storage
-Prep the toppings and store them separately in airtight containers for up to 4 days. Keep cooked rice and meat in their own containers. Assemble fresh each time — soggy bowls are nobody's friend.
+Prep the toppings and store them separately in the fridge for up to 4 days. Keep cooked rice and meat in their own containers in the fridge. Assemble fresh each time — soggy bowls are nobody's friend. You can freeze the rice and cooked gyro meat for up to 3 months, but skip freezing the fresh veggies and tzatziki.
 
 ## Leftover Ideas
 - Stuff everything into a warm pita for a gyro wrap

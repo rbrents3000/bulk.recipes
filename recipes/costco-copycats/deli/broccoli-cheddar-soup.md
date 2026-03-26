@@ -1,3 +1,16 @@
+---
+title: "Broccoli Cheddar Soup"
+description: "Thick, velvety broccoli cheddar soup that tastes like the Costco deli container — except you get a full pot for the price of two of theirs."
+prep: "10 min"
+cook: "25 min"
+servings: "8"
+cost: 1.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Broccoli Cheddar Soup
 
 > Thick, velvety broccoli cheddar soup that tastes like the Costco deli container — except you get a full pot for the price of two of theirs.

@@ -1,3 +1,16 @@
+---
+title: "Cookie Skillet"
+description: "One giant cookie baked in a cast-iron skillet, because individual cookies are a form of portion control we reject."
+prep: "15 min"
+cook: "25 min"
+servings: "8"
+cost: 1
+cost_unit: "serving"
+category: "desserts"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Cookie Skillet
 
 > One giant cookie baked in a cast-iron skillet, because individual cookies are a form of portion control we reject.

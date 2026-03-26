@@ -1,3 +1,16 @@
+---
+title: "BBQ Chicken Sandwiches"
+description: "Rotisserie chicken's second act — shredded, sauced, and stacked on a brioche bun with crunchy slaw."
+prep: "15 min"
+cook: "5 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "grilling"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # BBQ Chicken Sandwiches
 
 > Rotisserie chicken's second act — shredded, sauced, and stacked on a brioche bun with crunchy slaw.

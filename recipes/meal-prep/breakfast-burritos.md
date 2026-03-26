@@ -1,3 +1,16 @@
+---
+title: "Breakfast Burritos"
+description: "A freezer full of these is basically a cheat code for mornings. Grab, nuke, conquer the day."
+prep: "20 min"
+cook: "15 min"
+servings: "12"
+cost: 1.5
+cost_unit: "serving"
+category: "meal-prep"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Breakfast Burritos
 
 > A freezer full of these is basically a cheat code for mornings. Grab, nuke, conquer the day.

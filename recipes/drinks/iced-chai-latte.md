@@ -1,3 +1,16 @@
+---
+title: "Iced Chai Latte"
+description: "Coffee shop vibes, Costco prices. The math works out to roughly 1/6 the cost of Starbucks."
+prep: "10 min"
+cook: "5 min (steep)"
+servings: "4"
+cost: 0.75
+cost_unit: "serving"
+category: "drinks"
+vegetarian: true
+gluten_free: true
+dairy_free: false
+---
 # Iced Chai Latte
 
 > Coffee shop vibes, Costco prices. The math works out to roughly 1/6 the cost of Starbucks.

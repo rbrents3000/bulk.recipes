@@ -1,3 +1,16 @@
+---
+title: "Shakshuka"
+description: "Eggs poached in spiced tomato sauce — fancy brunch energy on a Tuesday budget."
+prep: "10 min"
+cook: "15 min"
+servings: "4"
+cost: 1.75
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: true
+gluten_free: true
+dairy_free: false
+---
 # Shakshuka
 
 > Eggs poached in spiced tomato sauce — fancy brunch energy on a Tuesday budget.

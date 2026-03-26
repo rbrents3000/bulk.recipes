@@ -1,3 +1,16 @@
+---
+title: "No-Bake Cheesecake"
+description: "A rich, creamy cheesecake that sets up in the fridge — no oven required."
+prep: "25 min"
+cook: "0 min"
+servings: "12"
+cost: 1.5
+cost_unit: "serving"
+category: "desserts"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # No-Bake Cheesecake
 
 > A rich, creamy cheesecake that sets up in the fridge — no oven required.

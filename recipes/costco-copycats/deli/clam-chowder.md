@@ -1,3 +1,16 @@
+---
+title: "Clam Chowder"
+description: "Thick, creamy New England clam chowder loaded with potatoes and tender clams — tastes like the Costco deli version but you made a whole pot for the same price as their one container."
+prep: "15 min"
+cook: "30 min"
+servings: "8"
+cost: 2
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Clam Chowder
 
 > Thick, creamy New England clam chowder loaded with potatoes and tender clams — tastes like the Costco deli version but you made a whole pot for the same price as their one container.

@@ -1,3 +1,16 @@
+---
+title: "BBQ Chicken Pizza"
+description: "Naan flatbreads make the perfect individual pizza crust — top with shredded rotisserie chicken, tangy BBQ sauce, and melty mozzarella for a 15-minute dinner."
+prep: "10 min"
+cook: "10 min"
+servings: "4"
+cost: 2.75
+cost_unit: "serving"
+category: "rotisserie-chicken"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # BBQ Chicken Pizza
 
 > Naan flatbreads make the perfect individual pizza crust — top with shredded rotisserie chicken, tangy BBQ sauce, and melty mozzarella for a 15-minute dinner.

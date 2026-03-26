@@ -1,3 +1,16 @@
+---
+title: "Bulgogi Rice Bowls"
+description: "Costco's pre-marinated bulgogi is one of the best deli items they sell. Cook it up in a hot skillet and serve over rice with quick-pickled cucumbers."
+prep: "10 min"
+cook: "15 min"
+servings: "6"
+cost: 3.67
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Bulgogi Rice Bowls
 
 > Costco's pre-marinated bulgogi is one of the best deli items they sell. Cook it up in a hot skillet and serve over rice with quick-pickled cucumbers.

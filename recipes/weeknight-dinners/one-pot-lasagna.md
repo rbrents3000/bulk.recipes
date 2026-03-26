@@ -1,3 +1,16 @@
+---
+title: "One-Pot Lasagna"
+description: "All the lasagna vibes with none of the architectural ambition."
+prep: "10 min"
+cook: "25 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # One-Pot Lasagna
 
 > All the lasagna vibes with none of the architectural ambition.

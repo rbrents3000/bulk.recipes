@@ -1,3 +1,16 @@
+---
+title: "Dump-and-Go Chili"
+description: "A no-fuss, one-pot chili where everything goes in together and simmers into a thick, hearty bowl of comfort. Ten minutes of chopping, thirty minutes of waiting."
+prep: "10 min"
+cook: "30 min"
+servings: "8"
+cost: 2.25
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Dump-and-Go Chili
 
 > A no-fuss, one-pot chili where everything goes in together and simmers into a thick, hearty bowl of comfort. Ten minutes of chopping, thirty minutes of waiting.
@@ -34,6 +47,8 @@
 7. Ladle into bowls and pile on whatever toppings you like.
 
 > **Tip:** This chili is genuinely better the next day after the flavors have had time to deepen. If you're making it for a weeknight dinner, consider cooking it the night before and reheating -- it takes almost no extra effort and the payoff is huge.
+
+*For the Costco deli version with green peppers and a longer simmer, see the [Copycat Costco Beef Chili](../costco-copycats/deli/beef-chili.md).*
 
 ## Storage
 Keeps in the fridge for up to 5 days. Reheat on the stovetop over medium-low heat or microwave for 2-3 minutes. Freezes beautifully for up to 3 months -- portion into freezer bags laid flat for easy stacking and quick thawing.

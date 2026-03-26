@@ -1,3 +1,16 @@
+---
+title: "Miso-Glazed Salmon"
+description: "Sweet, salty, umami-bomb salmon that caramelizes under the broiler like it went to culinary school."
+prep: "10 min"
+cook: "12 min"
+servings: "4"
+cost: 5.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Miso-Glazed Salmon
 
 > Sweet, salty, umami-bomb salmon that caramelizes under the broiler like it went to culinary school.

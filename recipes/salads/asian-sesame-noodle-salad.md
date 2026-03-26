@@ -1,3 +1,16 @@
+---
+title: "Asian Sesame Noodle Salad"
+description: "Cold noodles, crunchy vegetables, and a dressing so good you'll want to drink it — we won't judge."
+prep: "20 min"
+cook: "10 min"
+servings: "6"
+cost: 2.25
+cost_unit: "serving"
+category: "salads"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Asian Sesame Noodle Salad
 
 > Cold noodles, crunchy vegetables, and a dressing so good you'll want to drink it — we won't judge.
@@ -6,14 +19,12 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Soba or Rice Noodles | 1 package | ~$6.99 | 2 lb package |
-| Frozen Shelled Edamame | 1 bag | ~$7.49 | 3 lb bag |
-| Kirkland Sesame Oil | 1 bottle | ~$5.99 | 20 oz bottle |
-| Cucumber | 1 English | ~$3.99 | 3-pack |
-| Shredded Carrots | 1 bag | ~$3.49 | 10 oz bag |
-| Red Cabbage | 1 head | ~$2.49 | 1 head |
+- Soba or Rice Noodles — 1 package (~$6.99, 2 lb package)
+- Frozen Shelled Edamame — 1 bag (~$7.49, 3 lb bag)
+- Kirkland Sesame Oil — 1 bottle (~$5.99, 20 oz bottle)
+- Cucumber — 1 English (~$3.99, 3-pack)
+- Shredded Carrots — 1 bag (~$3.49, 10 oz bag)
+- Red Cabbage — 1 head (~$2.49, 1 head)
 
 ## Other Ingredients
 - 3 tablespoons soy sauce

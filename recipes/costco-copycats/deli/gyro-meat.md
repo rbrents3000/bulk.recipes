@@ -1,3 +1,16 @@
+---
+title: "Gyro Meat"
+description: "The deli gyro kit is convenient but the meat is the star — here's how to make it from scratch with ground lamb and beef so you never need the kit again. Crispy edges, warm spices, the whole deal."
+prep: "15 min"
+cook: "45 min"
+servings: "6"
+cost: 3
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Copycat Costco Gyro Meat
 
 > The deli gyro kit is convenient but the meat is the star — here's how to make it from scratch with ground lamb and beef so you never need the kit again. Crispy edges, warm spices, the whole deal.

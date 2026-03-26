@@ -1,3 +1,16 @@
+---
+title: "Buffalo Chicken Dip"
+description: "The ultimate game day dip using Costco rotisserie chicken and cream cheese. Takes 5 minutes to throw together and disappears in 10."
+prep: "10 min"
+cook: "20 min"
+servings: "8"
+cost: 1.5
+cost_unit: "serving"
+category: "appetizers"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Buffalo Chicken Dip
 
 > The ultimate game day dip using Costco rotisserie chicken and cream cheese. Takes 5 minutes to throw together and disappears in 10.

@@ -1,3 +1,16 @@
+---
+title: "Beef Stew"
+description: "The slow cooker does all the work while you pretend to be productive."
+prep: "20 min"
+cook: "8 hr"
+servings: "8"
+cost: 3
+cost_unit: "serving"
+category: "slow-cooker"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Beef Stew
 
 > The slow cooker does all the work while you pretend to be productive.

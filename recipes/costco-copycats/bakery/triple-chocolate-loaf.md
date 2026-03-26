@@ -1,3 +1,16 @@
+---
+title: "Triple Chocolate Loaf"
+description: "Three kinds of chocolate in one loaf. The bakery's 2025 MVP, now in your kitchen."
+prep: "15 min"
+cook: "55 min"
+servings: "10 slices"
+cost: 0.75
+cost_unit: "slice"
+category: "costco-copycats/bakery"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Triple Chocolate Loaf
 
 > Three kinds of chocolate in one loaf. The bakery's 2025 MVP, now in your kitchen.

@@ -1,3 +1,16 @@
+---
+title: "Tempura Shrimp Tacos"
+description: "Costco's newest deli hit, reverse-engineered for your kitchen. The cilantro lime crema is the real MVP."
+prep: "20 min"
+cook: "15 min"
+servings: "6 (12 tacos)"
+cost: 3.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Tempura Shrimp Tacos
 
 > Costco's newest deli hit, reverse-engineered for your kitchen. The cilantro lime crema is the real MVP.

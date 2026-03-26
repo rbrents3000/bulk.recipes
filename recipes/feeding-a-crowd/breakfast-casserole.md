@@ -1,3 +1,16 @@
+---
+title: "Overnight Breakfast Casserole"
+description: "A hearty, make-ahead breakfast bake loaded with bacon, eggs, hash browns, and cheese. Assemble it the night before and just pop it in the oven in the morning."
+prep: "20 min"
+cook: "50 min"
+servings: "12"
+cost: 1.5
+cost_unit: "serving"
+category: "feeding-a-crowd"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Overnight Breakfast Casserole
 
 > A hearty, make-ahead breakfast bake loaded with bacon, eggs, hash browns, and cheese. Assemble it the night before and just pop it in the oven in the morning.

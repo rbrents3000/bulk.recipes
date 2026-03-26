@@ -1,3 +1,16 @@
+---
+title: "Honey Garlic Pork"
+description: "Five ingredients. One slow cooker. Eight hours of doing absolutely nothing. Dinner."
+prep: "10 min"
+cook: "8 hr (low) or 4 hr (high)"
+servings: "8"
+cost: 2.5
+cost_unit: "serving"
+category: "slow-cooker"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Honey Garlic Pork
 
 > Five ingredients. One slow cooker. Eight hours of doing absolutely nothing. Dinner.

@@ -1,3 +1,16 @@
+---
+title: "Japanese Curry"
+description: "Rich, thick, and mildly sweet — Japanese curry is nothing like Indian curry and everything like a warm hug. Costco Japan sells it as a ready-to-eat meal. Make a big pot with Costco chicken and rice and feed the whole family."
+prep: "15 min"
+cook: "35 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/international"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Copycat Costco Japan Japanese Curry
 
 > Rich, thick, and mildly sweet — Japanese curry is nothing like Indian curry and everything like a warm hug. Costco Japan sells it as a ready-to-eat meal. Make a big pot with Costco chicken and rice and feed the whole family.

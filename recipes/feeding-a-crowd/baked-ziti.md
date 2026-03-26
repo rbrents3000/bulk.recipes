@@ -1,3 +1,16 @@
+---
+title: "Baked Ziti"
+description: "A big, bubbling pan of cheesy baked ziti with seasoned ground beef -- the kind of comfort food that feeds half the neighborhood."
+prep: "20 min"
+cook: "35 min"
+servings: "10"
+cost: 2.75
+cost_unit: "serving"
+category: "feeding-a-crowd"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Baked Ziti
 
 > A big, bubbling pan of cheesy baked ziti with seasoned ground beef -- the kind of comfort food that feeds half the neighborhood.

@@ -1,3 +1,16 @@
+---
+title: "Chicken Marsala"
+description: "Tender chicken breasts in a rich mushroom Marsala wine sauce — the deli version costs $17, but you can make a bigger batch for less and it tastes better warm out of the pan."
+prep: "10 min"
+cook: "25 min"
+servings: "6"
+cost: 3.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Chicken Marsala
 
 > Tender chicken breasts in a rich mushroom Marsala wine sauce — the deli version costs $17, but you can make a bigger batch for less and it tastes better warm out of the pan.

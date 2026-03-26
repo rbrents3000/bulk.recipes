@@ -1,3 +1,16 @@
+---
+title: "Sheet Pan Chicken Fajitas"
+description: "One pan, zero negotiation about who's doing the dishes."
+prep: "15 min"
+cook: "20 min"
+servings: "6"
+cost: 2.75
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Sheet Pan Chicken Fajitas
 
 > One pan, zero negotiation about who's doing the dishes.

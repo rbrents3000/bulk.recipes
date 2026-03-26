@@ -1,8 +1,21 @@
+---
+title: "Slow Cooker Pulled Pork"
+description: "Fork-tender pulled pork that practically makes itself -- just season, set, and forget for 8 hours of low and slow magic."
+prep: "15 min"
+cook: "8 hr (slow cooker)"
+servings: "12"
+cost: 2.5
+cost_unit: "serving"
+category: "feeding-a-crowd"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Slow Cooker Pulled Pork
 
 > Fork-tender pulled pork that practically makes itself -- just season, set, and forget for 8 hours of low and slow magic.
 
-**Prep:** 15 min | **Cook:** 480 min | **Servings:** 12 | **Cost:** ~$2.50/serving
+**Prep:** 15 min | **Cook:** 8 hr (slow cooker) | **Servings:** 12 | **Cost:** ~$2.50/serving
 
 ## Costco Shopping List
 - Kirkland Pork Shoulder Butt — 1 roast, about 7-8 lbs (~$14.00, ~$1.79/lb bone-in)

@@ -1,3 +1,16 @@
+---
+title: "Brownies"
+description: "Dense, fudgy, and absurdly thick — Costco's bakery brownies are the gold standard of sheet pan brownies. This recipe nails the texture: chewy edges, gooey center, shiny crackly top."
+prep: "15 min"
+cook: "30 min"
+servings: "16"
+cost: 0.5
+cost_unit: "serving"
+category: "costco-copycats/bakery"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Bakery Brownies
 
 > Dense, fudgy, and absurdly thick — Costco's bakery brownies are the gold standard of sheet pan brownies. This recipe nails the texture: chewy edges, gooey center, shiny crackly top.

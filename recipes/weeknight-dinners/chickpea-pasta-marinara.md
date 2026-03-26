@@ -1,3 +1,16 @@
+---
+title: "Chickpea Pasta Marinara"
+description: "High-protein pasta night that's on the table in 15 minutes flat. Banza + Rao's is the Costco power couple nobody talks about enough."
+prep: "5 min"
+cook: "10 min"
+servings: "4"
+cost: 2.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Chickpea Pasta Marinara
 
 > High-protein pasta night that's on the table in 15 minutes flat. Banza + Rao's is the Costco power couple nobody talks about enough.

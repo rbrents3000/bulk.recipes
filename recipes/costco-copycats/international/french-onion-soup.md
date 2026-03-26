@@ -1,3 +1,16 @@
+---
+title: "French Onion Soup"
+description: "Deeply caramelized onions in rich beef broth, topped with a crusty bread cap and a blanket of melted Gruyere. Costco France sells this ready-to-heat — yours will be better because you'll caramelize the onions properly instead of whatever shortcuts they're taking."
+prep: "10 min"
+cook: "60 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/international"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco France French Onion Soup
 
 > Deeply caramelized onions in rich beef broth, topped with a crusty bread cap and a blanket of melted Gruyere. Costco France sells this ready-to-heat — yours will be better because you'll caramelize the onions properly instead of whatever shortcuts they're taking.

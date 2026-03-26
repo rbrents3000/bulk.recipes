@@ -1,3 +1,16 @@
+---
+title: "Bibigo Dumpling Stir-Fry"
+description: "Costco's beloved Bibigo dumplings, pan-fried until crispy and tossed with vegetables in a soy-sesame sauce — a 15-minute weeknight dinner that feels like cheating."
+prep: "5 min"
+cook: "10 min"
+servings: "4"
+cost: 2.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Bibigo Dumpling Stir-Fry
 
 > Costco's beloved Bibigo dumplings, pan-fried until crispy and tossed with vegetables in a soy-sesame sauce — a 15-minute weeknight dinner that feels like cheating.

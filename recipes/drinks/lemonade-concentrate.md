@@ -1,3 +1,16 @@
+---
+title: "Lemonade Concentrate"
+description: "Turns out the secret to great lemonade is having five pounds of lemons and zero restraint."
+prep: "15 min"
+cook: "5 min (simple syrup)"
+servings: "16"
+cost: 0.4
+cost_unit: "serving"
+category: "drinks"
+vegetarian: true
+gluten_free: true
+dairy_free: true
+---
 # Lemonade Concentrate
 
 > Turns out the secret to great lemonade is having five pounds of lemons and zero restraint.

@@ -1,3 +1,16 @@
+---
+title: "Honey Garlic Chicken Thighs"
+description: "Costco boneless skinless chicken thighs pan-seared until golden, then glazed in a sticky honey garlic sauce. A weeknight dinner that tastes like way more effort than it is."
+prep: "5 min"
+cook: "20 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Honey Garlic Chicken Thighs
 
 > Costco boneless skinless chicken thighs pan-seared until golden, then glazed in a sticky honey garlic sauce. A weeknight dinner that tastes like way more effort than it is.

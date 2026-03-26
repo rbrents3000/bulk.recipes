@@ -1,3 +1,16 @@
+---
+title: "Chicken Caesar Salad"
+description: "The deli's caesar salad kit is $10 and feeds four. This version is crunchier (homemade croutons), cheesier, and the dressing actually tastes like something."
+prep: "15 min"
+cook: "15 min"
+servings: "6"
+cost: 2
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Chicken Caesar Salad
 
 > The deli's caesar salad kit is $10 and feeds four. This version is crunchier (homemade croutons), cheesier, and the dressing actually tastes like something.
@@ -35,7 +48,7 @@
 > **Tip:** Make extra dressing — it keeps for a week in the fridge and turns any salad into a caesar salad.
 
 ## Storage
-Store dressing separately up to 7 days. Keep croutons in an airtight container at room temperature for 3 days. Don't dress the salad until you're ready to eat.
+Store dressing separately in the fridge for up to 7 days. Cooked chicken keeps in the fridge for 3-4 days. Keep croutons in an airtight container at room temperature for 3 days. Don't dress the salad until you're ready to eat — dressed salad gets sad fast, so plan on eating it within 1-2 days. This one doesn't freeze well (lettuce and dressing don't come back from that).
 
 ## Leftover Ideas
 - Wrap everything in a flour tortilla for a caesar wrap

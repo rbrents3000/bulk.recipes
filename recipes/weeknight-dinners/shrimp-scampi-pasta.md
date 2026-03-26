@@ -1,3 +1,16 @@
+---
+title: "Shrimp Scampi Pasta"
+description: "Restaurant-quality shrimp scampi using Costco's frozen shrimp and penne. Garlic, butter, white wine, lemon — done in 25 minutes."
+prep: "10 min"
+cook: "15 min"
+servings: "4"
+cost: 4.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Shrimp Scampi Pasta
 
 > Restaurant-quality shrimp scampi using Costco's frozen shrimp and penne. Garlic, butter, white wine, lemon — done in 25 minutes.
@@ -35,3 +48,4 @@ Best eaten fresh. Leftovers keep 1-2 days refrigerated but shrimp can get rubber
 
 ## Leftover Ideas
 - Toss cold leftovers with arugula for a pasta salad
+- Reheat gently with a splash of cream and serve over garlic bread as an open-faced shrimp toast

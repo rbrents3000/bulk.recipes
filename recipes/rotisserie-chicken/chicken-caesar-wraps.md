@@ -1,3 +1,16 @@
+---
+title: "Chicken Caesar Wraps"
+description: "The fastest lunch you can make from a Costco run — rotisserie chicken and a Caesar salad kit rolled up in a flour tortilla. No cooking required."
+prep: "10 min"
+cook: "0 min"
+servings: "6"
+cost: 2
+cost_unit: "serving"
+category: "rotisserie-chicken"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Chicken Caesar Wraps
 
 > The fastest lunch you can make from a Costco run — rotisserie chicken and a Caesar salad kit rolled up in a flour tortilla. No cooking required.

@@ -1,3 +1,16 @@
+---
+title: "Mango Smoothie"
+description: "Tropical vibes from frozen fruit you bought three months ago. Finally using it."
+prep: "5 min"
+cook: "0 min"
+servings: "4"
+cost: 1.25
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: true
+gluten_free: true
+dairy_free: false
+---
 # Mango Smoothie
 
 > Tropical vibes from frozen fruit you bought three months ago. Finally using it.

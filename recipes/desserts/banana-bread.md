@@ -1,3 +1,16 @@
+---
+title: "Banana Bread"
+description: "Those overripe Costco bananas sitting on your counter aren't a failure — they're an opportunity. The browner, the better."
+prep: "15 min"
+cook: "55 min"
+servings: "10"
+cost: 0.75
+cost_unit: "serving"
+category: "desserts"
+vegetarian: true
+gluten_free: false
+dairy_free: true
+---
 # Banana Bread
 
 > Those overripe Costco bananas sitting on your counter aren't a failure — they're an opportunity. The browner, the better.

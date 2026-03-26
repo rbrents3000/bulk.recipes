@@ -1,3 +1,16 @@
+---
+title: "Pizza Bagels"
+description: "Kid-tested, parent-approved, and gone in approximately 90 seconds."
+prep: "10 min"
+cook: "5 min"
+servings: "12"
+cost: 1
+cost_unit: "serving"
+category: "snacks"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Pizza Bagels
 
 > Kid-tested, parent-approved, and gone in approximately 90 seconds.

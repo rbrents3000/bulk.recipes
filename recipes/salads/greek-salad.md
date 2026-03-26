@@ -1,3 +1,16 @@
+---
+title: "Greek Salad"
+description: "Feta, olives, and the quiet confidence that comes from eating something this simple and this good."
+prep: "15 min"
+cook: "0 min"
+servings: "6"
+cost: 2
+cost_unit: "serving"
+category: "salads"
+vegetarian: true
+gluten_free: true
+dairy_free: false
+---
 # Greek Salad
 
 > Feta, olives, and the quiet confidence that comes from eating something this simple and this good.
@@ -6,11 +19,9 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Kirkland Extra-Virgin Olive Oil | 1 bottle | ~$13.99 | 2 L bottle (use 1/4 cup) |
-| Feta Cheese Block | 1 block | ~$7.99 | large block (use about half) |
-| Roma Tomatoes | 4–5 | ~$4.99 | 3 lb package |
+- Kirkland Extra-Virgin Olive Oil — 1 bottle (~$13.99, 2 L bottle (use 1/4 cup))
+- Feta Cheese Block — 1 block (~$7.99, large block (use about half))
+- Roma Tomatoes — 4–5 (~$4.99, 3 lb package)
 
 ## Other Ingredients
 - 1 English cucumber, chopped into chunks

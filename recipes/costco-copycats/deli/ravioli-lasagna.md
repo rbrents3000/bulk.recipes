@@ -1,3 +1,16 @@
+---
+title: "Ravioli Lasagna"
+description: "Layers of cheese ravioli, meat sauce, and melted cheese — Costco's deli shortcut lasagna that looks like you spent hours but actually takes 15 minutes to assemble."
+prep: "15 min"
+cook: "45 min"
+servings: "8"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Ravioli Lasagna
 
 > Layers of cheese ravioli, meat sauce, and melted cheese — Costco's deli shortcut lasagna that looks like you spent hours but actually takes 15 minutes to assemble.

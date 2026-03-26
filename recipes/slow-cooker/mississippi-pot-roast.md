@@ -1,3 +1,16 @@
+---
+title: "Mississippi Pot Roast"
+description: "Five ingredients. Zero cooking rules followed. Unreasonably delicious."
+prep: "5 min"
+cook: "8 hr"
+servings: "8"
+cost: 3.5
+cost_unit: "serving"
+category: "slow-cooker"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Mississippi Pot Roast
 
 > Five ingredients. Zero cooking rules followed. Unreasonably delicious.

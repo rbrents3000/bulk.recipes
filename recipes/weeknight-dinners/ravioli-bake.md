@@ -1,3 +1,16 @@
+---
+title: "Ravioli Bake"
+description: "A lazy lasagna that skips all the layering fuss — Kirkland fresh ravioli, jarred marinara, and melty mozzarella baked until bubbly and golden."
+prep: "5 min"
+cook: "25 min"
+servings: "6"
+cost: 3
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Ravioli Bake
 
 > A lazy lasagna that skips all the layering fuss — Kirkland fresh ravioli, jarred marinara, and melty mozzarella baked until bubbly and golden.

@@ -1,3 +1,16 @@
+---
+title: "Vegetable Fried Rice"
+description: "The ultimate fridge-cleanout dinner. Day-old rice, a bag of frozen veggies, and ten minutes between you and a deeply satisfying bowl."
+prep: "10 min"
+cook: "10 min"
+servings: "4"
+cost: 1.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: true
+gluten_free: false
+dairy_free: true
+---
 # Vegetable Fried Rice
 
 > The ultimate fridge-cleanout dinner. Day-old rice, a bag of frozen veggies, and ten minutes between you and a deeply satisfying bowl.

@@ -1,3 +1,16 @@
+---
+title: "Chicken Salad Croissants"
+description: "The lunch that makes coworkers jealous and earns you unsolicited recipe requests."
+prep: "15 min"
+cook: "0 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "snacks"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Chicken Salad Croissants
 
 > The lunch that makes coworkers jealous and earns you unsolicited recipe requests.

@@ -1,3 +1,16 @@
+---
+title: "Minestrone"
+description: "A big, generous hug from an Italian grandmother — loaded with vegetables and zero apologies for the portion size."
+prep: "15 min"
+cook: "30 min"
+servings: "8"
+cost: 1.75
+cost_unit: "serving"
+category: "soups"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Minestrone
 
 > A big, generous hug from an Italian grandmother — loaded with vegetables and zero apologies for the portion size.
@@ -6,16 +19,14 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Kirkland Canned Kidney Beans | 2 cans | ~$7.99 | 8-pack / 15 oz each |
-| Kirkland Canned White Beans (Cannellini) | 2 cans | ~$7.99 | 8-pack / 15 oz each |
-| Kirkland Canned Diced Tomatoes | 2 cans | ~$7.49 | 8-pack / 14.5 oz each |
-| Kirkland Chicken Broth | 2 cartons | ~$4.49 | 6-pack / 32 oz each |
-| Carrots | 1 bag | ~$3.49 | 10 lb bag |
-| Celery | 1 pack | ~$2.99 | 2-pack hearts |
-| Baby Spinach | 1 container | ~$4.49 | 1 lb clamshell |
-| Zucchini | 2 medium | ~$3.99 | sold by weight |
+- Kirkland Canned Kidney Beans — 2 cans (~$7.99, 8-pack / 15 oz each)
+- Kirkland Canned White Beans (Cannellini) — 2 cans (~$7.99, 8-pack / 15 oz each)
+- Kirkland Canned Diced Tomatoes — 2 cans (~$7.49, 8-pack / 14.5 oz each)
+- Kirkland Chicken Broth — 2 cartons (~$4.49, 6-pack / 32 oz each)
+- Carrots — 1 bag (~$3.49, 10 lb bag)
+- Celery — 1 pack (~$2.99, 2-pack hearts)
+- Baby Spinach — 1 container (~$4.49, 1 lb clamshell)
+- Zucchini — 2 medium (~$3.99, sold by weight)
 
 ## Other Ingredients
 - 1 large yellow onion, diced

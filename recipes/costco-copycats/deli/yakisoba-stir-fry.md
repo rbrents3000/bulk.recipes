@@ -1,3 +1,16 @@
+---
+title: "Yakisoba Chicken Stir Fry"
+description: "The deli's most reliable weeknight dinner, except now you control the sauce ratio. More sauce is always the right call."
+prep: "15 min"
+cook: "15 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Copycat Costco Yakisoba Chicken Stir Fry
 
 > The deli's most reliable weeknight dinner, except now you control the sauce ratio. More sauce is always the right call.

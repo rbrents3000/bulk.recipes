@@ -1,3 +1,16 @@
+---
+title: "Sheet Pan Teriyaki Chicken"
+description: "Sticky, caramelized chicken thighs and roasted broccoli on one pan, served over jasmine rice. Your sheet pan is about to become your favorite Costco employee."
+prep: "15 min"
+cook: "25 min"
+servings: "6"
+cost: 2.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Sheet Pan Teriyaki Chicken
 
 > Sticky, caramelized chicken thighs and roasted broccoli on one pan, served over jasmine rice. Your sheet pan is about to become your favorite Costco employee.

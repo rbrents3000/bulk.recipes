@@ -1,3 +1,16 @@
+---
+title: "Taco Pasta"
+description: "What happens when Taco Tuesday meets pasta night, and somehow everyone wins."
+prep: "10 min"
+cook: "20 min"
+servings: "10"
+cost: 2
+cost_unit: "serving"
+category: "feeding-a-crowd"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Taco Pasta
 
 > What happens when Taco Tuesday meets pasta night, and somehow everyone wins.

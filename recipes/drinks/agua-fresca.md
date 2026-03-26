@@ -1,3 +1,16 @@
+---
+title: "Agua Fresca"
+description: "Mexico's answer to \"I have too much fruit\" — and honestly, it's the best answer."
+prep: "10 min"
+cook: "0 min"
+servings: "8"
+cost: 0.5
+cost_unit: "serving"
+category: "drinks"
+vegetarian: true
+gluten_free: true
+dairy_free: true
+---
 # Agua Fresca
 
 > Mexico's answer to "I have too much fruit" — and honestly, it's the best answer.

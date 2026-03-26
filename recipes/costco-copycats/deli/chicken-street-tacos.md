@@ -1,3 +1,16 @@
+---
+title: "Chicken Street Tacos"
+description: "The deli's street taco kit is good. Yours will be better — juicy seasoned chicken, charred tortillas, and toppings that didn't come in a sealed compartment."
+prep: "15 min"
+cook: "15 min"
+servings: "8 (16 tacos)"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Copycat Costco Chicken Street Tacos
 
 > The deli's street taco kit is good. Yours will be better — juicy seasoned chicken, charred tortillas, and toppings that didn't come in a sealed compartment.

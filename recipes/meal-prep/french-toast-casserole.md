@@ -1,3 +1,16 @@
+---
+title: "French Toast Casserole"
+description: "Tear up Costco croissants, drown them in custard overnight, and wake up to the most indulgent breakfast that basically made itself."
+prep: "15 min"
+cook: "45 min"
+servings: "8"
+cost: 2
+cost_unit: "serving"
+category: "meal-prep"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # French Toast Casserole
 
 > Tear up Costco croissants, drown them in custard overnight, and wake up to the most indulgent breakfast that basically made itself.

@@ -1,3 +1,16 @@
+---
+title: "Danishes"
+description: "Costco's bakery danishes come in cheese, apple, and cherry — all flaky, all sweet, all gone by noon. This recipe does all three fillings with a puff pastry shortcut that makes them shockingly easy."
+prep: "20 min"
+cook: "18 min"
+servings: "8"
+cost: 0.75
+cost_unit: "each"
+category: "costco-copycats/bakery"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Bakery Danishes
 
 > Costco's bakery danishes come in cheese, apple, and cherry — all flaky, all sweet, all gone by noon. This recipe does all three fillings with a puff pastry shortcut that makes them shockingly easy.
@@ -49,7 +62,7 @@
 > **Tip:** Mix and match the fillings — do 4 cheese and 4 apple, or make all three. One batch of puff pastry, three flavors.
 
 ## Storage
-Best eaten the day they're made. Store at room temperature up to 2 days. Reheat in a 350°F oven for 5 minutes to re-crisp.
+Best eaten the day they're made. Store at room temperature up to 2 days. Reheat in a 350°F oven for 5 minutes to re-crisp. You can freeze baked danishes for up to 1 month — wrap them individually and reheat from frozen at 350°F for about 10 minutes.
 
 ## Leftover Ideas
 - Warm a cheese danish and serve with fresh berries for breakfast

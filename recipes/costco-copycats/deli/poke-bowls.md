@@ -1,3 +1,16 @@
+---
+title: "Poke Bowls"
+description: "Costco's deli poke bowls are a West Coast hit — fresh ahi tuna over rice with all the fixings. Make your own with sushi-grade tuna from the Costco seafood counter and you'll never pay $13 for a single-serve plastic tray again."
+prep: "20 min"
+cook: "20 min (rice)"
+servings: "4"
+cost: 5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Copycat Costco Poke Bowls
 
 > Costco's deli poke bowls are a West Coast hit — fresh ahi tuna over rice with all the fixings. Make your own with sushi-grade tuna from the Costco seafood counter and you'll never pay $13 for a single-serve plastic tray again.
@@ -36,7 +49,7 @@
 > **Tip:** Ask the fish counter for sushi-grade tuna specifically. Not all tuna is safe to eat raw — this matters.
 
 ## Storage
-Eat immediately — poke doesn't keep well once assembled. Leftover marinated tuna can be seared in a hot pan for 30 seconds per side for a different meal.
+Eat immediately — poke doesn't keep well once assembled. If you must, leftover marinated tuna can go in the fridge for up to 1 day, but eat it fast and don't even think about freezing raw fish. Leftover marinated tuna can also be seared in a hot pan for 30 seconds per side for a different meal.
 
 ## Leftover Ideas
 - Sear the leftover tuna and serve over salad

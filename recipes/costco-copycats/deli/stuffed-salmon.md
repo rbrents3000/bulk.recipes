@@ -1,3 +1,16 @@
+---
+title: "Stuffed Salmon"
+description: "Costco's crab-stuffed salmon is $29 for 4 portions. Make it yourself with fresh salmon and a proper crab stuffing — crispier top, better filling-to-fish ratio, and half the price."
+prep: "15 min"
+cook: "25 min"
+servings: "4"
+cost: 7
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Stuffed Salmon
 
 > Costco's crab-stuffed salmon is $29 for 4 portions. Make it yourself with fresh salmon and a proper crab stuffing — crispier top, better filling-to-fish ratio, and half the price.

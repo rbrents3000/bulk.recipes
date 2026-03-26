@@ -1,3 +1,16 @@
+---
+title: "Chicken Quesadillas"
+description: "The easiest possible dinner with a Costco rotisserie chicken. Crispy tortillas, melty cheese, shredded chicken, done."
+prep: "5 min"
+cook: "10 min"
+servings: "6"
+cost: 1.75
+cost_unit: "serving"
+category: "rotisserie-chicken"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Chicken Quesadillas
 
 > The easiest possible dinner with a Costco rotisserie chicken. Crispy tortillas, melty cheese, shredded chicken, done.

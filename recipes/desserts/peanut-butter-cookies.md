@@ -1,3 +1,16 @@
+---
+title: "Peanut Butter Cookies"
+description: "Three ingredients. No flour. No butter. No mixer. Somehow, these are some of the best cookies you'll ever make. We don't understand it either."
+prep: "10 min"
+cook: "12 min"
+servings: "24"
+cost: 0.5
+cost_unit: "serving"
+category: "desserts"
+vegetarian: true
+gluten_free: true
+dairy_free: true
+---
 # Peanut Butter Cookies
 
 > Three ingredients. No flour. No butter. No mixer. Somehow, these are some of the best cookies you'll ever make. We don't understand it either.

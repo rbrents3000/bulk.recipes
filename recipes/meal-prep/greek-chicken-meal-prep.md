@@ -1,3 +1,16 @@
+---
+title: "Greek Chicken Meal Prep"
+description: "Mediterranean-style meal prep with juicy marinated chicken thighs, fluffy rice, crisp veggies, tangy feta, and a drizzle of tzatziki."
+prep: "20 min"
+cook: "25 min"
+servings: "6"
+cost: 3
+cost_unit: "serving"
+category: "meal-prep"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Greek Chicken Meal Prep
 
 > Mediterranean-style meal prep with juicy marinated chicken thighs, fluffy rice, crisp veggies, tangy feta, and a drizzle of tzatziki.

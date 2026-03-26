@@ -1,3 +1,16 @@
+---
+title: "Hummus & Veggie Cups"
+description: "The healthy snack that's actually good enough to eat on purpose."
+prep: "10 min"
+cook: "0 min"
+servings: "8"
+cost: 1
+cost_unit: "serving"
+category: "snacks"
+vegetarian: true
+gluten_free: true
+dairy_free: true
+---
 # Hummus & Veggie Cups
 
 > The healthy snack that's actually good enough to eat on purpose.

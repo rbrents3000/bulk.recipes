@@ -1,3 +1,16 @@
+---
+title: "Costco Deli Chicken Pot Pie"
+description: "The four-pound behemoth from the deli case, recreated at home where you can actually see what's inside."
+prep: "25 min"
+cook: "40 min"
+servings: "8"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Costco Deli Chicken Pot Pie
 
 > The four-pound behemoth from the deli case, recreated at home where you can actually see what's inside.

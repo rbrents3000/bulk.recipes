@@ -1,3 +1,16 @@
+---
+title: "Birria Tacos"
+description: "Costco chuck roast braised low and slow in a rich dried chile sauce, then crisped up in corn tortillas dipped in the consomme. Messy, beefy, and absolutely worth it."
+prep: "20 min"
+cook: "6 hr (slow cooker)"
+servings: "8"
+cost: 3.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Birria Tacos
 
 > Costco chuck roast braised low and slow in a rich dried chile sauce, then crisped up in corn tortillas dipped in the consomme. Messy, beefy, and absolutely worth it.
@@ -38,6 +51,8 @@
 
 7. **Assemble the tacos:** Dip a corn tortilla into the warm consomme, then lay it flat in a hot skillet (with a little of the reserved fat). Add shredded birria and a pinch of cheese to one half. Fold the tortilla over and press gently. Cook 2-3 minutes per side until the tortilla is crispy and the cheese is melted.
 8. Serve the tacos with small bowls of warm consomme for dipping, topped with diced onion, cilantro, and a squeeze of lime.
+
+*Want the full deli-kit treatment? See the [Costco Deli Birria Tacos Kit](../costco-copycats/deli/birria-tacos-kit.md) — Dutch oven method with a richer consommé.*
 
 ## Storage
 Refrigerate the shredded beef and consomme separately for up to 5 days. Freeze the meat in consomme for up to 3 months — thaw overnight and reheat on the stove. Assembled tacos don't store well; crisp them fresh.

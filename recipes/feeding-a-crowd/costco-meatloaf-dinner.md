@@ -1,3 +1,16 @@
+---
+title: "Costco Meatloaf with Mashed Potatoes"
+description: "The Costco deli meatloaf is a sleeper hit. Bake it up with a sheet pan of potatoes and you've got a full comfort food dinner for 8 with almost no work."
+prep: "15 min"
+cook: "60 min"
+servings: "8"
+cost: 3
+cost_unit: "serving"
+category: "feeding-a-crowd"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Costco Meatloaf with Mashed Potatoes
 
 > The Costco deli meatloaf is a sleeper hit. Bake it up with a sheet pan of potatoes and you've got a full comfort food dinner for 8 with almost no work.

@@ -1,3 +1,16 @@
+---
+title: "Costco Hot Dog"
+description: "The $1.50 icon. At home, you can use better mustard."
+prep: "5 min"
+cook: "10 min"
+servings: "8"
+cost: 1
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Costco Hot Dog
 
 > The $1.50 icon. At home, you can use better mustard.

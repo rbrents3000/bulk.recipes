@@ -1,3 +1,16 @@
+---
+title: "Tres Leches Cake"
+description: "A Costco bakery sheet cake soaked in three milks — the ultimate shortcut to a classic dessert."
+prep: "20 min"
+cook: "0 min"
+servings: "12"
+cost: 2
+cost_unit: "serving"
+category: "desserts"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Tres Leches Cake
 
 > A Costco bakery sheet cake soaked in three milks — the ultimate shortcut to a classic dessert.

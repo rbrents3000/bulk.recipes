@@ -1,3 +1,16 @@
+---
+title: "18\" Pizza"
+description: "A from-scratch recreation of the legendary Costco food court pizza — big, floppy, loaded with cheese, and impossibly cheap to make at home."
+prep: "15 min"
+cook: "unknown"
+servings: "8"
+cost: 2
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: true
+gluten_free: false
+dairy_free: true
+---
 # Copycat Costco 18" Pizza
 
 > A from-scratch recreation of the legendary Costco food court pizza — big, floppy, loaded with cheese, and impossibly cheap to make at home.

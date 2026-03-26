@@ -1,3 +1,16 @@
+---
+title: "Shepherd's Pie"
+description: "Savory ground beef and vegetables under a thick blanket of creamy mashed potatoes — the Costco deli version in a microwave tray doesn't hold a candle to this one straight from your oven."
+prep: "20 min"
+cook: "35 min"
+servings: "8"
+cost: 2.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Copycat Costco Shepherd's Pie
 
 > Savory ground beef and vegetables under a thick blanket of creamy mashed potatoes — the Costco deli version in a microwave tray doesn't hold a candle to this one straight from your oven.

@@ -1,3 +1,16 @@
+---
+title: "Caprese Salad"
+description: "Three ingredients, zero cooking, maximum showing off — the Italian flag never tasted this good."
+prep: "10 min"
+cook: "0 min"
+servings: "4"
+cost: 3
+cost_unit: "serving"
+category: "salads"
+vegetarian: true
+gluten_free: true
+dairy_free: false
+---
 # Caprese Salad
 
 > Three ingredients, zero cooking, maximum showing off — the Italian flag never tasted this good.
@@ -6,13 +19,11 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Fresh Mozzarella (Costco Deli) | 1 container | ~$7.99 | 2 x 8 oz balls |
-| Roma Tomatoes | 6–8 | ~$4.99 | sold by weight |
-| Fresh Basil | 1 clamshell | ~$3.49 | 4 oz package |
-| Kirkland Extra-Virgin Olive Oil | 1 bottle | ~$13.99 | 2 L bottle |
-| Kirkland Balsamic Vinegar | 1 bottle | ~$8.99 | 1 L bottle |
+- Fresh Mozzarella (Costco Deli) — 1 container (~$7.99, 2 x 8 oz balls)
+- Roma Tomatoes — 6–8 (~$4.99, sold by weight)
+- Fresh Basil — 1 clamshell (~$3.49, 4 oz package)
+- Kirkland Extra-Virgin Olive Oil — 1 bottle (~$13.99, 2 L bottle)
+- Kirkland Balsamic Vinegar — 1 bottle (~$8.99, 1 L bottle)
 
 ## Other Ingredients
 - 1/2 teaspoon flaky sea salt (Maldon or similar)

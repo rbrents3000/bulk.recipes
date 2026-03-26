@@ -1,3 +1,16 @@
+---
+title: "Grilled Chicken Thighs"
+description: "Chicken breasts get all the attention. Thighs do all the work. Time to correct the record."
+prep: "10 min (plus 30 min marinade)"
+cook: "12 min"
+servings: "6"
+cost: 2
+cost_unit: "serving"
+category: "grilling"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Grilled Chicken Thighs
 
 > Chicken breasts get all the attention. Thighs do all the work. Time to correct the record.

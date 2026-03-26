@@ -1,3 +1,16 @@
+---
+title: "Rice Krispie Treats"
+description: "Three ingredients. Ten minutes. Zero skill required. The fact that these taste this good with this little effort is genuinely unfair to other desserts."
+prep: "5 min"
+cook: "5 min"
+servings: "24 bars"
+cost: 0.25
+cost_unit: "bar"
+category: "desserts"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Rice Krispie Treats
 
 > Three ingredients. Ten minutes. Zero skill required. The fact that these taste this good with this little effort is genuinely unfair to other desserts.

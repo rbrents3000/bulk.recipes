@@ -1,3 +1,16 @@
+---
+title: "Gyudon"
+description: "A simmered beef bowl that takes 20 minutes and tastes like you ordered it at Yoshinoya. Costco Japan sells gyudon kits in the deli — make it from scratch with thinly sliced Costco beef and you'll never look back."
+prep: "10 min"
+cook: "15 min"
+servings: "4"
+cost: 3
+cost_unit: "serving"
+category: "costco-copycats/international"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Copycat Costco Japan Gyudon
 
 > A simmered beef bowl that takes 20 minutes and tastes like you ordered it at Yoshinoya. Costco Japan sells gyudon kits in the deli — make it from scratch with thinly sliced Costco beef and you'll never look back.

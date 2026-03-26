@@ -1,3 +1,16 @@
+---
+title: "Butternut Squash Soup"
+description: "Velvety, golden, and suspiciously easy — your dinner guests will think you tried way harder than you did."
+prep: "15 min"
+cook: "40 min"
+servings: "6"
+cost: 1.5
+cost_unit: "serving"
+category: "soups"
+vegetarian: true
+gluten_free: true
+dairy_free: false
+---
 # Butternut Squash Soup
 
 > Velvety, golden, and suspiciously easy — your dinner guests will think you tried way harder than you did.
@@ -6,11 +19,9 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Kirkland Pre-Cut Butternut Squash | 1 bag | ~$5.99 | 3 lb bag |
-| Kirkland Chicken Broth | 1 carton | ~$4.49 | 6-pack / 32 oz each |
-| Kirkland Heavy Cream | 1 carton | ~$4.99 | 1 qt |
+- Kirkland Pre-Cut Butternut Squash — 1 bag (~$5.99, 3 lb bag)
+- Kirkland Chicken Broth — 1 carton (~$4.49, 6-pack / 32 oz each)
+- Kirkland Heavy Cream — 1 carton (~$4.99, 1 qt)
 
 ## Other Ingredients
 - 1 large yellow onion, diced

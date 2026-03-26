@@ -1,3 +1,16 @@
+---
+title: "Costco Pepperoni Pizza"
+description: "18 inches of questionable decisions and zero regrets."
+prep: "20 min (plus 1-2 hrs dough rise)"
+cook: "15 min"
+servings: "8"
+cost: 1.5
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Costco Pepperoni Pizza
 
 > 18 inches of questionable decisions and zero regrets.

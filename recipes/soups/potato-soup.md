@@ -1,3 +1,16 @@
+---
+title: "Loaded Baked Potato Soup"
+description: "All the best parts of a baked potato, in liquid form. The toppings aren't optional."
+prep: "15 min"
+cook: "30 min"
+servings: "8"
+cost: 1.5
+cost_unit: "serving"
+category: "soups"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Loaded Baked Potato Soup
 
 > All the best parts of a baked potato, in liquid form. The toppings aren't optional.

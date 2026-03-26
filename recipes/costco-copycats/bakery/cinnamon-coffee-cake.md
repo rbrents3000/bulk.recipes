@@ -1,3 +1,16 @@
+---
+title: "Cinnamon Coffee Cake"
+description: "The bakery classic with the streusel topping that falls off in your lap. Worth every crumb."
+prep: "15 min"
+cook: "45 min"
+servings: "12"
+cost: 0.75
+cost_unit: "serving"
+category: "costco-copycats/bakery"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Cinnamon Coffee Cake
 
 > The bakery classic with the streusel topping that falls off in your lap. Worth every crumb.

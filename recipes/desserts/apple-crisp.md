@@ -1,3 +1,16 @@
+---
+title: "Apple Crisp"
+description: "The dessert that pretends to be healthy because it has fruit in it. We support this fiction."
+prep: "15 min"
+cook: "40 min"
+servings: "8"
+cost: 1
+cost_unit: "serving"
+category: "desserts"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Apple Crisp
 
 > The dessert that pretends to be healthy because it has fruit in it. We support this fiction.

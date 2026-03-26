@@ -1,3 +1,16 @@
+---
+title: "Trail Mix"
+description: "You just saved $15 and gained the power to customize your own snack destiny."
+prep: "5 min"
+cook: "0 min"
+servings: "12"
+cost: 1.5
+cost_unit: "serving"
+category: "snacks"
+vegetarian: true
+gluten_free: true
+dairy_free: true
+---
 # Trail Mix
 
 > You just saved $15 and gained the power to customize your own snack destiny.
@@ -23,7 +36,7 @@
 > **Tip:** The Costco-sized bags of these ingredients will make multiple batches. Store the extras sealed in the pantry and you've got trail mix on demand for weeks.
 
 ## Storage
-Store in airtight containers or zip-lock bags at room temperature for up to 3 weeks. Keep away from heat or the chocolate chips will stage a mutiny.
+Store in airtight containers or zip-lock bags at room temperature for up to 3 weeks — no fridge or freezer needed. Keep away from heat or the chocolate chips will stage a mutiny.
 
 ## Leftover Ideas
 - Sprinkle over yogurt or oatmeal for a crunchy topping

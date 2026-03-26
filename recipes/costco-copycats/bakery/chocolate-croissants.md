@@ -1,3 +1,16 @@
+---
+title: "Chocolate Croissants"
+description: "Pain au chocolat from the Costco bakery — flaky, buttery, with a stripe of dark chocolate running through the middle. The from-scratch version is a project, but there's a puff pastry shortcut that gets you 90% of the way there."
+prep: "20 min (shortcut) or 4+ hr (from scratch)"
+cook: "20 min"
+servings: "8"
+cost: 1
+cost_unit: "each"
+category: "costco-copycats/bakery"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Chocolate Croissants
 
 > Pain au chocolat from the Costco bakery — flaky, buttery, with a stripe of dark chocolate running through the middle. The from-scratch version is a project, but there's a puff pastry shortcut that gets you 90% of the way there.
@@ -27,7 +40,7 @@
 > **Tip:** Use a good dark chocolate bar snapped into strips — don't use chocolate chips, they don't melt into that gooey stripe the way a bar does.
 
 ## Storage
-Best eaten warm the day they're baked. Store at room temperature up to 2 days in an airtight container. Reheat in a 350°F oven for 5 minutes.
+Best eaten warm the day they're baked. Store at room temperature up to 2 days in an airtight container. Reheat in a 350°F oven for 5 minutes. They also freeze beautifully — wrap individually in plastic wrap, then into a freezer bag for up to 1 month. Reheat from frozen in a 350°F oven for 10 minutes.
 
 ## Leftover Ideas
 - Slice in half and make a chocolate croissant ice cream sandwich

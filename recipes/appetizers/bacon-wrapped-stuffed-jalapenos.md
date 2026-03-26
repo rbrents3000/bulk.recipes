@@ -1,3 +1,16 @@
+---
+title: "Bacon-Wrapped Stuffed Jalapenos"
+description: "Creamy cheese-stuffed jalapenos wrapped in thick-cut bacon and baked until crispy. The classic party appetizer that always gets finished first."
+prep: "20 min"
+cook: "25 min"
+servings: "12 (24 pieces)"
+cost: 1
+cost_unit: "serving"
+category: "appetizers"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Bacon-Wrapped Stuffed Jalapenos
 
 > Creamy cheese-stuffed jalapenos wrapped in thick-cut bacon and baked until crispy. The classic party appetizer that always gets finished first.

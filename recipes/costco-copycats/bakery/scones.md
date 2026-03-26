@@ -1,3 +1,16 @@
+---
+title: "Scones"
+description: "Somewhere between a biscuit and a pastry. Costco's version weighs approximately one pound each, and that's not a complaint."
+prep: "15 min"
+cook: "20 min"
+servings: "8 scones"
+cost: 0.75
+cost_unit: "scone"
+category: "costco-copycats/bakery"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Bakery Scones
 
 > Somewhere between a biscuit and a pastry. Costco's version weighs approximately one pound each, and that's not a complaint.

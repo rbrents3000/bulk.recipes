@@ -1,8 +1,21 @@
+---
+title: "Slow Cooker Chicken Tortilla Soup"
+description: "Dump-and-go soup using Costco rotisserie chicken and pantry staples. Set it in the morning, eat it for dinner."
+prep: "15 min"
+cook: "4 hr (slow cooker)"
+servings: "8"
+cost: 2
+cost_unit: "serving"
+category: "rotisserie-chicken"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Slow Cooker Chicken Tortilla Soup
 
 > Dump-and-go soup using Costco rotisserie chicken and pantry staples. Set it in the morning, eat it for dinner.
 
-**Prep:** 15 min | **Cook:** 240 min | **Servings:** 8 | **Cost:** ~$2.00/serving
+**Prep:** 15 min | **Cook:** 4 hr (slow cooker) | **Servings:** 8 | **Cost:** ~$2.00/serving
 
 ## Costco Shopping List
 - Kirkland Signature Rotisserie Chicken — 1 chicken (about 4 cups shredded) (~$4.99, 3 lb whole chicken)
@@ -30,6 +43,8 @@
 5. Ladle into bowls. Top with crushed tortilla chips, shredded cheese, avocado, and sour cream.
 
 > **Tip:** Char a couple of the tortillas directly over a burner flame and crumble them in — adds smoky flavor and thickens the broth slightly.
+
+*For a raw-chicken-thighs version that cooks entirely in the slow cooker, see the [Slow Cooker Chicken Tortilla Soup](../slow-cooker/chicken-tortilla-slow-cooker.md).*
 
 ## Storage
 Refrigerate up to 5 days. Freezes beautifully for up to 3 months — freeze without toppings.

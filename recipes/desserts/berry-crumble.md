@@ -1,3 +1,16 @@
+---
+title: "Berry Crumble"
+description: "Costco frozen berries baked under a buttery oat crumble — dead simple and always a crowd-pleaser."
+prep: "15 min"
+cook: "40 min"
+servings: "8"
+cost: 1.75
+cost_unit: "serving"
+category: "desserts"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Berry Crumble
 
 > Costco frozen berries baked under a buttery oat crumble — dead simple and always a crowd-pleaser.

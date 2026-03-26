@@ -1,3 +1,16 @@
+---
+title: "Rotisserie Chicken Fried Rice"
+description: "A fast weeknight dinner that uses Costco rotisserie chicken and jasmine rice. Better than takeout and ready in 20 minutes."
+prep: "10 min"
+cook: "10 min"
+servings: "4"
+cost: 1.88
+cost_unit: "serving"
+category: "rotisserie-chicken"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Rotisserie Chicken Fried Rice
 
 > A fast weeknight dinner that uses Costco rotisserie chicken and jasmine rice. Better than takeout and ready in 20 minutes.

@@ -1,3 +1,16 @@
+---
+title: "Tomato Basil Soup"
+description: "The Costco deli version is sweeter and creamier than your average tomato soup. This nails that exact vibe — silky smooth with a touch of sweetness and enough basil to smell from the next room."
+prep: "10 min"
+cook: "30 min"
+servings: "8"
+cost: 1.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Tomato Basil Soup
 
 > The Costco deli version is sweeter and creamier than your average tomato soup. This nails that exact vibe — silky smooth with a touch of sweetness and enough basil to smell from the next room.
@@ -28,6 +41,8 @@
 6. Serve garnished with fresh basil and a swirl of cream.
 
 > **Tip:** The sugar isn't optional — it's what makes this taste like the Costco version instead of a basic tomato soup. Don't skip it.
+
+*For a lighter, less-sweet version, see the [Creamy Tomato Basil Soup](../../soups/creamy-tomato-basil.md).*
 
 ## Storage
 Refrigerate up to 5 days. Reheat gently over low heat. Freezes well for up to 3 months (add the cream after thawing and reheating).

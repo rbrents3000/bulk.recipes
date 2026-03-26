@@ -1,3 +1,16 @@
+---
+title: "Chicken & Waffles"
+description: "The deli kit that broke the internet, now in your kitchen with better syrup."
+prep: "15 min"
+cook: "25 min"
+servings: "4"
+cost: 3.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Chicken & Waffles
 
 > The deli kit that broke the internet, now in your kitchen with better syrup.

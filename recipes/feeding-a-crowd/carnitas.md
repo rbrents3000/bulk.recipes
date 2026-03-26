@@ -1,3 +1,16 @@
+---
+title: "Carnitas"
+description: "A massive Costco pork shoulder, slow-roasted with citrus and warm spices until it falls apart, then crisped under the broiler — the ultimate crowd-feeding taco meat."
+prep: "15 min"
+cook: "4 hr"
+servings: "12"
+cost: 2.25
+cost_unit: "serving"
+category: "feeding-a-crowd"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Carnitas
 
 > A massive Costco pork shoulder, slow-roasted with citrus and warm spices until it falls apart, then crisped under the broiler — the ultimate crowd-feeding taco meat.

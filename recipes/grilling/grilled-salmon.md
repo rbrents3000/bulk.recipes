@@ -1,3 +1,16 @@
+---
+title: "Grilled Salmon"
+description: "Restaurant-quality fish from a warehouse store. The grill marks really sell it."
+prep: "10 min"
+cook: "10 min"
+servings: "4"
+cost: 5.5
+cost_unit: "serving"
+category: "grilling"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Grilled Salmon
 
 > Restaurant-quality fish from a warehouse store. The grill marks really sell it.

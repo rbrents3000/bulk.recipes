@@ -1,3 +1,16 @@
+---
+title: "Baby Back Ribs"
+description: "Fall-off-the-bone Costco ribs that'll make your neighbors mysteriously appear in your backyard."
+prep: "15 min"
+cook: "3 hr"
+servings: "6"
+cost: 4.5
+cost_unit: "serving"
+category: "grilling"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Baby Back Ribs
 
 > Fall-off-the-bone Costco ribs that'll make your neighbors mysteriously appear in your backyard.

@@ -1,3 +1,16 @@
+---
+title: "White Chicken Chili"
+description: "Creamy, slightly spicy, and suspiciously easy for something this comforting."
+prep: "15 min"
+cook: "4 hr"
+servings: "8"
+cost: 2.25
+cost_unit: "serving"
+category: "slow-cooker"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # White Chicken Chili
 
 > Creamy, slightly spicy, and suspiciously easy for something this comforting.

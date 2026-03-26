@@ -1,3 +1,16 @@
+---
+title: "Chinese Chicken Salad"
+description: "Crunchy cabbage, crispy wontons, sesame dressing — the Costco deli version is one of their most popular salads and this one tastes exactly like it. Maybe better, because the wontons are actually crispy."
+prep: "20 min"
+cook: "10 min"
+servings: "6"
+cost: 2.25
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: true
+---
 # Copycat Costco Chinese Chicken Salad
 
 > Crunchy cabbage, crispy wontons, sesame dressing — the Costco deli version is one of their most popular salads and this one tastes exactly like it. Maybe better, because the wontons are actually crispy.
@@ -37,7 +50,7 @@
 > **Tip:** Don't add the wontons until you're about to eat — they go from crunchy to soggy in about 5 minutes.
 
 ## Storage
-Store undressed salad up to 3 days. Keep dressing in a jar up to 7 days. Wonton strips stay crispy in an airtight container at room temperature for 5 days.
+Store undressed salad in the fridge for up to 3 days. Keep dressing in a jar in the fridge for up to 7 days. Wonton strips stay crispy in an airtight container at room temperature for 5 days. Don't freeze this one — the cabbage and dressing don't bounce back.
 
 ## Leftover Ideas
 - Wrap in a large flour tortilla for an Asian chicken wrap

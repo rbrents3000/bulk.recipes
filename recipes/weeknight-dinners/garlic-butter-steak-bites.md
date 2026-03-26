@@ -1,3 +1,16 @@
+---
+title: "Garlic Butter Steak Bites"
+description: "Tender cubes of Costco sirloin seared in a rich garlic butter, paired with crispy roasted potatoes for a steakhouse dinner in under 30 minutes."
+prep: "10 min"
+cook: "15 min"
+servings: "4"
+cost: 5.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Garlic Butter Steak Bites
 
 > Tender cubes of Costco sirloin seared in a rich garlic butter, paired with crispy roasted potatoes for a steakhouse dinner in under 30 minutes.

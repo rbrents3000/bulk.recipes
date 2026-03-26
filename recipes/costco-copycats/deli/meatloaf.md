@@ -1,3 +1,16 @@
+---
+title: "Meatloaf"
+description: "A big, juicy meatloaf with a sticky-sweet glaze — just like the one in the Costco deli case but yours won't have that sad plastic wrap tan line. Feeds 8 and costs a fraction of the $18 deli price."
+prep: "15 min"
+cook: "60 min"
+servings: "8"
+cost: 2
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Meatloaf
 
 > A big, juicy meatloaf with a sticky-sweet glaze — just like the one in the Costco deli case but yours won't have that sad plastic wrap tan line. Feeds 8 and costs a fraction of the $18 deli price.

@@ -1,3 +1,16 @@
+---
+title: "Cold Brew Concentrate"
+description: "One batch. One week of coffee. Zero mornings spent waiting in a drive-through."
+prep: "5 min"
+cook: "0 min (12-24 hr steep)"
+servings: "8"
+cost: 0.5
+cost_unit: "serving"
+category: "drinks"
+vegetarian: true
+gluten_free: true
+dairy_free: true
+---
 # Cold Brew Concentrate
 
 > One batch. One week of coffee. Zero mornings spent waiting in a drive-through.

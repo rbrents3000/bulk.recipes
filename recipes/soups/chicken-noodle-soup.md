@@ -1,3 +1,16 @@
+---
+title: "Classic Chicken Noodle Soup"
+description: "The soup your grandma would make if she had a Costco membership and a busy schedule."
+prep: "15 min"
+cook: "20 min"
+servings: "8"
+cost: 1.75
+cost_unit: "serving"
+category: "soups"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Classic Chicken Noodle Soup
 
 > The soup your grandma would make if she had a Costco membership and a busy schedule.

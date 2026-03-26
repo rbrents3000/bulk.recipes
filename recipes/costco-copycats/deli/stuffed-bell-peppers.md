@@ -1,3 +1,16 @@
+---
+title: "Stuffed Bell Peppers"
+description: "Six beefy, cheesy stuffed peppers just like the ones in the Costco deli case — except yours come out of the oven hot and bubbling instead of lukewarm under plastic wrap."
+prep: "15 min"
+cook: "45 min"
+servings: "6"
+cost: 2.75
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Copycat Costco Stuffed Bell Peppers
 
 > Six beefy, cheesy stuffed peppers just like the ones in the Costco deli case — except yours come out of the oven hot and bubbling instead of lukewarm under plastic wrap.

@@ -1,3 +1,16 @@
+---
+title: "Seasoned Chicken Wings"
+description: "The deli's seasoned wings come in three flavors. Here's all three — buffalo, teriyaki, and garlic Parmesan — so you can make a platter that beats the cold deli tray every time."
+prep: "10 min"
+cook: "45 min"
+servings: "6"
+cost: 3.5
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Copycat Costco Seasoned Chicken Wings
 
 > The deli's seasoned wings come in three flavors. Here's all three — buffalo, teriyaki, and garlic Parmesan — so you can make a platter that beats the cold deli tray every time.

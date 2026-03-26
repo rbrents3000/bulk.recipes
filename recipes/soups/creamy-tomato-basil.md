@@ -1,3 +1,16 @@
+---
+title: "Creamy Tomato Basil Soup"
+description: "The grilled cheese's best friend — silky, bright, and absolutely begging to be dunked into."
+prep: "10 min"
+cook: "25 min"
+servings: "6"
+cost: 1.25
+cost_unit: "serving"
+category: "soups"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Creamy Tomato Basil Soup
 
 > The grilled cheese's best friend — silky, bright, and absolutely begging to be dunked into.
@@ -6,12 +19,10 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Kirkland Canned Diced Tomatoes | 2 cans | ~$7.49 | 8-pack / 14.5 oz each |
-| Kirkland Chicken Broth | 1 carton | ~$4.49 | 6-pack / 32 oz each |
-| Kirkland Heavy Cream | 1 carton | ~$4.99 | 1 qt |
-| Fresh Basil | 1 clamshell | ~$3.49 | 4 oz package |
+- Kirkland Canned Diced Tomatoes — 2 cans (~$7.49, 8-pack / 14.5 oz each)
+- Kirkland Chicken Broth — 1 carton (~$4.49, 6-pack / 32 oz each)
+- Kirkland Heavy Cream — 1 carton (~$4.99, 1 qt)
+- Fresh Basil — 1 clamshell (~$3.49, 4 oz package)
 
 ## Other Ingredients
 - 1 large yellow onion, diced
@@ -34,6 +45,8 @@
 8. Taste, adjust seasoning, and serve with a few torn basil leaves on top.
 
 > **Tip:** Yes, you should make grilled cheese to go with this. Use the Kirkland sliced cheddar — it melts like a dream and you already have it in the cart.
+
+*For the sweeter, creamier Costco deli version, see the [Copycat Costco Tomato Basil Soup](../costco-copycats/deli/tomato-basil-soup.md).*
 
 ## Storage
 Refrigerate for up to 5 days. Freezes for up to 3 months — add the cream after thawing and reheating for the best texture.

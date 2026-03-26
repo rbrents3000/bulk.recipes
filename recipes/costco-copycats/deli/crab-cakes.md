@@ -1,3 +1,16 @@
+---
+title: "Crab Cakes"
+description: "Golden, crispy crab cakes packed with real crab — not breadcrumb filler. The deli ones are $15 for 8 and they're cold. Yours will be hot out of the skillet and twice as good."
+prep: "15 min + 30 min chill"
+cook: "10 min"
+servings: "8 cakes"
+cost: 3
+cost_unit: "serving"
+category: "costco-copycats/deli"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Crab Cakes
 
 > Golden, crispy crab cakes packed with real crab — not breadcrumb filler. The deli ones are $15 for 8 and they're cold. Yours will be hot out of the skillet and twice as good.

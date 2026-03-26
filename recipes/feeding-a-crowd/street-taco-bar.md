@@ -1,3 +1,16 @@
+---
+title: "Costco Street Taco Bar for a Crowd"
+description: "Turn Costco's deli street taco kit into a full taco bar spread. Add your own toppings and you've got a party for 10 with almost zero effort."
+prep: "15 min"
+cook: "10 min"
+servings: "10"
+cost: 4
+cost_unit: "serving"
+category: "feeding-a-crowd"
+vegetarian: false
+gluten_free: true
+dairy_free: false
+---
 # Costco Street Taco Bar for a Crowd
 
 > Turn Costco's deli street taco kit into a full taco bar spread. Add your own toppings and you've got a party for 10 with almost zero effort.

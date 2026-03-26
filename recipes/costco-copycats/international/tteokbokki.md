@@ -1,3 +1,16 @@
+---
+title: "Tteokbokki"
+description: "Chewy rice cakes in a sweet-spicy gochujang sauce — Costco Korea sells this as a ready-to-heat kit and it's one of their most popular items. Make it from scratch in 20 minutes."
+prep: "5 min"
+cook: "15 min"
+servings: "4"
+cost: 1.5
+cost_unit: "serving"
+category: "costco-copycats/international"
+vegetarian: true
+gluten_free: false
+dairy_free: true
+---
 # Copycat Costco Korea Tteokbokki
 
 > Chewy rice cakes in a sweet-spicy gochujang sauce — Costco Korea sells this as a ready-to-heat kit and it's one of their most popular items. Make it from scratch in 20 minutes.

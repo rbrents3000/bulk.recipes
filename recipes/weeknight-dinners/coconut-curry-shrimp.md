@@ -1,3 +1,16 @@
+---
+title: "Coconut Curry Shrimp"
+description: "Plump Costco shrimp swimming in a fragrant Thai red curry with coconut milk, crisp bell peppers, and fresh basil — on the table in 20 minutes flat."
+prep: "10 min"
+cook: "10 min"
+servings: "4"
+cost: 4
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: true
+dairy_free: true
+---
 # Coconut Curry Shrimp
 
 > Plump Costco shrimp swimming in a fragrant Thai red curry with coconut milk, crisp bell peppers, and fresh basil — on the table in 20 minutes flat.

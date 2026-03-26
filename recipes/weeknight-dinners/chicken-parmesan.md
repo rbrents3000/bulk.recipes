@@ -1,3 +1,16 @@
+---
+title: "Chicken Parmesan"
+description: "Crispy, saucy, cheesy — the holy trinity of weeknight comfort food."
+prep: "15 min"
+cook: "20 min"
+servings: "4"
+cost: 3.5
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Chicken Parmesan
 
 > Crispy, saucy, cheesy — the holy trinity of weeknight comfort food.

@@ -1,3 +1,16 @@
+---
+title: "Breakfast Croissant Sandwiches"
+description: "Use Costco's bakery croissants to make loaded breakfast sandwiches. Egg, bacon, cheese — meal prep a batch and freeze them for the week."
+prep: "10 min"
+cook: "15 min"
+servings: "6"
+cost: 2.33
+cost_unit: "serving"
+category: "meal-prep"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Breakfast Croissant Sandwiches
 
 > Use Costco's bakery croissants to make loaded breakfast sandwiches. Egg, bacon, cheese — meal prep a batch and freeze them for the week.

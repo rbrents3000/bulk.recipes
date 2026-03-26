@@ -1,8 +1,21 @@
+---
+title: "Korean Short Ribs (LA Galbi)"
+description: "Costco's flanken-cut short ribs are perfect for LA galbi — thin-sliced, marinated in a sweet soy-pear sauce, and grilled or broiled until caramelized. Restaurant-quality at home."
+prep: "10 min"
+cook: "10 min"
+servings: "4"
+cost: 13
+cost_unit: "serving"
+category: "weeknight-dinners"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Korean Short Ribs (LA Galbi)
 
 > Costco's flanken-cut short ribs are perfect for LA galbi — thin-sliced, marinated in a sweet soy-pear sauce, and grilled or broiled until caramelized. Restaurant-quality at home.
 
-**Prep:** 10 min | **Marinate:** 2 hr | **Cook:** 10 min | **Servings:** 4 | **Cost:** ~$6.00/serving
+**Prep:** 10 min | **Marinate:** 2 hr | **Cook:** 10 min | **Servings:** 4 | **Cost:** ~$13.00/serving
 
 ## Costco Shopping List
 - Beef Flanken-Cut Short Ribs — 3 lbs (~$15.99/lb, varies by region, sold in ~3-4 lb packs)

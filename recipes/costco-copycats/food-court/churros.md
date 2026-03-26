@@ -1,3 +1,16 @@
+---
+title: "Churros"
+description: "Make the iconic Costco food court churros at home. Crispy outside, soft inside, coated in cinnamon sugar. Way better than the microwave kind."
+prep: "15 min"
+cook: "20 min"
+servings: "12"
+cost: 0.42
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Churros
 
 > Make the iconic Costco food court churros at home. Crispy outside, soft inside, coated in cinnamon sugar. Way better than the microwave kind.

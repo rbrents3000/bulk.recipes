@@ -1,3 +1,16 @@
+---
+title: "Chicken Bake"
+description: "A homemade version of the iconic Costco food court chicken bake — chicken, bacon, cheese, and Caesar dressing wrapped in pizza dough."
+prep: "20 min"
+cook: "25 min"
+servings: "4"
+cost: 3
+cost_unit: "serving"
+category: "costco-copycats/food-court"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Chicken Bake
 
 > A homemade version of the iconic Costco food court chicken bake — chicken, bacon, cheese, and Caesar dressing wrapped in pizza dough.
@@ -34,3 +47,4 @@ Refrigerate up to 3 days. Reheat in oven at 350°F for 10-15 minutes. Can freeze
 
 ## Leftover Ideas
 - Slice and serve over salad for a deconstructed chicken bake bowl
+- Dice up leftovers and fold into scrambled eggs for a loaded breakfast

@@ -1,3 +1,16 @@
+---
+title: "Slow Cooker French Dip Sandwiches"
+description: "Set it, forget it, and come home to the most ridiculously dippable sandwich of your life."
+prep: "10 min"
+cook: "8 hr"
+servings: "8"
+cost: 3
+cost_unit: "serving"
+category: "slow-cooker"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Slow Cooker French Dip Sandwiches
 
 > Set it, forget it, and come home to the most ridiculously dippable sandwich of your life.

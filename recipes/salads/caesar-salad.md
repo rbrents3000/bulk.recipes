@@ -1,3 +1,16 @@
+---
+title: "Caesar Salad"
+description: "The salad so good it doesn't need to apologize for being a salad."
+prep: "15 min"
+cook: "5 min (croutons)"
+servings: "6"
+cost: 1.75
+cost_unit: "serving"
+category: "salads"
+vegetarian: true
+gluten_free: false
+dairy_free: false
+---
 # Caesar Salad
 
 > The salad so good it doesn't need to apologize for being a salad.
@@ -6,11 +19,9 @@
 
 ## Costco Shopping List
 
-| Item | Qty | Est. Price | Package Size |
-|------|-----|-----------|--------------|
-| Romaine Hearts | 3 hearts | ~$3.99 | 6-pack |
-| Kirkland Parmigiano Reggiano | 1 wedge | ~$16.99 | wedge (use 1/4 cup shaved) |
-| Kirkland Extra-Virgin Olive Oil | 1 bottle | ~$13.99 | 2 L bottle (use 3 tbsp) |
+- Romaine Hearts — 3 hearts (~$3.99, 6-pack)
+- Kirkland Parmigiano Reggiano — 1 wedge (~$16.99, wedge (use 1/4 cup shaved))
+- Kirkland Extra-Virgin Olive Oil — 1 bottle (~$13.99, 2 L bottle (use 3 tbsp))
 
 ## Other Ingredients
 - 2 cloves garlic, minced

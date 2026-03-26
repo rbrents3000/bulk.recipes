@@ -1,3 +1,16 @@
+---
+title: "Tourtière"
+description: "A Québécois meat pie with seasoned ground pork and beef under a flaky double crust — Costco Canada sells this in the deli every holiday season. Make one yourself and serve it on Christmas Eve like a proper Canadien."
+prep: "20 min"
+cook: "50 min"
+servings: "8"
+cost: 2
+cost_unit: "serving"
+category: "costco-copycats/international"
+vegetarian: false
+gluten_free: false
+dairy_free: false
+---
 # Copycat Costco Canada Tourtière
 
 > A Québécois meat pie with seasoned ground pork and beef under a flaky double crust — Costco Canada sells this in the deli every holiday season. Make one yourself and serve it on Christmas Eve like a proper Canadien.
