@@ -58,6 +58,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const label = categoryLabels[category] || category.split('/').pop()?.replace(/-/g, ' ') || '';
   const isBudget = cost <= 2;
   const isQuick = recipe.prep?.includes('10 min') || recipe.prep?.includes('5 min');
+  const recipeImage = `/assets/recipes/${id.split('/').pop()}.png`;
   const categoryImage = categoryImageMap[category] || '/assets/categories/weeknight.png';
 
   return (
@@ -65,7 +66,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
       <div class="bg-surface-container-lowest rounded-xl overflow-visible shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_24px_48px_rgba(0,0,0,0.08)] transition-all duration-300">
         <div class="p-3">
           <div class="relative h-44 md:h-56 w-full rounded-lg overflow-hidden bg-surface-container">
-            <img src={categoryImage} alt="" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" aria-hidden="true" loading="lazy" />
+            <img src={recipeImage} alt="" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" aria-hidden="true" loading="lazy" onError={(e) => { (e.target as HTMLImageElement).src = categoryImage; }} />
             <div class="absolute top-3 left-3 flex flex-col gap-2">
               {isBudget && <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-xs font-extrabold shadow-sm">💰 Budget</span>}
               {isQuick && <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-xs font-extrabold shadow-sm">⏱️ Quick</span>}
