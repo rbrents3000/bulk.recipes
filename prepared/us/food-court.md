@@ -22,6 +22,7 @@ The Costco food court is famous for its low prices and generous portions. The $1
 | Mango Smoothie | $2.99 | Blended fruit smoothie |
 | Strawberry Banana Smoothie | $2.99 | Blended fruit smoothie |
 | Latte / Mocha Freeze | $2.99 | Espresso-based frozen drink |
+| Double Chocolate Chunk Cookie | $2.49 | Warm chocolate chunk cookie, served fresh — permanent menu item since late 2023 |
 
 ## Regional / Seasonal Items
 

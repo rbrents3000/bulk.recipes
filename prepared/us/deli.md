@@ -16,6 +16,9 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Chicken Marsala | $16.99 | ~3 lbs | Chicken breast with mushroom marsala sauce |
 | Enchilada Bake | ~$15.99 | ~3 lbs | Rotisserie chicken enchiladas, ready to bake |
 | Flame-Seared Chipotle Chicken | ~$14.99 | ~2 lbs | Grilled chicken, great for fajitas or salads |
+| Yakisoba Chicken Stir Fry | ~$14.99 | ~3 lbs | Dark meat chicken with noodles, snap peas, broccoli, bell peppers in soy-based sauce |
+| Chicken & Waffles Kit | ~$17.99 | Serves 4 | Fried chicken thighs, Belgian waffles, maple syrup, hot honey — newer viral item |
+| Pesto Chicken Breasts | ~$5.99/lb | ~3 lbs | Pesto-marinated, ready to bake or grill |
 
 ### Beef & Pork
 
@@ -29,6 +32,8 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Pulled Pork | $14.99 | ~2.5 lbs | Smoked and shredded |
 | Shepherd's Pie | $15.99 | ~3 lbs | Ground beef with mashed potato topping |
 | Braised Beef with Mashed Potatoes | ~$18.99 | ~3 lbs | Split tray, microwave-ready |
+| Birria Tacos Kit | ~$24.99 | Serves 6-8 | Slow-roasted beef birria with crispy tacos, Spanish rice, consomme dipping sauce — hot new item |
+| Beef & Pork Meatball Sandwich | ~$14.99 | ~2.5 lbs | Massive sandwich — meatballs, marinara, provolone on ciabatta |
 
 ### Seafood
 
@@ -39,12 +44,17 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Sushi Platters | $18.99-$24.99 | Various | Assorted rolls and nigiri |
 | Poke Bowls | $12.99 | Single serve | West Coast / Hawaii — fresh ahi tuna |
 | Shrimp Cocktail Platter | $19.99 | ~2 lbs | Pre-cooked shrimp with cocktail sauce |
+| Salmon Milano with Basil Pesto Butter | ~$14.75/lb | 3 fillets | Herbed pesto butter on salmon — one of the most popular deli items |
+| Tempura Shrimp Taco Kit | ~$19.99 | 12 tacos | Tempura shrimp, tortillas, shredded veggies, cilantro lime crema, pico de gallo — widely loved new item |
+| Cilantro Lime Shrimp | ~$9.99/lb | ~2 lbs | Seasoned, ready to sauté or grill |
+| Shrimp Cocktail Tray | ~$14.49 | 1.6 lbs | Cooked shrimp with cocktail sauce and lemon — party essential |
 
 ### Pasta & Sides
 
 | Item | Price | Size | Notes |
 |------|-------|------|-------|
 | Mac and Cheese | $12.99 | ~3 lbs (serves 6-8) | Baked with breadcrumb topping |
+| Mac and Cheese (prepared) | ~$3.49/lb | ~3 lbs | Pasta with cheese sauce, shredded cheddar on top — classic Costco side |
 | Ravioli Lasagna | $14.99 | ~3 lbs | Layers of ravioli with meat sauce and cheese |
 | Mashed Potatoes | $8.99 | ~3 lbs | Ready to heat and serve |
 | Loaded Baked Potatoes | $11.99 | 6 count | Stuffed with cheese, bacon, sour cream |
@@ -67,6 +77,9 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Mediterranean Pasta Salad | $9.99 | ~2 lbs | Rotini with vegetables and Italian dressing |
 | Chinese Chicken Salad | $9.99 | ~2 lbs | Cabbage-based with crispy wontons |
 | Mediterranean Orzo Pasta Salad | ~$9.99 | ~2 lbs | Salami, feta, vegetables, vinaigrette |
+| Chicken Salad | ~$9.99 | ~2 lbs | Made with rotisserie chicken, celery, creamy dressing — sandwich filling or straight from the container |
+| Shrimp Salad | ~$12.99 | ~1.5 lbs | Mayo-based shrimp salad |
+| Grain & Celery Salad | ~$4.99/lb | ~2 lbs | Chickpeas, quinoa, bulgur, kale, almonds, dried cranberries, apple cider vinaigrette |
 
 ### Sandwiches & Wraps
 
@@ -76,6 +89,7 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Ham & Swiss Pinwheels | $9.99 | 20 count | Rolled flour tortilla with ham, Swiss, lettuce |
 | Croissant Sandwich Platter | $19.99 | 8 count | Turkey/ham/roast beef on butter croissants |
 | Chicken Wraps | $11.99 | 5 count | Grilled chicken, lettuce, tomato in a flour tortilla |
+| Tandoori Chicken Wrap | ~$9.99 | 2-pack | Tomato basil tortilla, tandoori chicken, cauliflower, mint yogurt sauce |
 
 ### Party Platters & Entertaining
 
@@ -99,6 +113,7 @@ The deli section is one of Costco's biggest draws. Items rotate seasonally but t
 | Broccoli Cheddar Soup | $9.99 | ~2 lbs | Creamy broccoli and cheddar |
 | Tomato Basil Soup | $9.99 | ~2 lbs | Seasonal |
 | Chicken Noodle Soup | $9.99 | ~2 lbs | Classic — seasonal |
+| Butter Chicken with Naan | ~$17.99 | Serves 4 | Indian-style butter chicken dinner kit |
 
 ### Grab-and-Go
 

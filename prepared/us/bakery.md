@@ -14,6 +14,8 @@ Everything is baked in-store daily. The quantities are huge and the prices are r
 | Baguettes | $3.99 | 2-pack | French-style baguettes |
 | Multigrain Bread | $5.49 | 2-pack loaves | Sliced multigrain |
 | Sliced Sourdough Bread | $5.49 | 2-pack loaves | San Francisco-style |
+| Pita Bread | $7.93 | 9 count | Thick-cut rounds, baked in-house |
+| Cranberry Orange Bagels | ~$7.99 | 12 count | New bagel flavor, part of mix-and-match options |
 
 ### Seasonal Bread
 
@@ -34,6 +36,8 @@ Everything is baked in-store daily. The quantities are huge and the prices are r
 | Almond Croissants | ~$6.99 | 12 count | Flaky with sweet almond paste filling |
 | Bear Claws | $8.99 | 6 count | Almond-filled pastry |
 | Turnovers | $7.99 | 8 count | Apple or cherry |
+| Triple Chocolate Loaf | $10.99 | 1 loaf | Chocolate cake, chocolate chips, chocolate icing, white chocolate shavings — named best bakery item of 2025 |
+| Cinnamon Coffee Cake | ~$8.99 | 1 large | Crumbly streusel topping, classic beloved item |
 
 ## Cakes
 
@@ -47,6 +51,8 @@ Everything is baked in-store daily. The quantities are huge and the prices are r
 | Strawberry Topped Cheesecake | $18.99 | Serves 12 | Glazed strawberries on cheesecake |
 | Tiramisu Bar Cake | $16.99 | Serves 12 | Seasonal |
 | All-American Chocolate Cake | $18.99 | Serves 16 | Classic birthday cake style |
+| Carrot Bar Cake | ~$16.99 | Serves 12 | Spiced cake with cream cheese frosting — returning fan favorite |
+| Red Velvet Bar Cake | ~$16.99 | Serves 12 | Layers of red velvet with cream cheese frosting |
 
 ## Pies
 
@@ -67,6 +73,8 @@ Everything is baked in-store daily. The quantities are huge and the prices are r
 | Cookie Platter | $18.99 | 60+ count | Party-sized assortment |
 | Reese's Peanut Butter Monster Cookies | ~$9.99 | 12 count | Peanut butter, chocolate, oats |
 | Raspberry Crumble Cookies | $9.99 | 12 count | Seasonal |
+| Mini Cupcakes | ~$10.20 | 12 count | Chocolate or white varieties |
+| Classic Cupcakes | ~$15.99 | 12 count | Full-size, various frosting flavors |
 
 ## Seasonal Specialties
 
