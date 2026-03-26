@@ -4,6 +4,7 @@ interface Recipe {
   slug: string;
   description: string;
   cost: number;
+  category: string;
 }
 
 interface Props {
@@ -11,6 +12,25 @@ interface Props {
 }
 
 const { recipes } = Astro.props;
+
+const categoryImageMap: Record<string, string> = {
+  'costco-copycats/food-court': '/assets/categories/copycats.png',
+  'costco-copycats/deli': '/assets/categories/copycats.png',
+  'costco-copycats/bakery': '/assets/categories/desserts.png',
+  'costco-copycats/international': '/assets/categories/copycats.png',
+  'weeknight-dinners': '/assets/categories/weeknight.png',
+  'rotisserie-chicken': '/assets/categories/rotisserie.png',
+  'feeding-a-crowd': '/assets/categories/crowd.png',
+  'meal-prep': '/assets/categories/meal-prep.png',
+  'slow-cooker': '/assets/categories/slow-cooker.png',
+  'appetizers': '/assets/categories/appetizers.png',
+  'desserts': '/assets/categories/desserts.png',
+  'drinks': '/assets/categories/drinks.png',
+  'grilling': '/assets/categories/grilling.png',
+  'salads': '/assets/categories/salads.png',
+  'snacks': '/assets/categories/snacks.png',
+  'soups': '/assets/categories/soups.png',
+};
 ---
 
 <section class="px-6 md:px-12 py-16 max-w-7xl mx-auto">
@@ -28,8 +48,8 @@ const { recipes } = Astro.props;
         class="group min-w-[320px] flex-shrink-0 snap-start"
       >
         <div class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
-          <div class="h-48 bg-surface-container flex items-center justify-center">
-            <span class="material-symbols-outlined text-5xl text-on-surface-variant opacity-20" aria-hidden="true">restaurant</span>
+          <div class="h-48 bg-surface-container overflow-hidden">
+            <img src={categoryImageMap[recipe.category] || '/assets/categories/weeknight.png'} alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" aria-hidden="true" loading="lazy" />
           </div>
           <div class="p-5">
             <h3 class="font-headline font-bold text-lg mb-2 group-hover:text-primary transition-colors line-clamp-2">

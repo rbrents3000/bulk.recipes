@@ -32,6 +32,25 @@ const categoryLabels: Record<string, string> = {
   'soups': 'Soups',
 };
 
+const categoryImageMap: Record<string, string> = {
+  'costco-copycats/food-court': '/assets/categories/copycats.png',
+  'costco-copycats/deli': '/assets/categories/copycats.png',
+  'costco-copycats/bakery': '/assets/categories/desserts.png',
+  'costco-copycats/international': '/assets/categories/copycats.png',
+  'weeknight-dinners': '/assets/categories/weeknight.png',
+  'rotisserie-chicken': '/assets/categories/rotisserie.png',
+  'feeding-a-crowd': '/assets/categories/crowd.png',
+  'meal-prep': '/assets/categories/meal-prep.png',
+  'slow-cooker': '/assets/categories/slow-cooker.png',
+  'appetizers': '/assets/categories/appetizers.png',
+  'desserts': '/assets/categories/desserts.png',
+  'drinks': '/assets/categories/drinks.png',
+  'grilling': '/assets/categories/grilling.png',
+  'salads': '/assets/categories/salads.png',
+  'snacks': '/assets/categories/snacks.png',
+  'soups': '/assets/categories/soups.png',
+};
+
 export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const { id, title, description, cost, cost_unit, cook, servings, category, vegetarian, gluten_free, dairy_free } = recipe;
   const href = `/recipes/${id}`;
@@ -39,15 +58,14 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const label = categoryLabels[category] || category.split('/').pop()?.replace(/-/g, ' ') || '';
   const isBudget = cost <= 1.5;
   const isPopular = cost <= 2;
+  const categoryImage = categoryImageMap[category] || '/assets/categories/weeknight.png';
 
   return (
     <a href={href} class="group block">
       <div class="bg-surface-container-lowest rounded-xl overflow-hidden shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300">
         <div class="p-3">
           <div class="relative h-48 w-full rounded-lg overflow-hidden bg-surface-container">
-            <div class="w-full h-full flex items-center justify-center text-on-surface-variant">
-              <span class="material-symbols-outlined text-4xl opacity-20" aria-hidden="true">restaurant</span>
-            </div>
+            <img src={categoryImage} alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" aria-hidden="true" loading="lazy" />
             <div class="absolute top-3 left-3 flex flex-col gap-1.5">
               {isPopular && <span class="bg-secondary-container text-on-secondary-container px-3 py-1 rounded-full text-[10px] font-extrabold">🔥 POPULAR</span>}
               {isBudget && <span class="bg-white/90 text-primary px-3 py-1 rounded-full text-[10px] font-extrabold backdrop-blur">💰 BUDGET</span>}

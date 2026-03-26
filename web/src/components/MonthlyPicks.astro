@@ -15,6 +15,25 @@ interface Props {
 const { recipes } = Astro.props;
 
 const monthName = new Date().toLocaleString('en-US', { month: 'long' });
+
+const categoryImageMap: Record<string, string> = {
+  'costco-copycats/food-court': '/assets/categories/copycats.png',
+  'costco-copycats/deli': '/assets/categories/copycats.png',
+  'costco-copycats/bakery': '/assets/categories/desserts.png',
+  'costco-copycats/international': '/assets/categories/copycats.png',
+  'weeknight-dinners': '/assets/categories/weeknight.png',
+  'rotisserie-chicken': '/assets/categories/rotisserie.png',
+  'feeding-a-crowd': '/assets/categories/crowd.png',
+  'meal-prep': '/assets/categories/meal-prep.png',
+  'slow-cooker': '/assets/categories/slow-cooker.png',
+  'appetizers': '/assets/categories/appetizers.png',
+  'desserts': '/assets/categories/desserts.png',
+  'drinks': '/assets/categories/drinks.png',
+  'grilling': '/assets/categories/grilling.png',
+  'salads': '/assets/categories/salads.png',
+  'snacks': '/assets/categories/snacks.png',
+  'soups': '/assets/categories/soups.png',
+};
 ---
 
 <section class="px-6 md:px-12 py-16 max-w-7xl mx-auto">
@@ -40,8 +59,8 @@ const monthName = new Date().toLocaleString('en-US', { month: 'long' });
     {recipes.map((recipe) => (
       <a href={`/recipes/${recipe.slug}`} class="group block">
         <div class="bg-surface-container-lowest rounded-xl overflow-hidden shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300">
-          <div class="relative h-64 bg-surface-container flex items-center justify-center overflow-hidden">
-            <span class="material-symbols-outlined text-5xl text-on-surface-variant opacity-20" aria-hidden="true">restaurant</span>
+          <div class="relative h-64 bg-surface-container overflow-hidden">
+            <img src={categoryImageMap[recipe.category] || '/assets/categories/weeknight.png'} alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" aria-hidden="true" loading="lazy" />
             <div class="absolute top-3 right-3">
               <span class="px-3 py-1 bg-tertiary-container text-on-tertiary-container rounded-full text-[10px] font-black uppercase tracking-wider">
                 {recipe.cost < 2 ? 'Cheap!' : `${recipe.servings} servings`}
