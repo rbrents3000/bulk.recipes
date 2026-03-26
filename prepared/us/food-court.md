@@ -40,6 +40,23 @@ These rotate by location and season:
 | Salted Caramel Brownie Sundae | $2.99 | Fall seasonal — brownie chunks, caramel, soft serve |
 | Caramel Churro Sundae | $2.99 | Winter seasonal — mini churro bites, salted caramel, soft serve |
 
+## Make It at Home
+
+Love the food court but hate the line? We've got copycat recipes for most of the menu.
+
+| Food Court Item | Copycat Recipe | Cost/Serving |
+|----------------|---------------|-------------|
+| Chicken Bake | [Chicken Bake](../../recipes/costco-copycats/food-court/chicken-bake.md) | ~$3.00 |
+| Churros | [Churros](../../recipes/costco-copycats/food-court/churros.md) | ~$0.42 |
+| Açaí Bowl | [Açaí Bowl](../../recipes/costco-copycats/food-court/acai-bowl.md) | ~$3.50 |
+| Berry Sundae | [Berry Sundae](../../recipes/costco-copycats/food-court/berry-sundae.md) | ~$1.50 |
+| Pizza | [Pizza Dough](../../recipes/costco-copycats/food-court/pizza-dough.md) + [Pepperoni Pizza](../../recipes/costco-copycats/food-court/pepperoni-pizza.md) | ~$1.50-2.00 |
+| Combo Calzone | [Combo Calzone](../../recipes/costco-copycats/food-court/combo-calzone.md) | ~$2.50 |
+| Hot Dog | [Costco Hot Dog](../../recipes/costco-copycats/food-court/hot-dog.md) | ~$1.00 |
+| Turkey & Provolone | [Turkey & Provolone Sandwich](../../recipes/costco-copycats/food-court/turkey-provolone-sandwich.md) | ~$2.00 |
+| Mango Smoothie | [Mango Smoothie](../../recipes/costco-copycats/food-court/mango-smoothie.md) | ~$1.25 |
+| Chocolate Chunk Cookie | [Double Chocolate Chunk Cookie](../../recipes/costco-copycats/food-court/chocolate-chunk-cookie.md) | ~$0.50 |
+
 ## Retired Fan Favorites
 
 Items that were removed but people still miss:

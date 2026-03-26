@@ -1,0 +1,53 @@
+# Copycat Costco Korea Korean Fried Chicken
+
+> Costco Korea sells double-fried Korean fried chicken that's impossibly crispy with a sticky-sweet yangnyeom glaze. This is that — shatteringly crunchy, saucy, and dangerously addictive.
+
+*Costco Korea sells this as a prepared deli item — here's how to make it at home with Costco US ingredients.*
+
+**Prep:** 20 min | **Cook:** 25 min | **Servings:** 6 | **Cost:** ~$3.00/serving
+
+## Costco Shopping List
+- Kirkland Signature Boneless Skinless Chicken Thighs — 2.5 lbs (~$8.00, 6.5 lb pack)
+- Kirkland Signature Sesame Oil — 1 tablespoon (~$6.99, 20 oz)
+
+## Other Ingredients
+**Coating:**
+- 1 cup all-purpose flour
+- 1/2 cup cornstarch
+- 1 teaspoon salt
+- 1/2 teaspoon pepper
+- 1 teaspoon garlic powder
+- 3/4 cup cold water (or cold soda water for extra crunch)
+- Vegetable oil for frying (about 4 cups)
+
+**Yangnyeom sauce:**
+- 1/4 cup gochujang (Korean red pepper paste)
+- 3 tablespoons soy sauce
+- 3 tablespoons rice vinegar
+- 3 tablespoons honey
+- 1 tablespoon sesame oil
+- 3 cloves garlic, minced
+- 1 tablespoon ginger, grated
+- 1 tablespoon ketchup
+
+**Garnish:**
+- Sesame seeds
+- Sliced green onions
+
+## Instructions
+1. Cut chicken thighs into large bite-sized pieces (about 2 inches).
+2. Mix flour, cornstarch, salt, pepper, and garlic powder. Add cold water and stir until you have a thin batter — some lumps are fine.
+3. Heat oil to 325°F (160°C) in a deep pot or Dutch oven. Dip chicken in batter, let excess drip off, and fry in batches for 6-7 minutes until cooked through but only lightly golden. Remove and drain on a wire rack. Let rest 5 minutes.
+4. **Second fry:** Raise oil to 375°F (190°C). Fry chicken again for 2-3 minutes until deeply golden and super crispy. Drain on a wire rack.
+5. **Sauce:** Combine all sauce ingredients in a small saucepan. Simmer 3-4 minutes until slightly thickened.
+6. Toss hot chicken in the sauce, or serve sauce on the side for dipping. Garnish with sesame seeds and green onions.
+
+> **Tip:** The double-fry is the whole secret. First fry cooks it through, second fry at higher heat crisps the coating. Don't skip it.
+
+## Storage
+Best eaten immediately — the crispy coating doesn't survive storage well. Leftover chicken (unsauced) can be re-crisped in a 425°F oven for 10 minutes.
+
+## Leftover Ideas
+- Chop and toss into fried rice
+- Slice and pile into a sandwich with slaw
+- Serve cold over a salad with sesame dressing

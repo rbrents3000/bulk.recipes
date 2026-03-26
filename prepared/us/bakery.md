@@ -141,3 +141,18 @@ Holiday baking season. The bakery goes all out.
 | Gingerbread Cookie Kit | $10.59 | Pre-baked pieces, no oven needed, just decorate — kids love it |
 
 > The Yule Log (listed above) is the other winter highlight. Chocolate mousse bûche de Noël, available December only, and it photographs beautifully.
+
+## Make It at Home
+
+Some bakery items are worth recreating — especially when you want them warm from your own oven.
+
+| Bakery Item | Copycat Recipe | Cost/Serving |
+|-------------|---------------|-------------|
+| Cinnamon Rolls | [Cinnamon Rolls](../../recipes/costco-copycats/bakery/cinnamon-rolls.md) | ~$0.75/roll |
+| Chocolate Croissants | [Chocolate Croissants](../../recipes/costco-copycats/bakery/chocolate-croissants.md) | ~$1.00/each |
+| Almond Croissants | [Almond Croissants](../../recipes/costco-copycats/bakery/almond-croissants.md) | ~$1.25/each |
+| Brownies | [Brownies](../../recipes/costco-copycats/bakery/brownies.md) | ~$0.50 |
+| Danishes | [Danishes](../../recipes/costco-copycats/bakery/danishes.md) | ~$0.75/each |
+| Mini Quiche Tray | [Mini Quiche Tray](../../recipes/costco-copycats/bakery/mini-quiche-tray.md) | ~$0.75/each |
+| Triple Chocolate Loaf | [Triple Chocolate Loaf](../../recipes/costco-copycats/bakery/triple-chocolate-loaf.md) | ~$0.75/slice |
+| Cinnamon Coffee Cake | [Cinnamon Coffee Cake](../../recipes/costco-copycats/bakery/cinnamon-coffee-cake.md) | ~$0.75/serving |

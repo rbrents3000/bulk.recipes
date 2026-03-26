@@ -4,7 +4,56 @@
 
 This is not what Costco sells ready-to-eat — that's in [prepared foods](../prepared/). These are recipes for when you get home with a cart full of bulk groceries and need to turn it all into actual dinners. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
 
-115 recipes. Cheapest is $0.40/serving (lemonade). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
+157 recipes. Cheapest is $0.35/piece (spanakopita). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
+
+---
+
+## Quick Picks
+
+Don't want to scroll through 157 recipes? Start here.
+
+**Under 30 Minutes:**
+[Chicken Fried Rice](rotisserie-chicken/chicken-fried-rice.md) ·
+[Shakshuka](weeknight-dinners/shakshuka.md) ·
+[Chicken Quesadillas](rotisserie-chicken/chicken-quesadillas.md) ·
+[Garlic Butter Steak Bites](weeknight-dinners/garlic-butter-steak-bites.md) ·
+[Shrimp Scampi Pasta](weeknight-dinners/shrimp-scampi-pasta.md) ·
+[Chicken Lettuce Wraps](weeknight-dinners/chicken-lettuce-wraps.md) ·
+[Seared Scallops](weeknight-dinners/seared-scallops.md) ·
+[Egg Muffin Cups](meal-prep/egg-muffin-cups.md)
+
+**Under $2/Serving:**
+[Churros](costco-copycats/food-court/churros.md) ·
+[Lemonade Concentrate](drinks/lemonade-concentrate.md) ·
+[Granola Bars](snacks/granola-bars.md) ·
+[Peanut Butter Cookies](desserts/peanut-butter-cookies.md) ·
+[Overnight Oats](meal-prep/overnight-oats.md) ·
+[Vegetable Fried Rice](weeknight-dinners/vegetable-fried-rice.md) ·
+[Shakshuka](weeknight-dinners/shakshuka.md) ·
+[Bruschetta](appetizers/bruschetta.md)
+
+**Vegetarian:**
+[Shakshuka](weeknight-dinners/shakshuka.md) ·
+[Caprese Salad](salads/caprese-salad.md) ·
+[Chickpea Pasta Marinara](weeknight-dinners/chickpea-pasta-marinara.md) ·
+[Butternut Squash Soup](soups/butternut-squash-soup.md) ·
+[Greek Salad](salads/greek-salad.md) ·
+[Overnight Oats](meal-prep/overnight-oats.md)
+
+**Feed a Crowd (10+):**
+[Street Taco Bar](feeding-a-crowd/street-taco-bar.md) ·
+[Slow Cooker Pulled Pork](feeding-a-crowd/slow-cooker-pulled-pork.md) ·
+[Baked Ziti](feeding-a-crowd/baked-ziti.md) ·
+[Carnitas](feeding-a-crowd/carnitas.md) ·
+[Mac and Cheese](feeding-a-crowd/mac-and-cheese.md) ·
+[Breakfast Casserole](feeding-a-crowd/breakfast-casserole.md)
+
+**Date Night:**
+[Seared Scallops](weeknight-dinners/seared-scallops.md) ·
+[Lemon Butter Salmon](weeknight-dinners/lemon-butter-salmon.md) ·
+[Chocolate Lava Cakes](desserts/chocolate-lava-cakes.md) ·
+[Garlic Butter Steak Bites](weeknight-dinners/garlic-butter-steak-bites.md) ·
+[Salmon Milano](costco-copycats/deli/salmon-milano.md)
 
 ---
 
@@ -21,18 +70,80 @@ Eight ways to use the $4.99 chicken that got you into the store in the first pla
 - [Chicken Salad](rotisserie-chicken/chicken-salad.md) — ~$2.25/serving
 
 ## Costco Copycats
-Your best attempts at recreating what they make in the food court. Some come close. Some are arguably better.
+Your best attempts at recreating what they make in the food court, deli, and bakery — plus international Costco items from around the world. Some come close. Some are arguably better.
 
-- [Chicken Bake](costco-copycats/chicken-bake.md) — ~$3.00/serving
-- [Churros](costco-copycats/churros.md) — ~$0.42/serving
-- [Açaí Bowl](costco-copycats/acai-bowl.md) — ~$3.50/serving
-- [Berry Sundae](costco-copycats/berry-sundae.md) — ~$1.50/serving
-- [Costco-Style Pizza](costco-copycats/pizza-dough.md) — ~$2.00/serving
-- [Combo Calzone](costco-copycats/combo-calzone.md) — ~$2.50/serving
-- [Costco Hot Dog](costco-copycats/hot-dog.md) — ~$1.00/serving
-- [Pepperoni Pizza](costco-copycats/pepperoni-pizza.md) — ~$1.50/serving
-- [Turkey & Provolone Sandwich](costco-copycats/turkey-provolone-sandwich.md) — ~$2.00/serving
-- [Mango Smoothie](costco-copycats/mango-smoothie.md) — ~$1.25/serving
+### Food Court
+- [Chicken Bake](costco-copycats/food-court/chicken-bake.md) — ~$3.00/serving
+- [Churros](costco-copycats/food-court/churros.md) — ~$0.42/serving
+- [Açaí Bowl](costco-copycats/food-court/acai-bowl.md) — ~$3.50/serving
+- [Berry Sundae](costco-copycats/food-court/berry-sundae.md) — ~$1.50/serving
+- [Costco-Style Pizza](costco-copycats/food-court/pizza-dough.md) — ~$2.00/serving
+- [Combo Calzone](costco-copycats/food-court/combo-calzone.md) — ~$2.50/serving
+- [Costco Hot Dog](costco-copycats/food-court/hot-dog.md) — ~$1.00/serving
+- [Pepperoni Pizza](costco-copycats/food-court/pepperoni-pizza.md) — ~$1.50/serving
+- [Turkey & Provolone Sandwich](costco-copycats/food-court/turkey-provolone-sandwich.md) — ~$2.00/serving
+- [Mango Smoothie](costco-copycats/food-court/mango-smoothie.md) — ~$1.25/serving
+
+### Deli
+- [Chicken Marsala](costco-copycats/deli/chicken-marsala.md) — ~$3.50/serving
+- [Stuffed Bell Peppers](costco-copycats/deli/stuffed-bell-peppers.md) — ~$2.75/serving
+- [Crab Cakes](costco-copycats/deli/crab-cakes.md) — ~$3.00/serving
+- [Shepherd's Pie](costco-copycats/deli/shepherds-pie.md) — ~$2.50/serving
+- [Enchilada Bake](costco-copycats/deli/enchilada-bake.md) — ~$2.50/serving
+- [Spanakopita](costco-copycats/deli/spanakopita.md) — ~$0.35/piece
+- [Egg Rolls](costco-copycats/deli/egg-rolls.md) — ~$0.60/roll
+- [Ravioli Lasagna](costco-copycats/deli/ravioli-lasagna.md) — ~$2.50/serving
+- [Loaded Baked Potatoes](costco-copycats/deli/loaded-baked-potatoes.md) — ~$1.75/serving
+- [Clam Chowder](costco-copycats/deli/clam-chowder.md) — ~$2.00/serving
+- [Broccoli Cheddar Soup](costco-copycats/deli/broccoli-cheddar-soup.md) — ~$1.50/serving
+- [Stuffed Salmon](costco-copycats/deli/stuffed-salmon.md) — ~$7.00/serving
+- [Meatloaf](costco-copycats/deli/meatloaf.md) — ~$2.00/serving
+- [Beef Short Ribs](costco-copycats/deli/beef-short-ribs.md) — ~$5.50/serving
+- [Chicken Street Tacos](costco-copycats/deli/chicken-street-tacos.md) — ~$2.50/serving
+- [Gyro Meat](costco-copycats/deli/gyro-meat.md) — ~$3.00/serving
+- [Chicken Wings](costco-copycats/deli/chicken-wings.md) — three sauces — ~$3.50/serving
+- [Tomato Basil Soup](costco-copycats/deli/tomato-basil-soup.md) — ~$1.50/serving
+- [Beef Chili](costco-copycats/deli/beef-chili.md) — ~$2.25/serving
+- [Chicken Caesar Salad](costco-copycats/deli/chicken-caesar-salad.md) — ~$2.00/serving
+- [Chinese Chicken Salad](costco-copycats/deli/chinese-chicken-salad.md) — ~$2.25/serving
+- [Poke Bowls](costco-copycats/deli/poke-bowls.md) — ~$5.00/serving
+- [Turkey Provolone Pinwheels](costco-copycats/deli/turkey-provolone-pinwheels.md) — ~$0.50/pinwheel
+- [Six-Layer Dip](costco-copycats/deli/six-layer-dip.md) — ~$1.25/serving
+
+### Bakery
+- [Cinnamon Rolls](costco-copycats/bakery/cinnamon-rolls.md) — ~$0.75/roll
+- [Chocolate Croissants](costco-copycats/bakery/chocolate-croissants.md) — ~$1.00/each
+- [Brownies](costco-copycats/bakery/brownies.md) — ~$0.50/serving
+- [Almond Croissants](costco-copycats/bakery/almond-croissants.md) — ~$1.25/each
+- [Danishes](costco-copycats/bakery/danishes.md) — cheese, apple, or cherry — ~$0.75/each
+- [Mini Quiche Tray](costco-copycats/bakery/mini-quiche-tray.md) — lorraine and florentine — ~$0.75/each
+
+### International
+Copycats of prepared items from Costco locations around the world — made with Costco US ingredients.
+
+**Korea:**
+- [Korean Fried Chicken](costco-copycats/international/korean-fried-chicken.md) — double-fried, yangnyeom sauce — ~$3.00/serving
+- [Tteokbokki](costco-copycats/international/tteokbokki.md) — spicy rice cakes — ~$1.50/serving
+- [Gimbap](costco-copycats/international/gimbap.md) — Korean sushi rolls — ~$2.00/serving
+
+**Japan:**
+- [Chicken Karaage](costco-copycats/international/chicken-karaage.md) — Japanese fried chicken — ~$2.50/serving
+- [Japanese Curry](costco-copycats/international/japanese-curry.md) — with Kirkland rice and chicken — ~$2.50/serving
+- [Gyudon](costco-copycats/international/gyudon.md) — beef bowl — ~$3.00/serving
+
+**France:**
+- [French Onion Soup](costco-copycats/international/french-onion-soup.md) — caramelized onions, Gruyere — ~$2.50/serving
+- [Quiche Lorraine](costco-copycats/international/quiche-lorraine.md) — family-size — ~$2.00/serving
+
+**China:**
+- [Char Siu](costco-copycats/international/char-siu.md) — Cantonese BBQ pork — ~$2.50/serving
+- [Scallion Pancakes](costco-copycats/international/scallion-pancakes.md) — crispy and flaky — ~$0.50/serving
+
+**Mexico:**
+- [Cochinita Pibil](costco-copycats/international/cochinita-pibil.md) — Yucatan slow-roasted pork — ~$2.25/serving
+
+**Canada:**
+- [Tourtière](costco-copycats/international/tourtiere.md) — Québécois meat pie — ~$2.00/serving
 
 ## Weeknight Dinners
 For when you get home at 6:30 and someone is already asking what's for dinner.

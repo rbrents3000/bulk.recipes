@@ -45,7 +45,7 @@ Every recipe in this repo relies on at least a few Kirkland products. Here's a g
 - [Overnight Oats](../recipes/meal-prep/overnight-oats.md) — rolled oats + Greek yogurt + honey + frozen berries
 - [Pesto Chicken Pasta](../recipes/weeknight-dinners/pesto-chicken-pasta.md) — that Kirkland pesto jar was born for this recipe
 - [Chocolate Lava Cakes](../recipes/desserts/chocolate-lava-cakes.md) — chocolate chips + butter + eggs, all from one warehouse trip
-- [Acai Bowl](../recipes/costco-copycats/acai-bowl.md) — frozen acai packets + honey + frozen berries, breakfast for $3.50
+- [Acai Bowl](../recipes/costco-copycats/food-court/acai-bowl.md) — frozen acai packets + honey + frozen berries, breakfast for $3.50
 - [Chicken Enchiladas](../recipes/rotisserie-chicken/chicken-enchiladas.md) — rotisserie chicken + shredded cheese, the Costco dinner starter pack
 - [Egg Muffin Cups](../recipes/meal-prep/egg-muffin-cups.md) — cage-free eggs + bacon + cheese, 75 cents per meal prep serving
 - [Berry Crumble](../recipes/desserts/berry-crumble.md) — frozen berries + oats + butter + sugar, all the Kirkland essentials in one dessert

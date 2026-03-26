@@ -32,14 +32,14 @@ Here's the thing about Costco's frozen section — it's not where you go when yo
 | Bibigo Beef Bulgogi Mandu | ~$13.99 | 3 lbs | Savory, beefy, and perfect with a dipping sauce or tossed in a stir-fry |
 
 ## Recipes Using These
-- [Acai Bowl](../recipes/costco-copycats/acai-bowl.md) — those frozen packets become a gorgeous, loaded breakfast bowl
+- [Acai Bowl](../recipes/costco-copycats/food-court/acai-bowl.md) — those frozen packets become a gorgeous, loaded breakfast bowl
 - [Bibigo Dumpling Stir-Fry](../recipes/weeknight-dinners/bibigo-dumpling-stir-fry.md) — dumplings meet the stir-fry veggie blend and magic happens
 - [Berry Crumble](../recipes/desserts/berry-crumble.md) — frozen berries bake up just as beautifully as fresh
-- [Berry Sundae](../recipes/costco-copycats/berry-sundae.md) — three berry blend over vanilla ice cream, drizzled and done
+- [Berry Sundae](../recipes/costco-copycats/food-court/berry-sundae.md) — three berry blend over vanilla ice cream, drizzled and done
 - [Chicken Pot Pie](../recipes/rotisserie-chicken/chicken-pot-pie.md) — mixed vegetables and broccoli make this a one-stop freezer pull
 - [Overnight Oats](../recipes/meal-prep/overnight-oats.md) — top with frozen berries that thaw overnight into jammy perfection
 - [Berry Smoothie](../recipes/drinks/berry-smoothie.md) — that three berry blend was literally made for blending
 - [Berry Protein Pancakes](../recipes/meal-prep/berry-protein-pancakes.md) — frozen berries fold right into the batter, no thawing needed
-- [Mango Smoothie](../recipes/costco-copycats/mango-smoothie.md) — frozen mango chunks whipped into tropical bliss
+- [Mango Smoothie](../recipes/costco-copycats/food-court/mango-smoothie.md) — frozen mango chunks whipped into tropical bliss
 - [Thai Green Curry](../recipes/weeknight-dinners/thai-green-curry.md) — stir-fry veggies go straight from freezer to curry pot
 - [Soup Dumplings](../recipes/appetizers/soup-dumplings.md) — when you want the dumpling experience but fancier

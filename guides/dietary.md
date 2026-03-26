@@ -28,16 +28,16 @@ Out of **115 total recipes:**
 | [BBQ Chicken Pizza](../recipes/rotisserie-chicken/bbq-chicken-pizza.md) | Rotisserie Chicken | $2.75 | | | |
 | [Chicken Quesadillas](../recipes/rotisserie-chicken/chicken-quesadillas.md) | Rotisserie Chicken | $1.75 | | | |
 | [Chicken Salad](../recipes/rotisserie-chicken/chicken-salad.md) | Rotisserie Chicken | $2.25 | | | |
-| [Chicken Bake](../recipes/costco-copycats/chicken-bake.md) | Costco Copycats | $3.00 | | | |
-| [Churros](../recipes/costco-copycats/churros.md) | Costco Copycats | $0.42 | ✓ | | |
-| [Acai Bowl](../recipes/costco-copycats/acai-bowl.md) | Costco Copycats | $3.50 | ✓ | ✓ | ✓ |
-| [Berry Sundae](../recipes/costco-copycats/berry-sundae.md) | Costco Copycats | $1.50 | ✓ | | |
-| [Pizza Dough](../recipes/costco-copycats/pizza-dough.md) | Costco Copycats | $2.00 | ✓ | | ✓ |
-| [Combo Calzone](../recipes/costco-copycats/combo-calzone.md) | Costco Copycats | $2.50 | | | |
-| [Hot Dog](../recipes/costco-copycats/hot-dog.md) | Costco Copycats | $1.50 | | | ✓ |
-| [Pepperoni Pizza](../recipes/costco-copycats/pepperoni-pizza.md) | Costco Copycats | $2.50 | | | |
-| [Turkey Provolone Sandwich](../recipes/costco-copycats/turkey-provolone-sandwich.md) | Costco Copycats | $2.75 | | | |
-| [Mango Smoothie](../recipes/costco-copycats/mango-smoothie.md) | Costco Copycats | $1.50 | ✓ | ✓ | |
+| [Chicken Bake](../recipes/costco-copycats/food-court/chicken-bake.md) | Costco Copycats | $3.00 | | | |
+| [Churros](../recipes/costco-copycats/food-court/churros.md) | Costco Copycats | $0.42 | ✓ | | |
+| [Acai Bowl](../recipes/costco-copycats/food-court/acai-bowl.md) | Costco Copycats | $3.50 | ✓ | ✓ | ✓ |
+| [Berry Sundae](../recipes/costco-copycats/food-court/berry-sundae.md) | Costco Copycats | $1.50 | ✓ | | |
+| [Pizza Dough](../recipes/costco-copycats/food-court/pizza-dough.md) | Costco Copycats | $2.00 | ✓ | | ✓ |
+| [Combo Calzone](../recipes/costco-copycats/food-court/combo-calzone.md) | Costco Copycats | $2.50 | | | |
+| [Hot Dog](../recipes/costco-copycats/food-court/hot-dog.md) | Costco Copycats | $1.50 | | | ✓ |
+| [Pepperoni Pizza](../recipes/costco-copycats/food-court/pepperoni-pizza.md) | Costco Copycats | $2.50 | | | |
+| [Turkey Provolone Sandwich](../recipes/costco-copycats/food-court/turkey-provolone-sandwich.md) | Costco Copycats | $2.75 | | | |
+| [Mango Smoothie](../recipes/costco-copycats/food-court/mango-smoothie.md) | Costco Copycats | $1.50 | ✓ | ✓ | |
 | [Bulgogi Rice Bowls](../recipes/weeknight-dinners/bulgogi-rice-bowls.md) | Weeknight Dinners | $3.67 | | | |
 | [Shrimp Scampi Pasta](../recipes/weeknight-dinners/shrimp-scampi-pasta.md) | Weeknight Dinners | $4.50 | | | |
 | [Lemon Butter Salmon](../recipes/weeknight-dinners/lemon-butter-salmon.md) | Weeknight Dinners | $6.50 | | | |
@@ -142,30 +142,30 @@ Out of **115 total recipes:**
 
 All the flavor, none of the meat. (31 recipes)
 
-- [Acai Bowl](../recipes/costco-copycats/acai-bowl.md)
+- [Acai Bowl](../recipes/costco-copycats/food-court/acai-bowl.md)
 - [Banana Bread](../recipes/desserts/banana-bread.md)
 - [Berry Crumble](../recipes/desserts/berry-crumble.md)
 - [Berry Protein Pancakes](../recipes/meal-prep/berry-protein-pancakes.md)
 - [Berry Smoothie](../recipes/drinks/berry-smoothie.md)
-- [Berry Sundae](../recipes/costco-copycats/berry-sundae.md)
+- [Berry Sundae](../recipes/costco-copycats/food-court/berry-sundae.md)
 - [Bruschetta](../recipes/appetizers/bruschetta.md)
 - [Butternut Squash Soup](../recipes/soups/butternut-squash-soup.md)
 - [Caprese Salad](../recipes/salads/caprese-salad.md)
 - [Chickpea Pasta Marinara](../recipes/weeknight-dinners/chickpea-pasta-marinara.md)
 - [Chocolate Lava Cakes](../recipes/desserts/chocolate-lava-cakes.md)
-- [Churros](../recipes/costco-copycats/churros.md)
+- [Churros](../recipes/costco-copycats/food-court/churros.md)
 - [Cold Brew Concentrate](../recipes/drinks/cold-brew-concentrate.md)
 - [Cookie Skillet](../recipes/desserts/cookie-skillet.md)
 - [Creamy Tomato Basil Soup](../recipes/soups/creamy-tomato-basil.md)
 - [Egg Muffin Cups](../recipes/meal-prep/egg-muffin-cups.md)
 - [Granola Bars](../recipes/snacks/granola-bars.md)
 - [Mango Lassi](../recipes/drinks/mango-lassi.md)
-- [Mango Smoothie](../recipes/costco-copycats/mango-smoothie.md)
+- [Mango Smoothie](../recipes/costco-copycats/food-court/mango-smoothie.md)
 - [Minestrone](../recipes/soups/minestrone.md)
 - [No-Bake Cheesecake](../recipes/desserts/no-bake-cheesecake.md)
 - [Overnight Oats](../recipes/meal-prep/overnight-oats.md)
 - [Peanut Butter Cookies](../recipes/desserts/peanut-butter-cookies.md)
-- [Pizza Dough](../recipes/costco-copycats/pizza-dough.md)
+- [Pizza Dough](../recipes/costco-copycats/food-court/pizza-dough.md)
 - [Quinoa Power Salad](../recipes/salads/quinoa-power-salad.md)
 - [Shakshuka](../recipes/weeknight-dinners/shakshuka.md)
 - [Spinach Artichoke Dip](../recipes/appetizers/spinach-artichoke-dip.md)
@@ -180,7 +180,7 @@ All the flavor, none of the meat. (31 recipes)
 
 No wheat, no worries. (32 recipes)
 
-- [Acai Bowl](../recipes/costco-copycats/acai-bowl.md)
+- [Acai Bowl](../recipes/costco-copycats/food-court/acai-bowl.md)
 - [Baby Back Ribs](../recipes/grilling/baby-back-ribs.md)
 - [Beef Stew](../recipes/slow-cooker/beef-stew.md)
 - [Berry Smoothie](../recipes/drinks/berry-smoothie.md)
@@ -196,7 +196,7 @@ No wheat, no worries. (32 recipes)
 - [Garlic Butter Steak Bites](../recipes/weeknight-dinners/garlic-butter-steak-bites.md)
 - [Greek Chicken Meal Prep](../recipes/meal-prep/greek-chicken-meal-prep.md)
 - [Mango Lassi](../recipes/drinks/mango-lassi.md)
-- [Mango Smoothie](../recipes/costco-copycats/mango-smoothie.md)
+- [Mango Smoothie](../recipes/costco-copycats/food-court/mango-smoothie.md)
 - [Mississippi Pot Roast](../recipes/slow-cooker/mississippi-pot-roast.md)
 - [Peanut Butter Cookies](../recipes/desserts/peanut-butter-cookies.md)
 - [Quinoa Power Salad](../recipes/salads/quinoa-power-salad.md)
@@ -219,7 +219,7 @@ No wheat, no worries. (32 recipes)
 
 No cream, no cheese, no tears. (25 recipes)
 
-- [Acai Bowl](../recipes/costco-copycats/acai-bowl.md)
+- [Acai Bowl](../recipes/costco-copycats/food-court/acai-bowl.md)
 - [Baby Back Ribs](../recipes/grilling/baby-back-ribs.md)
 - [Banana Bread](../recipes/desserts/banana-bread.md)
 - [BBQ Chicken Sandwiches](../recipes/grilling/bbq-chicken-sandwiches.md)
@@ -233,11 +233,11 @@ No cream, no cheese, no tears. (25 recipes)
 - [Cold Brew Concentrate](../recipes/drinks/cold-brew-concentrate.md)
 - [Fish Tacos](../recipes/weeknight-dinners/fish-tacos.md)
 - [Granola Bars](../recipes/snacks/granola-bars.md)
-- [Hot Dog](../recipes/costco-copycats/hot-dog.md)
+- [Hot Dog](../recipes/costco-copycats/food-court/hot-dog.md)
 - [Miso Glazed Salmon](../recipes/weeknight-dinners/miso-glazed-salmon.md)
 - [Pad Thai](../recipes/weeknight-dinners/pad-thai.md)
 - [Peanut Butter Cookies](../recipes/desserts/peanut-butter-cookies.md)
-- [Pizza Dough](../recipes/costco-copycats/pizza-dough.md)
+- [Pizza Dough](../recipes/costco-copycats/food-court/pizza-dough.md)
 - [Slow Cooker Pulled Pork](../recipes/feeding-a-crowd/slow-cooker-pulled-pork.md)
 - [Smoked Tri-Tip](../recipes/grilling/smoked-tri-tip.md)
 - [Steak Kabobs](../recipes/grilling/steak-kabobs.md)

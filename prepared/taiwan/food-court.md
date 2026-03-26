@@ -38,6 +38,11 @@ Costco Taiwan has a vibrant food court with strong local flavors. Taiwan's night
 - **Mango smoothie** is seasonal — made with fresh Taiwanese mango in summer (June-August), and it's spectacular
 - **Soft serve flavors** rotate — taro, mango, and brown sugar boba have all appeared
 - **Holiday specials** pop up around Chinese New Year and Mid-Autumn Festival
+- **Strawberry items** appear in winter (Dec-March) — Taiwan's strawberry season produces fruit that's smaller, sweeter, and more aromatic
+
+## The Bubble Tea Phenomenon
+
+A word about the bubble tea station: this is not an afterthought. Taiwan invented bubble tea, and Costco Taiwan treats it accordingly. The tapioca pearls are made fresh, the tea is brewed properly, and the line moves fast but never disappears. Multiple flavors are available — classic milk tea, taro, matcha, and seasonal rotations like brown sugar and passion fruit. At NT$79 (~$2.50) for a large cup, it undercuts most boba shops while matching quality. If you only try one thing at the Taiwan food court, this is it.
 
 ## Notes
 
@@ -46,3 +51,5 @@ Costco Taiwan has a vibrant food court with strong local flavors. Taiwan's night
 - **Bubble tea** is the single most popular food court item — the line is its own event
 - The **crispy chicken bucket** outsells pizza at most Taiwan locations, which tells you everything about this island's fried chicken devotion
 - Food court seating fills up fast on weekends — some regulars eat standing up and don't even mind
+- Most Taiwan locations have the food court **inside** the warehouse, past checkout
+- Prices are exceptionally low even by Taiwanese standards — the food court is one of the best value propositions in a country already known for cheap, excellent food

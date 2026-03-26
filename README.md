@@ -39,7 +39,7 @@ Highlights:
 
 ### [Recipes](recipes/)
 
-What you make at home with all that stuff. 115 homemade recipes built around Costco ingredients, each with a Costco shopping list and cost-per-serving breakdown.
+What you make at home with all that stuff. 157 homemade recipes built around Costco ingredients, each with a Costco shopping list and cost-per-serving breakdown.
 
 A few favorites:
 - [Birria Tacos](recipes/weeknight-dinners/birria-tacos.md) — slow-braised chuck roast, crispy dipped tacos — $3.50/serving
@@ -47,19 +47,23 @@ A few favorites:
 - [Pad Thai](recipes/weeknight-dinners/pad-thai.md) — shrimp, rice noodles, peanuts, tamarind — $3.50/serving
 - [Chicken & Wild Rice Soup](recipes/soups/chicken-wild-rice-soup.md) — rotisserie chicken in creamy broth — $2.25/serving
 - [Seared Scallops](recipes/weeknight-dinners/seared-scallops.md) — restaurant-quality, screaming hot pan — $8.00/serving
-- [Churros](recipes/costco-copycats/churros.md) — reverse-engineered from the food court — $0.42/serving
+- [Churros](recipes/costco-copycats/food-court/churros.md) — reverse-engineered from the food court — $0.42/serving
 - [Peanut Butter Cookies](recipes/desserts/peanut-butter-cookies.md) — three ingredients, somehow incredible — $0.50/serving
 - [French Toast Casserole](recipes/meal-prep/french-toast-casserole.md) — Costco croissants soaked overnight — $2.00/serving
 - [Charcuterie Board](recipes/appetizers/charcuterie-board.md) — Costco cheese + meats, looks like you tried — $3.00/serving
 - [Mississippi Pot Roast](recipes/slow-cooker/mississippi-pot-roast.md) — internet-famous, five ingredients, zero effort — $3.50/serving
 - [Gyro Bowls](recipes/weeknight-dinners/gyro-bowls.md) — Costco gyro kit deconstructed into rice bowls — $3.50/serving
+- [Chicken Marsala](recipes/costco-copycats/deli/chicken-marsala.md) — deli copycat, mushroom Marsala sauce — $3.50/serving
+- [Clam Chowder](recipes/costco-copycats/deli/clam-chowder.md) — deli copycat, thick New England-style — $2.00/serving
+- [Korean Fried Chicken](recipes/costco-copycats/international/korean-fried-chicken.md) — double-fried, yangnyeom glaze, Costco Korea copycat — $3.00/serving
+- [Char Siu](recipes/costco-copycats/international/char-siu.md) — Cantonese BBQ pork, Costco China copycat — $2.50/serving
 - [Granola Bars](recipes/snacks/granola-bars.md) — no-bake, Kirkland oats and peanut butter — $0.50/serving
 
-**[Browse all 115 recipes →](recipes/)**
+**[Browse all 157 recipes →](recipes/)**
 
 ### [Guides](guides/)
 
-The stuff you wish someone had told you before your first Costco run. Meal plans, freezer strategies, a full cost index, and a dietary guide so you can find exactly what fits your budget and your diet without scrolling through 115 recipes.
+The stuff you wish someone had told you before your first Costco run. Meal plans, freezer strategies, a full cost index, and a dietary guide so you can find exactly what fits your budget and your diet without scrolling through 157 recipes.
 
 [Meal Plans](guides/meal-plans.md) ·
 [One Chicken, Five Meals](guides/rotisserie-chicken.md) ·

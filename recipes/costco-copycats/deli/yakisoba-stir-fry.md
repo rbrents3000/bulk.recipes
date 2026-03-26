@@ -31,7 +31,9 @@
 7. Whisk together soy sauce, oyster sauce, sesame oil, rice vinegar, brown sugar, garlic, and ginger in a small bowl.
 8. Add noodles and chicken back to the wok with the vegetables. Pour the sauce over everything.
 9. Toss constantly for 2 minutes over high heat until the sauce coats everything and the noodles start to pick up a little char on the edges.
-10. Garnish with sesame seeds and sliced scallions.
+10. Garnish with sesame seeds and sliced scallions. Serve immediately — this dish is at its absolute best straight from the wok.
+
+> **Tip:** Double the sauce recipe and keep the extra in a jar in the fridge. It lasts 2 weeks and works on basically anything — rice bowls, grilled chicken, roasted vegetables, even as a marinade.
 
 > **Tip:** High heat is non-negotiable. If your pan isn't borderline smoking, you're steaming, not stir-frying. That's how you end up with sad, soggy noodles instead of the slightly charred, glossy ones from the deli.
 
@@ -45,3 +47,4 @@ Refrigerate up to 4 days in an airtight container. Reheat in a hot skillet with 
 - Wrap in crisp butter lettuce cups for a lighter lunch
 - Top with a fried egg and a drizzle of sriracha for next-level leftovers
 - Stuff into a tortilla for a fusion burrito that sounds wrong but tastes right
+- Chop fine and use as filling for dumplings or potstickers

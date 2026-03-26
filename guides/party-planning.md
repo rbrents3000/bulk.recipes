@@ -58,8 +58,8 @@ At this scale, Costco prepared platters are your best friend. Let the deli do th
 
 The crowd-pleaser that basically runs itself.
 
-- [Street Taco Bar](../recipes/feeding-a-crowd/street-taco-bar.md) — the main event
-- Store-bought chips + Costco salsa + guacamole
+- [Street Taco Bar](../recipes/feeding-a-crowd/street-taco-bar.md) or [Chicken Street Tacos](../recipes/costco-copycats/deli/chicken-street-tacos.md) — the main event
+- [Six-Layer Dip](../recipes/costco-copycats/deli/six-layer-dip.md) + Costco chips
 - [Street Corn Dip](../recipes/appetizers/street-corn-dip.md) — the secret star
 ### BBQ Party
 
@@ -71,14 +71,19 @@ The crowd-pleaser that basically runs itself.
 
 - [Breakfast Casserole](../recipes/feeding-a-crowd/breakfast-casserole.md) — prep night before, bake morning of
 - [French Toast Casserole](../recipes/meal-prep/french-toast-casserole.md) — sweet version of the same move
+- [Mini Quiche Tray](../recipes/costco-copycats/bakery/mini-quiche-tray.md) — lorraine and florentine, serve warm
+- [Quiche Lorraine](../recipes/costco-copycats/international/quiche-lorraine.md) — or go big with a full-size quiche
 - Costco fruit platter + [Berry Smoothie](../recipes/drinks/berry-smoothie.md) in a big pitcher
 - Kirkland coffee + OJ + mimosa supplies (we don't judge)
 
 ### Game Day
 
+- [Chicken Wings](../recipes/costco-copycats/deli/chicken-wings.md) — three sauces, one platter, zero competition
 - [Buffalo Chicken Dip](../recipes/appetizers/buffalo-chicken-dip.md) — the undisputed MVP
+- [Six-Layer Dip](../recipes/costco-copycats/deli/six-layer-dip.md) — the crowd-feeding dip
 - [Pizza Bagels](../recipes/snacks/pizza-bagels.md) — crowd-favorite finger food
 - [Bacon-Wrapped Stuffed Jalapenos](../recipes/appetizers/bacon-wrapped-stuffed-jalapenos.md) — for the spice crew
+- [Turkey Provolone Pinwheels](../recipes/costco-copycats/deli/turkey-provolone-pinwheels.md) — make the night before, slice and serve
 - Costco tortilla chips + salsa + guac
 
 ---

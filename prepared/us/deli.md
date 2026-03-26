@@ -140,3 +140,22 @@ The deli rotates items with the seasons. Here's what to watch for:
 | Spring | Rotisserie Chicken Enchilada Bake | Returning fan-favorite — rotisserie chicken, black beans, cheddar, rice (~$23-26/tray) |
 
 > **Tip:** The standing rib roast sells out fast. Ask the meat department if your store takes pre-orders — some do, some don't.
+
+## Make It at Home
+
+Most of the deli's greatest hits have copycat recipes. Make them in your own kitchen — same flavors, bigger portions, and you control the seasoning.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| Chicken Marsala | [Chicken Marsala](../../recipes/costco-copycats/deli/chicken-marsala.md) | ~$3.50 |
+| Stuffed Bell Peppers | [Stuffed Bell Peppers](../../recipes/costco-copycats/deli/stuffed-bell-peppers.md) | ~$2.75 |
+| Enchilada Bake | [Enchilada Bake](../../recipes/costco-copycats/deli/enchilada-bake.md) | ~$2.50 |
+| Shepherd's Pie | [Shepherd's Pie](../../recipes/costco-copycats/deli/shepherds-pie.md) | ~$2.50 |
+| Clam Chowder | [Clam Chowder](../../recipes/costco-copycats/deli/clam-chowder.md) | ~$2.00 |
+| Meatloaf | [Meatloaf](../../recipes/costco-copycats/deli/meatloaf.md) | ~$2.00 |
+| Chicken Wings | [Chicken Wings](../../recipes/costco-copycats/deli/chicken-wings.md) | ~$3.50 |
+| Salmon Milano | [Salmon Milano](../../recipes/costco-copycats/deli/salmon-milano.md) | ~$6.00 |
+| Yakisoba Stir Fry | [Yakisoba Stir Fry](../../recipes/costco-copycats/deli/yakisoba-stir-fry.md) | ~$2.50 |
+| Birria Tacos Kit | [Birria Tacos](../../recipes/costco-copycats/deli/birria-tacos-kit.md) | ~$3.00 |
+| Tempura Shrimp Tacos | [Tempura Shrimp Tacos](../../recipes/costco-copycats/deli/tempura-shrimp-tacos.md) | ~$3.50 |
+| Chicken & Waffles | [Chicken & Waffles](../../recipes/costco-copycats/deli/chicken-waffles.md) | ~$3.50 |
