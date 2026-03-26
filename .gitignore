@@ -1,0 +1,21 @@
+# Drop folder for design assets and temporary files
+drop/
+
+# Node modules (for web/ Astro project)
+node_modules/
+
+# Build output
+dist/
+.astro/
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
