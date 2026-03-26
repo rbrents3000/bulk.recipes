@@ -1,3 +1,5 @@
+import FavoriteButton from './FavoriteButton';
+
 interface Recipe {
   id: string;
   title: string;
@@ -67,6 +69,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
         <div class="p-3">
           <div class="relative h-44 md:h-56 w-full rounded-lg overflow-hidden bg-surface-container">
             <img src={recipeImage} alt="" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" aria-hidden="true" loading="lazy" onError={(e) => { (e.target as HTMLImageElement).src = categoryImage; }} />
+            <FavoriteButton recipeId={id} />
             {isQuick && (
               <div class="absolute top-3 left-3">
                 <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-xs font-extrabold shadow-sm">⏱️ Quick</span>
