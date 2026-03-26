@@ -9,10 +9,14 @@ interface Props {
   costUnit: string;
   category: string;
   slug: string;
+  ingredients: string[];
+  instructions: string[];
+  keywords: string;
 }
 
-const { title, description, prep, cook, servings, cost, costUnit, category, slug } = Astro.props;
+const { title, description, prep, cook, servings, cost, costUnit, category, slug, ingredients, instructions, keywords } = Astro.props;
 
+// Convert "15 min" or "8 hr" to ISO 8601 duration "PT15M" or "PT8H"
 function toISO(time: string): string {
   const hrs = time.match(/(\d+)\s*hr/i);
   const mins = time.match(/(\d+)\s*min/i);
@@ -22,15 +26,61 @@ function toISO(time: string): string {
   return iso === 'PT' ? 'PT0M' : iso;
 }
 
-const schema = {
+// Parse minutes from time string for totalTime calculation
+function parseMinutes(time: string): number {
+  const hrs = time.match(/(\d+)\s*hr/i);
+  const mins = time.match(/(\d+)\s*min/i);
+  let total = 0;
+  if (hrs) total += parseInt(hrs[1]) * 60;
+  if (mins) total += parseInt(mins[1]);
+  return total;
+}
+
+function minutesToISO(mins: number): string {
+  const h = Math.floor(mins / 60);
+  const m = mins % 60;
+  let iso = 'PT';
+  if (h) iso += h + 'H';
+  if (m) iso += m + 'M';
+  return iso === 'PT' ? 'PT0M' : iso;
+}
+
+const totalMinutes = parseMinutes(prep) + parseMinutes(cook);
+
+// Infer cuisine from category
+function inferCuisine(cat: string): string {
+  if (cat.includes('international')) {
+    if (cat.includes('korean') || slug.includes('korean') || slug.includes('tteokbokki') || slug.includes('gimbap')) return 'Korean';
+    if (slug.includes('japanese') || slug.includes('karaage') || slug.includes('gyudon')) return 'Japanese';
+    if (slug.includes('french') || slug.includes('quiche')) return 'French';
+    if (slug.includes('char-siu') || slug.includes('scallion')) return 'Chinese';
+    if (slug.includes('cochinita')) return 'Mexican';
+    if (slug.includes('tourtiere')) return 'Canadian';
+  }
+  if (slug.includes('birria') || slug.includes('carnitas') || slug.includes('taco') || slug.includes('enchilada')) return 'Mexican';
+  if (slug.includes('bulgogi') || slug.includes('korean')) return 'Korean';
+  if (slug.includes('pad-thai') || slug.includes('thai')) return 'Thai';
+  if (slug.includes('tikka') || slug.includes('butter-chicken')) return 'Indian';
+  if (slug.includes('italian') || slug.includes('lasagna') || slug.includes('ziti')) return 'Italian';
+  return 'American';
+}
+
+// Format servings with unit
+const formattedServings = servings.match(/\d+/) ? `${servings} servings` : servings;
+
+const schema: Record<string, unknown> = {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "name": title,
   "description": description,
+  "image": "https://bulk.recipes/og-default.png",
   "prepTime": toISO(prep),
   "cookTime": toISO(cook),
-  "recipeYield": servings,
+  "totalTime": minutesToISO(totalMinutes),
+  "recipeYield": formattedServings,
   "recipeCategory": category.replace(/[-/]/g, ' '),
+  "recipeCuisine": inferCuisine(category),
+  "keywords": keywords,
   "author": {
     "@type": "Organization",
     "name": "bulk.recipes",
@@ -38,6 +88,19 @@ const schema = {
   },
   "url": `https://bulk.recipes/recipes/${slug}`,
 };
+
+// Only add ingredients if we found any
+if (ingredients.length > 0) {
+  schema["recipeIngredient"] = ingredients;
+}
+
+// Only add instructions if we found any
+if (instructions.length > 0) {
+  schema["recipeInstructions"] = instructions.map(step => ({
+    "@type": "HowToStep",
+    "text": step,
+  }));
+}
 ---
 
 <script type="application/ld+json" set:html={JSON.stringify(schema)} />
