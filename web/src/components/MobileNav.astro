@@ -1,9 +1,9 @@
 ---
 const navItems = [
   { icon: 'restaurant_menu', label: 'Recipes', href: '/recipes' },
-  { icon: 'explore', label: 'Explore', href: '/prepared' },
-  { icon: 'inventory_2', label: 'Products', href: '/products' },
+  { icon: 'explore', label: 'Countries', href: '/prepared' },
   { icon: 'menu_book', label: 'Guides', href: '/guides' },
+  { icon: 'inventory_2', label: 'Products', href: '/products' },
 ];
 ---
 
@@ -19,6 +19,14 @@ const navItems = [
       <span class="font-body text-[10px] font-medium">{item.label}</span>
     </a>
   ))}
+  <button
+    data-search-trigger
+    class="mobile-nav-btn flex flex-col items-center justify-center gap-0.5 min-w-[44px] min-h-[44px] text-neutral-500 transition-colors"
+    aria-label="Search"
+  >
+    <span class="material-symbols-outlined text-2xl" aria-hidden="true">search</span>
+    <span class="font-body text-[10px] font-medium">Search</span>
+  </button>
 </nav>
 
 <script>

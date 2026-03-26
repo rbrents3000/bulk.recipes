@@ -1,31 +1,6 @@
-import { useState, useMemo } from 'preact/hooks';
+import { useState, useMemo, useEffect } from 'preact/hooks';
 import RecipeCardClient from './RecipeCardClient';
-
-interface Recipe {
-  id: string;
-  title: string;
-  description: string;
-  card_description?: string;
-  cost: number;
-  cost_unit: string;
-  prep: string;
-  cook: string;
-  servings: string;
-  category: string;
-  vegetarian: boolean;
-  gluten_free: boolean;
-  dairy_free: boolean;
-  ingredientTags: string[];
-}
-
-function parseCookMinutes(cook: string): number {
-  const hrMatch = cook.match(/(\d+)\s*hr/i);
-  const minMatch = cook.match(/(\d+)\s*min/i);
-  let total = 0;
-  if (hrMatch) total += parseInt(hrMatch[1]) * 60;
-  if (minMatch) total += parseInt(minMatch[1]);
-  return total || 999;
-}
+import { type Recipe, parseMinutes, effectiveCostPerServing } from '../types/recipe';
 
 const PAGE_SIZE = 12;
 
@@ -53,16 +28,44 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
   const params = typeof window !== 'undefined' ? new URLSearchParams(window.location.search) : null;
 
   const [category, setCategory] = useState<string>(params?.get('category') || '');
-  const [maxCost, setMaxCost] = useState(parseFloat(params?.get('maxCost') || '10'));
+  const [maxCost, setMaxCost] = useState(parseFloat(params?.get('maxCost') || '15'));
   const [cookTime, setCookTime] = useState<string>(params?.get('cookTime') || '');
   const [vegetarian, setVegetarian] = useState(params?.get('vegetarian') === '1');
   const [glutenFree, setGlutenFree] = useState(params?.get('glutenFree') === '1');
   const [dairyFree, setDairyFree] = useState(params?.get('dairyFree') === '1');
   const [sortBy, setSortBy] = useState<string>(params?.get('sort') || 'newest');
-  const [page, setPage] = useState(0);
+  const [page, setPage] = useState(parseInt(params?.get('page') || '0', 10));
   const [showFilters, setShowFilters] = useState(!!params?.get('filter'));
-  const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(new Set());
+  const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(() => {
+    const ing = params?.get('ingredients');
+    return ing ? new Set(ing.split(',')) : new Set();
+  });
   const [searchQuery, setSearchQuery] = useState(params?.get('q') || '');
+
+  // Sync filter state back to URL
+  useEffect(() => {
+    const p = new URLSearchParams();
+    if (searchQuery) p.set('q', searchQuery);
+    if (category) p.set('category', category);
+    if (maxCost < 15) p.set('maxCost', String(maxCost));
+    if (cookTime) p.set('cookTime', cookTime);
+    if (vegetarian) p.set('vegetarian', '1');
+    if (glutenFree) p.set('glutenFree', '1');
+    if (dairyFree) p.set('dairyFree', '1');
+    if (sortBy && sortBy !== 'newest') p.set('sort', sortBy);
+    if (page > 0) p.set('page', String(page));
+    if (selectedIngredients.size > 0) p.set('ingredients', [...selectedIngredients].join(','));
+    if (showFilters) p.set('filter', '1');
+    const qs = p.toString();
+    const url = qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
+    window.history.replaceState(null, '', url);
+  }, [searchQuery, category, maxCost, cookTime, vegetarian, glutenFree, dairyFree, sortBy, page, selectedIngredients, showFilters]);
+
+  // Hide loading skeleton once mounted
+  useEffect(() => {
+    const skeleton = document.getElementById('recipe-skeleton');
+    if (skeleton) skeleton.style.display = 'none';
+  }, []);
 
   const toggleIngredient = (tag: string) => {
     setSelectedIngredients(prev => {
@@ -88,12 +91,12 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
     if (category) {
       result = result.filter(r => r.category === category || r.category.startsWith(category + '/'));
     }
-    if (maxCost < 10) {
-      result = result.filter(r => r.cost <= maxCost);
+    if (maxCost < 15) {
+      result = result.filter(r => effectiveCostPerServing(r) <= maxCost);
     }
     if (cookTime) {
       result = result.filter(r => {
-        const mins = parseCookMinutes(r.cook);
+        const mins = parseMinutes(r.cook);
         switch (cookTime) {
           case '<30': return mins <= 30;
           case '30-60': return mins > 30 && mins <= 60;
@@ -114,11 +117,11 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
 
     // Sort
     switch (sortBy) {
-      case 'cheapest': result.sort((a, b) => a.cost - b.cost); break;
-      case 'fastest': result.sort((a, b) => parseCookMinutes(a.cook) - parseCookMinutes(b.cook)); break;
+      case 'cheapest': result.sort((a, b) => effectiveCostPerServing(a) - effectiveCostPerServing(b)); break;
+      case 'fastest': result.sort((a, b) => parseMinutes(a.cook) - parseMinutes(b.cook)); break;
       case 'total-time': result.sort((a, b) =>
-        (parseCookMinutes(a.prep || '') + parseCookMinutes(a.cook))
-        - (parseCookMinutes(b.prep || '') + parseCookMinutes(b.cook))
+        (parseMinutes(a.prep || '') + parseMinutes(a.cook))
+        - (parseMinutes(b.prep || '') + parseMinutes(b.cook))
       ); break;
       case 'alpha': result.sort((a, b) => a.title.localeCompare(b.title)); break;
       default: break;
@@ -133,7 +136,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
   const clearFilters = () => {
     setSearchQuery('');
     setCategory('');
-    setMaxCost(10);
+    setMaxCost(15);
     setCookTime('');
     setVegetarian(false);
     setGlutenFree(false);
@@ -142,17 +145,33 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
     setPage(0);
   };
 
-  const hasFilters = searchQuery || category || maxCost < 10 || cookTime || vegetarian || glutenFree || dairyFree || selectedIngredients.size > 0;
+  const hasFilters = searchQuery || category || maxCost < 15 || cookTime || vegetarian || glutenFree || dairyFree || selectedIngredients.size > 0;
+
+  const activeFilterCount = [
+    searchQuery,
+    category,
+    maxCost < 15,
+    cookTime,
+    vegetarian,
+    glutenFree,
+    dairyFree,
+    selectedIngredients.size,
+  ].filter(Boolean).length;
 
   return (
     <div class="py-8 overflow-x-hidden">
       {/* Mobile filter toggle */}
       <button
-        class="md:hidden w-full mb-6 h-16 bg-gradient-to-r from-primary to-primary-container text-on-primary rounded-full font-headline font-extrabold text-lg flex items-center justify-center gap-2 shadow-[0_12px_24px_rgba(186,0,39,0.2)] hover:scale-[1.02] active:scale-95 transition-all"
+        class="md:hidden w-full mb-6 h-12 bg-gradient-to-r from-primary to-primary-container text-on-primary rounded-full font-headline font-extrabold text-base flex items-center justify-center gap-2 shadow-[0_12px_24px_rgba(186,0,39,0.2)] hover:scale-[1.02] active:scale-95 transition-all"
         onClick={() => setShowFilters(!showFilters)}
       >
         <span class="material-symbols-outlined" aria-hidden="true">tune</span>
         {showFilters ? 'Hide Filters' : 'Show Filters'}
+        {activeFilterCount > 0 && (
+          <span class="ml-1 w-6 h-6 bg-white text-primary rounded-full text-xs font-extrabold flex items-center justify-center">
+            {activeFilterCount}
+          </span>
+        )}
       </button>
 
       <div class="flex flex-col md:flex-row gap-8 lg:gap-12">
@@ -202,23 +221,23 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
           <div class="space-y-3">
             <div class="flex justify-between items-center">
               <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Max Cost</label>
-              <span class="text-primary font-bold">{maxCost >= 10 ? 'Any' : `Under $${maxCost}`}</span>
+              <span class="text-primary font-bold">{maxCost >= 15 ? 'Any' : `Under $${maxCost}`}</span>
             </div>
             <input
               type="range"
               min="1"
-              max="10"
+              max="15"
               step="0.5"
               value={maxCost}
-              aria-label="Maximum cost per serving"
+              aria-label="Maximum cost per unit"
               aria-valuemin={1}
-              aria-valuemax={10}
+              aria-valuemax={15}
               aria-valuenow={maxCost}
               onInput={(e) => { setMaxCost(parseFloat((e.target as HTMLInputElement).value)); setPage(0); }}
               class="w-full accent-primary h-2 bg-surface-container-highest rounded-full appearance-none cursor-pointer"
             />
             <div class="flex justify-between text-xs font-bold text-on-surface-variant">
-              <span>$1</span><span>$10+</span>
+              <span>$1</span><span>$15+</span>
             </div>
           </div>
 
@@ -228,10 +247,10 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
             <div class="grid grid-cols-2 gap-2">
               {[
                 { value: '', label: 'All', ariaLabel: 'All cook times' },
-                { value: '<30', label: '⏱️ < 30m', ariaLabel: 'Under 30 minutes' },
-                { value: '30-60', label: '⏱️ 30-60m', ariaLabel: '30 to 60 minutes' },
-                { value: '1-2h', label: '⏱️ 1-2h', ariaLabel: '1 to 2 hours' },
-                { value: '2h+', label: '⏱️ 2h+', ariaLabel: 'Over 2 hours' },
+                { value: '<30', label: '< 30m', ariaLabel: 'Under 30 minutes' },
+                { value: '30-60', label: '30-60m', ariaLabel: '30 to 60 minutes' },
+                { value: '1-2h', label: '1-2h', ariaLabel: '1 to 2 hours' },
+                { value: '2h+', label: '2h+', ariaLabel: 'Over 2 hours' },
               ].map(opt => (
                 <button
                   key={opt.value || 'all'}
@@ -324,7 +343,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                 value={sortBy}
                 onChange={(e) => { setSortBy((e.target as HTMLSelectElement).value); setPage(0); }}
               >
-                <option value="newest">Default</option>
+                <option value="newest">Newest First</option>
                 <option value="cheapest">Cheapest First</option>
                 <option value="fastest">Fastest First</option>
                 <option value="total-time">Quickest Total</option>
@@ -350,9 +369,9 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
 
           {/* Pagination */}
           {totalPages > 1 && (
-            <div class="flex justify-center items-center gap-2 mt-8">
+            <div class="flex justify-center items-center gap-2 mt-8 mb-8">
               <button
-                class="w-12 h-12 rounded-full bg-surface-container-highest text-on-surface hover:bg-surface-container-high transition-all flex items-center justify-center disabled:opacity-30"
+                class="w-12 h-12 rounded-full bg-surface-container-highest text-on-surface hover:bg-surface-container-high transition-all flex items-center justify-center disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:bg-surface-container-highest"
                 disabled={page === 0}
                 onClick={() => { setPage(page - 1); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
                 aria-label="Previous page"
@@ -376,20 +395,22 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                   ) : (
                     <button
                       key={p}
+                      aria-label={`Page ${(p as number) + 1}`}
+                      aria-current={page === p ? 'page' : undefined}
                       class={`w-12 h-12 rounded-full font-bold text-sm transition-all ${
                         page === p
                           ? 'bg-primary text-white shadow-lg scale-105'
                           : 'bg-surface-container-highest text-on-surface hover:bg-surface-container-high'
                       }`}
-                      onClick={() => { setPage(p); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                      onClick={() => { setPage(p as number); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
                     >
-                      {p + 1}
+                      {(p as number) + 1}
                     </button>
                   )
                 );
               })()}
               <button
-                class="w-12 h-12 rounded-full bg-surface-container-highest text-on-surface hover:bg-surface-container-high transition-all flex items-center justify-center disabled:opacity-30"
+                class="w-12 h-12 rounded-full bg-surface-container-highest text-on-surface hover:bg-surface-container-high transition-all flex items-center justify-center disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:bg-surface-container-highest"
                 disabled={page === totalPages - 1}
                 onClick={() => { setPage(page + 1); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
                 aria-label="Next page"

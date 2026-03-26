@@ -37,7 +37,7 @@
       });
     } catch (e) {
       document.getElementById('search-container').innerHTML =
-        '<p style="text-align:center;padding:2rem;color:#5c5b5b;">Search is available after the site is built and deployed.</p>';
+        '<div style="text-align:center;padding:2rem;"><p style="color:#5c5b5b;margin-bottom:1rem;">Search is available after the site is built and deployed.</p><button onclick="closeSearch()" style="background:#ba0027;color:white;border:none;padding:0.5rem 1.5rem;border-radius:9999px;font-weight:bold;cursor:pointer;">Close</button></div>';
     }
   }
 
@@ -87,9 +87,12 @@
   var closeBtn = document.getElementById('search-close');
   if (closeBtn) closeBtn.addEventListener('click', closeSearch);
 
-  // Close on Escape
+  // Close on Escape (only when overlay is visible)
   document.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape') closeSearch();
+    if (e.key === 'Escape') {
+      var ov = document.getElementById('search-overlay');
+      if (ov && !ov.classList.contains('hidden')) closeSearch();
+    }
   });
 
   // Close on backdrop click

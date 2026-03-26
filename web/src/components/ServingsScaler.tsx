@@ -43,12 +43,21 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
   const initialized = useRef(false);
 
   const scaledServings = Math.round(baseServings * ratio);
-  const totalCost = baseCost * scaledServings;
+  // For per-serving pricing, total = cost * scaled servings.
+  // For batch/other pricing, total = cost * ratio (scaling the batch).
+  const totalCost = costUnit === 'serving'
+    ? baseCost * scaledServings
+    : baseCost * ratio;
   const costDisplay = costUnit === 'serving'
     ? `$${baseCost.toFixed(2)}/serving`
     : `$${baseCost.toFixed(2)}/${costUnit}`;
 
   useEffect(() => {
+    // This component reaches into Astro-rendered DOM to scale ingredient
+    // quantities. This cross-island DOM manipulation is fragile by nature but is
+    // the pragmatic trade-off for keeping ingredients server-rendered (SEO, no-JS
+    // fallback) while allowing client-side scaling. If the selectors below stop
+    // matching, the scaler simply won't scale — it won't crash.
     if (initialized.current) return;
     initialized.current = true;
 
@@ -56,15 +65,19 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
     const otherSpans = document.querySelectorAll('[data-scalable="other"] > span');
 
     costcoSpans.forEach(el => {
-      originals.current.push({ el: el as HTMLElement, text: el.textContent || '' });
+      if (el?.textContent != null) {
+        originals.current.push({ el: el as HTMLElement, text: el.textContent });
+      }
     });
     otherSpans.forEach(el => {
-      originals.current.push({ el: el as HTMLElement, text: el.textContent || '' });
+      if (el?.textContent != null) {
+        originals.current.push({ el: el as HTMLElement, text: el.textContent });
+      }
     });
   }, []);
 
   useEffect(() => {
-    if (!initialized.current) return;
+    if (!initialized.current || originals.current.length === 0) return;
 
     originals.current.forEach(({ el, text }) => {
       if (ratio === 1) {
@@ -118,14 +131,33 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
           </button>
         ))}
       </div>
+      <div class="flex items-center gap-2 mt-1.5">
+        <label class="text-xs text-on-surface-variant font-medium" for="custom-multiplier">Custom:</label>
+        <input
+          id="custom-multiplier"
+          type="number"
+          min="0.25"
+          max="10"
+          step="0.25"
+          value={ratio}
+          onInput={(e) => {
+            const raw = parseFloat((e.target as HTMLInputElement).value);
+            if (!isNaN(raw) && raw > 0) setRatio(Math.min(Math.max(raw, 0.25), 10));
+          }}
+          class="w-16 h-8 text-center text-sm font-bold bg-surface-container-highest rounded-lg border-none focus:ring-2 focus:ring-primary"
+        />
+      </div>
       {ratio !== 1 && (
         <div class="mt-2 text-xs text-on-surface-variant">
-          Total: ~${totalCost.toFixed(2)} ({costDisplay})
+          {costUnit === 'serving'
+            ? `Total: ~$${totalCost.toFixed(2)} (${scaledServings} servings × ${costDisplay})`
+            : `Total: ~$${totalCost.toFixed(2)} (${ratio}× ${costDisplay})`
+          }
         </div>
       )}
       {ratio !== 1 && (
         <div class="hidden print:block text-sm font-bold text-on-surface">
-          Scaled to {LABELS[MULTIPLIERS.indexOf(ratio)]} ({scaledServings} servings)
+          Scaled to {LABELS[MULTIPLIERS.indexOf(ratio)] || `${ratio}×`} ({scaledServings} servings)
         </div>
       )}
     </div>

@@ -34,8 +34,24 @@ const links = [
     >
       <span class="material-symbols-outlined" aria-hidden="true">code</span>
     </a>
-    <button class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary hover:scale-110 transition-transform" aria-label="Share">
+    <button id="footer-share" class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary hover:scale-110 transition-transform" aria-label="Share this page">
       <span class="material-symbols-outlined" aria-hidden="true">share</span>
     </button>
   </div>
 </footer>
+
+<script>
+  const shareBtn = document.getElementById('footer-share');
+  if (shareBtn) {
+    shareBtn.addEventListener('click', async () => {
+      const shareData = { title: 'bulk.recipes', text: 'The unofficial field guide to cooking with Costco groceries.', url: window.location.href };
+      if (navigator.share) {
+        try { await navigator.share(shareData); } catch {}
+      } else {
+        await navigator.clipboard.writeText(window.location.href);
+        const icon = shareBtn.querySelector('.material-symbols-outlined');
+        if (icon) { const orig = icon.textContent; icon.textContent = 'check'; setTimeout(() => icon.textContent = orig, 1500); }
+      }
+    });
+  }
+</script>

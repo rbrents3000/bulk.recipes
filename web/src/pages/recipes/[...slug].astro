@@ -4,7 +4,7 @@ import Base from '../../layouts/Base.astro';
 import RecipeCard from '../../components/RecipeCard.astro';
 import ServingsScaler from '../../components/ServingsScaler';
 import RecipeSchema from '../../components/RecipeSchema.astro';
-import IngredientChecklist from '../../components/IngredientChecklist.astro';
+import IngredientChecklist from '../../components/IngredientChecklist';
 import IngredientChips from '../../components/IngredientChips.astro';
 import StorageBox from '../../components/StorageBox.astro';
 import InstructionSteps from '../../components/InstructionSteps.astro';
@@ -87,6 +87,14 @@ const related = currentTags.size > 0
   : allRecipes
       .filter(r => r.data.category === category && r.id !== recipe.id)
       .slice(0, 4);
+
+// Final fallback: if no related found, pick random recipes
+if (related.length === 0) {
+  related = allRecipes
+    .filter(r => r.id !== recipe.id)
+    .sort(() => 0.5 - Math.random())
+    .slice(0, 4);
+}
 ---
 
 <Base title={`${title} — bulk.recipes`} description={description} ogImage={`/og/${recipe.id}.png`}>
@@ -107,11 +115,18 @@ const related = currentTags.size > 0
   })} />
 
   <article class="max-w-6xl mx-auto py-8" data-pagefind-body>
-    <!-- Back link -->
-    <a href="/recipes" class="inline-flex items-center gap-1 text-sm text-on-surface-variant hover:text-primary transition-colors mb-6">
-      <span class="material-symbols-outlined text-sm">arrow_back</span>
-      All Recipes
-    </a>
+    <!-- Breadcrumbs -->
+    <nav aria-label="Breadcrumb" class="mb-6">
+      <ol class="flex items-center gap-1.5 text-sm text-on-surface-variant flex-wrap">
+        <li><a href="/" class="hover:text-primary transition-colors">Home</a></li>
+        <li aria-hidden="true" class="text-outline-variant">/</li>
+        <li><a href="/recipes" class="hover:text-primary transition-colors">Recipes</a></li>
+        <li aria-hidden="true" class="text-outline-variant">/</li>
+        <li><a href={`/recipes?category=${category}`} class="hover:text-primary transition-colors">{category.split('/').pop()?.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}</a></li>
+        <li aria-hidden="true" class="text-outline-variant">/</li>
+        <li class="font-bold text-on-surface truncate max-w-[200px]" aria-current="page">{title}</li>
+      </ol>
+    </nav>
 
     <!-- Hero -->
     <header class="mb-10">
@@ -135,13 +150,13 @@ const related = currentTags.size > 0
           src={recipeImage}
           alt={title}
           class="w-full max-h-[250px] md:max-h-[400px] object-cover"
-          loading="eager"
-          onerror={`this.src='${categoryImage}'`}
+          loading="lazy"
+          data-fallback={categoryImage}
         />
       </div>
 
       <!-- Metadata bar -->
-      <div class="grid grid-cols-2 gap-4 p-4 md:flex md:flex-wrap md:gap-4 md:p-6 bg-surface-container-low rounded-xl">
+      <div class="grid grid-cols-1 min-[400px]:grid-cols-2 gap-4 p-4 md:flex md:flex-wrap md:gap-4 md:p-6 bg-surface-container-low rounded-xl">
         <div class="flex flex-col gap-1 md:pr-6 md:border-r md:border-outline-variant/20">
           <span class="text-xs uppercase font-bold text-on-surface-variant tracking-widest">Prep</span>
           <span class="text-lg font-bold">{prep}</span>
@@ -198,7 +213,7 @@ const related = currentTags.size > 0
       <!-- Sidebar (4 cols) -->
       <aside class="lg:col-span-4 space-y-8">
         {costco_ingredients.length > 0 && (
-          <IngredientChecklist items={costco_ingredients} />
+          <IngredientChecklist client:visible items={costco_ingredients} recipeId={recipe.id} />
         )}
 
         {other_ingredients.length > 0 && (

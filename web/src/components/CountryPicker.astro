@@ -23,28 +23,36 @@ const countries = [
     <h2 class="font-headline text-2xl md:text-3xl font-bold">What's at YOUR Costco?</h2>
   </div>
 
-  <div class="overflow-x-auto hide-scrollbar -mx-6 px-6">
-    <div class="flex gap-4 w-max pb-2">
-      {countries.map((country) => (
-        <a
-          href={`/prepared/${country.slug}`}
-          aria-label={`Prepared foods from ${country.label}`}
-          class="flex flex-col items-center gap-1.5 min-w-[5rem] rounded-2xl bg-white border border-neutral-200 px-4 py-3 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
-        >
-          <img src={`/assets/flags/${country.iso}.svg`} alt="" class="w-8 h-8" loading="lazy" />
-          <span class="font-body text-sm font-medium text-neutral-700">{country.label}</span>
-        </a>
-      ))}
+  <div class="relative">
+    <div id="country-scroll" class="overflow-x-auto hide-scrollbar -mx-6 px-6">
+      <div class="flex gap-4 w-max pb-2">
+        {countries.map((country) => (
+          <a
+            href={`/prepared/${country.slug}`}
+            aria-label={`Prepared foods from ${country.label}`}
+            class="flex flex-col items-center gap-1.5 min-w-[5rem] rounded-2xl bg-white border border-neutral-200 px-4 py-3 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
+          >
+            <img src={`/assets/flags/${country.iso}.svg`} alt="" class="w-8 h-8" loading="lazy" />
+            <span class="font-body text-sm font-medium text-neutral-700">{country.label}</span>
+          </a>
+        ))}
+      </div>
     </div>
+    <div id="fade-left" class="absolute top-0 left-0 bottom-0 w-16 bg-gradient-to-r from-[#f9f6f5] to-transparent pointer-events-none opacity-0 transition-opacity" aria-hidden="true"></div>
+    <div id="fade-right" class="absolute top-0 right-0 bottom-0 w-16 bg-gradient-to-l from-[#f9f6f5] to-transparent pointer-events-none transition-opacity" aria-hidden="true"></div>
   </div>
 </section>
 
-<style>
-  .scrollbar-hide::-webkit-scrollbar {
-    display: none;
+<script>
+  const scroller = document.getElementById('country-scroll');
+  const fadeLeft = document.getElementById('fade-left');
+  const fadeRight = document.getElementById('fade-right');
+  if (scroller && fadeLeft && fadeRight) {
+    function updateFades() {
+      fadeLeft.style.opacity = scroller.scrollLeft > 10 ? '1' : '0';
+      fadeRight.style.opacity = scroller.scrollLeft < scroller.scrollWidth - scroller.clientWidth - 10 ? '1' : '0';
+    }
+    scroller.addEventListener('scroll', updateFades, { passive: true });
+    updateFades();
   }
-  .scrollbar-hide {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-</style>
+</script>

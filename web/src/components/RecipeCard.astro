@@ -1,6 +1,7 @@
 ---
 import FavoriteButton from './FavoriteButton';
 import { getCategoryImage } from '../data/categoryImages';
+import { isQuickPrep } from '../types/recipe';
 
 interface Props {
   title: string;
@@ -46,17 +47,17 @@ const categoryLabel = categoryMap[category] || category.split('/').pop()?.replac
 
 // Budget badge
 const isBudget = cost <= 2;
-const isQuick = prep.includes('10 min') || prep.includes('5 min');
+const isQuick = isQuickPrep(prep);
 
 const recipeImage = `/assets/recipes/${slug.split('/').pop()}.webp`;
 const categoryImage = getCategoryImage(category);
 ---
 
-<a href={href} class="group block">
+<a href={href} class="group block" aria-label={title}>
   <div class="bg-surface-container-lowest rounded-xl overflow-visible shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_24px_48px_rgba(0,0,0,0.08)] transition-all duration-300">
     <div class="p-3">
       <div class="relative h-44 md:h-56 w-full rounded-lg overflow-hidden bg-surface-container">
-        <img src={recipeImage} alt="" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" aria-hidden="true" loading="lazy" onerror={`this.src='${categoryImage}'`} />
+        <img src={recipeImage} alt="" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" aria-hidden="true" loading="lazy" data-fallback={categoryImage} />
         <FavoriteButton client:idle recipeId={slug} />
         {isQuick && (
           <div class="absolute top-3 left-3">
@@ -74,7 +75,7 @@ const categoryImage = getCategoryImage(category);
     </div>
 
     <div class="px-6 pb-6 pt-2">
-      <h3 class="font-headline font-bold text-lg mb-1 group-hover:text-primary transition-colors line-clamp-1">
+      <h3 class="font-headline font-bold text-lg mb-1 group-hover:text-primary transition-colors line-clamp-2">
         {title}
       </h3>
       <p class="text-sm text-on-surface-variant line-clamp-2 mb-3">
@@ -83,7 +84,7 @@ const categoryImage = getCategoryImage(category);
       <div class="flex items-center gap-4 text-xs text-on-surface-variant">
         <span class="flex items-center gap-1">
           <span class="material-symbols-outlined text-sm" aria-hidden="true">payments</span>
-          <span class="font-bold text-tertiary">{costDisplay}</span>
+          <span class="font-bold text-tertiary" title={`Cost per ${cost_unit}`}>{costDisplay}</span>
         </span>
         <span class="flex items-center gap-1">
           <span class="material-symbols-outlined text-sm" aria-hidden="true">timer</span>

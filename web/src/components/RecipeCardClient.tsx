@@ -1,22 +1,6 @@
 import FavoriteButton from './FavoriteButton';
 import { getCategoryImage } from '../data/categoryImages';
-
-interface Recipe {
-  id: string;
-  title: string;
-  description: string;
-  card_description?: string;
-  cost: number;
-  cost_unit: string;
-  prep: string;
-  cook: string;
-  servings: string;
-  category: string;
-  vegetarian: boolean;
-  gluten_free: boolean;
-  dairy_free: boolean;
-  ingredientTags: string[];
-}
+import { type Recipe, isQuickPrep } from '../types/recipe';
 
 const categoryLabels: Record<string, string> = {
   'costco-copycats/food-court': 'Food Court',
@@ -44,12 +28,12 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
   const label = categoryLabels[category] || category.split('/').pop()?.replace(/-/g, ' ') || '';
   const isBudget = cost <= 2;
-  const isQuick = recipe.prep.includes('10 min') || recipe.prep.includes('5 min');
+  const isQuick = isQuickPrep(recipe.prep);
   const recipeImage = `/assets/recipes/${id.split('/').pop()}.webp`;
   const categoryImage = getCategoryImage(category);
 
   return (
-    <a href={href} class="group block">
+    <a href={href} class="group block" aria-label={title}>
       <div class="bg-surface-container-lowest rounded-xl overflow-visible shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_24px_48px_rgba(0,0,0,0.08)] transition-all duration-300">
         <div class="p-3">
           <div class="relative h-44 md:h-56 w-full rounded-lg overflow-hidden bg-surface-container">
@@ -66,14 +50,14 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
           </div>
         </div>
         <div class="px-6 pb-6 pt-2">
-          <h3 class="font-headline font-bold text-lg mb-1 group-hover:text-primary transition-colors line-clamp-1">
+          <h3 class="font-headline font-bold text-lg mb-1 group-hover:text-primary transition-colors line-clamp-2">
             {title}
           </h3>
           <p class="text-sm text-on-surface-variant line-clamp-2 mb-3">{recipe.card_description || description}</p>
           <div class="flex items-center gap-4 text-xs text-on-surface-variant">
             <span class="flex items-center gap-1">
               <span class="material-symbols-outlined text-sm" aria-hidden="true">payments</span>
-              <span class="font-bold text-tertiary">{costDisplay}</span>
+              <span class="font-bold text-tertiary" title={`Cost per ${cost_unit}`}>{costDisplay}</span>
             </span>
             <span class="flex items-center gap-1">
               <span class="material-symbols-outlined text-sm" aria-hidden="true">timer</span>

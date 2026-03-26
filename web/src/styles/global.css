@@ -112,6 +112,17 @@
 /* For 3-column US tables, nth-child(3) IS the description */
 /* This works because last-child overrides nth-child(3) when they're the same element */
 
+/* Section heading dividers for visual hierarchy */
+.prepared-content h2 {
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid rgba(47, 47, 47, 0.08);
+  margin-top: 2.5rem;
+}
+
+.prepared-content h2:first-child {
+  margin-top: 0;
+}
+
 /* ── Print stylesheet ── */
 @media print {
   /* Hide site chrome */

@@ -80,10 +80,17 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet" crossorigin="anonymous" />
 
-    <!-- Material Icons -->
-    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet" crossorigin="anonymous" />
+    <!-- Critical font: headline (above the fold) -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" crossorigin="anonymous" />
+
+    <!-- Deferred fonts: body text + icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" media="print" onload="this.media='all'" crossorigin="anonymous" />
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" crossorigin="anonymous" /></noscript>
+
+    <!-- Material Icons (deferred — large variable font) -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" media="print" onload="this.media='all'" crossorigin="anonymous" />
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" crossorigin="anonymous" /></noscript>
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-TEBNP70KDY"></script>
@@ -100,13 +107,31 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
     <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] focus:bg-primary focus:text-white focus:px-4 focus:py-2 focus:rounded-full focus:font-bold">Skip to main content</a>
     <Navigation />
 
-    <main id="main" class="flex-1 pt-24 pb-28 md:pb-0 px-4 md:px-8 max-w-7xl mx-auto w-full">
+    <main id="main" class="flex-1 pt-24 pb-36 md:pb-0 px-4 md:px-8 max-w-7xl mx-auto w-full">
       <slot />
     </main>
 
     <Footer />
     <MobileNav />
     <SearchOverlay />
+
+    <script>
+      // Image fallback: replace broken images with data-fallback src
+      document.querySelectorAll('img[data-fallback]').forEach(img => {
+        img.addEventListener('error', function handler() {
+          const el = this as HTMLImageElement;
+          const fallback = el.dataset.fallback;
+          if (fallback && el.src !== fallback) {
+            el.src = fallback;
+            // If fallback also fails, hide image and show container bg
+            el.addEventListener('error', () => { el.style.display = 'none'; }, { once: true });
+          } else {
+            el.style.display = 'none';
+          }
+          el.removeEventListener('error', handler);
+        });
+      });
+    </script>
 
     <script>
       // Console receipt
@@ -132,10 +157,10 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
       );
 
       // Konami code: up up down down left right left right b a
-      const konami = [38,38,40,40,37,39,37,39,66,65];
+      const konami = ['ArrowUp','ArrowUp','ArrowDown','ArrowDown','ArrowLeft','ArrowRight','ArrowLeft','ArrowRight','b','a'];
       let konamiPos = 0;
       document.addEventListener('keydown', (e) => {
-        if (e.keyCode === konami[konamiPos]) {
+        if (e.key === konami[konamiPos]) {
           konamiPos++;
           if (konamiPos === konami.length) {
             konamiPos = 0;
@@ -151,7 +176,7 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
             }, 3000);
           }
         } else {
-          konamiPos = e.keyCode === konami[0] ? 1 : 0;
+          konamiPos = e.key === konami[0] ? 1 : 0;
         }
       });
     </script>
