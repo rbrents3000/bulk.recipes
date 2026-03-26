@@ -59,7 +59,7 @@ const categoryImageMap: Record<string, string> = {
     {recipes.map((recipe) => (
       <a href={`/recipes/${recipe.slug}`} class="group block">
         <div class="bg-surface-container-lowest rounded-xl overflow-hidden shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300">
-          <div class="relative h-64 bg-surface-container overflow-hidden">
+          <div class="relative aspect-[4/3] bg-surface-container overflow-hidden">
             <img src={categoryImageMap[recipe.category] || '/assets/categories/weeknight.png'} alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" aria-hidden="true" loading="lazy" />
             <div class="absolute top-3 right-3">
               <span class="px-3 py-1 bg-tertiary-container text-on-tertiary-container rounded-full text-[10px] font-black uppercase tracking-wider">
