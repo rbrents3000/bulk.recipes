@@ -23,6 +23,9 @@ instructions:
   - "Preheat oven to 375°F (190°C)."
   - "Remove the meatloaf from packaging and place on a foil-lined sheet pan or in the provided tray. If you want extra glaze, brush the top with ketchup."
   - "Bake for 55-65 minutes until internal temperature reaches 160°F."
+  - "While meatloaf bakes, peel and cube the potatoes. Boil in salted water for 15-18 minutes until fork-tender."
+  - "Drain potatoes. Add butter and heavy cream. Mash to your preferred texture. Season with salt and pepper."
+  - "Let the meatloaf rest 10 minutes before slicing. Serve with mashed potatoes."
 storage: "Refrigerate leftover meatloaf and mashed potatoes separately for up to 4 days. Meatloaf freezes well for up to 3 months."
 leftover_ideas:
   - "Meatloaf sandwiches on Costco bakery bread with ketchup and pickles"

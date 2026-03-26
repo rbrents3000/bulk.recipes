@@ -27,6 +27,9 @@ instructions:
   - "Cook rice according to package directions."
   - "Quick-pickle the cucumbers: toss sliced cucumber with rice vinegar, sugar, and a pinch of salt. Let sit while you cook the beef."
   - "Heat a large skillet or wok over high heat with oil. Cook the bulgogi in batches — don't crowd the pan. You want it to sear, not steam."
+  - "Sear each batch for 2-3 minutes per side until nicely browned and slightly charred."
+  - "Build bowls: rice on the bottom, bulgogi on top, pickled cucumbers on the side. Drizzle with sesame oil, sprinkle with sesame seeds and green onions."
+  - "Add sriracha, gochujang, or kimchi if you want heat."
 storage: "Refrigerate cooked bulgogi up to 4 days. Store pickled cucumbers separately for up to 5 days."
 leftover_ideas:
   - "Bulgogi quesadillas with mozzarella cheese"

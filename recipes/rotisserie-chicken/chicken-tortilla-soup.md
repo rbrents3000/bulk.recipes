@@ -1,8 +1,8 @@
 ---
 title: "Slow Cooker Chicken Tortilla Soup"
-description: "Dump-and-go soup using Costco rotisserie chicken and pantry staples. Set it in the morning, eat it for dinner."
+description: "Smoky, brothy, loaded-with-toppings tortilla soup that turns one rotisserie chicken into the warmest hug of your week."
 prep: "15 min"
-cook: "4 hr (slow cooker)"
+cook: "4 hr"
 servings: "8"
 cost: 2
 cost_unit: "serving"

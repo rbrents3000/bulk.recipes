@@ -29,6 +29,12 @@ instructions:
   - "Preheat oven to 400°F (200°C). Thaw puff pastry sheets according to package directions (about 40 minutes at room temperature or overnight in the fridge)."
   - "Shred the rotisserie chicken, discarding skin and bones. You should get about 3 cups of shredded meat."
   - "Melt butter in a large pot over medium heat. Add flour and whisk constantly for 1-2 minutes until it turns a light golden color."
+  - "Slowly pour in chicken broth and milk, whisking continuously. Add salt, pepper, garlic powder, onion powder, and thyme. Bring to a gentle simmer and stir until the gravy thickens, about 3-4 minutes."
+  - "Stir in the shredded chicken and frozen mixed vegetables. Cook for 2 more minutes, then remove from heat."
+  - "Pour the filling into a 9x13 baking dish. Unfold the puff pastry sheets and lay them over the top, overlapping slightly in the middle. Tuck the edges down along the inside of the dish. Cut 4-5 small slits in the top for steam to escape."
+  - "Beat the egg with a splash of water. Brush the egg wash over the puff pastry."
+  - "Bake for 25-30 minutes until the pastry is puffed up and deep golden brown."
+  - "Let it rest for 5 minutes before serving — the filling will be volcanic right out of the oven."
 storage: "Refrigerate leftovers up to 4 days. Reheat in a 350°F oven for 15 minutes to keep the pastry crisp. Freezes well up to 2 months — freeze before baking for best results."
 leftover_ideas:
   - "Spoon leftover filling over biscuits or toast for an open-faced pot pie"

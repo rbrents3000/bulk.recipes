@@ -1,6 +1,6 @@
 ---
 title: "Pizza Bagels"
-description: "Kid-tested, parent-approved, and gone in approximately 90 seconds."
+description: "Toasty bagel halves loaded with sauce, mozzarella, and whatever toppings your family can agree on — ready in five minutes flat."
 prep: "10 min"
 cook: "5 min"
 servings: "12"

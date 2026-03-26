@@ -1,6 +1,6 @@
 ---
 title: "Agua Fresca"
-description: "Mexico's answer to \"I have too much fruit\" — and honestly, it's the best answer."
+description: "Light, fruity, and incredibly refreshing — the drink that finally justifies buying that 5-pound bag of Costco watermelon."
 prep: "10 min"
 cook: "0 min"
 servings: "8"

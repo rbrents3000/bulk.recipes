@@ -2,7 +2,7 @@
 title: "Iced Chai Latte"
 description: "Coffee shop vibes, Costco prices. The math works out to roughly 1/6 the cost of Starbucks."
 prep: "10 min"
-cook: "5 min (steep)"
+cook: "5 min"
 servings: "4"
 cost: 0.75
 cost_unit: "serving"

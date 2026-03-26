@@ -9,7 +9,7 @@ cost_unit: "serving"
 category: "desserts"
 vegetarian: true
 gluten_free: false
-dairy_free: true
+dairy_free: false
 costco_ingredients:
   - "Costco Bananas — 4 large, very ripe (the blacker the better) (~$0.60, 3 lb bunch)"
   - "Kirkland All-Purpose Flour — 1 3/4 cups (~$0.30, 12 lb bag)"

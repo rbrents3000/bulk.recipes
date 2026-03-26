@@ -1,6 +1,6 @@
 ---
 title: "Chicken Lettuce Wraps"
-description: "PF Chang's called — they want their recipe back. Too bad, we're making it at home with Costco chicken for a fraction of the price."
+description: "Savory, gingery chicken in crisp lettuce cups — the kind of light-but-satisfying dinner that disappears before you even sit down."
 prep: "10 min"
 cook: "10 min"
 servings: "4"

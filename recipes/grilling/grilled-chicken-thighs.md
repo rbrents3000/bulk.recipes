@@ -1,7 +1,7 @@
 ---
 title: "Grilled Chicken Thighs"
-description: "Chicken breasts get all the attention. Thighs do all the work. Time to correct the record."
-prep: "10 min (plus 30 min marinade)"
+description: "Juicy, charred, impossibly flavorful thighs that stay moist even if you get distracted at the grill — the most forgiving cut of chicken you can buy."
+prep: "10 min"
 cook: "12 min"
 servings: "6"
 cost: 2
@@ -25,6 +25,12 @@ other_ingredients:
 instructions:
   - "Whisk together olive oil, garlic, smoked paprika, cumin, onion powder, lemon juice, salt, and pepper in a medium bowl. It should look like a rust-colored slurry. That's correct."
   - "Toss the chicken thighs in the marinade until every piece is well coated. Cover and refrigerate for at least 30 minutes, or up to 4 hours if you're a planner."
+  - "When ready to cook, pull the chicken out of the fridge and let it sit at room temperature for 10 minutes. Cold meat on a hot grill is a recipe for uneven cooking."
+  - "Heat your grill to medium-high. Oil the grates generously with avocado oil — it handles the heat better than olive oil and won't smoke you out of your backyard."
+  - "Place thighs on the grill. Don't crowd them — leave an inch between pieces so they sear instead of steam."
+  - "Grill 5–6 minutes per side until you get good char marks and the internal temperature hits 165°F. Use an instant-read thermometer if you have one."
+  - "Pull the thighs off the grill and let them rest for 5 minutes on a cutting board. Resting is not optional — it lets the juices redistribute so they don't run all over the plate."
+  - "Slice against the grain if serving on plates, or leave whole if people are grabbing and going."
 storage: "Sliced or whole thighs keep beautifully for up to 4 days in the fridge. They're honestly great cold straight from the container — no judgment. Store in an airtight container or wrap tightly in foil."
 leftover_ideas:
   - "Slice for grain bowls with rice, avocado, and a drizzle of tahini"

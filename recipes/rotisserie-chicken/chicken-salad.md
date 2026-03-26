@@ -1,6 +1,6 @@
 ---
 title: "Classic Chicken Salad"
-description: "A no-cook recipe that turns a Costco rotisserie chicken into a batch of creamy, crunchy chicken salad. Perfect on sandwiches, crackers, or lettuce wraps."
+description: "Creamy, crunchy chicken salad that turns one Costco rotisserie chicken into a week's worth of sandwiches, crackers, and straight-from-the-bowl snacking."
 prep: "15 min"
 cook: "0 min"
 servings: "6"

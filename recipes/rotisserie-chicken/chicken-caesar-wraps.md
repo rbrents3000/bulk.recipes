@@ -1,6 +1,6 @@
 ---
 title: "Chicken Caesar Wraps"
-description: "The fastest lunch you can make from a Costco run — rotisserie chicken and a Caesar salad kit rolled up in a flour tortilla. No cooking required."
+description: "Rotisserie chicken and Costco's Caesar kit rolled into a tortilla — zero cooking, maximum smugness about your lunch game."
 prep: "10 min"
 cook: "0 min"
 servings: "6"
@@ -21,6 +21,9 @@ other_ingredients:
 instructions:
   - "Shred the rotisserie chicken, discarding skin and bones. You should get about 3 cups of shredded meat."
   - "Open the Caesar salad kit. Toss the lettuce with the dressing packet and croutons in a large bowl. Add the shredded chicken and Parmesan. Toss everything together."
+  - "Warm the tortillas in the microwave for 15-20 seconds so they're pliable and easy to roll."
+  - "Spoon the chicken Caesar mixture down the center of each tortilla. Fold the bottom edge up, then roll tightly from one side to the other, burrito-style."
+  - "Slice each wrap in half on a diagonal. Serve immediately."
 storage: "Best eaten fresh. If prepping ahead, store the shredded chicken and dressed salad separately in the fridge — assemble wraps right before eating so the tortillas don't get soggy. Shredded chicken keeps up to 4 days refrigerated."
 leftover_ideas:
   - "Skip the tortilla and serve it as a regular chicken Caesar salad"

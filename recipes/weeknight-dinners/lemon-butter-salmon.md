@@ -1,6 +1,6 @@
 ---
 title: "Lemon Butter Salmon with Broccoli"
-description: "Simple pan-seared salmon using Costco's Atlantic fillets. Lemon, butter, garlic — restaurant quality in 20 minutes flat."
+description: "Costco's Atlantic salmon, seared golden and finished in lemon-garlic butter — the fancy dinner that takes less time than finding parking at the warehouse."
 prep: "5 min"
 cook: "15 min"
 servings: "4"
@@ -24,6 +24,10 @@ other_ingredients:
 instructions:
   - "Pat salmon fillets dry with paper towels. Season generously with salt and pepper."
   - "Heat olive oil in a large skillet over medium-high heat. Place salmon skin-side up and sear for 4 minutes until a golden crust forms. Flip and cook 3 more minutes."
+  - "Remove salmon from pan. Reduce heat to medium."
+  - "Add butter and garlic to the same pan. Cook 30 seconds, then add lemon juice and capers if using. Swirl to make the sauce."
+  - "Meanwhile, steam or roast broccoli. For quick steam: microwave with 2 tablespoons water, covered, for 3 minutes."
+  - "Plate salmon with broccoli. Spoon the lemon butter sauce over everything. Garnish with herbs."
 storage: "Refrigerate leftover salmon up to 2 days. Best at room temperature or cold — don't microwave or it'll dry out."
 leftover_ideas:
   - "Flake over a green salad"

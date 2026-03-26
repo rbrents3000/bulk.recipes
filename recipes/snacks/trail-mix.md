@@ -1,6 +1,6 @@
 ---
 title: "Trail Mix"
-description: "You just saved $15 and gained the power to customize your own snack destiny."
+description: "Custom-mixed nuts, dried fruit, and chocolate from Costco's bulk aisle — better than anything in a bag and about half the price."
 prep: "5 min"
 cook: "0 min"
 servings: "12"

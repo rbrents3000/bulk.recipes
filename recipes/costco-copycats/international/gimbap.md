@@ -1,6 +1,6 @@
 ---
 title: "Gimbap"
-description: "Korean sushi rolls stuffed with seasoned rice, vegetables, and beef — Costco Korea sells these as grab-and-go platters. Make a platter at home with Costco bulk rice and nori for a fraction of the price."
+description: "Korean sushi rolls stuffed with seasoned rice, vegetables, and beef — colorful, portable, and wildly snackable. Costco Korea sells these by the platter, but a bag of bulk rice and some nori gets you there for a fraction of the price."
 prep: "30 min"
 cook: "20 min"
 servings: "4 (8 rolls)"

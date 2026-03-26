@@ -1,7 +1,7 @@
 ---
 title: "Chicken Karaage"
 description: "Japanese fried chicken — marinated in soy, ginger, and garlic, coated in potato starch, and fried until shatteringly crispy. Costco Japan sells this in their deli and it flies off the shelf. Now it flies off your plate."
-prep: "15 min + 30 min marinate"
+prep: "15 min"
 cook: "10 min"
 servings: "6"
 cost: 2.5

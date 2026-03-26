@@ -1,6 +1,6 @@
 ---
 title: "Costco Food Court Combo Calzone"
-description: "Because the food court line is long, but your oven is right there."
+description: "Pepperoni, sausage, peppers, and melted cheese folded into a golden pizza pocket — the food court combo slice, reimagined as something you can hold without a plate."
 prep: "20 min"
 cook: "25 min"
 servings: "6"

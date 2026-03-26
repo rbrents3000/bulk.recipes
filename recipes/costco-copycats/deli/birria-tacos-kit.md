@@ -2,14 +2,14 @@
 title: "Birria Tacos (Costco Deli Style)"
 description: "The deli kit everyone fights over, with the consommé for dipping. Now you control portion sizes (and nobody has to share)."
 prep: "20 min"
-cook: "3 hr (slow braise)"
+cook: "3 hr"
 servings: "8"
 cost: 3
 cost_unit: "serving"
 category: "costco-copycats/deli"
 vegetarian: false
 gluten_free: true
-dairy_free: true
+dairy_free: false
 costco_ingredients:
   - "USDA Choice Beef Chuck Roast — 3 lbs (~$6.99/lb)"
   - "Kirkland Signature Shredded Mexican Blend Cheese — 1 cup (~$12.99, 2.5 lb bag)"

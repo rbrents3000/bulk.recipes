@@ -9,7 +9,7 @@ cost_unit: "serving"
 category: "costco-copycats/deli"
 vegetarian: false
 gluten_free: true
-dairy_free: true
+dairy_free: false
 costco_ingredients:
   - "Bone-In Beef Short Ribs — 4 lbs (~$8.99/lb, from meat counter)"
   - "Kirkland Signature Extra Virgin Olive Oil — 2 tablespoons (~$13.99, 2 L)"

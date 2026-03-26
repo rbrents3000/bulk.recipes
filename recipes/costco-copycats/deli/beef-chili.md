@@ -9,7 +9,7 @@ cost_unit: "serving"
 category: "costco-copycats/deli"
 vegetarian: false
 gluten_free: true
-dairy_free: true
+dairy_free: false
 costco_ingredients:
   - "Kirkland Signature Ground Beef 88/12 — 2.5 lbs (~$6.99/lb, 4-pack or bulk)"
   - "Kirkland Signature Organic Diced Tomatoes — 2 cans, 14.5 oz each (~$1.50 each, 8-pack)"

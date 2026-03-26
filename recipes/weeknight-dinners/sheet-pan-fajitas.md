@@ -1,6 +1,6 @@
 ---
 title: "Sheet Pan Chicken Fajitas"
-description: "One pan, zero negotiation about who's doing the dishes."
+description: "Sizzling chicken, caramelized peppers, and warm tortillas — all from one sheet pan and Costco's bulk chicken breast stash."
 prep: "15 min"
 cook: "20 min"
 servings: "6"

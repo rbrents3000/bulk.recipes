@@ -1,6 +1,6 @@
 ---
 title: "Rotisserie Chicken Fried Rice"
-description: "A fast weeknight dinner that uses Costco rotisserie chicken and jasmine rice. Better than takeout and ready in 20 minutes."
+description: "Smoky, soy-sauced, egg-flecked fried rice loaded with rotisserie chicken — the 20-minute weeknight dinner your wok was born to make."
 prep: "10 min"
 cook: "10 min"
 servings: "4"
@@ -23,6 +23,12 @@ other_ingredients:
   - "4 stalks, sliced Green onions"
 instructions:
   - "Use day-old rice if possible — freshly cooked rice will be too moist. Spread leftover rice on a sheet pan and refrigerate for at least 30 minutes if using fresh."
+  - "Heat olive oil in a large skillet or wok over high heat."
+  - "Scramble the eggs in the hot pan, breaking them into small pieces. Remove and set aside."
+  - "Add garlic and frozen peas/carrots to the pan. Stir-fry for 2 minutes."
+  - "Add the cold rice and press it flat against the pan. Let it sit for 30 seconds to get slightly crispy, then stir. Repeat a few times."
+  - "Add the shredded chicken, scrambled eggs, soy sauce, and sesame oil. Toss everything together for 1-2 minutes."
+  - "Top with sliced green onions and serve."
 storage: "Refrigerate up to 4 days. Reheat in a skillet for best results."
 leftover_ideas:
   - "Wrap in a tortilla for a fusion burrito"

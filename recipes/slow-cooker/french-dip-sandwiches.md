@@ -1,6 +1,6 @@
 ---
 title: "Slow Cooker French Dip Sandwiches"
-description: "Set it, forget it, and come home to the most ridiculously dippable sandwich of your life."
+description: "Tender, juicy beef piled on a hoagie roll with a cup of rich au jus for dipping — the sandwich that makes you close your eyes mid-bite."
 prep: "10 min"
 cook: "8 hr"
 servings: "8"
@@ -30,6 +30,9 @@ instructions:
   - "Cover and cook on LOW for 8 hours, until the beef is fall-apart tender and practically shreds itself."
   - "Remove the roast and shred with two forks. It should put up absolutely no resistance."
   - "Return the shredded beef to the slow cooker and stir it into the cooking liquid. Let it soak for a few minutes — this is where the magic happens."
+  - "Scoop shredded beef onto hoagie rolls and top each with a slice of provolone."
+  - "Broil open-faced in the oven for 1-2 minutes until the cheese is melted and bubbly."
+  - "Ladle the remaining cooking liquid through a fine mesh strainer into small bowls for dipping — that's your au jus, and it's liquid gold."
 storage: "Refrigerate shredded beef and au jus separately in airtight containers for up to 4 days. Freezes well for up to 3 months. The fat will solidify on top of the au jus in the fridge — just reheat and it melts right back into beefy goodness."
 leftover_ideas:
   - "Pile the beef onto a baguette with Swiss cheese for a next-day French dip remix"

@@ -26,6 +26,7 @@ instructions:
   - "While the chicken heats, prep your toppings: dice avocados, quarter limes, slice radishes, set out sour cream and cheese in small bowls."
   - "Warm the tortillas from the kits in a dry skillet or wrapped in damp paper towels in the microwave for 30 seconds."
   - "Set everything out buffet-style: chicken in the center, tortillas in a basket, toppings in individual bowls."
+  - "Let everyone build their own tacos."
 storage: "Refrigerate leftover chicken up to 3 days. Use in quesadillas, salads, or rice bowls."
 leftover_ideas:
   - "Toss leftover chicken into scrambled eggs for breakfast tacos"

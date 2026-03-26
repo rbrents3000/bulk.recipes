@@ -1,6 +1,6 @@
 ---
 title: "Overnight Breakfast Casserole"
-description: "A hearty, make-ahead breakfast bake loaded with bacon, eggs, hash browns, and cheese. Assemble it the night before and just pop it in the oven in the morning."
+description: "Bacon, eggs, hash browns, and an unreasonable amount of cheese, baked into one glorious casserole. Assemble it the night before and wake up a hero."
 prep: "20 min"
 cook: "50 min"
 servings: "12"

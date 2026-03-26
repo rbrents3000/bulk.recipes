@@ -2,7 +2,7 @@
 title: "Chicago-Style Italian Beef"
 description: "A sandwich so good that people drive across state lines for it. The slow cooker handles the 8-hour braise while you handle literally anything else."
 prep: "10 min"
-cook: "8 hr (low)"
+cook: "8 hr"
 servings: "8"
 cost: 3
 cost_unit: "serving"

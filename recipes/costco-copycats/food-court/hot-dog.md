@@ -23,6 +23,11 @@ other_ingredients:
   - "Shredded cheddar cheese *(optional, for chili dog mode)*"
 instructions:
   - "Fill a large pot with water and bring to a rolling boil. Drop in the hot dogs and cook for 5-7 minutes until heated through and slightly plumped. You'll know they're ready when they start to swell and the skin gets taut."
+  - "While the dogs cook, dice your onion and set out your toppings in little bowls like you're running your own food court. Because you are. Drain your sauerkraut well — nobody wants a soggy bun."
+  - "Pull the dogs from the water and nestle each one into a steamed bun. Let any excess water drip off first — give it a little shake."
+  - "Top with your preferred combination of mustard, relish, sauerkraut, and diced onion. The classic Costco move is mustard and onion, but nobody's checking your receipt."
+  - "Serve immediately. No plates required — just napkins and ambition."
+  - "If you want to go full food court, serve with a soda. The drink is included, after all. (Well, it was.)"
 storage: "Cooked hot dogs keep in the fridge for 3-4 days in an airtight container. Reheat in the microwave for 30-45 seconds or drop back in simmering water for a couple minutes. Uncooked dogs stay good in the fridge per the package date, or freeze the whole pack for up to 2 months. Leftover buns freeze well too — just pop them in a freezer bag."
 leftover_ideas:
   - "Chop into mac and cheese for an easy weeknight dinner the kids will actually eat"

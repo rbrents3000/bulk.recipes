@@ -1,8 +1,8 @@
 ---
 title: "Honey Garlic Pork"
-description: "Five ingredients. One slow cooker. Eight hours of doing absolutely nothing. Dinner."
+description: "Sweet, sticky, garlicky pulled pork that practically shreds itself — five ingredients and the kind of flavor that has no business being this easy."
 prep: "10 min"
-cook: "8 hr (low) or 4 hr (high)"
+cook: "8 hr"
 servings: "8"
 cost: 2.5
 cost_unit: "serving"

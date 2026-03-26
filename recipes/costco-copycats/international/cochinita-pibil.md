@@ -1,8 +1,8 @@
 ---
 title: "Cochinita Pibil"
 description: "Slow-roasted Yucatan-style pork marinated in achiote and citrus — Costco Mexico sells this as a deli item and it's legendary. Make it with Kirkland pork shoulder, wrap it in banana leaves, and let the oven do the magic."
-prep: "20 min + 2 hr marinate"
-cook: "3.5 hr"
+prep: "20 min"
+cook: "3 hr 30 min"
 servings: "10"
 cost: 2.25
 cost_unit: "serving"

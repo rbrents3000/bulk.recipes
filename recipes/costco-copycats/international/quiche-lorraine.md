@@ -1,6 +1,6 @@
 ---
 title: "Quiche Lorraine"
-description: "A big, custardy quiche loaded with bacon and cheese — Costco France sells a family-sized version in the deli. This one feeds 8, uses Kirkland bacon and eggs, and is the ultimate brunch centerpiece."
+description: "Big, custardy, loaded with bacon and Gruyere — the kind of quiche that makes brunch feel like an event. Feeds 8, mostly because nobody can stop at one slice."
 prep: "15 min"
 cook: "45 min"
 servings: "8"

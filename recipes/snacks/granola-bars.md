@@ -2,7 +2,7 @@
 title: "No-Bake Granola Bars"
 description: "Four ingredients, zero oven time, and they taste better than anything in a wrapper."
 prep: "15 min"
-cook: "0 min (2 hr chill)"
+cook: "0 min"
 servings: "16 bars"
 cost: 0.5
 cost_unit: "serving"

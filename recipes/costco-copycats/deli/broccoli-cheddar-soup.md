@@ -7,7 +7,7 @@ servings: "8"
 cost: 1.5
 cost_unit: "serving"
 category: "costco-copycats/deli"
-vegetarian: true
+vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:

@@ -1,6 +1,6 @@
 ---
 title: "Churros"
-description: "Make the iconic Costco food court churros at home. Crispy outside, soft inside, coated in cinnamon sugar. Way better than the microwave kind."
+description: "Crispy outside, soft inside, coated in enough cinnamon sugar to leave evidence on your shirt. The food court classic, but fresh out of the fryer."
 prep: "15 min"
 cook: "20 min"
 servings: "12"
@@ -29,6 +29,8 @@ instructions:
   - "Transfer dough to a piping bag fitted with a large star tip (or a zip-lock bag with the corner cut off)."
   - "Heat oil to 375°F (190°C) in a deep pot or Dutch oven."
   - "Pipe 6-inch strips of dough directly into the hot oil, cutting with scissors. Fry 3-4 at a time for 2-3 minutes per side until deep golden brown."
+  - "Mix remaining 1/4 cup sugar with cinnamon on a plate. Roll hot churros in the cinnamon sugar immediately."
+  - "Serve warm with chocolate sauce for dipping."
 storage: "Best eaten immediately. You can freeze uncooked dough for up to 1 month — pipe frozen sticks directly into hot oil, adding 1-2 minutes to cook time."
 leftover_ideas:
   - "Chop stale churros and use as ice cream topping"

@@ -1,7 +1,7 @@
 ---
 title: "Costco Pepperoni Pizza"
 description: "18 inches of questionable decisions and zero regrets."
-prep: "20 min (plus 1-2 hrs dough rise)"
+prep: "20 min"
 cook: "15 min"
 servings: "8"
 cost: 1.5
@@ -27,6 +27,12 @@ instructions:
   - "Preheat your oven to 475°F (245°C). If you have a pizza stone, put it on the lowest rack and let it heat for at least 30 minutes. No stone? A sheet pan works — flip it upside down for a flat surface."
   - "Oil a large sheet pan (the biggest one you have — aim for 18 inches if possible). Dust lightly with cornmeal to prevent sticking."
   - "Stretch the dough onto the pan, working from the center outward with your fingertips. If it keeps springing back, let it rest 5 minutes and try again. Patience wins here. Don't use a rolling pin — your hands give you better control and keep air in the dough."
+  - "Spread the marinara sauce across the dough in a thin, even layer, leaving about a half-inch border for the crust. Don't overdo the sauce — too much and you'll get a soggy center. About 3/4 cup is the sweet spot."
+  - "Cover the entire surface with mozzarella. Be generous. Be reckless. Channel your inner Costco pizza worker who does not know the meaning of \"too much cheese.\""
+  - "Layer the pepperoni across the top in a single layer. Overlap them a little — you want every single bite to include pepperoni. No bald spots."
+  - "Sprinkle with oregano, garlic powder, and red pepper flakes if using."
+  - "Bake on the lowest rack for 12-15 minutes until the crust is golden, the cheese is bubbly and starting to brown in spots, and the pepperoni edges are curling up and getting crispy."
+  - "Let cool for 3-4 minutes before slicing. Cut into 8 big slices, food-court style. Use a pizza wheel or the biggest knife you own."
 storage: "Store slices in the fridge for 3-4 days, separated by parchment paper in an airtight container. Freeze individual slices wrapped in foil and stored in a freezer bag for up to 2 months. Reheat frozen slices in a 400°F oven for 8-10 minutes — no need to thaw first."
 leftover_ideas:
   - "Make a pizza quesadilla — cheese side down in a hot skillet with a tortilla"
@@ -68,10 +74,10 @@ leftover_ideas:
 6. Cover the entire surface with mozzarella. Be generous. Be reckless. Channel your inner Costco pizza worker who does not know the meaning of "too much cheese."
 7. Layer the pepperoni across the top in a single layer. Overlap them a little — you want every single bite to include pepperoni. No bald spots.
 8. Sprinkle with oregano, garlic powder, and red pepper flakes if using.
-9. Bake on the lowest rack for 12-15 minutes until the crust is golden, the cheese is bubbly and starting to brown in spots, and the pepperoni edges are curling up into little grease cups of joy.
+9. Bake on the lowest rack for 12-15 minutes until the crust is golden, the cheese is bubbly and starting to brown in spots, and the pepperoni edges are curling up and getting crispy.
 10. Let cool for 3-4 minutes before slicing. Cut into 8 big slices, food-court style. Use a pizza wheel or the biggest knife you own.
 
-> **Tip:** Reheat leftover slices in a skillet over medium heat for 3-4 minutes with a lid on. The bottom gets crispy and the cheese re-melts perfectly. Microwaving pizza should be a misdemeanor.
+> **Tip:** Reheat leftover slices in a skillet over medium heat for 3-4 minutes with a lid on. The bottom gets crispy and the cheese re-melts perfectly. Your future self will thank you.
 
 ## Serving Suggestions
 Serve on a cutting board right in the middle of the table. No individual plates needed — just reach in and grab. Pair with a simple green salad if you need to feel virtuous, but nobody's going to touch the salad and you know it.

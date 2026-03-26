@@ -1,15 +1,15 @@
 ---
 title: "18\" Pizza"
-description: "A from-scratch recreation of the legendary Costco food court pizza — big, floppy, loaded with cheese, and impossibly cheap to make at home."
+description: "Big, floppy, loaded with cheese, and impossibly cheap to make at home — the food court pizza dough that launched a thousand lunch runs, now in your kitchen."
 prep: "15 min"
-cook: "unknown"
+cook: "15 min"
 servings: "8"
 cost: 2
 cost_unit: "serving"
 category: "costco-copycats/food-court"
-vegetarian: true
+vegetarian: false
 gluten_free: false
-dairy_free: true
+dairy_free: false
 costco_ingredients:
   - "Kirkland Shredded Mozzarella Cheese — 4 cups (~$3.00, 5 lb bag)"
   - "Kirkland Pepperoni — 4 oz (~$1.50, 2-pack/16 oz each)"

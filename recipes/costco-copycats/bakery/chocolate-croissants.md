@@ -1,7 +1,7 @@
 ---
 title: "Chocolate Croissants"
 description: "Pain au chocolat from the Costco bakery — flaky, buttery, with a stripe of dark chocolate running through the middle. The from-scratch version is a project, but there's a puff pastry shortcut that gets you 90% of the way there."
-prep: "20 min (shortcut) or 4+ hr (from scratch)"
+prep: "20 min"
 cook: "20 min"
 servings: "8"
 cost: 1

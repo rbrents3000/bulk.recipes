@@ -1,8 +1,8 @@
 ---
 title: "Lemonade Concentrate"
-description: "Turns out the secret to great lemonade is having five pounds of lemons and zero restraint."
+description: "Bright, tart, perfectly sweet lemonade concentrate you can batch in advance — because Costco sells lemons by the bag and you should use every single one."
 prep: "15 min"
-cook: "5 min (simple syrup)"
+cook: "5 min"
 servings: "16"
 cost: 0.4
 cost_unit: "serving"

@@ -1,6 +1,6 @@
 ---
 title: "Berry Sundae"
-description: "A homemade version of the Costco food court berry sundae — creamy vanilla ice cream layered with sweet-tart mixed berry sauce and crunchy waffle cone pieces."
+description: "Vanilla ice cream, warm berry sauce, crunchy waffle cone bits — the food court sundae that makes you forget you came here for paper towels."
 prep: "10 min"
 cook: "5 min"
 servings: "6"

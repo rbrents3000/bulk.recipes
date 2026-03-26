@@ -7,7 +7,7 @@ servings: "6"
 cost: 1.5
 cost_unit: "serving"
 category: "soups"
-vegetarian: true
+vegetarian: false
 gluten_free: true
 dairy_free: false
 costco_ingredients:

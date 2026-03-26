@@ -2,14 +2,14 @@
 title: "Birria Tacos"
 description: "Costco chuck roast braised low and slow in a rich dried chile sauce, then crisped up in corn tortillas dipped in the consomme. Messy, beefy, and absolutely worth it."
 prep: "20 min"
-cook: "6 hr (slow cooker)"
+cook: "6 hr"
 servings: "8"
 cost: 3.5
 cost_unit: "serving"
 category: "weeknight-dinners"
 vegetarian: false
 gluten_free: true
-dairy_free: true
+dairy_free: false
 costco_ingredients:
   - "USDA Choice Beef Chuck Roast — 3-4 lbs (~$7.99/lb, sold in multi-packs)"
   - "Kirkland Signature Shredded Mexican Blend Cheese — 2 cups (~$12.99, 2.5 lb bag)"
@@ -37,6 +37,8 @@ instructions:
   - "Pour the chile sauce over the meat. Add the chicken broth and bay leaves. Give it a stir to coat everything."
   - "Cook on low for 6-8 hours or high for 3-4 hours, until the beef shreds easily with a fork."
   - "Remove the beef and shred with two forks. Discard the bay leaves. Skim excess fat from the braising liquid (the consomme). Return a few ladles of consomme to the shredded meat and toss to keep it moist."
+  - "Assemble the tacos: Dip a corn tortilla into the warm consomme, then lay it flat in a hot skillet (with a little of the reserved fat). Add shredded birria and a pinch of cheese to one half. Fold the tortilla over and press gently. Cook 2-3 minutes per side until the tortilla is crispy and the cheese is melted."
+  - "Serve the tacos with small bowls of warm consomme for dipping, topped with diced onion, cilantro, and a squeeze of lime."
 storage: "Refrigerate the shredded beef and consomme separately for up to 5 days. Freeze the meat in consomme for up to 3 months — thaw overnight and reheat on the stove. Assembled tacos don't store well; crisp them fresh."
 leftover_ideas:
   - "Use the consomme as a base for birria ramen with soft-boiled eggs"

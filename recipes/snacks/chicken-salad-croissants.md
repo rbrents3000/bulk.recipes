@@ -1,6 +1,6 @@
 ---
 title: "Chicken Salad Croissants"
-description: "The lunch that makes coworkers jealous and earns you unsolicited recipe requests."
+description: "Rotisserie chicken, crunchy celery, and creamy dressing piled into a buttery Costco croissant — the lunch that ruins all other lunches."
 prep: "15 min"
 cook: "0 min"
 servings: "6"

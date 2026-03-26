@@ -2,7 +2,7 @@
 title: "Slow Cooker Pulled Pork"
 description: "Fork-tender pulled pork that practically makes itself -- just season, set, and forget for 8 hours of low and slow magic."
 prep: "15 min"
-cook: "8 hr (slow cooker)"
+cook: "8 hr"
 servings: "12"
 cost: 2.5
 cost_unit: "serving"

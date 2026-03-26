@@ -1,7 +1,7 @@
 ---
 title: "Costco Korean BBQ Bulgogi"
 description: "The raw marinated beef from the deli that turns any grill or skillet into a Korean BBQ joint. Now you control the marinade."
-prep: "15 min + 4 hrs marinade"
+prep: "15 min"
 cook: "10 min"
 servings: "6"
 cost: 3

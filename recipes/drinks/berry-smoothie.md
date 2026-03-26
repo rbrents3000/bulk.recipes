@@ -1,6 +1,6 @@
 ---
 title: "Berry Smoothie"
-description: "Breakfast in a glass for people who think they don't have time for breakfast."
+description: "Thick, creamy, and loaded with Costco frozen berries — a five-minute breakfast that actually keeps you full until lunch."
 prep: "5 min"
 cook: "0 min"
 servings: "4"
@@ -9,7 +9,7 @@ cost_unit: "serving"
 category: "drinks"
 vegetarian: true
 gluten_free: true
-dairy_free: true
+dairy_free: false
 costco_ingredients:
   - "Kirkland Frozen Three Berry Blend — 3 cups (~$11.99, 4 lb bag)"
   - "Kirkland Greek Yogurt — 1 cup (~$7.99, 2-pack tubs)"

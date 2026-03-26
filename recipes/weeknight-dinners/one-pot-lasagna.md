@@ -1,6 +1,6 @@
 ---
 title: "One-Pot Lasagna"
-description: "All the lasagna vibes with none of the architectural ambition."
+description: "Meaty, cheesy, saucy lasagna flavor in one pot — no layering, no baking, just Costco ground beef and Rao's doing their thing."
 prep: "10 min"
 cook: "25 min"
 servings: "6"

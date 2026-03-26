@@ -1,7 +1,7 @@
 ---
 title: "Scallion Pancakes"
 description: "Crispy, flaky, savory pancakes loaded with green onions — Costco China sells them ready-to-fry and they're addictive. Make your own with flour, oil, and scallions. That's really it."
-prep: "20 min + 30 min rest"
+prep: "20 min"
 cook: "15 min"
 servings: "4 (4 pancakes)"
 cost: 0.5

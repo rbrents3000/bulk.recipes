@@ -25,6 +25,13 @@ other_ingredients:
 instructions:
   - "Preheat your oven to 375°F (190°C). Line a baking sheet with parchment paper or foil for easy cleanup."
   - "Slice the hoagie rolls lengthwise, leaving one side attached like a hinge so they open like a book. Open them up and lay them cut-side up on the baking sheet."
+  - "If you want extra-crispy bread, brush the cut sides of the rolls with a thin layer of olive oil before adding toppings. This also creates a moisture barrier so the bread won't get soggy later."
+  - "Layer 4-5 slices of turkey breast on the bottom half of each roll. Fold the slices loosely rather than laying them flat — it creates little air pockets that make the sandwich feel more substantial and less like deli counter sadness."
+  - "Top the turkey with 2 slices of provolone per sandwich, slightly overlapping so you get cheese in every bite."
+  - "Toast open-faced in the oven for 3-4 minutes, until the cheese is melted and bubbly and the edges of the bread are just starting to turn golden and crisp."
+  - "Pull from the oven. Spread the pesto mayo on the top half of each roll. Add mustard if you like — a thin line down the center is the classic move."
+  - "Layer on the lettuce and tomato slices. Season the tomato with a tiny pinch of salt and pepper. This sounds fussy but it makes a real difference — it wakes the tomato up."
+  - "Close the sandwiches, press down gently, and slice in half on the diagonal if you're feeling civilized. Serve immediately."
 storage: "Assembled sandwiches don't store well — the bread gets sad and the lettuce gives up on life. Prep the components separately instead: keep sliced turkey and cheese in the fridge, wash and dry lettuce, slice tomatoes day-of, and assemble fresh when you're ready to eat. Prepped components last 4-5 days in the fridge."
 leftover_ideas:
   - "Roll leftover turkey and cheese in a flour tortilla with lettuce for easy turkey wraps"

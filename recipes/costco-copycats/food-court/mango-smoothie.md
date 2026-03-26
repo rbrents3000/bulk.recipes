@@ -24,6 +24,10 @@ instructions:
   - "Peel the banana and break it into 3-4 chunks. Drop them into your blender."
   - "Add the frozen mango chunks, Greek yogurt, orange juice, and honey to the blender."
   - "Put the lid on. (This seems obvious, but we've all learned this lesson the hard way at least once.)"
+  - "Blend on high for 45-60 seconds until completely smooth and creamy. If your blender is struggling, let it rest for 10 seconds and try again — the frozen fruit can be stubborn. Scrape down the sides with a spatula if needed and blend once more."
+  - "Check the consistency. Too thick? Add a splash more OJ or a tablespoon of water. Too thin? Toss in a few more frozen mango chunks or some ice cubes and blend again for 15-20 seconds."
+  - "Taste and adjust sweetness — ripe mangoes and a ripe banana might mean you need less honey, or none at all. If the mango was tart, add another tablespoon of honey."
+  - "Pour into 4 glasses. Serve immediately with a straw, preferably while pretending you're somewhere warm with palm trees and no Wi-Fi."
 storage: "Smoothies are best fresh — they oxidize and separate if they sit around too long, and nobody wants a brown smoothie. But you can freeze the blended mixture in popsicle molds for frozen treats that last up to 2 months. Pour leftovers into an ice cube tray, freeze solid, then blend the cubes later for a quick smoothie restart."
 leftover_ideas:
   - "Add a pinch of cardamom and a splash of milk for a quick mango lassi"

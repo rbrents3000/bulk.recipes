@@ -1,6 +1,6 @@
 ---
 title: "Greek Chicken Meal Prep"
-description: "Mediterranean-style meal prep with juicy marinated chicken thighs, fluffy rice, crisp veggies, tangy feta, and a drizzle of tzatziki."
+description: "Lemon-herb Costco chicken thighs with rice, feta, and tzatziki — the meal prep container that makes your coworkers deeply jealous at lunch."
 prep: "20 min"
 cook: "25 min"
 servings: "6"

@@ -1,6 +1,6 @@
 ---
 title: "Teriyaki Salmon Bowls"
-description: "Glazed salmon fillets over fluffy rice with edamame and cool cucumber — a clean, filling dinner bowl that comes together fast using Costco's frozen salmon."
+description: "Sticky teriyaki-glazed Costco salmon over rice with edamame and cool cucumber — the dinner bowl that makes weeknights feel oddly put-together."
 prep: "10 min"
 cook: "15 min"
 servings: "4"

@@ -1,6 +1,6 @@
 ---
 title: "Beef Stew"
-description: "The slow cooker does all the work while you pretend to be productive."
+description: "Rich, fork-tender chuck roast with root vegetables in a deep, savory broth — the kind of stew that makes your whole house smell like Sunday."
 prep: "20 min"
 cook: "8 hr"
 servings: "8"
@@ -69,7 +69,7 @@ leftover_ideas:
 5. Cover and cook on LOW for 8 hours or HIGH for 4 hours, until beef is fork-tender and vegetables are soft.
 6. Taste and adjust seasoning before serving.
 
-> **Tip:** Searing the beef first isn't strictly required, but it builds a deeper flavor that's absolutely worth the extra 10 minutes.
+> **Tip:** Searing the beef first isn't strictly required, but it builds a deeper flavor that's absolutely worth the extra 10 minutes. Your house will smell incredible — that alone is reason enough.
 
 ## Storage
 Refrigerate in an airtight container for up to 4 days. Freezes beautifully for up to 3 months. Reheat on the stove over medium-low, adding a splash of broth if it's thickened up.

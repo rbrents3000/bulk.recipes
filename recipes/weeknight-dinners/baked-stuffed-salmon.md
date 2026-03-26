@@ -25,6 +25,8 @@ instructions:
   - "Place the stuffed salmon on one side of the sheet pan. Arrange asparagus on the other side."
   - "Drizzle asparagus with olive oil, season with salt and pepper."
   - "Bake for 22-25 minutes until salmon is cooked through (145°F internal) and asparagus is tender-crisp."
+  - "While salmon bakes, melt butter in a small pan with minced garlic and juice of 1 lemon. Cook 1 minute until fragrant."
+  - "Drizzle lemon-garlic butter over the salmon and asparagus. Garnish with dill and lemon slices."
 storage: "Refrigerate leftover salmon up to 2 days. Best reheated gently in a low oven (300°F) to avoid drying out."
 leftover_ideas:
   - "Flake leftover salmon into pasta with cream sauce"
@@ -54,7 +56,7 @@ leftover_ideas:
 3. Drizzle asparagus with olive oil, season with salt and pepper.
 4. Bake for 22-25 minutes until salmon is cooked through (145°F internal) and asparagus is tender-crisp.
 
-> **Tip:** Don't overcook — the stuffed salmon dries out fast past 145°F. Start checking at 20 minutes.
+> **Tip:** Don't overcook — the stuffed salmon dries out fast past 145°F. Start checking at 20 minutes. This is one of those "set a timer and actually respect it" situations.
 
 5. While salmon bakes, melt butter in a small pan with minced garlic and juice of 1 lemon. Cook 1 minute until fragrant.
 6. Drizzle lemon-garlic butter over the salmon and asparagus. Garnish with dill and lemon slices.

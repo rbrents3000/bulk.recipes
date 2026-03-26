@@ -27,6 +27,10 @@ other_ingredients:
 instructions:
   - "Make the marinade: whisk together soy sauce, brown sugar, grated pear, garlic, ginger, mirin, sesame oil, and black pepper in a large bowl."
   - "Add the short ribs to the marinade, making sure each piece is coated. Cover and refrigerate for at least 2 hours, or overnight for the best flavor."
+  - "When ready to cook, remove ribs from the fridge 20 minutes before cooking to take off the chill."
+  - "Cook the rice according to package directions."
+  - "Grill method: Heat grill to high. Grill ribs 3-4 minutes per side until charred and caramelized. Broiler method: Set oven to broil on high. Place ribs on a foil-lined sheet pan. Broil 4-5 minutes per side about 4 inches from the element."
+  - "Let ribs rest 2 minutes. Serve over rice, garnished with sesame seeds and sliced green onions."
 storage: "Refrigerate cooked ribs up to 3 days. Uncooked marinating ribs keep in the fridge up to 2 days. Freeze marinated raw ribs up to 2 months — thaw overnight in the fridge before cooking."
 leftover_ideas:
   - "Slice leftover ribs off the bone and make short rib tacos with pickled onions"

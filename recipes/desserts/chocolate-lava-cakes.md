@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Lava Cakes"
-description: "Individual molten chocolate cakes with a gooey center — easier to make than they look."
+description: "Molten chocolate cakes with a gooey, spill-everywhere center — the dessert that makes people think you went to culinary school."
 prep: "15 min"
 cook: "14 min"
 servings: "6"

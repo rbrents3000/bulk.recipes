@@ -1,6 +1,6 @@
 ---
 title: "Dump-and-Go Chili"
-description: "A no-fuss, one-pot chili where everything goes in together and simmers into a thick, hearty bowl of comfort. Ten minutes of chopping, thirty minutes of waiting."
+description: "Thick, beefy chili that practically builds itself — dump everything in the pot and let Costco's ground beef do the heavy lifting."
 prep: "10 min"
 cook: "30 min"
 servings: "8"

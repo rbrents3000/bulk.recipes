@@ -1,6 +1,6 @@
 ---
 title: "Chicken Bake"
-description: "A homemade version of the iconic Costco food court chicken bake — chicken, bacon, cheese, and Caesar dressing wrapped in pizza dough."
+description: "Chicken, bacon, cheese, and Caesar dressing wrapped in pizza dough — the food court's greatest hit, and somehow even better when it's fresh from your oven."
 prep: "20 min"
 cook: "25 min"
 servings: "4"

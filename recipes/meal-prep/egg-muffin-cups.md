@@ -1,13 +1,13 @@
 ---
 title: "Egg Muffin Cups"
-description: "Protein-packed grab-and-go breakfast cups stuffed with ham, cheese, and bell peppers -- make a dozen in under 30 minutes."
+description: "Cheesy, ham-and-pepper egg cups you can grab straight from the fridge — a dozen in 30 minutes, gone by Wednesday."
 prep: "10 min"
 cook: "20 min"
 servings: "12"
 cost: 0.75
 cost_unit: "serving"
 category: "meal-prep"
-vegetarian: true
+vegetarian: false
 gluten_free: false
 dairy_free: false
 costco_ingredients:

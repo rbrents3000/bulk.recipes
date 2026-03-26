@@ -1,8 +1,8 @@
 ---
 title: "Slow Cooker Chicken Tortilla Soup"
-description: "Everything goes in raw. Everything comes out delicious. The slow cooker does all the work and takes all the credit."
+description: "Smoky, spicy chicken soup loaded with black beans and fire-roasted tomatoes, finished with all the crunchy toppings you can pile on."
 prep: "10 min"
-cook: "6 hr (low) or 3 hr (high)"
+cook: "6 hr"
 servings: "8"
 cost: 2
 cost_unit: "serving"

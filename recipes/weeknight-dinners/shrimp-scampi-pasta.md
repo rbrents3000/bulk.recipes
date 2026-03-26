@@ -1,6 +1,6 @@
 ---
 title: "Shrimp Scampi Pasta"
-description: "Restaurant-quality shrimp scampi using Costco's frozen shrimp and penne. Garlic, butter, white wine, lemon — done in 25 minutes."
+description: "Garlicky, buttery, white-wine-drenched shrimp over pasta — the kind of 25-minute dinner that makes people think you have your life together."
 prep: "10 min"
 cook: "15 min"
 servings: "4"

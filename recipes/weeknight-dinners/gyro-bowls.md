@@ -1,6 +1,6 @@
 ---
 title: "Gyro Bowls"
-description: "The Costco gyro kit gets a glow-up — bowls are just better, and you know it."
+description: "Costco's gyro slices over rice with cool tzatziki, crunchy cucumber, and tangy feta — Mediterranean takeout without leaving the house."
 prep: "15 min"
 cook: "10 min"
 servings: "6"

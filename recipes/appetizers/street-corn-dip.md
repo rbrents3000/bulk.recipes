@@ -1,6 +1,6 @@
 ---
 title: "Street Corn Dip (Esquites-Style)"
-description: "A creamy, tangy, slightly spicy take on Mexican street corn -- all the elote flavor in dip form, perfect for scooping with tortilla chips."
+description: "All the elote magic in dip form — creamy, tangy, a little spicy, and dangerously close to the chip bowl at every party."
 prep: "10 min"
 cook: "10 min"
 servings: "10"

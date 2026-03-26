@@ -1,6 +1,6 @@
 ---
 title: "Hummus & Veggie Cups"
-description: "The healthy snack that's actually good enough to eat on purpose."
+description: "Creamy Costco hummus with crunchy veggies, portioned into grab-and-go cups — the snack that makes 3 PM bearable."
 prep: "10 min"
 cook: "0 min"
 servings: "8"

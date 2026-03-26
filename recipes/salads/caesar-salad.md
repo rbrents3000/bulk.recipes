@@ -1,8 +1,8 @@
 ---
 title: "Caesar Salad"
-description: "The salad so good it doesn't need to apologize for being a salad."
+description: "Crisp romaine, homemade garlicky dressing, and big crunchy croutons — a from-scratch Caesar that puts the bagged kit to shame."
 prep: "15 min"
-cook: "5 min (croutons)"
+cook: "5 min"
 servings: "6"
 cost: 1.75
 cost_unit: "serving"

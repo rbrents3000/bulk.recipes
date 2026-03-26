@@ -1,6 +1,6 @@
 ---
 title: "BBQ Chicken Pizza"
-description: "Naan flatbreads make the perfect individual pizza crust — top with shredded rotisserie chicken, tangy BBQ sauce, and melty mozzarella for a 15-minute dinner."
+description: "Costco naan + rotisserie chicken + BBQ sauce = personal pizzas in 15 minutes that'll have you wondering why you ever called for delivery."
 prep: "10 min"
 cook: "10 min"
 servings: "4"
@@ -24,6 +24,9 @@ instructions:
   - "Preheat oven to 425°F (220°C). Line a large baking sheet with parchment paper or foil."
   - "Shred the rotisserie chicken, discarding skin and bones. Toss the shredded chicken with about half the BBQ sauce in a bowl until evenly coated."
   - "Place the naan pieces on the baking sheet. Brush each one lightly with olive oil, then spread a thin layer of the remaining BBQ sauce over each naan."
+  - "Top each naan with the BBQ chicken, a handful of mozzarella, and a few slices of red onion."
+  - "Bake for 8-10 minutes until the cheese is melted and bubbly and the edges of the naan are golden and crisp."
+  - "Top with fresh cilantro and red pepper flakes if you like. Slice and serve hot."
 storage: "Refrigerate leftover pizza up to 3 days. Reheat in a 375°F oven for 5-7 minutes or in a skillet over medium heat with a lid on to re-melt the cheese. Avoid the microwave — it makes the naan rubbery."
 leftover_ideas:
   - "Use the other half of the rotisserie chicken for chicken salad or tacos"

@@ -25,6 +25,11 @@ instructions:
   - "Pat the fillets **very** dry with paper towels. This is the most important step. Wet fish and a grill do not get along."
   - "Brush both sides with olive oil. Season generously with minced garlic, dill, salt, and pepper."
   - "Get your grill screaming hot over medium-high heat. Oil the grates well with a paper towel dipped in oil and held with tongs."
+  - "Place fillets skin-side down. Close the lid and cook 4–5 minutes without moving them. Resist the urge to peek — you're building a crust."
+  - "Flip carefully using a thin metal spatula. If it resists, give it another 30 seconds — it'll release when it's ready."
+  - "Cook another 3–4 minutes on the flesh side until the thickest part flakes easily with a fork."
+  - "Transfer to a plate. Finish each fillet with a squeeze of fresh lemon and a small pat of butter. The butter melting into the hot fish is the whole experience."
+  - "Let rest for 2 minutes. The carryover heat does the last bit of work for you."
 storage: "Refrigerate leftover salmon for up to 3 days. It flakes beautifully cold — honestly sometimes better than warm. Wrap tightly in foil or place in an airtight container."
 leftover_ideas:
   - "Toss flaked salmon over a Caesar salad with shaved parmesan"

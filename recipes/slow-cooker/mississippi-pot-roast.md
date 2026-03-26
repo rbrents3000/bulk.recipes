@@ -1,6 +1,6 @@
 ---
 title: "Mississippi Pot Roast"
-description: "Five ingredients. Zero cooking rules followed. Unreasonably delicious."
+description: "Tangy, buttery, melt-apart pot roast with pepperoncini — five ingredients that have no right tasting this good together."
 prep: "5 min"
 cook: "8 hr"
 servings: "8"

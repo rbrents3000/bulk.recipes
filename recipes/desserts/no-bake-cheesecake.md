@@ -1,6 +1,6 @@
 ---
 title: "No-Bake Cheesecake"
-description: "A rich, creamy cheesecake that sets up in the fridge — no oven required."
+description: "Rich, silky cheesecake that sets up in the fridge while you do literally anything else — no oven, no water bath, no stress."
 prep: "25 min"
 cook: "0 min"
 servings: "12"

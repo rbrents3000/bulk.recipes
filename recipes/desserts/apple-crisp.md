@@ -1,6 +1,6 @@
 ---
 title: "Apple Crisp"
-description: "The dessert that pretends to be healthy because it has fruit in it. We support this fiction."
+description: "Warm, cinnamon-spiced apples under a buttery oat crumble — serve it with vanilla ice cream and nobody will ask if it's healthy."
 prep: "15 min"
 cook: "40 min"
 servings: "8"

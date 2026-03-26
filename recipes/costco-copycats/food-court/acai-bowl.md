@@ -1,6 +1,6 @@
 ---
 title: "Acai Bowl"
-description: "A homemade take on the Costco food court acai bowl — thick, creamy blended acai topped with crunchy granola, fresh fruit, and a drizzle of honey."
+description: "Thick, creamy, and impossibly purple — the food court acai bowl, but you control the toppings and nobody's judging you for going back for seconds."
 prep: "10 min"
 cook: "0 min"
 servings: "4"

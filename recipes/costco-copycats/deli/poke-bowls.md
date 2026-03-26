@@ -2,7 +2,7 @@
 title: "Poke Bowls"
 description: "Costco's deli poke bowls are a West Coast hit — fresh ahi tuna over rice with all the fixings. Make your own with sushi-grade tuna from the Costco seafood counter and you'll never pay $13 for a single-serve plastic tray again."
 prep: "20 min"
-cook: "20 min (rice)"
+cook: "20 min"
 servings: "4"
 cost: 5
 cost_unit: "serving"

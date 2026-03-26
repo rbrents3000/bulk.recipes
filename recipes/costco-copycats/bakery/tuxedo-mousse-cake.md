@@ -1,7 +1,7 @@
 ---
 title: "Tuxedo Chocolate Mousse Cake"
 description: "Three layers of chocolate. Two kinds of mousse. One cake to rule them all."
-prep: "45 min + 4 hr chill"
+prep: "45 min"
 cook: "25 min"
 servings: "16"
 cost: 1.25

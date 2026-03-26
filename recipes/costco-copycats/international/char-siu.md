@@ -1,7 +1,7 @@
 ---
 title: "Char Siu (BBQ Pork)"
 description: "Cantonese-style BBQ pork — glossy, caramelized, sticky-sweet with charred edges. Costco China sells this ready-to-eat in the deli. Make it with a Kirkland pork shoulder and your oven does the work."
-prep: "15 min + 4 hr marinate"
+prep: "15 min"
 cook: "40 min"
 servings: "8"
 cost: 2.5

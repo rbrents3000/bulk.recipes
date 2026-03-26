@@ -1,6 +1,6 @@
 ---
 title: "Rotisserie Chicken Enchiladas"
-description: "Easy enchiladas using Costco's famous rotisserie chicken. Ready in 30 minutes and feeds the whole family."
+description: "Saucy, cheesy enchiladas stuffed with shredded rotisserie chicken — the Costco shortcut that turns a Tuesday into taco night's fancier cousin."
 prep: "15 min"
 cook: "20 min"
 servings: "5"
@@ -22,6 +22,12 @@ other_ingredients:
 instructions:
   - "Preheat oven to 375°F (190°C)."
   - "Shred the rotisserie chicken, discarding skin and bones. You should get about 3 cups of shredded meat."
+  - "Mix the shredded chicken with 1 cup of shredded cheese and 1/2 cup of enchilada sauce in a bowl."
+  - "Spread 1/2 cup of enchilada sauce on the bottom of a 9x13 baking dish."
+  - "Spoon about 1/3 cup of the chicken mixture down the center of each tortilla. Roll up and place seam-side down in the baking dish."
+  - "Pour the remaining enchilada sauce over the rolled tortillas. Top with the remaining 2 cups of cheese."
+  - "Bake for 20 minutes until cheese is melted and bubbly."
+  - "Top with sour cream, sliced green onions, and cilantro. Serve hot."
 storage: "Refrigerate leftovers up to 4 days. Freeze uncooked assembled enchiladas up to 3 months — thaw overnight in fridge before baking."
 leftover_ideas:
   - "Use leftover shredded chicken for quesadillas or chicken salad"

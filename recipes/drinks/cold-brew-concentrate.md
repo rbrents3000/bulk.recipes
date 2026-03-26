@@ -1,8 +1,8 @@
 ---
 title: "Cold Brew Concentrate"
-description: "One batch. One week of coffee. Zero mornings spent waiting in a drive-through."
+description: "Smooth, strong, never-bitter coffee concentrate that gives you a full week of iced coffee for the price of one Starbucks run."
 prep: "5 min"
-cook: "0 min (12-24 hr steep)"
+cook: "0 min"
 servings: "8"
 cost: 0.5
 cost_unit: "serving"

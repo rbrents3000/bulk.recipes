@@ -1,6 +1,6 @@
 ---
 title: "Spinach Artichoke Dip"
-description: "A hot, bubbly, cheesy dip loaded with spinach and artichoke hearts. Five minutes to assemble, then the oven does the rest."
+description: "Hot, bubbly, and aggressively cheesy — the dip that turns a bag of tortilla chips into a legitimate dinner if you let it."
 prep: "10 min"
 cook: "25 min"
 servings: "12"

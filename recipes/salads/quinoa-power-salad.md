@@ -1,6 +1,6 @@
 ---
 title: "Quinoa Power Salad"
-description: "Virtuous enough to feel healthy, delicious enough to actually eat the leftovers voluntarily."
+description: "Nutty quinoa loaded with roasted vegetables, feta, and a bright lemon vinaigrette — meal prep that you'll actually look forward to eating on day four."
 prep: "15 min"
 cook: "15 min"
 servings: "6"

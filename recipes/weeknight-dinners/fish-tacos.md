@@ -9,7 +9,7 @@ cost_unit: "serving"
 category: "weeknight-dinners"
 vegetarian: false
 gluten_free: false
-dairy_free: true
+dairy_free: false
 costco_ingredients:
   - "Kirkland Signature Frozen Tilapia Fillets — 4 fillets (~$17.99, 3 lb bag)"
   - "Kirkland Signature Flour Tortillas — 8 tortillas (~$4.49, 2-pack of 10 count)"
