@@ -1,86 +1,30 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import RecipeCard from '../../components/RecipeCard.astro';
+import RecipeBrowser from '../../components/RecipeBrowser';
 
 const recipes = await getCollection('recipes');
 
-// Group by category
-const categories = new Map<string, typeof recipes>();
-for (const recipe of recipes) {
-  const cat = recipe.data.category;
-  if (!categories.has(cat)) categories.set(cat, []);
-  categories.get(cat)!.push(recipe);
-}
+// Serialize recipe data for the client island
+const recipeData = recipes.map(r => ({
+  id: r.id,
+  title: r.data.title,
+  description: r.data.description,
+  cost: r.data.cost,
+  cost_unit: r.data.cost_unit,
+  prep: r.data.prep,
+  cook: r.data.cook,
+  servings: r.data.servings,
+  category: r.data.category,
+  vegetarian: r.data.vegetarian,
+  gluten_free: r.data.gluten_free,
+  dairy_free: r.data.dairy_free,
+}));
 
-// Sort categories, copycats first, then alphabetical
-const sortedCategories = [...categories.entries()].sort(([a], [b]) => {
-  if (a.startsWith('costco-copycats') && !b.startsWith('costco-copycats')) return -1;
-  if (!a.startsWith('costco-copycats') && b.startsWith('costco-copycats')) return 1;
-  return a.localeCompare(b);
-});
-
-// Category display names
-const categoryNames: Record<string, string> = {
-  'costco-copycats/food-court': 'Costco Copycats — Food Court',
-  'costco-copycats/deli': 'Costco Copycats — Deli',
-  'costco-copycats/bakery': 'Costco Copycats — Bakery',
-  'costco-copycats/international': 'Costco Copycats — International',
-  'weeknight-dinners': 'Weeknight Dinners',
-  'rotisserie-chicken': 'Rotisserie Chicken',
-  'feeding-a-crowd': 'Feeding a Crowd',
-  'meal-prep': 'Meal Prep',
-  'slow-cooker': 'Slow Cooker',
-  'appetizers': 'Appetizers',
-  'desserts': 'Desserts',
-  'drinks': 'Drinks',
-  'grilling': 'Grilling',
-  'salads': 'Salads',
-  'snacks': 'Snacks & Lunch',
-  'soups': 'Soups',
-};
+// Unique categories for the dropdown
+const categories = [...new Set(recipes.map(r => r.data.category))].sort();
 ---
 
-<Base title="Recipes — bulk.recipes" description="181 homemade recipes built around Costco ingredients. Every recipe has a Costco shopping list and cost-per-serving breakdown.">
-  <div class="py-8">
-    <!-- Header -->
-    <div class="mb-12 text-center">
-      <h1 class="text-4xl md:text-6xl font-headline font-black tracking-tight mb-4">
-        <span class="text-primary">{recipes.length}</span> Recipes
-      </h1>
-      <p class="text-lg text-on-surface-variant font-body max-w-2xl mx-auto">
-        Homemade meals built around Costco ingredients. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
-      </p>
-    </div>
-
-    <!-- Recipe grid by category -->
-    {sortedCategories.map(([cat, catRecipes]) => (
-      <section class="mb-16">
-        <h2 class="text-2xl font-headline font-black tracking-tight mb-6 border-b-4 border-primary inline-block pb-1">
-          {categoryNames[cat] || cat.replace(/[-/]/g, ' ')}
-        </h2>
-        <span class="text-sm text-on-surface-variant ml-3">({catRecipes.length})</span>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mt-4">
-          {catRecipes
-            .sort((a, b) => a.data.cost - b.data.cost)
-            .map(recipe => (
-              <RecipeCard
-                title={recipe.data.title}
-                description={recipe.data.description}
-                cost={recipe.data.cost}
-                cost_unit={recipe.data.cost_unit}
-                prep={recipe.data.prep}
-                cook={recipe.data.cook}
-                servings={recipe.data.servings}
-                category={recipe.data.category}
-                vegetarian={recipe.data.vegetarian}
-                gluten_free={recipe.data.gluten_free}
-                dairy_free={recipe.data.dairy_free}
-                slug={recipe.id}
-              />
-            ))}
-        </div>
-      </section>
-    ))}
-  </div>
+<Base title="Browse Recipes — bulk.recipes" description="Search, filter, and sort 181 Costco recipes by cost, cook time, diet, and ingredient.">
+  <RecipeBrowser client:load recipes={recipeData} categories={categories} />
 </Base>

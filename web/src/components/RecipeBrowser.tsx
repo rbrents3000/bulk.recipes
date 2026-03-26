@@ -1,0 +1,283 @@
+import { useState, useMemo } from 'preact/hooks';
+import RecipeCardClient from './RecipeCardClient';
+
+interface Recipe {
+  id: string;
+  title: string;
+  description: string;
+  cost: number;
+  cost_unit: string;
+  prep: string;
+  cook: string;
+  servings: string;
+  category: string;
+  vegetarian: boolean;
+  gluten_free: boolean;
+  dairy_free: boolean;
+}
+
+function parseCookMinutes(cook: string): number {
+  const hrMatch = cook.match(/(\d+)\s*hr/i);
+  const minMatch = cook.match(/(\d+)\s*min/i);
+  let total = 0;
+  if (hrMatch) total += parseInt(hrMatch[1]) * 60;
+  if (minMatch) total += parseInt(minMatch[1]);
+  return total || 999;
+}
+
+const PAGE_SIZE = 12;
+
+const categoryDisplayNames: Record<string, string> = {
+  'costco-copycats/food-court': 'Copycats — Food Court',
+  'costco-copycats/deli': 'Copycats — Deli',
+  'costco-copycats/bakery': 'Copycats — Bakery',
+  'costco-copycats/international': 'Copycats — International',
+  'weeknight-dinners': 'Weeknight Dinners',
+  'rotisserie-chicken': 'Rotisserie Chicken',
+  'feeding-a-crowd': 'Feeding a Crowd',
+  'meal-prep': 'Meal Prep',
+  'slow-cooker': 'Slow Cooker',
+  'appetizers': 'Appetizers',
+  'desserts': 'Desserts',
+  'drinks': 'Drinks',
+  'grilling': 'Grilling',
+  'salads': 'Salads',
+  'snacks': 'Snacks & Lunch',
+  'soups': 'Soups',
+};
+
+export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe[]; categories: string[] }) {
+  const [category, setCategory] = useState<string>('');
+  const [maxCost, setMaxCost] = useState(10);
+  const [cookTime, setCookTime] = useState<string>('');
+  const [vegetarian, setVegetarian] = useState(false);
+  const [glutenFree, setGlutenFree] = useState(false);
+  const [dairyFree, setDairyFree] = useState(false);
+  const [sortBy, setSortBy] = useState<string>('cheapest');
+  const [page, setPage] = useState(0);
+  const [showFilters, setShowFilters] = useState(false);
+
+  const filtered = useMemo(() => {
+    let result = [...recipes];
+
+    if (category) {
+      result = result.filter(r => r.category === category || r.category.startsWith(category + '/'));
+    }
+    if (maxCost < 10) {
+      result = result.filter(r => r.cost <= maxCost);
+    }
+    if (cookTime) {
+      result = result.filter(r => {
+        const mins = parseCookMinutes(r.cook);
+        switch (cookTime) {
+          case '<30': return mins <= 30;
+          case '30-60': return mins > 30 && mins <= 60;
+          case '1-2h': return mins > 60 && mins <= 120;
+          case '2h+': return mins > 120;
+          default: return true;
+        }
+      });
+    }
+    if (vegetarian) result = result.filter(r => r.vegetarian);
+    if (glutenFree) result = result.filter(r => r.gluten_free);
+    if (dairyFree) result = result.filter(r => r.dairy_free);
+
+    // Sort
+    switch (sortBy) {
+      case 'cheapest': result.sort((a, b) => a.cost - b.cost); break;
+      case 'fastest': result.sort((a, b) => parseCookMinutes(a.cook) - parseCookMinutes(b.cook)); break;
+      case 'alpha': result.sort((a, b) => a.title.localeCompare(b.title)); break;
+      default: break;
+    }
+
+    return result;
+  }, [category, maxCost, cookTime, vegetarian, glutenFree, dairyFree, sortBy, recipes]);
+
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+  const paged = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
+
+  const clearFilters = () => {
+    setCategory('');
+    setMaxCost(10);
+    setCookTime('');
+    setVegetarian(false);
+    setGlutenFree(false);
+    setDairyFree(false);
+    setPage(0);
+  };
+
+  const hasFilters = category || maxCost < 10 || cookTime || vegetarian || glutenFree || dairyFree;
+
+  return (
+    <div class="py-8">
+      {/* Mobile filter toggle */}
+      <button
+        class="md:hidden w-full mb-6 h-14 bg-[#ba0027] text-white rounded-full font-bold text-lg flex items-center justify-center gap-2"
+        onClick={() => setShowFilters(!showFilters)}
+      >
+        <span class="material-symbols-outlined">tune</span>
+        {showFilters ? 'Hide Filters' : 'Show Filters'}
+      </button>
+
+      <div class="flex flex-col md:flex-row gap-12">
+        {/* Sidebar */}
+        <aside class={`w-full md:w-80 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
+          <h2 class="text-2xl font-extrabold tracking-tight" style="font-family: 'Plus Jakarta Sans'">Filter by</h2>
+
+          {/* Category */}
+          <div class="space-y-3">
+            <label class="font-bold text-sm text-[#5c5b5b] uppercase tracking-widest" style="font-family: 'Plus Jakarta Sans'">Category</label>
+            <select
+              class="w-full h-14 bg-[#dedcdc] border-none rounded-xl px-4 font-medium focus:ring-2 focus:ring-[#ba0027]"
+              value={category}
+              onChange={(e) => { setCategory((e.target as HTMLSelectElement).value); setPage(0); }}
+            >
+              <option value="">All Categories</option>
+              {categories.map(c => (
+                <option key={c} value={c}>{categoryDisplayNames[c] || c}</option>
+              ))}
+            </select>
+          </div>
+
+          {/* Cost slider */}
+          <div class="space-y-3">
+            <div class="flex justify-between items-center">
+              <label class="font-bold text-sm text-[#5c5b5b] uppercase tracking-widest" style="font-family: 'Plus Jakarta Sans'">Max Cost</label>
+              <span class="text-[#ba0027] font-bold">{maxCost >= 10 ? 'Any' : `Under $${maxCost}`}</span>
+            </div>
+            <input
+              type="range"
+              min="1"
+              max="10"
+              step="0.5"
+              value={maxCost}
+              onInput={(e) => { setMaxCost(parseFloat((e.target as HTMLInputElement).value)); setPage(0); }}
+              class="w-full accent-[#ba0027] h-2 bg-[#dedcdc] rounded-full appearance-none cursor-pointer"
+            />
+            <div class="flex justify-between text-xs font-bold text-[#5c5b5b]">
+              <span>$1</span><span>$10+</span>
+            </div>
+          </div>
+
+          {/* Cook time */}
+          <div class="space-y-3">
+            <label class="font-bold text-sm text-[#5c5b5b] uppercase tracking-widest" style="font-family: 'Plus Jakarta Sans'">Cook Time</label>
+            <div class="grid grid-cols-2 gap-2">
+              {[
+                { value: '<30', label: '⏱️ < 30m' },
+                { value: '30-60', label: '⏱️ 30-60m' },
+                { value: '1-2h', label: '⏱️ 1-2h' },
+                { value: '2h+', label: '⏱️ 2h+' },
+              ].map(opt => (
+                <button
+                  key={opt.value}
+                  class={`py-3 px-4 rounded-xl font-bold text-xs transition-all ${
+                    cookTime === opt.value
+                      ? 'bg-[#fdd34d] text-[#5c4900]'
+                      : 'bg-[#dedcdc] text-[#5c5b5b] hover:bg-[#e4e2e1]'
+                  }`}
+                  onClick={() => { setCookTime(cookTime === opt.value ? '' : opt.value); setPage(0); }}
+                >
+                  {opt.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Diet checkboxes */}
+          <div class="space-y-3">
+            <label class="font-bold text-sm text-[#5c5b5b] uppercase tracking-widest" style="font-family: 'Plus Jakarta Sans'">Dietary</label>
+            <div class="space-y-3">
+              {[
+                { key: 'vegetarian', label: 'Vegetarian', checked: vegetarian, set: setVegetarian },
+                { key: 'gluten_free', label: 'Gluten-Free', checked: glutenFree, set: setGlutenFree },
+                { key: 'dairy_free', label: 'Dairy-Free', checked: dairyFree, set: setDairyFree },
+              ].map(d => (
+                <label key={d.key} class="flex items-center cursor-pointer group">
+                  <input
+                    type="checkbox"
+                    checked={d.checked}
+                    onChange={() => { d.set(!d.checked); setPage(0); }}
+                    class="w-6 h-6 rounded-md border-[#aeadac] text-[#ba0027] focus:ring-[#ba0027] mr-3"
+                  />
+                  <span class={`font-medium ${d.checked ? 'font-bold text-[#ba0027]' : ''}`}>{d.label}</span>
+                </label>
+              ))}
+            </div>
+          </div>
+
+          {/* Clear filters */}
+          {hasFilters && (
+            <button
+              class="text-[#ba0027] font-bold text-sm hover:underline"
+              onClick={clearFilters}
+            >
+              Clear all filters
+            </button>
+          )}
+        </aside>
+
+        {/* Main content */}
+        <section class="flex-1 space-y-8">
+          {/* Sort bar */}
+          <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+            <div>
+              <h1 class="text-3xl font-extrabold tracking-tight" style="font-family: 'Plus Jakarta Sans'">
+                {filtered.length === recipes.length ? 'All Recipes' : `${filtered.length} Recipes`}
+              </h1>
+              <p class="text-[#5c5b5b] font-medium mt-1">
+                {hasFilters ? 'Filtered results' : `Showing all ${recipes.length} recipes`}
+              </p>
+            </div>
+            <div class="flex items-center gap-3 bg-[#f3f0f0] p-1.5 rounded-2xl">
+              <span class="text-xs font-bold px-3 text-[#5c5b5b]">SORT</span>
+              <select
+                class="bg-white border-none rounded-xl text-sm font-bold py-2 pl-3 pr-8 focus:ring-0"
+                value={sortBy}
+                onChange={(e) => setSortBy((e.target as HTMLSelectElement).value)}
+              >
+                <option value="cheapest">Cheapest First</option>
+                <option value="fastest">Fastest First</option>
+                <option value="alpha">Alphabetical</option>
+              </select>
+            </div>
+          </div>
+
+          {/* Recipe grid */}
+          {paged.length > 0 ? (
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {paged.map(recipe => (
+                <RecipeCardClient key={recipe.id} recipe={recipe} />
+              ))}
+            </div>
+          ) : (
+            <div class="text-center py-20">
+              <span class="material-symbols-outlined text-6xl text-[#aeadac] mb-4">search_off</span>
+              <p class="text-xl font-bold mb-2">No recipes match your filters</p>
+              <p class="text-[#5c5b5b]">Try adjusting your criteria or <button class="text-[#ba0027] font-bold hover:underline" onClick={clearFilters}>clear all filters</button></p>
+            </div>
+          )}
+
+          {/* Pagination */}
+          {totalPages > 1 && (
+            <div class="flex justify-center gap-2 mt-8">
+              {Array.from({ length: totalPages }, (_, i) => (
+                <button
+                  key={i}
+                  class={`w-10 h-10 rounded-full font-bold text-sm transition-all ${
+                    page === i
+                      ? 'bg-[#ba0027] text-white shadow-lg'
+                      : 'bg-[#dedcdc] text-[#2f2f2f] hover:bg-[#e4e2e1]'
+                  }`}
+                  onClick={() => { setPage(i); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                >
+                  {i + 1}
+                </button>
+              ))}
+            </div>
+          )}
+        </section>
+      </div>
+    </div>
+  );
+}
