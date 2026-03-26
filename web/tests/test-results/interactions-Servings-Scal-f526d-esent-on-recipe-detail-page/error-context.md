@@ -1,0 +1,67 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - navigation "Main navigation" [ref=e3]:
+    - generic [ref=e4]:
+      - link "bulk.recipes" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e6]:
+        - link "Recipes" [ref=e7] [cursor=pointer]:
+          - /url: /recipes
+        - link "Countries" [ref=e8] [cursor=pointer]:
+          - /url: /prepared
+        - link "Guides" [ref=e9] [cursor=pointer]:
+          - /url: /guides
+        - link "Products" [ref=e10] [cursor=pointer]:
+          - /url: /products
+    - button "Search (Ctrl+K)" [ref=e12]:
+      - generic [ref=e13]: search
+      - generic [ref=e14]: ⌘K
+  - main [ref=e15]:
+    - generic [ref=e16]:
+      - heading "404" [level=1] [ref=e17]
+      - paragraph [ref=e18]: This page doesn't exist — maybe it was a limited-time item.
+      - generic [ref=e19]:
+        - link "Go Home" [ref=e20] [cursor=pointer]:
+          - /url: /
+        - link "Browse Recipes" [ref=e21] [cursor=pointer]:
+          - /url: /recipes
+  - contentinfo [ref=e22]:
+    - generic [ref=e23]:
+      - link "bulk.recipes" [ref=e24] [cursor=pointer]:
+        - /url: /
+      - paragraph [ref=e25]: © 2026 bulk.recipes
+    - navigation "Footer navigation" [ref=e26]:
+      - link "Meal Plans" [ref=e27] [cursor=pointer]:
+        - /url: /guides/meal-plans
+      - link "Cost Index" [ref=e28] [cursor=pointer]:
+        - /url: /guides/cost-index
+      - link "Dietary Index" [ref=e29] [cursor=pointer]:
+        - /url: /guides/dietary
+      - link "Freezer Guide" [ref=e30] [cursor=pointer]:
+        - /url: /guides/freezer-guide
+      - link "GitHub" [ref=e31] [cursor=pointer]:
+        - /url: https://github.com/rbrents3000/bulk.recipes
+    - generic [ref=e32]:
+      - link "GitHub" [ref=e33] [cursor=pointer]:
+        - /url: https://github.com/rbrents3000/bulk.recipes
+        - generic [ref=e34]: code
+      - button "Share" [ref=e35]:
+        - generic [ref=e36]: share
+  - generic [ref=e39]:
+    - button "Menu" [ref=e40]:
+      - img [ref=e42]
+      - generic: Menu
+    - button "Inspect" [ref=e46]:
+      - img [ref=e48]
+      - generic: Inspect
+    - button "Audit" [ref=e50]:
+      - img [ref=e52]
+      - generic: Audit
+    - button "Settings" [ref=e55]:
+      - img [ref=e57]
+      - generic: Settings
+```

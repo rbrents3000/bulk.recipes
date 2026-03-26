@@ -124,6 +124,65 @@ test.describe('Country Tabs', () => {
   });
 });
 
+test.describe('Recipe Card Images', () => {
+  test('each card image src matches its recipe link after sorting', async ({ page }) => {
+    await page.setViewportSize({ width: 1280, height: 800 });
+    await page.goto('/recipes?sort=total-time', { waitUntil: 'networkidle' });
+    await page.waitForTimeout(1000); // Wait for hydration + sort
+
+    const cards = page.locator('a.group.block');
+    const count = await cards.count();
+    expect(count).toBeGreaterThan(0);
+
+    const mismatches: string[] = [];
+    for (let i = 0; i < Math.min(count, 12); i++) {
+      const card = cards.nth(i);
+      const href = await card.getAttribute('href');
+      const imgSrc = await card.locator('img').first().getAttribute('src');
+
+      // href is like /recipes/desserts/rice-krispie-treats
+      // img src should be /assets/recipes/rice-krispie-treats.webp
+      const recipeSlug = href?.split('/').pop();
+      const expectedImg = `/assets/recipes/${recipeSlug}.webp`;
+
+      if (imgSrc !== expectedImg) {
+        mismatches.push(`Card ${i}: href=${href}, img src=${imgSrc}, expected=${expectedImg}`);
+      }
+    }
+
+    expect(mismatches, `Image mismatches found:\n${mismatches.join('\n')}`).toHaveLength(0);
+  });
+
+  test('images still match after changing sort order', async ({ page }) => {
+    await page.setViewportSize({ width: 1280, height: 800 });
+    await page.goto('/recipes', { waitUntil: 'networkidle' });
+    await page.waitForTimeout(500);
+
+    // Change sort to alphabetical
+    await page.selectOption('select[aria-label="Sort recipes by"]', 'alpha');
+    await page.waitForTimeout(500);
+
+    const cards = page.locator('a.group.block');
+    const count = await cards.count();
+
+    const mismatches: string[] = [];
+    for (let i = 0; i < Math.min(count, 12); i++) {
+      const card = cards.nth(i);
+      const href = await card.getAttribute('href');
+      const imgSrc = await card.locator('img').first().getAttribute('src');
+
+      const recipeSlug = href?.split('/').pop();
+      const expectedImg = `/assets/recipes/${recipeSlug}.webp`;
+
+      if (imgSrc !== expectedImg) {
+        mismatches.push(`Card ${i}: href=${href}, img src=${imgSrc}, expected=${expectedImg}`);
+      }
+    }
+
+    expect(mismatches, `Image mismatches after re-sort:\n${mismatches.join('\n')}`).toHaveLength(0);
+  });
+});
+
 test.describe('Servings Scaler', () => {
   test('servings scaler multiplier buttons are present on recipe detail page', async ({ page }) => {
     await page.goto('/recipes/weeknight-dinners/birria-tacos', { waitUntil: 'networkidle' });

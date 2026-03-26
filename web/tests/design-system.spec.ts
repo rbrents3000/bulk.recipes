@@ -188,14 +188,14 @@ test.describe('Design System — Spacing & Layout', () => {
     expect(paddingBottom).toBeCloseTo(64, -1);
   });
 
-  test('browse grid has gap-8 (32px)', async ({ page }) => {
+  test('browse grid has gap-6 (24px)', async ({ page }) => {
     await page.setViewportSize({ width: 1280, height: 800 });
     await page.goto('/recipes', { waitUntil: 'networkidle' });
 
-    const grid = page.locator('[class*="grid"][class*="gap-8"]').first();
+    const grid = page.locator('[class*="grid"][class*="gap-6"]').first();
     await expect(grid).toBeVisible();
     const gap = await getStyleNum(grid, 'gap');
-    expect(gap).toBeCloseTo(32, -1);
+    expect(gap).toBeCloseTo(24, -1);
   });
 
   test('footer has mt-12 (48px) margin', async ({ page }) => {

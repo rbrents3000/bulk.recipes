@@ -22,7 +22,9 @@ function readAndRender(filename: string): string | null {
   const filePath = join(basePath, filename);
   if (!existsSync(filePath)) return null;
   const md = readFileSync(filePath, 'utf-8');
-  return marked(md) as string;
+  const html = marked(md) as string;
+  // Fix markdown links: ../../recipes/costco-copycats/food-court/chicken-bake.md → /recipes/costco-copycats/food-court/chicken-bake
+  return html.replace(/href="\.\.\/\.\.\/recipes\/([^"]+)\.md"/g, 'href="/recipes/$1"');
 }
 
 const foodCourt = readAndRender('food-court.md') || '<p>No food court data available.</p>';

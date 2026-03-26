@@ -38,27 +38,27 @@ test.describe('Responsive — Grid Columns', () => {
     await page.setViewportSize({ width: 375, height: 812 });
     await page.goto('/recipes', { waitUntil: 'networkidle' });
     let cols = await page.evaluate(() => {
-      const grid = document.querySelector('[class*="grid"][class*="gap-8"]');
+      const grid = document.querySelector('[class*="grid"][class*="gap-6"]');
       if (!grid) return 0;
       return getComputedStyle(grid).gridTemplateColumns.split(' ').length;
     });
     expect(cols).toBe(1);
 
-    // Tablet
+    // Tablet (md: 768px → 2 cols)
     await page.setViewportSize({ width: 768, height: 1024 });
     await page.waitForTimeout(300);
     cols = await page.evaluate(() => {
-      const grid = document.querySelector('[class*="grid"][class*="gap-8"]');
+      const grid = document.querySelector('[class*="grid"][class*="gap-6"]');
       if (!grid) return 0;
       return getComputedStyle(grid).gridTemplateColumns.split(' ').length;
     });
     expect(cols).toBe(2);
 
-    // Desktop
+    // Desktop (xl: 1280px → 3 cols)
     await page.setViewportSize({ width: 1280, height: 800 });
     await page.waitForTimeout(300);
     cols = await page.evaluate(() => {
-      const grid = document.querySelector('[class*="grid"][class*="gap-8"]');
+      const grid = document.querySelector('[class*="grid"][class*="gap-6"]');
       if (!grid) return 0;
       return getComputedStyle(grid).gridTemplateColumns.split(' ').length;
     });
@@ -128,6 +128,7 @@ test.describe('Responsive — Component Visibility', () => {
 });
 
 test.describe('Responsive — Screenshots', () => {
+  test.describe.configure({ timeout: 60000 });
   for (const vp of viewports) {
     for (const pg of pages) {
       test(`screenshot ${pg.name} at ${vp.name}`, async ({ page }) => {

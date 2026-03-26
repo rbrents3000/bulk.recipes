@@ -159,3 +159,29 @@ Most of the deli's greatest hits have copycat recipes. Make them in your own kit
 | Birria Tacos Kit | [Birria Tacos](../../recipes/costco-copycats/deli/birria-tacos-kit.md) | ~$3.00 |
 | Tempura Shrimp Tacos | [Tempura Shrimp Tacos](../../recipes/costco-copycats/deli/tempura-shrimp-tacos.md) | ~$3.50 |
 | Chicken & Waffles | [Chicken & Waffles](../../recipes/costco-copycats/deli/chicken-waffles.md) | ~$3.50 |
+| Chicken Alfredo | [Chicken Alfredo](../../recipes/costco-copycats/deli/chicken-alfredo.md) | ~$2.50 |
+| Chicken Street Tacos | [Chicken Street Tacos](../../recipes/costco-copycats/deli/chicken-street-tacos.md) | ~$2.50 |
+| Chicken Pot Pie | [Chicken Pot Pie](../../recipes/costco-copycats/deli/chicken-pot-pie-deli.md) | ~$2.50 |
+| Chicken Caesar Salad | [Chicken Caesar Salad](../../recipes/costco-copycats/deli/chicken-caesar-salad.md) | ~$2.00 |
+| Chinese Chicken Salad | [Chinese Chicken Salad](../../recipes/costco-copycats/deli/chinese-chicken-salad.md) | ~$2.25 |
+| Beef Chili | [Beef Chili](../../recipes/costco-copycats/deli/beef-chili.md) | ~$2.25 |
+| Beef Short Ribs | [Beef Short Ribs](../../recipes/costco-copycats/deli/beef-short-ribs.md) | ~$5.50 |
+| Broccoli Cheddar Soup | [Broccoli Cheddar Soup](../../recipes/costco-copycats/deli/broccoli-cheddar-soup.md) | ~$1.50 |
+| Tomato Basil Soup | [Tomato Basil Soup](../../recipes/costco-copycats/deli/tomato-basil-soup.md) | ~$1.50 |
+| Korean BBQ Bulgogi | [Korean BBQ Bulgogi](../../recipes/costco-copycats/deli/bulgogi-marinade.md) | ~$3.00 |
+| Crab Cakes | [Crab Cakes](../../recipes/costco-copycats/deli/crab-cakes.md) | ~$3.00 |
+| Egg Rolls | [Egg Rolls](../../recipes/costco-copycats/deli/egg-rolls.md) | ~$0.60 |
+| Gyro Meal Kit | [Gyro Meat](../../recipes/costco-copycats/deli/gyro-meat.md) | ~$3.00 |
+| Loaded Baked Potatoes | [Loaded Baked Potatoes](../../recipes/costco-copycats/deli/loaded-baked-potatoes.md) | ~$1.75 |
+| Poke Bowls | [Poke Bowls](../../recipes/costco-copycats/deli/poke-bowls.md) | ~$5.00 |
+| Ravioli Lasagna | [Ravioli Lasagna](../../recipes/costco-copycats/deli/ravioli-lasagna.md) | ~$2.50 |
+| Six-Layer Dip | [Six-Layer Dip](../../recipes/costco-copycats/deli/six-layer-dip.md) | ~$1.25 |
+| Spanakopita | [Spanakopita](../../recipes/costco-copycats/deli/spanakopita.md) | ~$0.35 |
+| Stuffed Salmon | [Stuffed Salmon](../../recipes/costco-copycats/deli/stuffed-salmon.md) | ~$7.00 |
+| Turkey Provolone Pinwheels | [Turkey Provolone Pinwheels](../../recipes/costco-copycats/deli/turkey-provolone-pinwheels.md) | ~$0.50 |
+| Mac and Cheese | [Mac and Cheese](../../recipes/costco-copycats/deli/mac-and-cheese.md) | ~$1.75 |
+| Tikka Masala / Butter Chicken | [Tikka Masala](../../recipes/costco-copycats/deli/tikka-masala.md) | ~$2.75 |
+| Chicken Tortilla Soup | [Chicken Tortilla Soup](../../recipes/costco-copycats/deli/chicken-tortilla-soup.md) | ~$2.00 |
+| Chicken Noodle Soup | [Chicken Noodle Soup](../../recipes/costco-copycats/deli/chicken-noodle-soup.md) | ~$1.75 |
+| Carnitas | [Carnitas](../../recipes/costco-copycats/deli/carnitas.md) | ~$2.25 |
+| Mashed Potatoes | [Mashed Potatoes](../../recipes/costco-copycats/deli/mashed-potatoes.md) | ~$1.25 |

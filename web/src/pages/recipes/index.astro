@@ -42,5 +42,5 @@ const topTags = [...tagCounts.entries()]
 ---
 
 <Base title="Browse Recipes — bulk.recipes" description={`Search, filter, and sort ${recipes.length} Costco recipes by cost, cook time, diet, and ingredient.`}>
-  <RecipeBrowser client:load recipes={recipeData} categories={categories} ingredientTags={topTags} />
+  <RecipeBrowser client:only="preact" recipes={recipeData} categories={categories} ingredientTags={topTags} />
 </Base>

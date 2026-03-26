@@ -156,3 +156,8 @@ Some bakery items are worth recreating — especially when you want them warm fr
 | Mini Quiche Tray | [Mini Quiche Tray](../../recipes/costco-copycats/bakery/mini-quiche-tray.md) | ~$0.75/each |
 | Triple Chocolate Loaf | [Triple Chocolate Loaf](../../recipes/costco-copycats/bakery/triple-chocolate-loaf.md) | ~$0.75/slice |
 | Cinnamon Coffee Cake | [Cinnamon Coffee Cake](../../recipes/costco-copycats/bakery/cinnamon-coffee-cake.md) | ~$0.75/serving |
+| Blueberry Muffins | [Blueberry Muffins](../../recipes/costco-copycats/bakery/blueberry-muffins.md) | ~$0.75/muffin |
+| Pumpkin Pie | [Pumpkin Pie](../../recipes/costco-copycats/bakery/pumpkin-pie.md) | ~$0.75/slice |
+| Scones | [Scones](../../recipes/costco-copycats/bakery/scones.md) | ~$0.75/scone |
+| Sheet Cake | [Sheet Cake](../../recipes/costco-copycats/bakery/sheet-cake.md) | ~$0.50/slice |
+| Tuxedo Mousse Cake | [Tuxedo Mousse Cake](../../recipes/costco-copycats/bakery/tuxedo-mousse-cake.md) | ~$1.25/slice |

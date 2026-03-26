@@ -60,7 +60,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
               </div>
             )}
             <div class="absolute bottom-3 right-3">
-              <span class="px-3 py-1 bg-secondary-container text-on-secondary-container rounded-full text-xs font-bold uppercase shadow-sm">{label}</span>
+              <span class="px-3 py-1 bg-black/60 backdrop-blur text-white rounded-full text-xs font-bold uppercase shadow-sm">{label}</span>
             </div>
           </div>
         </div>

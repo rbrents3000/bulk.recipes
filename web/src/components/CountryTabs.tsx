@@ -60,7 +60,7 @@ export default function CountryTabs({ foodCourt, deli, bakery }: Props) {
             onKeyDown={handleKeyDown}
             class={`flex items-center gap-2 px-6 py-3 rounded-full font-bold text-sm transition-all ${
               active === tab.key
-                ? 'bg-primary text-white shadow-lg scale-105'
+                ? 'bg-primary-container text-on-primary-container shadow-lg scale-105'
                 : 'bg-surface-container-highest text-on-surface-variant hover:scale-105'
             }`}
           >
