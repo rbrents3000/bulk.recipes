@@ -119,7 +119,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
         {showFilters ? 'Hide Filters' : 'Show Filters'}
       </button>
 
-      <div class="flex flex-col md:flex-row gap-12">
+      <div class="flex flex-col md:flex-row gap-8 lg:gap-12">
         {/* Sidebar */}
         <aside class={`w-full md:w-80 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
           <h2 class="font-headline text-2xl font-extrabold tracking-tight">Filter by</h2>
