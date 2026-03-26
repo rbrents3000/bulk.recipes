@@ -35,8 +35,9 @@ const currentPath = Astro.url.pathname;
     </div>
   </div>
   <div class="flex items-center gap-4">
-    <button class="hover:scale-105 transition-transform duration-200 p-2 rounded-full hover:bg-surface-container" aria-label="Search">
+    <button data-search-trigger class="hover:scale-105 transition-transform duration-200 p-2 rounded-full hover:bg-surface-container flex items-center gap-2" aria-label="Search (Ctrl+K)">
       <span class="material-symbols-outlined text-primary">search</span>
+      <kbd class="hidden lg:inline text-[10px] text-on-surface-variant bg-surface-container px-1.5 py-0.5 rounded font-mono">⌘K</kbd>
     </button>
   </div>
 </nav>

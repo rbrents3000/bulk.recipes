@@ -11,3 +11,15 @@
     font-family: 'Plus Jakarta Sans', sans-serif;
   }
 }
+
+/* Pagefind UI theming */
+:root {
+  --pagefind-ui-primary: #ba0027;
+  --pagefind-ui-text: #2f2f2f;
+  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-border: #eae8e7;
+  --pagefind-ui-tag: #fdd34d;
+  --pagefind-ui-border-width: 0px;
+  --pagefind-ui-border-radius: 1rem;
+  --pagefind-ui-font: 'Be Vietnam Pro', sans-serif;
+}

@@ -1,0 +1,88 @@
+<!-- Search overlay - triggered by [data-search-trigger] buttons -->
+<div id="search-overlay" class="hidden fixed inset-0 z-[60] bg-black/50 backdrop-blur-sm" aria-modal="true" role="dialog">
+  <div class="max-w-2xl mx-auto mt-16 md:mt-24 bg-surface-container-lowest rounded-xl shadow-2xl p-6 relative">
+    <button
+      id="search-close"
+      class="absolute top-4 right-4 p-2 rounded-full hover:bg-surface-container transition-colors"
+      aria-label="Close search"
+    >
+      <span class="material-symbols-outlined text-on-surface-variant">close</span>
+    </button>
+    <div id="search-container"></div>
+  </div>
+</div>
+
+<script is:inline>
+  // Pagefind is generated at postbuild — load dynamically at runtime
+  let initialized = false;
+
+  async function initSearch() {
+    if (initialized) return;
+    initialized = true;
+
+    // Load CSS
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/pagefind/pagefind-ui.css';
+    document.head.appendChild(link);
+
+    // Load JS and initialize
+    try {
+      const mod = await import('/pagefind/pagefind-ui.js');
+      new mod.PagefindUI({
+        element: '#search-container',
+        showSubResults: true,
+        showImages: false,
+        autofocus: true,
+      });
+    } catch (e) {
+      document.getElementById('search-container').innerHTML =
+        '<p style="text-align:center;padding:2rem;color:#5c5b5b;">Search is available after the site is built and deployed.</p>';
+    }
+  }
+
+  function openSearch() {
+    const overlay = document.getElementById('search-overlay');
+    overlay.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+    initSearch();
+    setTimeout(function() {
+      const input = document.querySelector('#search-container input');
+      if (input) input.focus();
+    }, 200);
+  }
+
+  function closeSearch() {
+    const overlay = document.getElementById('search-overlay');
+    overlay.classList.add('hidden');
+    document.body.style.overflow = '';
+  }
+
+  // Open on search trigger click
+  document.querySelectorAll('[data-search-trigger]').forEach(function(el) {
+    el.addEventListener('click', openSearch);
+  });
+
+  // Close button
+  var closeBtn = document.getElementById('search-close');
+  if (closeBtn) closeBtn.addEventListener('click', closeSearch);
+
+  // Close on Escape
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeSearch();
+  });
+
+  // Close on backdrop click
+  var overlay = document.getElementById('search-overlay');
+  if (overlay) overlay.addEventListener('click', function(e) {
+    if (e.target === overlay) closeSearch();
+  });
+
+  // Cmd/Ctrl+K shortcut
+  document.addEventListener('keydown', function(e) {
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      openSearch();
+    }
+  });
+</script>
