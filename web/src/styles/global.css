@@ -111,3 +111,92 @@
 
 /* For 3-column US tables, nth-child(3) IS the description */
 /* This works because last-child overrides nth-child(3) when they're the same element */
+
+/* ── Print stylesheet ── */
+@media print {
+  /* Hide site chrome */
+  nav,
+  footer,
+  [aria-label="Related recipes"],
+  [aria-label="Main navigation"],
+  .mobile-nav-btn,
+  a[href="#main"] {
+    display: none !important;
+  }
+
+  /* Hide interactive/non-content elements */
+  button,
+  select,
+  input,
+  [data-pagefind-body] ~ script {
+    display: none !important;
+  }
+
+  /* Keep ingredient checkboxes visible */
+  input[type="checkbox"] {
+    display: inline-block !important;
+  }
+
+  /* Clean backgrounds and shadows */
+  *,
+  *::before,
+  *::after {
+    background: white !important;
+    color: black !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  /* Restore colored badges for dietary info */
+  [class*="bg-green-100"] { background: #dcfce7 !important; color: #166534 !important; }
+  [class*="bg-amber-100"] { background: #fef3c7 !important; color: #92400e !important; }
+  [class*="bg-blue-100"] { background: #dbeafe !important; color: #1e40af !important; }
+
+  /* Layout: remove padding waste, full width */
+  body { min-height: auto !important; }
+  main { padding: 0.5rem !important; max-width: 100% !important; }
+
+  /* Single column layout for recipe content */
+  .grid {
+    display: block !important;
+  }
+
+  /* Prevent page breaks inside steps and ingredient items */
+  li,
+  tr,
+  .break-inside-avoid {
+    break-inside: avoid;
+  }
+
+  /* Page break before instructions for clean separation */
+  article > div > div:last-child {
+    break-before: auto;
+  }
+
+  /* Hide images to save ink */
+  img {
+    display: none !important;
+  }
+
+  /* Show recipe URL for reference */
+  article::after {
+    content: "Printed from bulk.recipes";
+    display: block;
+    margin-top: 2rem;
+    font-size: 0.75rem;
+    color: #999 !important;
+    border-top: 1px solid #ddd;
+    padding-top: 0.5rem;
+  }
+
+  /* Clean link styling */
+  a {
+    text-decoration: none !important;
+    color: black !important;
+  }
+
+  /* Remove fixed positioning */
+  .fixed {
+    position: static !important;
+  }
+}
