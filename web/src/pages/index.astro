@@ -33,9 +33,18 @@ const seasonCategories: Record<string, string[]> = {
 const season = month <= 1 || month === 11 ? 'winter' : month <= 4 ? 'spring' : month <= 7 ? 'summer' : 'fall';
 const seasonCats = seasonCategories[season];
 
+// Prioritize impressive hero categories, exclude drinks/snacks from homepage
+const heroCats = ['weeknight-dinners', 'grilling', 'feeding-a-crowd', 'rotisserie-chicken', 'meal-prep', 'slow-cooker'];
 const marchPicks = recipes
-  .filter(r => seasonCats.includes(r.data.category) || r.data.cost <= 2)
-  .sort((a, b) => a.data.cost - b.data.cost)
+  .filter(r => heroCats.includes(r.data.category) || seasonCats.includes(r.data.category))
+  .filter(r => !['drinks', 'snacks'].includes(r.data.category))
+  .sort((a, b) => {
+    // Prefer hero categories, then by servings (crowd-pleasers first)
+    const aHero = heroCats.includes(a.data.category) ? 0 : 1;
+    const bHero = heroCats.includes(b.data.category) ? 0 : 1;
+    if (aHero !== bHero) return aHero - bHero;
+    return (parseInt(b.data.servings) || 4) - (parseInt(a.data.servings) || 4);
+  })
   .slice(0, 8)
   .map(r => ({
     title: r.data.title,
