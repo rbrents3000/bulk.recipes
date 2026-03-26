@@ -2,21 +2,14 @@ import { defineConfig } from '@playwright/test';
 
 export default defineConfig({
   testDir: './tests',
-  outputDir: './tests/screenshots',
+  outputDir: './tests/test-results',
   timeout: 30000,
+  retries: 0,
+  workers: 2,
   use: {
     baseURL: 'http://localhost:4321',
+    browserName: 'chromium',
   },
-  projects: [
-    {
-      name: 'desktop',
-      use: { viewport: { width: 1280, height: 800 }, browserName: 'chromium' },
-    },
-    {
-      name: 'mobile',
-      use: { viewport: { width: 375, height: 812 }, browserName: 'chromium' },
-    },
-  ],
   webServer: {
     command: 'npm run dev',
     port: 4321,
