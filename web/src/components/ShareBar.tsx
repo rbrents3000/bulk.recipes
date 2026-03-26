@@ -39,11 +39,18 @@ export default function ShareBar({ url, title, description, image }: Props) {
       <span class="text-xs font-bold text-on-surface-variant uppercase tracking-widest mr-1">Share</span>
 
       {/* Copy link */}
-      <button onClick={copyLink} class={btn} aria-label="Copy link" title={copied ? 'Copied!' : 'Copy link'}>
-        <span class="material-symbols-outlined text-lg" style={copied ? 'font-variation-settings: "FILL" 1' : ''}>
-          {copied ? 'check' : 'link'}
-        </span>
-      </button>
+      <div class="relative">
+        <button onClick={copyLink} class={btn} aria-label="Copy link" title={copied ? 'Copied!' : 'Copy link'}>
+          <span class="material-symbols-outlined text-lg" style={copied ? 'font-variation-settings: "FILL" 1; color: #16a34a' : ''}>
+            {copied ? 'check' : 'link'}
+          </span>
+        </button>
+        {copied && (
+          <span class="toast-anim absolute -top-9 left-1/2 -translate-x-1/2 whitespace-nowrap bg-on-surface text-white text-xs font-bold px-3 py-1 rounded-full shadow-lg pointer-events-none">
+            Link copied!
+          </span>
+        )}
+      </div>
 
       {/* Native share (mobile) */}
       {canShare && (

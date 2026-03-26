@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { ClientRouter } from 'astro:transitions';
 import Navigation from '../components/Navigation.astro';
 import Footer from '../components/Footer.astro';
 import MobileNav from '../components/MobileNav.astro';
@@ -101,6 +102,7 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
       gtag('config', 'G-TEBNP70KDY');
     </script>
 
+    <ClientRouter />
     <title>{title}</title>
   </head>
   <body class="min-h-screen flex flex-col">
@@ -114,6 +116,25 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
     <Footer />
     <MobileNav />
     <SearchOverlay />
+
+    <script>
+      // Scroll reveal: observe .reveal elements and add .revealed on viewport entry
+      const revealObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('revealed');
+            revealObserver.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+      document.querySelectorAll('.reveal, .reveal-stagger').forEach(el => revealObserver.observe(el));
+
+      // Re-observe after Astro page transitions
+      document.addEventListener('astro:page-load', () => {
+        document.querySelectorAll('.reveal:not(.revealed), .reveal-stagger:not(.revealed)').forEach(el => revealObserver.observe(el));
+      });
+    </script>
 
     <script>
       // Image fallback: replace broken images with data-fallback src

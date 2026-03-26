@@ -258,7 +258,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                   key={opt.value || 'all'}
                   aria-label={opt.ariaLabel}
                   aria-pressed={cookTime === opt.value}
-                  class={`py-3 px-4 rounded-xl font-bold text-xs transition-all ${
+                  class={`py-3 px-4 rounded-xl font-bold text-xs transition-all active:scale-95 ${
                     cookTime === opt.value
                       ? 'bg-primary text-white'
                       : 'bg-surface-container-highest text-on-surface-variant hover:bg-surface-container-high'
@@ -302,7 +302,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                   <button
                     key={tag}
                     aria-pressed={selectedIngredients.has(tag)}
-                    class={`px-3 py-1.5 rounded-full text-xs font-bold transition-all ${
+                    class={`px-3 py-1.5 rounded-full text-xs font-bold transition-all active:scale-95 ${
                       selectedIngredients.has(tag)
                         ? 'bg-primary text-white border border-primary'
                         : 'bg-surface-container-highest text-on-surface-variant border border-transparent hover:bg-surface-container-high'

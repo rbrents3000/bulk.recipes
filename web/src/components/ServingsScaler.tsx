@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'preact/hooks';
+import { useState, useEffect, useRef, useCallback } from 'preact/hooks';
 
 interface Props {
   baseServings: number;
@@ -39,8 +39,18 @@ const LABELS = ['½×', '1×', '2×', '3×', '4×'];
 
 export default function ServingsScaler({ baseServings, baseCost, costUnit }: Props) {
   const [ratio, setRatio] = useState(1);
+  const [pop, setPop] = useState(false);
   const originals = useRef<{ el: HTMLElement; text: string }[]>([]);
   const initialized = useRef(false);
+  const isFirstRender = useRef(true);
+
+  // Trigger pop animation on ratio change
+  useEffect(() => {
+    if (isFirstRender.current) { isFirstRender.current = false; return; }
+    setPop(true);
+    const t = setTimeout(() => setPop(false), 250);
+    return () => clearTimeout(t);
+  }, [ratio]);
 
   const scaledServings = Math.round(baseServings * ratio);
   // For per-serving pricing, total = cost * scaled servings.
@@ -113,7 +123,7 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
     <div class="flex flex-col gap-1">
       <div class="flex justify-between items-center">
         <span class="text-xs uppercase font-bold text-on-surface-variant tracking-widest">Servings</span>
-        <span class="text-primary font-bold text-lg">{scaledServings}</span>
+        <span class={`text-primary font-bold text-lg ${pop ? 'animate-pop' : ''}`}>{scaledServings}</span>
       </div>
       <div class="flex gap-1.5 mt-1">
         {MULTIPLIERS.map((m, i) => (

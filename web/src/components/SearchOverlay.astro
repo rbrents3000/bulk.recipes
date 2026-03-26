@@ -47,19 +47,30 @@
     searchTriggerEl = document.activeElement;
     const overlay = document.getElementById('search-overlay');
     overlay.classList.remove('hidden');
+    overlay.classList.add('overlay-enter');
     document.body.style.overflow = 'hidden';
     initSearch();
+    // Trigger reflow then remove enter class for transition
+    requestAnimationFrame(function() {
+      requestAnimationFrame(function() {
+        overlay.classList.remove('overlay-enter');
+      });
+    });
     setTimeout(function() {
       const input = document.querySelector('#search-container input');
       if (input) input.focus();
-    }, 200);
+    }, 250);
   }
 
   function closeSearch() {
     const overlay = document.getElementById('search-overlay');
-    overlay.classList.add('hidden');
-    document.body.style.overflow = '';
-    if (searchTriggerEl) searchTriggerEl.focus();
+    overlay.classList.add('overlay-enter');
+    setTimeout(function() {
+      overlay.classList.add('hidden');
+      overlay.classList.remove('overlay-enter');
+      document.body.style.overflow = '';
+      if (searchTriggerEl) searchTriggerEl.focus();
+    }, 200);
   }
 
   // Focus trap within dialog

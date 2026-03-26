@@ -44,6 +44,105 @@
   font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
 }
 
+/* ── Micro-interactions ── */
+
+/* Scroll reveal */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.reveal {
+  opacity: 0;
+}
+
+.reveal.revealed {
+  animation: fade-up 0.6s ease-out forwards;
+}
+
+/* Stagger children in reveal containers */
+.reveal-stagger.revealed > *:nth-child(1) { animation-delay: 0ms; }
+.reveal-stagger.revealed > *:nth-child(2) { animation-delay: 80ms; }
+.reveal-stagger.revealed > *:nth-child(3) { animation-delay: 160ms; }
+.reveal-stagger.revealed > *:nth-child(4) { animation-delay: 240ms; }
+.reveal-stagger.revealed > *:nth-child(5) { animation-delay: 320ms; }
+.reveal-stagger.revealed > *:nth-child(6) { animation-delay: 400ms; }
+.reveal-stagger.revealed > *:nth-child(n+7) { animation-delay: 480ms; }
+
+.reveal-stagger > * {
+  opacity: 0;
+}
+.reveal-stagger.revealed > * {
+  animation: fade-up 0.5s ease-out forwards;
+}
+
+/* Pop animation for number changes */
+@keyframes pop {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+.animate-pop {
+  animation: pop 0.25s ease-out;
+}
+
+/* Heart burst for favorites */
+@keyframes heart-burst {
+  0% { transform: scale(0); opacity: 0.6; }
+  100% { transform: scale(2.5); opacity: 0; }
+}
+.heart-burst::after {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  border: 3px solid #ba0027;
+  animation: heart-burst 0.4s ease-out forwards;
+  pointer-events: none;
+}
+
+/* Toast slide-up */
+@keyframes toast-up {
+  0% { opacity: 0; transform: translateY(8px); }
+  15% { opacity: 1; transform: translateY(0); }
+  85% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-8px); }
+}
+.toast-anim {
+  animation: toast-up 1.8s ease-out forwards;
+}
+
+/* Global button press feedback */
+button:active:not(:disabled),
+[role="button"]:active {
+  transform: scale(0.97);
+  transition: transform 0.1s ease;
+}
+
+/* Search overlay transitions */
+#search-overlay {
+  transition: opacity 0.2s ease;
+}
+#search-overlay.overlay-enter {
+  opacity: 0;
+}
+#search-overlay .max-w-2xl {
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+#search-overlay.overlay-enter .max-w-2xl {
+  transform: translateY(-20px) scale(0.97);
+  opacity: 0;
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .reveal { opacity: 1; }
+  .reveal-stagger > * { opacity: 1; }
+  .animate-pop, .heart-burst::after, .toast-anim { animation: none; }
+  #search-overlay, #search-overlay .max-w-2xl { transition: none; }
+  @keyframes fade-up { from { opacity: 1; transform: none; } }
+}
+
 /* Prepared foods table → card styling */
 .prepared-content table {
   width: 100%;
