@@ -206,7 +206,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                   aria-pressed={cookTime === opt.value}
                   class={`py-3 px-4 rounded-xl font-bold text-xs transition-all ${
                     cookTime === opt.value
-                      ? 'bg-secondary-container text-on-secondary-container'
+                      ? 'bg-primary text-white'
                       : 'bg-surface-container-highest text-on-surface-variant hover:bg-surface-container-high'
                   }`}
                   onClick={() => { setCookTime(opt.value); setPage(0); }}
@@ -216,29 +216,6 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
               ))}
             </div>
           </div>
-
-          {/* Ingredients */}
-          {ingredientTags.length > 0 && (
-            <div class="space-y-3">
-              <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Ingredients</label>
-              <div class="flex flex-wrap gap-2">
-                {ingredientTags.map(tag => (
-                  <button
-                    key={tag}
-                    aria-pressed={selectedIngredients.has(tag)}
-                    class={`px-3 py-1.5 rounded-full text-xs font-bold transition-all ${
-                      selectedIngredients.has(tag)
-                        ? 'bg-secondary-container text-on-secondary-container border border-secondary-container'
-                        : 'bg-surface-container-highest text-on-surface-variant border border-transparent hover:bg-surface-container-high'
-                    }`}
-                    onClick={() => toggleIngredient(tag)}
-                  >
-                    {tag}
-                  </button>
-                ))}
-              </div>
-            </div>
-          )}
 
           {/* Diet checkboxes */}
           <div class="space-y-3">
@@ -254,13 +231,36 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                     type="checkbox"
                     checked={d.checked}
                     onChange={() => { d.set(!d.checked); setPage(0); }}
-                    class="w-6 h-6 rounded-md border-outline-variant text-primary focus:ring-primary mr-3"
+                    class="w-6 h-6 rounded-md border-outline-variant accent-primary text-primary focus:ring-primary mr-3"
                   />
                   <span class={`font-medium ${d.checked ? 'font-bold text-primary' : ''}`}>{d.label}</span>
                 </label>
               ))}
             </div>
           </div>
+
+          {/* Ingredients */}
+          {ingredientTags.length > 0 && (
+            <div class="space-y-3">
+              <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Ingredients</label>
+              <div class="flex flex-wrap gap-2">
+                {ingredientTags.map(tag => (
+                  <button
+                    key={tag}
+                    aria-pressed={selectedIngredients.has(tag)}
+                    class={`px-3 py-1.5 rounded-full text-xs font-bold transition-all ${
+                      selectedIngredients.has(tag)
+                        ? 'bg-primary text-white border border-primary'
+                        : 'bg-surface-container-highest text-on-surface-variant border border-transparent hover:bg-surface-container-high'
+                    }`}
+                    onClick={() => toggleIngredient(tag)}
+                  >
+                    {tag}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
 
           {/* Clear filters */}
           {hasFilters && (
