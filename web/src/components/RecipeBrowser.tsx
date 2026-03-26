@@ -112,7 +112,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
     <div class="py-8">
       {/* Mobile filter toggle */}
       <button
-        class="md:hidden w-full mb-6 h-14 bg-primary text-white rounded-full font-bold text-lg flex items-center justify-center gap-2"
+        class="md:hidden w-full mb-6 h-16 bg-gradient-to-r from-primary to-primary-container text-on-primary rounded-full font-headline font-extrabold text-lg flex items-center justify-center gap-2 shadow-[0_12px_24px_rgba(186,0,39,0.2)] hover:scale-[1.02] active:scale-95 transition-all"
         onClick={() => setShowFilters(!showFilters)}
       >
         <span class="material-symbols-outlined" aria-hidden="true">tune</span>
@@ -230,15 +230,13 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
           {/* Sort bar */}
           <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
             <div aria-live="polite" aria-atomic="true">
-              <h1 class="font-headline text-3xl font-extrabold tracking-tight">
-                {filtered.length === recipes.length ? 'All Recipes' : `${filtered.length} Recipes`}
-              </h1>
+              <h1 class="font-headline text-4xl font-extrabold tracking-tight">Bulk Masterpieces</h1>
               <p class="text-on-surface-variant font-medium mt-1">
-                {hasFilters ? 'Filtered results' : `Showing all ${recipes.length} recipes`}
+                {hasFilters ? `Showing ${filtered.length} recipes` : `Showing ${recipes.length} recipes for every occasion`}
               </p>
             </div>
             <div class="flex items-center gap-3 bg-surface-container-low p-1.5 rounded-2xl">
-              <span class="text-xs font-bold px-3 text-on-surface-variant">SORT</span>
+              <span class="text-xs font-bold px-3 text-on-surface-variant">SORT BY</span>
               <select
                 aria-label="Sort recipes by"
                 class="bg-surface-container-lowest border-none rounded-xl text-sm font-bold py-2 pl-3 pr-8 focus:ring-0"
@@ -254,7 +252,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
 
           {/* Recipe grid */}
           {paged.length > 0 ? (
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {paged.map(recipe => (
                 <RecipeCardClient key={recipe.id} recipe={recipe} />
               ))}

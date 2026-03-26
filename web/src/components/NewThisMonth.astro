@@ -47,11 +47,13 @@ const categoryImageMap: Record<string, string> = {
         href={`/recipes/${recipe.slug}`}
         class="group min-w-[320px] flex-shrink-0 snap-start"
       >
-        <div class="bg-surface-container-lowest rounded-xl overflow-hidden shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300">
-          <div class="aspect-[4/3] bg-surface-container overflow-hidden">
-            <img src={categoryImageMap[recipe.category] || '/assets/categories/weeknight.png'} alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" aria-hidden="true" loading="lazy" />
+        <div class="bg-surface-container-lowest rounded-xl overflow-visible shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_24px_48px_rgba(0,0,0,0.08)] transition-all duration-300">
+          <div class="p-3">
+            <div class="h-48 w-full rounded-lg overflow-hidden bg-surface-container">
+              <img src={categoryImageMap[recipe.category] || '/assets/categories/weeknight.png'} alt="" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" aria-hidden="true" loading="lazy" />
+            </div>
           </div>
-          <div class="p-5">
+          <div class="px-6 pb-6 pt-2">
             <h3 class="font-headline font-bold text-lg mb-2 group-hover:text-primary transition-colors line-clamp-2">
               {recipe.title}
             </h3>

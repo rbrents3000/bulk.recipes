@@ -62,18 +62,20 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
 
   return (
     <a href={href} class="group block">
-      <div class="bg-surface-container-lowest rounded-xl overflow-hidden shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300">
-        <div class="aspect-[4/3] bg-surface-container relative overflow-hidden">
-          <img src={categoryImage} alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" aria-hidden="true" loading="lazy" />
-          <div class="absolute top-3 left-3 flex gap-2">
-            {isBudget && <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-[10px] font-black uppercase tracking-wider">💰 Budget</span>}
-            {isQuick && <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-[10px] font-black uppercase tracking-wider">⏱️ Quick</span>}
-          </div>
-          <div class="absolute bottom-3 right-3">
-            <span class="px-3 py-1 bg-secondary-container text-on-secondary-container rounded-full text-[10px] font-bold uppercase">{label}</span>
+      <div class="bg-surface-container-lowest rounded-xl overflow-visible shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_24px_48px_rgba(0,0,0,0.08)] transition-all duration-300">
+        <div class="p-3">
+          <div class="relative h-56 w-full rounded-lg overflow-hidden bg-surface-container">
+            <img src={categoryImage} alt="" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" aria-hidden="true" loading="lazy" />
+            <div class="absolute top-3 left-3 flex flex-col gap-2">
+              {isBudget && <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-xs font-extrabold shadow-sm">💰 Budget</span>}
+              {isQuick && <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-xs font-extrabold shadow-sm">⏱️ Quick</span>}
+            </div>
+            <div class="absolute bottom-3 right-3">
+              <span class="px-3 py-1 bg-secondary-container text-on-secondary-container rounded-full text-xs font-bold uppercase shadow-sm">{label}</span>
+            </div>
           </div>
         </div>
-        <div class="p-5">
+        <div class="px-6 pb-6 pt-2">
           <h3 class="font-headline font-bold text-lg mb-1 group-hover:text-primary transition-colors line-clamp-1">
             {title}
           </h3>

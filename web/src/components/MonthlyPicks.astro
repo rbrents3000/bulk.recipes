@@ -55,21 +55,23 @@ const categoryImageMap: Record<string, string> = {
     </a>
   </div>
 
-  <div class="grid grid-cols-[repeat(auto-fill,minmax(280px,1fr))] gap-6">
+  <div class="grid grid-cols-[repeat(auto-fill,minmax(280px,1fr))] gap-8">
     {recipes.map((recipe) => (
       <a href={`/recipes/${recipe.slug}`} class="group block">
-        <div class="bg-surface-container-lowest rounded-xl overflow-hidden shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300">
-          <div class="relative aspect-[4/3] bg-surface-container overflow-hidden">
-            <img src={categoryImageMap[recipe.category] || '/assets/categories/weeknight.png'} alt="" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" aria-hidden="true" loading="lazy" />
-            {recipe.cost <= 2 && (
-              <div class="absolute top-3 left-3">
-                <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-[10px] font-black uppercase tracking-wider">
-                  💰 Budget
-                </span>
-              </div>
-            )}
+        <div class="bg-surface-container-lowest rounded-xl overflow-visible shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_24px_48px_rgba(0,0,0,0.08)] transition-all duration-300">
+          <div class="p-3">
+            <div class="relative h-56 w-full rounded-lg overflow-hidden bg-surface-container">
+              <img src={categoryImageMap[recipe.category] || '/assets/categories/weeknight.png'} alt="" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" aria-hidden="true" loading="lazy" />
+              {recipe.cost <= 2 && (
+                <div class="absolute top-3 left-3">
+                  <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-xs font-extrabold shadow-sm">
+                    💰 Budget
+                  </span>
+                </div>
+              )}
+            </div>
           </div>
-          <div class="p-5">
+          <div class="px-6 pb-6 pt-2">
             <h3 class="font-headline font-bold text-xl mb-2 group-hover:text-primary transition-colors line-clamp-2">
               {recipe.title}
             </h3>
