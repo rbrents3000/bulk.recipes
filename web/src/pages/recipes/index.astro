@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import RecipeBrowser from '../../components/RecipeBrowser';
+import { extractTag } from '../../data/ingredientTags';
 
 const recipes = await getCollection('recipes');
 
@@ -19,12 +20,27 @@ const recipeData = recipes.map(r => ({
   vegetarian: r.data.vegetarian,
   gluten_free: r.data.gluten_free,
   dairy_free: r.data.dairy_free,
+  ingredientTags: [...new Set(
+    (r.data.costco_ingredients || [])
+      .map((ing: string) => extractTag(ing))
+      .filter((t): t is string => t !== null)
+  )],
 }));
 
 // Unique categories for the dropdown
 const categories = [...new Set(recipes.map(r => r.data.category))].sort();
+
+// Top ingredient tags by frequency
+const tagCounts = new Map<string, number>();
+recipeData.forEach(r => r.ingredientTags.forEach(t => {
+  tagCounts.set(t, (tagCounts.get(t) || 0) + 1);
+}));
+const topTags = [...tagCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 20)
+  .map(([tag]) => tag);
 ---
 
 <Base title="Browse Recipes — bulk.recipes" description="Search, filter, and sort 181 Costco recipes by cost, cook time, diet, and ingredient.">
-  <RecipeBrowser client:load recipes={recipeData} categories={categories} />
+  <RecipeBrowser client:load recipes={recipeData} categories={categories} ingredientTags={topTags} />
 </Base>

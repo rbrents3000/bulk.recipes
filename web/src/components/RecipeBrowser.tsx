@@ -14,6 +14,7 @@ interface Recipe {
   vegetarian: boolean;
   gluten_free: boolean;
   dairy_free: boolean;
+  ingredientTags: string[];
 }
 
 function parseCookMinutes(cook: string): number {
@@ -46,7 +47,7 @@ const categoryDisplayNames: Record<string, string> = {
   'soups': 'Soups',
 };
 
-export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe[]; categories: string[] }) {
+export default function RecipeBrowser({ recipes, categories, ingredientTags }: { recipes: Recipe[]; categories: string[]; ingredientTags: string[] }) {
   const [category, setCategory] = useState<string>('');
   const [maxCost, setMaxCost] = useState(10);
   const [cookTime, setCookTime] = useState<string>('');
@@ -56,6 +57,17 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
   const [sortBy, setSortBy] = useState<string>('cheapest');
   const [page, setPage] = useState(0);
   const [showFilters, setShowFilters] = useState(false);
+  const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(new Set());
+
+  const toggleIngredient = (tag: string) => {
+    setSelectedIngredients(prev => {
+      const next = new Set(prev);
+      if (next.has(tag)) next.delete(tag);
+      else next.add(tag);
+      return next;
+    });
+    setPage(0);
+  };
 
   const filtered = useMemo(() => {
     let result = [...recipes];
@@ -81,6 +93,11 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
     if (vegetarian) result = result.filter(r => r.vegetarian);
     if (glutenFree) result = result.filter(r => r.gluten_free);
     if (dairyFree) result = result.filter(r => r.dairy_free);
+    if (selectedIngredients.size > 0) {
+      result = result.filter(r =>
+        r.ingredientTags.some(t => selectedIngredients.has(t))
+      );
+    }
 
     // Sort
     switch (sortBy) {
@@ -91,7 +108,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
     }
 
     return result;
-  }, [category, maxCost, cookTime, vegetarian, glutenFree, dairyFree, sortBy, recipes]);
+  }, [category, maxCost, cookTime, vegetarian, glutenFree, dairyFree, selectedIngredients, sortBy, recipes]);
 
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
   const paged = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
@@ -103,10 +120,11 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
     setVegetarian(false);
     setGlutenFree(false);
     setDairyFree(false);
+    setSelectedIngredients(new Set());
     setPage(0);
   };
 
-  const hasFilters = category || maxCost < 10 || cookTime || vegetarian || glutenFree || dairyFree;
+  const hasFilters = category || maxCost < 10 || cookTime || vegetarian || glutenFree || dairyFree || selectedIngredients.size > 0;
 
   return (
     <div class="py-8 overflow-x-hidden">
@@ -191,6 +209,29 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
               ))}
             </div>
           </div>
+
+          {/* Ingredients */}
+          {ingredientTags.length > 0 && (
+            <div class="space-y-3">
+              <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Ingredients</label>
+              <div class="flex flex-wrap gap-2">
+                {ingredientTags.map(tag => (
+                  <button
+                    key={tag}
+                    aria-pressed={selectedIngredients.has(tag)}
+                    class={`px-3 py-1.5 rounded-full text-xs font-bold transition-all ${
+                      selectedIngredients.has(tag)
+                        ? 'bg-secondary-container text-on-secondary-container border border-secondary-container'
+                        : 'bg-surface-container-highest text-on-surface-variant border border-transparent hover:bg-surface-container-high'
+                    }`}
+                    onClick={() => toggleIngredient(tag)}
+                  >
+                    {tag}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
 
           {/* Diet checkboxes */}
           <div class="space-y-3">
