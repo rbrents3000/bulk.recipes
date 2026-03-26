@@ -103,6 +103,10 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
     switch (sortBy) {
       case 'cheapest': result.sort((a, b) => a.cost - b.cost); break;
       case 'fastest': result.sort((a, b) => parseCookMinutes(a.cook) - parseCookMinutes(b.cook)); break;
+      case 'total-time': result.sort((a, b) =>
+        (parseCookMinutes(a.prep || '') + parseCookMinutes(a.cook))
+        - (parseCookMinutes(b.prep || '') + parseCookMinutes(b.cook))
+      ); break;
       case 'alpha': result.sort((a, b) => a.title.localeCompare(b.title)); break;
       default: break;
     }
@@ -287,6 +291,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                 <option value="newest">Newest First</option>
                 <option value="cheapest">Cheapest First</option>
                 <option value="fastest">Fastest First</option>
+                <option value="total-time">Quickest Total</option>
                 <option value="alpha">Alphabetical</option>
               </select>
             </div>

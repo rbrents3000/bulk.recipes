@@ -9,6 +9,7 @@ import IngredientChips from '../../components/IngredientChips.astro';
 import StorageBox from '../../components/StorageBox.astro';
 import InstructionSteps from '../../components/InstructionSteps.astro';
 import LeftoverIdeas from '../../components/LeftoverIdeas.astro';
+import { extractTag } from '../../data/ingredientTags';
 
 export async function getStaticPaths() {
   const recipes = await getCollection('recipes');
@@ -37,11 +38,34 @@ if (gluten_free) keywords.push('gluten-free');
 if (dairy_free) keywords.push('dairy-free');
 keywords.push('costco', 'bulk cooking');
 
-// Related recipes
+// Related recipes — scored by ingredient overlap + category bonus
 const allRecipes = await getCollection('recipes');
-const related = allRecipes
-  .filter(r => r.data.category === category && r.id !== recipe.id)
-  .slice(0, 4);
+const currentTags = new Set(
+  (costco_ingredients || [])
+    .map((ing: string) => extractTag(ing))
+    .filter((t): t is string => t !== null)
+);
+
+const related = currentTags.size > 0
+  ? allRecipes
+      .filter(r => r.id !== recipe.id)
+      .map(r => {
+        const rTags = new Set(
+          (r.data.costco_ingredients || [])
+            .map((ing: string) => extractTag(ing))
+            .filter((t): t is string => t !== null)
+        );
+        const shared = [...currentTags].filter(t => rTags.has(t)).length;
+        const catBonus = r.data.category === category ? 2 : 0;
+        return { recipe: r, score: shared + catBonus };
+      })
+      .filter(r => r.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 4)
+      .map(r => r.recipe)
+  : allRecipes
+      .filter(r => r.data.category === category && r.id !== recipe.id)
+      .slice(0, 4);
 ---
 
 <Base title={`${title} — bulk.recipes`} description={description} ogImage={`/og/${recipe.id}.png`}>
