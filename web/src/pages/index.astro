@@ -22,10 +22,19 @@ for (const r of recipes) {
 const copycatCount = recipes.filter(r => r.data.category.startsWith('costco-copycats')).length;
 categoryCounts['costco-copycats'] = copycatCount;
 
-// Monthly picks: cheapest recipes that are good for spring (salads, grilling, light meals)
-const springCategories = ['salads', 'grilling', 'appetizers', 'drinks', 'soups'];
+// Dynamic month-based picks
+const month = new Date().getMonth(); // 0=Jan, 11=Dec
+const seasonCategories: Record<string, string[]> = {
+  winter: ['slow-cooker', 'soups', 'desserts', 'feeding-a-crowd'],
+  spring: ['salads', 'grilling', 'appetizers', 'drinks'],
+  summer: ['grilling', 'salads', 'drinks', 'snacks'],
+  fall: ['slow-cooker', 'soups', 'desserts', 'feeding-a-crowd'],
+};
+const season = month <= 1 || month === 11 ? 'winter' : month <= 4 ? 'spring' : month <= 7 ? 'summer' : 'fall';
+const seasonCats = seasonCategories[season];
+
 const marchPicks = recipes
-  .filter(r => springCategories.includes(r.data.category) || r.data.cost <= 2)
+  .filter(r => seasonCats.includes(r.data.category) || r.data.cost <= 2)
   .sort((a, b) => a.data.cost - b.data.cost)
   .slice(0, 8)
   .map(r => ({
