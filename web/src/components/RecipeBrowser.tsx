@@ -164,6 +164,8 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
       <button
         class="md:hidden w-full mb-6 h-12 bg-gradient-to-r from-primary to-primary-container text-on-primary rounded-full font-headline font-extrabold text-base flex items-center justify-center gap-2 shadow-[0_12px_24px_rgba(186,0,39,0.2)] hover:scale-[1.02] active:scale-95 transition-all"
         onClick={() => setShowFilters(!showFilters)}
+        aria-expanded={showFilters}
+        aria-controls="filter-sidebar"
       >
         <span class="material-symbols-outlined" aria-hidden="true">tune</span>
         {showFilters ? 'Hide Filters' : 'Show Filters'}
@@ -176,7 +178,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
 
       <div class="flex flex-col md:flex-row gap-8 lg:gap-12">
         {/* Sidebar */}
-        <aside class={`w-full md:w-56 lg:w-64 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
+        <aside id="filter-sidebar" class={`w-full md:w-56 lg:w-64 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
           {/* Search */}
           <div class="relative">
             <span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-on-surface-variant text-lg" aria-hidden="true">search</span>

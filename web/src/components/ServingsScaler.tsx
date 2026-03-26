@@ -132,7 +132,7 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
         ))}
       </div>
       <div class="flex items-center gap-2 mt-1.5">
-        <label class="text-xs text-on-surface-variant font-medium" for="custom-multiplier">Custom:</label>
+        <label class="text-xs text-on-surface-variant font-medium" for="custom-multiplier">Custom (0.25–10):</label>
         <input
           id="custom-multiplier"
           type="number"

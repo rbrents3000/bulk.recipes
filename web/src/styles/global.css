@@ -134,9 +134,8 @@
     display: none !important;
   }
 
-  /* Hide Preact interactive islands (share bar, favorite buttons, servings scaler buttons) */
-  [data-astro-island] button,
-  [data-astro-island] a {
+  /* Hide Preact interactive buttons (share bar, favorite buttons, servings scaler buttons) */
+  [data-astro-island] button {
     display: none !important;
   }
 
