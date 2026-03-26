@@ -13,9 +13,11 @@ const { recipeCount } = Astro.props;
 
   <form action="/recipes" method="get" class="w-full max-w-2xl flex items-center gap-2 mb-8">
     <div class="relative flex-1">
-      <span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-neutral-400 text-xl">search</span>
+      <label for="hero-search" class="sr-only">Search recipes</label>
+      <span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-neutral-400 text-xl" aria-hidden="true">search</span>
       <input
         type="text"
+        id="hero-search"
         name="q"
         placeholder={`Search ${recipeCount} recipes...`}
         class="w-full rounded-full pl-12 pr-4 py-3 shadow-md border border-neutral-200 bg-white font-body text-base focus:outline-none focus:ring-2 focus:ring-primary/40"
@@ -31,19 +33,19 @@ const { recipeCount } = Astro.props;
 
   <div class="flex flex-wrap items-center justify-center gap-3">
     <a href="/recipes?filter=cost" class="inline-flex items-center gap-1.5 rounded-full border border-neutral-200 bg-white px-4 py-2 font-body text-sm text-neutral-700 shadow-sm hover:shadow-md transition-shadow">
-      <span class="material-symbols-outlined text-lg">payments</span>
+      <span class="material-symbols-outlined text-lg" aria-hidden="true">payments</span>
       Cost
     </a>
     <a href="/recipes?filter=time" class="inline-flex items-center gap-1.5 rounded-full border border-neutral-200 bg-white px-4 py-2 font-body text-sm text-neutral-700 shadow-sm hover:shadow-md transition-shadow">
-      <span class="material-symbols-outlined text-lg">timer</span>
+      <span class="material-symbols-outlined text-lg" aria-hidden="true">timer</span>
       Cook Time
     </a>
     <a href="/recipes?filter=diet" class="inline-flex items-center gap-1.5 rounded-full border border-neutral-200 bg-white px-4 py-2 font-body text-sm text-neutral-700 shadow-sm hover:shadow-md transition-shadow">
-      <span class="material-symbols-outlined text-lg">eco</span>
+      <span class="material-symbols-outlined text-lg" aria-hidden="true">eco</span>
       Diet
     </a>
     <a href="/recipes?filter=ingredient" class="inline-flex items-center gap-1.5 rounded-full border border-neutral-200 bg-white px-4 py-2 font-body text-sm text-neutral-700 shadow-sm hover:shadow-md transition-shadow">
-      <span class="material-symbols-outlined text-lg">grocery</span>
+      <span class="material-symbols-outlined text-lg" aria-hidden="true">grocery</span>
       Ingredient
     </a>
   </div>

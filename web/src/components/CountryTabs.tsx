@@ -1,4 +1,4 @@
-import { useState } from 'preact/hooks';
+import { useState, useCallback } from 'preact/hooks';
 
 interface Props {
   foodCourt: string;
@@ -26,21 +26,45 @@ export default function CountryTabs({ foodCourt, deli, bakery }: Props) {
     'bakery': bakery || '',
   };
 
+  const handleKeyDown = useCallback((e: KeyboardEvent) => {
+    const currentIndex = availableTabs.findIndex(t => t.key === active);
+    let newIndex = currentIndex;
+
+    if (e.key === 'ArrowRight') {
+      newIndex = (currentIndex + 1) % availableTabs.length;
+    } else if (e.key === 'ArrowLeft') {
+      newIndex = (currentIndex - 1 + availableTabs.length) % availableTabs.length;
+    } else {
+      return;
+    }
+
+    e.preventDefault();
+    setActive(availableTabs[newIndex].key);
+    const btn = document.getElementById(`tab-${availableTabs[newIndex].key}`);
+    if (btn) btn.focus();
+  }, [active, availableTabs]);
+
   return (
     <div>
       {/* Tab buttons */}
-      <div class="flex justify-center gap-3 mb-10">
+      <div role="tablist" aria-label="Prepared food sections" class="flex justify-center gap-3 mb-10">
         {availableTabs.map(tab => (
           <button
             key={tab.key}
+            id={`tab-${tab.key}`}
+            role="tab"
+            aria-selected={active === tab.key}
+            aria-controls={`tabpanel-${tab.key}`}
+            tabIndex={active === tab.key ? 0 : -1}
             onClick={() => setActive(tab.key)}
+            onKeyDown={handleKeyDown}
             class={`flex items-center gap-2 px-6 py-3 rounded-full font-bold text-sm transition-all ${
               active === tab.key
                 ? 'bg-primary text-white shadow-lg scale-105'
                 : 'bg-surface-container-highest text-on-surface-variant hover:scale-105'
             }`}
           >
-            <span class="material-symbols-outlined text-lg">{tab.icon}</span>
+            <span class="material-symbols-outlined text-lg" aria-hidden="true">{tab.icon}</span>
             {tab.label}
           </button>
         ))}
@@ -48,6 +72,9 @@ export default function CountryTabs({ foodCourt, deli, bakery }: Props) {
 
       {/* Tab content */}
       <div
+        id={`tabpanel-${active}`}
+        role="tabpanel"
+        aria-labelledby={`tab-${active}`}
         class="prepared-content prose prose-lg max-w-none
           prose-headings:font-headline prose-headings:tracking-tight
           prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-8 prose-h2:mb-4

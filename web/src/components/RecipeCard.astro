@@ -43,7 +43,7 @@ const isQuick = prep.includes('10 min') || prep.includes('5 min');
     <!-- Image placeholder -->
     <div class="aspect-[4/3] bg-surface-container relative overflow-hidden">
       <div class="w-full h-full flex items-center justify-center text-on-surface-variant">
-        <span class="material-symbols-outlined text-5xl opacity-20">restaurant</span>
+        <span class="material-symbols-outlined text-5xl opacity-20" aria-hidden="true">restaurant</span>
       </div>
       <!-- Badges -->
       <div class="absolute top-3 left-3 flex gap-2">
@@ -76,15 +76,15 @@ const isQuick = prep.includes('10 min') || prep.includes('5 min');
       </p>
       <div class="flex items-center gap-4 text-xs text-on-surface-variant">
         <span class="flex items-center gap-1">
-          <span class="material-symbols-outlined text-sm">payments</span>
+          <span class="material-symbols-outlined text-sm" aria-hidden="true">payments</span>
           <span class="font-bold text-tertiary">{costDisplay}</span>
         </span>
         <span class="flex items-center gap-1">
-          <span class="material-symbols-outlined text-sm">timer</span>
+          <span class="material-symbols-outlined text-sm" aria-hidden="true">timer</span>
           {cook}
         </span>
         <span class="flex items-center gap-1">
-          <span class="material-symbols-outlined text-sm">group</span>
+          <span class="material-symbols-outlined text-sm" aria-hidden="true">group</span>
           {servings}
         </span>
       </div>

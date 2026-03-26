@@ -2,7 +2,7 @@
 const currentPath = Astro.url.pathname;
 ---
 
-<nav class="fixed top-0 w-full flex justify-between items-center px-6 py-4 max-w-full mx-auto bg-white/80 backdrop-blur-md z-50 shadow-[0_8px_32px_rgba(47,47,47,0.06)]">
+<nav aria-label="Main navigation" class="fixed top-0 w-full flex justify-between items-center px-6 py-4 max-w-full mx-auto bg-white/80 backdrop-blur-md z-50 shadow-[0_8px_32px_rgba(47,47,47,0.06)]">
   <div class="flex items-center gap-8">
     <a class="text-2xl font-black text-primary italic tracking-tighter font-headline" href="/">
       bulk.recipes
@@ -14,6 +14,7 @@ const currentPath = Astro.url.pathname;
           currentPath.startsWith('/recipes') ? "text-primary border-b-4 border-primary pb-1" : "text-neutral-600 hover:text-primary"
         ]}
         href="/recipes"
+        aria-current={currentPath.startsWith('/recipes') ? 'page' : undefined}
       >
         Recipes
       </a>
@@ -23,6 +24,7 @@ const currentPath = Astro.url.pathname;
           currentPath.startsWith('/prepared') ? "text-primary border-b-4 border-primary pb-1" : "text-neutral-600 hover:text-primary"
         ]}
         href="/prepared"
+        aria-current={currentPath.startsWith('/prepared') ? 'page' : undefined}
       >
         Countries
       </a>
@@ -36,7 +38,7 @@ const currentPath = Astro.url.pathname;
   </div>
   <div class="flex items-center gap-4">
     <button data-search-trigger class="hover:scale-105 transition-transform duration-200 p-2 rounded-full hover:bg-surface-container flex items-center gap-2" aria-label="Search (Ctrl+K)">
-      <span class="material-symbols-outlined text-primary">search</span>
+      <span class="material-symbols-outlined text-primary" aria-hidden="true">search</span>
       <kbd class="hidden lg:inline text-[10px] text-on-surface-variant bg-surface-container px-1.5 py-0.5 rounded font-mono">⌘K</kbd>
     </button>
   </div>

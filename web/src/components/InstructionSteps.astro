@@ -11,14 +11,14 @@ const { steps } = Astro.props;
     The Game Plan
   </h2>
 
-  <div class="space-y-10">
+  <ol class="space-y-10 list-none pl-0">
     {steps.map((step, index) => (
-      <div class="relative pl-16">
-        <span class="absolute left-0 top-0 w-12 h-12 bg-surface-container-highest rounded-full flex items-center justify-center text-2xl font-black text-primary font-headline">
+      <li class="relative pl-16">
+        <span class="absolute left-0 top-0 w-12 h-12 bg-surface-container-highest rounded-full flex items-center justify-center text-2xl font-black text-primary font-headline" aria-hidden="true">
           {String(index + 1).padStart(2, '0')}
         </span>
         <p class="text-on-surface-variant leading-relaxed text-lg">{step}</p>
-      </div>
+      </li>
     ))}
-  </div>
+  </ol>
 </div>

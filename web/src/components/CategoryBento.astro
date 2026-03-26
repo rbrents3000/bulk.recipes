@@ -22,7 +22,7 @@ const mealPrepCount = categoryCounts['meal-prep'] ?? 0;
       href="/recipes?category=costco-copycats"
       class="col-span-2 row-span-2 relative bg-primary rounded-2xl p-6 overflow-hidden group hover:shadow-xl transition-all duration-300"
     >
-      <span class="material-symbols-outlined absolute -bottom-6 -right-6 text-[160px] text-white/10 rotate-[-12deg] group-hover:rotate-0 transition-transform duration-500">
+      <span aria-hidden="true" class="material-symbols-outlined absolute -bottom-6 -right-6 text-[160px] text-white/10 rotate-[-12deg] group-hover:rotate-0 transition-transform duration-500">
         store
       </span>
       <div class="relative z-10 h-full flex flex-col justify-between">
@@ -49,7 +49,7 @@ const mealPrepCount = categoryCounts['meal-prep'] ?? 0;
       href="/recipes?category=weeknight-dinners"
       class="relative bg-surface-container-high rounded-2xl p-5 overflow-hidden group hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
     >
-      <span class="material-symbols-outlined absolute -bottom-3 -right-3 text-[80px] text-on-surface-variant/10 group-hover:text-on-surface-variant/20 transition-colors duration-300">
+      <span aria-hidden="true" class="material-symbols-outlined absolute -bottom-3 -right-3 text-[80px] text-on-surface-variant/10 group-hover:text-on-surface-variant/20 transition-colors duration-300">
         fastfood
       </span>
       <div class="relative z-10 h-full flex flex-col justify-between">
@@ -57,7 +57,7 @@ const mealPrepCount = categoryCounts['meal-prep'] ?? 0;
           <h3 class="font-headline font-bold text-lg text-on-surface">Weeknight Dinners</h3>
           <p class="text-on-surface-variant text-sm">{weeknightCount} recipes</p>
         </div>
-        <span class="material-symbols-outlined text-primary text-2xl">arrow_forward</span>
+        <span class="material-symbols-outlined text-primary text-2xl" aria-hidden="true">arrow_forward</span>
       </div>
     </a>
 
@@ -66,7 +66,7 @@ const mealPrepCount = categoryCounts['meal-prep'] ?? 0;
       href="/recipes?category=grilling"
       class="relative bg-surface-container-high rounded-2xl p-5 overflow-hidden group hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
     >
-      <span class="material-symbols-outlined absolute -bottom-3 -right-3 text-[80px] text-on-surface-variant/10 group-hover:text-on-surface-variant/20 transition-colors duration-300">
+      <span aria-hidden="true" class="material-symbols-outlined absolute -bottom-3 -right-3 text-[80px] text-on-surface-variant/10 group-hover:text-on-surface-variant/20 transition-colors duration-300">
         outdoor_grill
       </span>
       <div class="relative z-10 h-full flex flex-col justify-between">
@@ -74,7 +74,7 @@ const mealPrepCount = categoryCounts['meal-prep'] ?? 0;
           <h3 class="font-headline font-bold text-lg text-on-surface">Grilling</h3>
           <p class="text-on-surface-variant text-sm">{grillingCount} recipes</p>
         </div>
-        <span class="material-symbols-outlined text-primary text-2xl">arrow_forward</span>
+        <span class="material-symbols-outlined text-primary text-2xl" aria-hidden="true">arrow_forward</span>
       </div>
     </a>
 
@@ -83,7 +83,7 @@ const mealPrepCount = categoryCounts['meal-prep'] ?? 0;
       href="/recipes?category=meal-prep"
       class="col-span-2 relative bg-tertiary-container rounded-2xl p-6 overflow-hidden group hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
     >
-      <span class="material-symbols-outlined absolute -bottom-4 -right-4 text-[120px] text-on-tertiary-container/10 group-hover:text-on-tertiary-container/20 transition-colors duration-500">
+      <span aria-hidden="true" class="material-symbols-outlined absolute -bottom-4 -right-4 text-[120px] text-on-tertiary-container/10 group-hover:text-on-tertiary-container/20 transition-colors duration-500">
         calendar_month
       </span>
       <div class="relative z-10 h-full flex flex-col justify-between">
@@ -93,7 +93,7 @@ const mealPrepCount = categoryCounts['meal-prep'] ?? 0;
           </h3>
           <p class="text-on-tertiary-container/70 text-sm">{mealPrepCount} recipes</p>
         </div>
-        <span class="material-symbols-outlined text-on-tertiary-container text-2xl">arrow_forward</span>
+        <span class="material-symbols-outlined text-on-tertiary-container text-2xl" aria-hidden="true">arrow_forward</span>
       </div>
     </a>
   </div>

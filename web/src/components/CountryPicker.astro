@@ -19,7 +19,7 @@ const countries = [
 
 <section class="px-6 md:px-12 py-10 max-w-7xl mx-auto">
   <div class="flex items-center gap-2 mb-6">
-    <span class="material-symbols-outlined text-2xl text-primary">public</span>
+    <span class="material-symbols-outlined text-2xl text-primary" aria-hidden="true">public</span>
     <h2 class="font-headline text-2xl md:text-3xl font-bold">What's at YOUR Costco?</h2>
   </div>
 
@@ -28,6 +28,7 @@ const countries = [
       {countries.map((country) => (
         <a
           href={`/prepared/${country.slug}`}
+          aria-label={`Prepared foods from ${country.label}`}
           class="flex flex-col items-center gap-1.5 min-w-[5rem] rounded-2xl bg-white border border-neutral-200 px-4 py-3 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
         >
           <span class="text-3xl">{country.emoji}</span>

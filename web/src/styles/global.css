@@ -33,6 +33,12 @@
   display: none;
 }
 
+/* Global focus styles for keyboard accessibility */
+:focus-visible {
+  outline: 3px solid #ba0027;
+  outline-offset: 2px;
+}
+
 /* Material Icons fill variation */
 .icon-filled {
   font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;

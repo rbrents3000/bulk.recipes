@@ -114,6 +114,10 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
         min="1"
         max="24"
         value={servings}
+        aria-label="Adjust servings"
+        aria-valuemin={1}
+        aria-valuemax={24}
+        aria-valuenow={servings}
         onInput={(e) => setServings(parseInt((e.target as HTMLInputElement).value))}
         class="w-full h-2 bg-surface-container-highest rounded-lg appearance-none cursor-pointer accent-primary"
       />

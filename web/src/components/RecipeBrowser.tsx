@@ -115,7 +115,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
         class="md:hidden w-full mb-6 h-14 bg-primary text-white rounded-full font-bold text-lg flex items-center justify-center gap-2"
         onClick={() => setShowFilters(!showFilters)}
       >
-        <span class="material-symbols-outlined">tune</span>
+        <span class="material-symbols-outlined" aria-hidden="true">tune</span>
         {showFilters ? 'Hide Filters' : 'Show Filters'}
       </button>
 
@@ -128,6 +128,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
           <div class="space-y-3">
             <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Category</label>
             <select
+              aria-label="Category"
               class="w-full h-14 bg-surface-container-highest border-none rounded-xl px-4 font-medium focus:ring-2 focus:ring-primary"
               value={category}
               onChange={(e) => { setCategory((e.target as HTMLSelectElement).value); setPage(0); }}
@@ -151,6 +152,10 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
               max="10"
               step="0.5"
               value={maxCost}
+              aria-label="Maximum cost per serving"
+              aria-valuemin={1}
+              aria-valuemax={10}
+              aria-valuenow={maxCost}
               onInput={(e) => { setMaxCost(parseFloat((e.target as HTMLInputElement).value)); setPage(0); }}
               class="w-full accent-primary h-2 bg-surface-container-highest rounded-full appearance-none cursor-pointer"
             />
@@ -164,13 +169,15 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
             <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Cook Time</label>
             <div class="grid grid-cols-2 gap-2">
               {[
-                { value: '<30', label: '⏱️ < 30m' },
-                { value: '30-60', label: '⏱️ 30-60m' },
-                { value: '1-2h', label: '⏱️ 1-2h' },
-                { value: '2h+', label: '⏱️ 2h+' },
+                { value: '<30', label: '⏱️ < 30m', ariaLabel: 'Under 30 minutes' },
+                { value: '30-60', label: '⏱️ 30-60m', ariaLabel: '30 to 60 minutes' },
+                { value: '1-2h', label: '⏱️ 1-2h', ariaLabel: '1 to 2 hours' },
+                { value: '2h+', label: '⏱️ 2h+', ariaLabel: 'Over 2 hours' },
               ].map(opt => (
                 <button
                   key={opt.value}
+                  aria-label={opt.ariaLabel}
+                  aria-pressed={cookTime === opt.value}
                   class={`py-3 px-4 rounded-xl font-bold text-xs transition-all ${
                     cookTime === opt.value
                       ? 'bg-secondary-container text-on-secondary-container'
@@ -221,7 +228,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
         <section class="flex-1 space-y-8">
           {/* Sort bar */}
           <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
-            <div>
+            <div aria-live="polite" aria-atomic="true">
               <h1 class="font-headline text-3xl font-extrabold tracking-tight">
                 {filtered.length === recipes.length ? 'All Recipes' : `${filtered.length} Recipes`}
               </h1>
@@ -232,6 +239,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
             <div class="flex items-center gap-3 bg-surface-container-low p-1.5 rounded-2xl">
               <span class="text-xs font-bold px-3 text-on-surface-variant">SORT</span>
               <select
+                aria-label="Sort recipes by"
                 class="bg-surface-container-lowest border-none rounded-xl text-sm font-bold py-2 pl-3 pr-8 focus:ring-0"
                 value={sortBy}
                 onChange={(e) => setSortBy((e.target as HTMLSelectElement).value)}
@@ -252,7 +260,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
             </div>
           ) : (
             <div class="text-center py-20">
-              <span class="material-symbols-outlined text-6xl text-outline-variant mb-4">search_off</span>
+              <span class="material-symbols-outlined text-6xl text-outline-variant mb-4" aria-hidden="true">search_off</span>
               <p class="text-xl font-bold mb-2">No recipes match your filters</p>
               <p class="text-on-surface-variant">Try adjusting your criteria or <button class="text-primary font-bold hover:underline" onClick={clearFilters}>clear all filters</button></p>
             </div>

@@ -14,7 +14,7 @@ const links = [
     <a href="/" class="text-lg font-bold text-primary font-headline italic">bulk.recipes</a>
     <p class="font-body text-sm text-on-surface-variant">&copy; {year} bulk.recipes</p>
   </div>
-  <div class="flex flex-wrap justify-center gap-6">
+  <nav aria-label="Footer navigation" class="flex flex-wrap justify-center gap-6">
     {links.map(link => (
       <a
         class="font-body text-sm text-on-surface-variant hover:text-primary hover:underline decoration-2 underline-offset-4 transition-all duration-300"
@@ -23,7 +23,7 @@ const links = [
         {link.label}
       </a>
     ))}
-  </div>
+  </nav>
   <div class="flex gap-4">
     <a
       href="https://github.com/rbrents3000/bulk.recipes"
@@ -32,10 +32,10 @@ const links = [
       class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary hover:scale-110 transition-transform"
       aria-label="GitHub"
     >
-      <span class="material-symbols-outlined">code</span>
+      <span class="material-symbols-outlined" aria-hidden="true">code</span>
     </a>
     <button class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary hover:scale-110 transition-transform" aria-label="Share">
-      <span class="material-symbols-outlined">share</span>
+      <span class="material-symbols-outlined" aria-hidden="true">share</span>
     </button>
   </div>
 </footer>

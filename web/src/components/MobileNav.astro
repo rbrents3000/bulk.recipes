@@ -7,18 +7,19 @@ const navItems = [
 ];
 ---
 
-<div class="md:hidden fixed bottom-6 left-1/2 -translate-x-1/2 w-[90%] bg-surface-container-lowest/90 backdrop-blur-xl h-16 rounded-full shadow-2xl flex items-center justify-around px-6 z-50">
+<nav aria-label="Mobile navigation" class="md:hidden fixed bottom-6 left-1/2 -translate-x-1/2 w-[90%] bg-surface-container-lowest/90 backdrop-blur-xl h-16 rounded-full shadow-2xl flex items-center justify-around px-6 z-50">
   {navItems.map((item) => (
     <a
       href={item.href}
       class="mobile-nav-btn flex flex-col items-center gap-0.5 text-neutral-500 transition-colors"
       data-href={item.href}
+      aria-label={item.label}
     >
-      <span class="material-symbols-outlined text-2xl">{item.icon}</span>
+      <span class="material-symbols-outlined text-2xl" aria-hidden="true">{item.icon}</span>
       <span class="font-body text-[10px] font-medium">{item.label}</span>
     </a>
   ))}
-</div>
+</nav>
 
 <script>
   document.addEventListener('astro:page-load', highlightNav);
@@ -32,9 +33,11 @@ const navItems = [
       if (isActive) {
         btn.classList.remove('text-neutral-500');
         btn.classList.add('text-primary');
+        btn.setAttribute('aria-current', 'page');
       } else {
         btn.classList.remove('text-primary');
         btn.classList.add('text-neutral-500');
+        btn.removeAttribute('aria-current');
       }
     });
   }

@@ -46,7 +46,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
         <div class="p-3">
           <div class="relative h-48 w-full rounded-lg overflow-hidden bg-surface-container">
             <div class="w-full h-full flex items-center justify-center text-on-surface-variant">
-              <span class="material-symbols-outlined text-4xl opacity-20">restaurant</span>
+              <span class="material-symbols-outlined text-4xl opacity-20" aria-hidden="true">restaurant</span>
             </div>
             <div class="absolute top-3 left-3 flex flex-col gap-1.5">
               {isPopular && <span class="bg-secondary-container text-on-secondary-container px-3 py-1 rounded-full text-[10px] font-extrabold">🔥 POPULAR</span>}
@@ -64,15 +64,15 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
           <p class="text-sm text-on-surface-variant line-clamp-2 mb-3">{description}</p>
           <div class="flex items-center gap-4 text-xs text-on-surface-variant">
             <span class="flex items-center gap-1">
-              <span class="material-symbols-outlined text-sm">payments</span>
+              <span class="material-symbols-outlined text-sm" aria-hidden="true">payments</span>
               <span class="font-bold text-tertiary">{costDisplay}</span>
             </span>
             <span class="flex items-center gap-1">
-              <span class="material-symbols-outlined text-sm">timer</span>
+              <span class="material-symbols-outlined text-sm" aria-hidden="true">timer</span>
               {cook}
             </span>
             <span class="flex items-center gap-1">
-              <span class="material-symbols-outlined text-sm">group</span>
+              <span class="material-symbols-outlined text-sm" aria-hidden="true">group</span>
               {servings}
             </span>
           </div>
