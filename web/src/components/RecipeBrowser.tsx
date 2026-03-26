@@ -289,9 +289,9 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                 aria-label="Sort recipes by"
                 class="bg-surface-container-lowest border-none rounded-xl text-sm font-bold py-2 pl-3 pr-8 focus:ring-0"
                 value={sortBy}
-                onChange={(e) => setSortBy((e.target as HTMLSelectElement).value)}
+                onChange={(e) => { setSortBy((e.target as HTMLSelectElement).value); setPage(0); }}
               >
-                <option value="newest">Newest First</option>
+                <option value="newest">Default</option>
                 <option value="cheapest">Cheapest First</option>
                 <option value="fastest">Fastest First</option>
                 <option value="total-time">Quickest Total</option>

@@ -6,13 +6,14 @@ interface Recipe {
   description: string;
   cost: number;
   cost_unit: string;
-  prep?: string;
+  prep: string;
   cook: string;
   servings: string;
   category: string;
   vegetarian: boolean;
   gluten_free: boolean;
   dairy_free: boolean;
+  ingredientTags: string[];
 }
 
 const categoryLabels: Record<string, string> = {
@@ -59,7 +60,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}` : `$${cost.toFixed(2)}/${cost_unit}`;
   const label = categoryLabels[category] || category.split('/').pop()?.replace(/-/g, ' ') || '';
   const isBudget = cost <= 2;
-  const isQuick = recipe.prep?.includes('10 min') || recipe.prep?.includes('5 min');
+  const isQuick = recipe.prep.includes('10 min') || recipe.prep.includes('5 min');
   const recipeImage = `/assets/recipes/${id.split('/').pop()}.webp`;
   const categoryImage = categoryImageMap[category] || '/assets/categories/weeknight.webp';
 
