@@ -48,15 +48,18 @@ const categoryDisplayNames: Record<string, string> = {
 };
 
 export default function RecipeBrowser({ recipes, categories, ingredientTags }: { recipes: Recipe[]; categories: string[]; ingredientTags: string[] }) {
-  const [category, setCategory] = useState<string>('');
-  const [maxCost, setMaxCost] = useState(10);
-  const [cookTime, setCookTime] = useState<string>('');
-  const [vegetarian, setVegetarian] = useState(false);
-  const [glutenFree, setGlutenFree] = useState(false);
-  const [dairyFree, setDairyFree] = useState(false);
-  const [sortBy, setSortBy] = useState<string>('newest');
+  // Read initial filter state from URL params
+  const params = typeof window !== 'undefined' ? new URLSearchParams(window.location.search) : null;
+
+  const [category, setCategory] = useState<string>(params?.get('category') || '');
+  const [maxCost, setMaxCost] = useState(parseFloat(params?.get('maxCost') || '10'));
+  const [cookTime, setCookTime] = useState<string>(params?.get('cookTime') || '');
+  const [vegetarian, setVegetarian] = useState(params?.get('vegetarian') === '1');
+  const [glutenFree, setGlutenFree] = useState(params?.get('glutenFree') === '1');
+  const [dairyFree, setDairyFree] = useState(params?.get('dairyFree') === '1');
+  const [sortBy, setSortBy] = useState<string>(params?.get('sort') || 'newest');
   const [page, setPage] = useState(0);
-  const [showFilters, setShowFilters] = useState(false);
+  const [showFilters, setShowFilters] = useState(!!params?.get('filter'));
   const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(new Set());
 
   const toggleIngredient = (tag: string) => {
