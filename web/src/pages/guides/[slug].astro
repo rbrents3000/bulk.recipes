@@ -14,7 +14,35 @@ export function getStaticPaths() {
 }
 
 const { slug } = Astro.props;
-const md = readFileSync(join(process.cwd(), '..', 'guides', `${slug}.md`), 'utf-8');
+let md = readFileSync(join(process.cwd(), '..', 'guides', `${slug}.md`), 'utf-8');
+
+// Auto-rotate the hero section for the "What's In Season" guide
+if (slug === 'whats-in-season' && md.includes('<!-- CURRENT_MONTH_HERO -->')) {
+  const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December'];
+  const monthIds = ['january', 'february', 'march', 'april', 'may', 'june',
+    'july', 'august', 'september', 'october', 'november', 'december'];
+  const now = new Date();
+  const monthName = monthNames[now.getMonth()];
+  const monthId = monthIds[now.getMonth()];
+
+  // Extract the current month's section from the full calendar
+  const sectionRegex = new RegExp(
+    `### ${monthName} \\{#${monthId}\\}\\n([\\s\\S]*?)(?=\\n---)`
+  );
+  const match = md.match(sectionRegex);
+
+  if (match) {
+    const monthContent = match[1].trim();
+    const hero = `## Right Now: ${monthName}\n\n${monthContent}\n\n> **Tip:** This section updates each month. The current month gets the hero spot up top, and the full twelve-month archive lives below for planning ahead.`;
+    md = md.replace('<!-- CURRENT_MONTH_HERO -->', hero);
+  }
+}
+
+// Fix relative recipe/guide links to proper routes
+md = md.replace(/\(\.\.\/recipes\/([^)]+)\.md\)/g, '(/recipes/$1)');
+md = md.replace(/\(([a-z-]+)\.md\)/g, '(/guides/$1)');
+
 const html = marked(md) as string;
 const titleMatch = md.match(/^#\s+(.+)/m);
 const title = titleMatch ? titleMatch[1] : slug.replace(/-/g, ' ');

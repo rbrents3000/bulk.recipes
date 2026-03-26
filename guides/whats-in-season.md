@@ -4,30 +4,7 @@
 
 ---
 
-## Right Now: March
-
-Spring is tiptoeing in. The grill is whispering your name. The bakery is doing *things* with chocolate and lemon. And those strawberry containers are finally worth buying.
-
-**What's in the bakery:** Twice-Baked Chocolate Croissants ($9.99), Peaches and Cream Pastries, Lemon Custard Pie ($18.99), Strawberries and Cream Dessert ($14.99), Chocolate Hazelnut Crunch Cake ($14.99)
-
-**What's in the deli:** Rotisserie Chicken Enchilada Bake is back (~$23-26). Birria Tacos Kit. Tempura Shrimp Taco Kit.
-
-**International spotlight:** Japan: sakura (cherry blossom) bakery items. UK: hot cross buns for Easter. Korea: strawberry tarts. Australia (autumn): Easter items despite the season flip.
-
-**Southern Hemisphere note:** Australia and NZ are entering autumn — comfort food season. Meat pies and stews in the deli.
-
-### Cook This Month
-
-- [Bruschetta](../recipes/appetizers/bruschetta.md) — fresh tomatoes starting to get good
-- [Greek Salad](../recipes/salads/greek-salad.md) — spring vegetables at their crunchiest
-- [Grilled Chicken Thighs](../recipes/grilling/grilled-chicken-thighs.md) — first grilling weekend of the season
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) — those 5 lb lemon bags are calling
-- [Caprese Salad](../recipes/salads/caprese-salad.md) — mozzarella + tomatoes + basil
-- [Berry Crumble](../recipes/desserts/berry-crumble.md) — strawberry season is here
-- [Shakshuka](../recipes/weeknight-dinners/shakshuka.md) — still cool enough for a warm skillet dinner
-- [Chicken Enchiladas](../recipes/rotisserie-chicken/chicken-enchiladas.md) — matches the enchilada bake in the deli
-
-> **Tip:** This section updates each month. The current month gets the hero spot up top, and the full twelve-month archive lives below for planning ahead.
+<!-- CURRENT_MONTH_HERO -->
 
 ---
 
