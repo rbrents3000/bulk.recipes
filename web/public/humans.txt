@@ -1,0 +1,27 @@
+/* TEAM */
+
+Chef de Code: The bulk.recipes contributors
+Site: https://bulk.recipes
+GitHub: https://github.com/rbrents3000/bulk.recipes
+Location: Aisle 7, next to the 5-lb bag of rice
+
+/* THANKS */
+
+Costco: For the $1.50 hot dog combo that has never changed.
+Kirkland Signature: For being suspiciously good at everything.
+You: For reading this. You're the kind of person who reads ingredients lists too, aren't you?
+
+/* SITE */
+
+Built with: Astro, Tailwind CSS, Preact
+Hosted on: Vercel
+Search: Pagefind
+Fonts: Plus Jakarta Sans, Be Vietnam Pro
+Vibe: Warehouse chic
+
+/* SECRET */
+
+If you found this file, you probably also know about:
+  - view-source (there's ASCII art up top)
+  - the browser console (open it, trust us)
+  - the Konami code (up up down down left right left right B A)
