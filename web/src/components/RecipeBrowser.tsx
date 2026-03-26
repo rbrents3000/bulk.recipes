@@ -326,19 +326,35 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
               >
                 <span class="material-symbols-outlined text-lg">chevron_left</span>
               </button>
-              {Array.from({ length: totalPages }, (_, i) => (
-                <button
-                  key={i}
-                  class={`w-12 h-12 rounded-full font-bold text-sm transition-all ${
-                    page === i
-                      ? 'bg-primary text-white shadow-lg scale-105'
-                      : 'bg-surface-container-highest text-on-surface hover:bg-surface-container-high'
-                  }`}
-                  onClick={() => { setPage(i); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-                >
-                  {i + 1}
-                </button>
-              ))}
+              {(() => {
+                const pages: (number | '...')[] = [];
+                if (totalPages <= 7) {
+                  for (let i = 0; i < totalPages; i++) pages.push(i);
+                } else {
+                  pages.push(0);
+                  if (page > 2) pages.push('...');
+                  for (let i = Math.max(1, page - 1); i <= Math.min(totalPages - 2, page + 1); i++) pages.push(i);
+                  if (page < totalPages - 3) pages.push('...');
+                  pages.push(totalPages - 1);
+                }
+                return pages.map((p, idx) =>
+                  p === '...' ? (
+                    <span key={`dots-${idx}`} class="px-2 text-on-surface-variant">...</span>
+                  ) : (
+                    <button
+                      key={p}
+                      class={`w-12 h-12 rounded-full font-bold text-sm transition-all ${
+                        page === p
+                          ? 'bg-primary text-white shadow-lg scale-105'
+                          : 'bg-surface-container-highest text-on-surface hover:bg-surface-container-high'
+                      }`}
+                      onClick={() => { setPage(p); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                    >
+                      {p + 1}
+                    </button>
+                  )
+                );
+              })()}
               <button
                 class="w-12 h-12 rounded-full bg-surface-container-highest text-on-surface hover:bg-surface-container-high transition-all flex items-center justify-center disabled:opacity-30"
                 disabled={page === totalPages - 1}
