@@ -1,0 +1,45 @@
+---
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { marked } from 'marked';
+import Base from '../../layouts/Base.astro';
+
+export function getStaticPaths() {
+  const slugs = [
+    'dairy-and-eggs', 'frozen', 'kirkland-signature', 'meat-and-poultry',
+    'pantry-staples', 'produce', 'seafood',
+  ];
+  return slugs.map(slug => ({ params: { slug }, props: { slug } }));
+}
+
+const { slug } = Astro.props;
+const md = readFileSync(join(process.cwd(), '..', 'products', `${slug}.md`), 'utf-8');
+const html = marked(md) as string;
+const titleMatch = md.match(/^#\s+(.+)/m);
+const title = titleMatch ? titleMatch[1] : slug.replace(/-/g, ' ');
+---
+
+<Base title={`${title} — bulk.recipes`}>
+  <div class="max-w-4xl mx-auto py-8">
+    <a href="/products" class="inline-flex items-center gap-1 text-sm text-on-surface-variant hover:text-primary transition-colors mb-6">
+      <span class="material-symbols-outlined text-sm">arrow_back</span>
+      All Groceries
+    </a>
+
+    <article class="prose prose-lg max-w-none
+      prose-headings:font-headline prose-headings:tracking-tight
+      prose-h1:text-4xl prose-h1:font-black
+      prose-h2:text-2xl prose-h2:font-bold prose-h2:border-b-4 prose-h2:border-primary prose-h2:inline-block prose-h2:pb-1 prose-h2:mt-10 prose-h2:mb-4
+      prose-h3:text-xl prose-h3:font-bold prose-h3:mt-8
+      prose-p:text-on-surface-variant prose-p:leading-relaxed
+      prose-a:text-primary prose-a:no-underline hover:prose-a:underline
+      prose-table:text-sm
+      prose-th:text-left prose-th:font-bold prose-th:bg-surface-container-low prose-th:p-3
+      prose-td:p-3 prose-td:border-b prose-td:border-surface-container
+      prose-strong:text-on-surface
+      prose-li:text-on-surface-variant
+    " data-pagefind-body>
+      <Fragment set:html={html} />
+    </article>
+  </div>
+</Base>
