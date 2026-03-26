@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import Navigation from '../components/Navigation.astro';
 import Footer from '../components/Footer.astro';
+import MobileNav from '../components/MobileNav.astro';
 
 interface Props {
   title: string;
@@ -40,5 +41,6 @@ const { title, description = 'The unofficial field guide to cooking with Costco 
     </main>
 
     <Footer />
+    <MobileNav />
   </body>
 </html>

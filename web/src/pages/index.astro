@@ -1,27 +1,63 @@
 ---
+import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import HeroSearch from '../components/HeroSearch.astro';
+import CountryPicker from '../components/CountryPicker.astro';
+import MonthlyPicks from '../components/MonthlyPicks.astro';
+import BakeryStrip from '../components/BakeryStrip.astro';
+import CategoryBento from '../components/CategoryBento.astro';
+import InternationalSpotlight from '../components/InternationalSpotlight.astro';
+import NewThisMonth from '../components/NewThisMonth.astro';
+
+const recipes = await getCollection('recipes');
+
+// Category counts for bento grid
+const categoryCounts: Record<string, number> = {};
+for (const r of recipes) {
+  const cat = r.data.category;
+  categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
+}
+
+// Copycat total
+const copycatCount = recipes.filter(r => r.data.category.startsWith('costco-copycats')).length;
+categoryCounts['costco-copycats'] = copycatCount;
+
+// Monthly picks: cheapest recipes that are good for spring (salads, grilling, light meals)
+const springCategories = ['salads', 'grilling', 'appetizers', 'drinks', 'soups'];
+const marchPicks = recipes
+  .filter(r => springCategories.includes(r.data.category) || r.data.cost <= 2)
+  .sort((a, b) => a.data.cost - b.data.cost)
+  .slice(0, 8)
+  .map(r => ({
+    title: r.data.title,
+    slug: r.id,
+    cost: r.data.cost,
+    cost_unit: r.data.cost_unit,
+    cook: r.data.cook,
+    servings: r.data.servings,
+    category: r.data.category,
+  }));
+
+// New this month: latest copycats (the most recently added category)
+const newRecipes = recipes
+  .filter(r => r.data.category === 'costco-copycats/bakery' || r.data.category === 'costco-copycats/deli')
+  .sort((a, b) => b.data.cost - a.data.cost)
+  .slice(0, 6)
+  .map(r => ({
+    title: r.data.title,
+    slug: r.id,
+    description: r.data.description,
+    cost: r.data.cost,
+    cost_unit: r.data.cost_unit,
+  }));
 ---
 
 <Base title="bulk.recipes — Cook with Costco">
-  <div class="flex flex-col items-center justify-center min-h-[60vh] text-center gap-8">
-    <h1 class="text-5xl md:text-7xl font-headline font-black tracking-tight text-on-surface">
-      <span class="text-primary italic">bulk</span>.recipes
-    </h1>
-    <p class="text-xl md:text-2xl font-body text-on-surface-variant max-w-2xl">
-      The unofficial field guide to feeding yourself (and probably 12 other people) with Costco groceries.
-    </p>
-    <div class="flex flex-wrap justify-center gap-4 mt-4">
-      <a href="/recipes" class="px-8 py-4 bg-primary text-on-primary font-headline font-bold text-lg rounded-full hover:scale-105 transition-transform shadow-[0_8px_32px_rgba(186,0,39,0.3)]">
-        Browse 181 Recipes
-      </a>
-      <a href="/prepared" class="px-8 py-4 bg-secondary-container text-on-secondary-container font-headline font-bold text-lg rounded-full hover:scale-105 transition-transform">
-        Explore 14 Countries
-      </a>
-    </div>
-    <p class="text-sm text-on-surface-variant font-body mt-8">
-      Coming soon — full site with search, filtering, recipe scaling, and more.
-      <br />
-      <a href="https://github.com/rbrents3000/bulk.recipes" class="text-primary hover:underline" target="_blank" rel="noopener">Browse on GitHub →</a>
-    </p>
-  </div>
+  <HeroSearch recipeCount={recipes.length} />
+  <CountryPicker />
+  <MonthlyPicks recipes={marchPicks} />
+  <BakeryStrip />
+  <CategoryBento categoryCounts={categoryCounts} />
+  <InternationalSpotlight />
+  <NewThisMonth recipes={newRecipes} />
 </Base>

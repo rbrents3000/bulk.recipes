@@ -1,0 +1,50 @@
+---
+interface Props {
+  recipeCount: number;
+}
+
+const { recipeCount } = Astro.props;
+---
+
+<section class="px-6 md:px-12 py-12 flex flex-col items-center text-center max-w-7xl mx-auto">
+  <h1 class="font-headline text-4xl md:text-6xl font-extrabold leading-tight tracking-tight mb-6">
+    Feed the <span class="text-primary">whole</span> crew.<br />Without the fuss.
+  </h1>
+
+  <form action="/recipes" method="get" class="w-full max-w-2xl flex items-center gap-2 mb-8">
+    <div class="relative flex-1">
+      <span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-neutral-400 text-xl">search</span>
+      <input
+        type="text"
+        name="q"
+        placeholder={`Search ${recipeCount} recipes...`}
+        class="w-full rounded-full pl-12 pr-4 py-3 shadow-md border border-neutral-200 bg-white font-body text-base focus:outline-none focus:ring-2 focus:ring-primary/40"
+      />
+    </div>
+    <button
+      type="submit"
+      class="bg-primary text-white font-body font-semibold rounded-full px-6 py-3 shadow-md hover:bg-primary/90 transition-colors whitespace-nowrap"
+    >
+      Find Food
+    </button>
+  </form>
+
+  <div class="flex flex-wrap items-center justify-center gap-3">
+    <a href="/recipes?filter=cost" class="inline-flex items-center gap-1.5 rounded-full border border-neutral-200 bg-white px-4 py-2 font-body text-sm text-neutral-700 shadow-sm hover:shadow-md transition-shadow">
+      <span class="material-symbols-outlined text-lg">payments</span>
+      Cost
+    </a>
+    <a href="/recipes?filter=time" class="inline-flex items-center gap-1.5 rounded-full border border-neutral-200 bg-white px-4 py-2 font-body text-sm text-neutral-700 shadow-sm hover:shadow-md transition-shadow">
+      <span class="material-symbols-outlined text-lg">timer</span>
+      Cook Time
+    </a>
+    <a href="/recipes?filter=diet" class="inline-flex items-center gap-1.5 rounded-full border border-neutral-200 bg-white px-4 py-2 font-body text-sm text-neutral-700 shadow-sm hover:shadow-md transition-shadow">
+      <span class="material-symbols-outlined text-lg">eco</span>
+      Diet
+    </a>
+    <a href="/recipes?filter=ingredient" class="inline-flex items-center gap-1.5 rounded-full border border-neutral-200 bg-white px-4 py-2 font-body text-sm text-neutral-700 shadow-sm hover:shadow-md transition-shadow">
+      <span class="material-symbols-outlined text-lg">grocery</span>
+      Ingredient
+    </a>
+  </div>
+</section>
