@@ -33,22 +33,22 @@ const categoryLabels: Record<string, string> = {
 };
 
 const categoryImageMap: Record<string, string> = {
-  'costco-copycats/food-court': '/assets/categories/copycats.png',
-  'costco-copycats/deli': '/assets/categories/copycats.png',
-  'costco-copycats/bakery': '/assets/categories/desserts.png',
-  'costco-copycats/international': '/assets/categories/copycats.png',
-  'weeknight-dinners': '/assets/categories/weeknight.png',
-  'rotisserie-chicken': '/assets/categories/rotisserie.png',
-  'feeding-a-crowd': '/assets/categories/crowd.png',
-  'meal-prep': '/assets/categories/meal-prep.png',
-  'slow-cooker': '/assets/categories/slow-cooker.png',
-  'appetizers': '/assets/categories/appetizers.png',
-  'desserts': '/assets/categories/desserts.png',
-  'drinks': '/assets/categories/drinks.png',
-  'grilling': '/assets/categories/grilling.png',
-  'salads': '/assets/categories/salads.png',
-  'snacks': '/assets/categories/snacks.png',
-  'soups': '/assets/categories/soups.png',
+  'costco-copycats/food-court': '/assets/categories/copycats.webp',
+  'costco-copycats/deli': '/assets/categories/copycats.webp',
+  'costco-copycats/bakery': '/assets/categories/desserts.webp',
+  'costco-copycats/international': '/assets/categories/copycats.webp',
+  'weeknight-dinners': '/assets/categories/weeknight.webp',
+  'rotisserie-chicken': '/assets/categories/rotisserie.webp',
+  'feeding-a-crowd': '/assets/categories/crowd.webp',
+  'meal-prep': '/assets/categories/meal-prep.webp',
+  'slow-cooker': '/assets/categories/slow-cooker.webp',
+  'appetizers': '/assets/categories/appetizers.webp',
+  'desserts': '/assets/categories/desserts.webp',
+  'drinks': '/assets/categories/drinks.webp',
+  'grilling': '/assets/categories/grilling.webp',
+  'salads': '/assets/categories/salads.webp',
+  'snacks': '/assets/categories/snacks.webp',
+  'soups': '/assets/categories/soups.webp',
 };
 
 export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
@@ -58,8 +58,8 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const label = categoryLabels[category] || category.split('/').pop()?.replace(/-/g, ' ') || '';
   const isBudget = cost <= 2;
   const isQuick = recipe.prep?.includes('10 min') || recipe.prep?.includes('5 min');
-  const recipeImage = `/assets/recipes/${id.split('/').pop()}.png`;
-  const categoryImage = categoryImageMap[category] || '/assets/categories/weeknight.png';
+  const recipeImage = `/assets/recipes/${id.split('/').pop()}.webp`;
+  const categoryImage = categoryImageMap[category] || '/assets/categories/weeknight.webp';
 
   return (
     <a href={href} class="group block">
