@@ -13,7 +13,7 @@ const { steps } = Astro.props;
 
   <ol class="space-y-10 list-none pl-0">
     {steps.map((step, index) => (
-      <li class="relative pl-16">
+      <li class="relative pl-14 md:pl-16">
         <span class="absolute left-0 top-0 w-12 h-12 bg-surface-container-highest rounded-full flex items-center justify-center text-2xl font-black text-primary font-headline" aria-hidden="true">
           {String(index + 1).padStart(2, '0')}
         </span>

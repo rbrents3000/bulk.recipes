@@ -64,7 +64,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
     <a href={href} class="group block">
       <div class="bg-surface-container-lowest rounded-xl overflow-visible shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_24px_48px_rgba(0,0,0,0.08)] transition-all duration-300">
         <div class="p-3">
-          <div class="relative h-56 w-full rounded-lg overflow-hidden bg-surface-container">
+          <div class="relative h-44 md:h-56 w-full rounded-lg overflow-hidden bg-surface-container">
             <img src={categoryImage} alt="" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" aria-hidden="true" loading="lazy" />
             <div class="absolute top-3 left-3 flex flex-col gap-2">
               {isBudget && <span class="px-3 py-1 bg-white/90 backdrop-blur rounded-full text-xs font-extrabold shadow-sm">💰 Budget</span>}

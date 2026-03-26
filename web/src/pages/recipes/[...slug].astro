@@ -51,6 +51,15 @@ const related = allRecipes
     slug={recipe.id} ingredients={[...costco_ingredients, ...other_ingredients]}
     instructions={recipeInstructions} keywords={keywords.join(', ')}
   />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bulk.recipes/" },
+      { "@type": "ListItem", "position": 2, "name": category.split('/').pop()?.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase()) || "Recipes", "item": `https://bulk.recipes/recipes/${category}` },
+      { "@type": "ListItem", "position": 3, "name": title }
+    ]
+  })} />
 
   <article class="max-w-6xl mx-auto py-8" data-pagefind-body>
     <!-- Back link -->
@@ -76,16 +85,16 @@ const related = allRecipes
       </p>
 
       <!-- Metadata bar -->
-      <div class="flex flex-wrap gap-4 p-6 bg-surface-container-low rounded-xl">
-        <div class="flex flex-col gap-1 pr-6 border-r border-outline-variant/20">
+      <div class="grid grid-cols-2 gap-4 p-4 md:flex md:flex-wrap md:gap-4 md:p-6 bg-surface-container-low rounded-xl">
+        <div class="flex flex-col gap-1 md:pr-6 md:border-r md:border-outline-variant/20">
           <span class="text-xs uppercase font-bold text-on-surface-variant tracking-widest">Prep</span>
           <span class="text-lg font-bold">{prep}</span>
         </div>
-        <div class="flex flex-col gap-1 pr-6 border-r border-outline-variant/20">
+        <div class="flex flex-col gap-1 md:pr-6 md:border-r md:border-outline-variant/20">
           <span class="text-xs uppercase font-bold text-on-surface-variant tracking-widest">Cook</span>
           <span class="text-lg font-bold">{cook}</span>
         </div>
-        <div class="pr-6 border-r border-outline-variant/20">
+        <div class="md:pr-6 md:border-r md:border-outline-variant/20">
           <ServingsScaler
             client:visible
             baseServings={parseInt(servings) || 4}
@@ -110,7 +119,7 @@ const related = allRecipes
     </header>
 
     <!-- Asymmetric Grid: Sidebar + Main -->
-    <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
 
       <!-- Sidebar (4 cols) -->
       <aside class="lg:col-span-4 space-y-8">
