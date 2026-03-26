@@ -1,0 +1,30 @@
+---
+interface Props {
+  items: string[];
+}
+
+const { items } = Astro.props;
+---
+
+<div class="relative bg-surface-container-lowest shadow-lg rounded-xl p-8">
+  <div class="absolute -top-4 -right-4 bg-primary text-on-primary w-12 h-12 rounded-full flex items-center justify-center text-xl font-black font-headline">
+    K
+  </div>
+
+  <h3 class="text-xl font-bold mb-6 flex items-center gap-2 font-headline">
+    <span class="material-symbols-outlined text-primary">receipt_long</span>
+    Costco List
+  </h3>
+
+  <ul class="space-y-4">
+    {items.map((item) => (
+      <li class="flex items-start gap-3">
+        <input
+          type="checkbox"
+          class="w-6 h-6 rounded-md border-outline-variant text-primary focus:ring-primary mt-0.5"
+        />
+        <p class="font-bold text-sm">{item}</p>
+      </li>
+    ))}
+  </ul>
+</div>

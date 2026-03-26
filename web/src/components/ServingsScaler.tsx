@@ -106,8 +106,8 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
   return (
     <div class="flex flex-col gap-1 min-w-[180px]">
       <div class="flex justify-between items-center">
-        <span class="text-xs uppercase font-bold text-[#5c5b5b] tracking-widest">Servings</span>
-        <span class="text-[#ba0027] font-bold text-lg">{servings}</span>
+        <span class="text-xs uppercase font-bold text-on-surface-variant tracking-widest">Servings</span>
+        <span class="text-primary font-bold text-lg">{servings}</span>
       </div>
       <input
         type="range"
@@ -115,13 +115,13 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
         max="24"
         value={servings}
         onInput={(e) => setServings(parseInt((e.target as HTMLInputElement).value))}
-        class="w-full h-2 bg-[#dedcdc] rounded-lg appearance-none cursor-pointer accent-[#ba0027]"
+        class="w-full h-2 bg-surface-container-highest rounded-lg appearance-none cursor-pointer accent-primary"
       />
-      <div class="flex justify-between text-[10px] text-[#5c5b5b]">
+      <div class="flex justify-between text-[10px] text-on-surface-variant">
         <span>1</span>
         <span>24</span>
       </div>
-      <div class="mt-1 text-xs text-[#5c5b5b]">
+      <div class="mt-1 text-xs text-on-surface-variant">
         {ratio !== 1 && (
           <span>Total: ~${totalCost.toFixed(2)} ({costDisplay})</span>
         )}

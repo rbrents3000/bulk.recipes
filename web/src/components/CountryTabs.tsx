@@ -36,8 +36,8 @@ export default function CountryTabs({ foodCourt, deli, bakery }: Props) {
             onClick={() => setActive(tab.key)}
             class={`flex items-center gap-2 px-6 py-3 rounded-full font-bold text-sm transition-all ${
               active === tab.key
-                ? 'bg-[#ba0027] text-white shadow-lg scale-105'
-                : 'bg-[#dedcdc] text-[#5c5b5b] hover:scale-105'
+                ? 'bg-primary text-white shadow-lg scale-105'
+                : 'bg-surface-container-highest text-on-surface-variant hover:scale-105'
             }`}
           >
             <span class="material-symbols-outlined text-lg">{tab.icon}</span>
@@ -49,16 +49,16 @@ export default function CountryTabs({ foodCourt, deli, bakery }: Props) {
       {/* Tab content */}
       <div
         class="prose prose-lg max-w-none
-          prose-headings:font-['Plus_Jakarta_Sans'] prose-headings:tracking-tight
+          prose-headings:font-headline prose-headings:tracking-tight
           prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-8 prose-h2:mb-4
           prose-h3:text-xl prose-h3:font-bold
-          prose-p:text-[#5c5b5b] prose-p:leading-relaxed
-          prose-li:text-[#5c5b5b]
-          prose-strong:text-[#2f2f2f]
-          prose-blockquote:bg-[#ff7576]/10 prose-blockquote:border-l-4 prose-blockquote:border-[#ff7576] prose-blockquote:rounded-r-lg prose-blockquote:py-3 prose-blockquote:px-4 prose-blockquote:not-italic
+          prose-p:text-on-surface-variant prose-p:leading-relaxed
+          prose-li:text-on-surface-variant
+          prose-strong:text-on-surface
+          prose-blockquote:bg-primary-container/10 prose-blockquote:border-l-4 prose-blockquote:border-primary-container prose-blockquote:rounded-r-lg prose-blockquote:py-3 prose-blockquote:px-4 prose-blockquote:not-italic
           prose-table:text-sm
-          prose-th:text-left prose-th:font-bold prose-th:bg-[#f3f0f0] prose-th:p-3
-          prose-td:p-3 prose-td:border-b prose-td:border-[#eae8e7]
+          prose-th:text-left prose-th:font-bold prose-th:bg-surface-container-low prose-th:p-3
+          prose-td:p-3 prose-td:border-b prose-td:border-surface-container
         "
         dangerouslySetInnerHTML={{ __html: content[active] }}
       />

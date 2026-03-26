@@ -1,0 +1,24 @@
+---
+interface Props {
+  steps: string[];
+}
+
+const { steps } = Astro.props;
+---
+
+<div>
+  <h2 class="text-3xl font-black uppercase tracking-tighter border-b-4 border-primary pb-4 mb-10 font-headline">
+    The Game Plan
+  </h2>
+
+  <div class="space-y-10">
+    {steps.map((step, index) => (
+      <div class="relative pl-16">
+        <span class="absolute left-0 top-0 w-12 h-12 bg-surface-container-highest rounded-full flex items-center justify-center text-2xl font-black text-primary font-headline">
+          {String(index + 1).padStart(2, '0')}
+        </span>
+        <p class="text-on-surface-variant leading-relaxed text-lg">{step}</p>
+      </div>
+    ))}
+  </div>
+</div>

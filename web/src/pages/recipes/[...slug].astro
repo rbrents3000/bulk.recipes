@@ -4,6 +4,11 @@ import Base from '../../layouts/Base.astro';
 import RecipeCard from '../../components/RecipeCard.astro';
 import ServingsScaler from '../../components/ServingsScaler';
 import RecipeSchema from '../../components/RecipeSchema.astro';
+import IngredientChecklist from '../../components/IngredientChecklist.astro';
+import IngredientChips from '../../components/IngredientChips.astro';
+import StorageBox from '../../components/StorageBox.astro';
+import InstructionSteps from '../../components/InstructionSteps.astro';
+import LeftoverIdeas from '../../components/LeftoverIdeas.astro';
 
 export async function getStaticPaths() {
   const recipes = await getCollection('recipes');
@@ -14,16 +19,16 @@ export async function getStaticPaths() {
 }
 
 const { recipe } = Astro.props;
-const { Content } = await render(recipe);
-const { title, description, prep, cook, servings, cost, cost_unit, category, vegetarian, gluten_free, dairy_free } = recipe.data;
+const {
+  title, description, prep, cook, servings, cost, cost_unit, category,
+  vegetarian, gluten_free, dairy_free,
+  costco_ingredients, other_ingredients, instructions: recipeInstructions,
+  storage, leftover_ideas
+} = recipe.data;
 
 const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
 
-// Ingredients and instructions from frontmatter
-const { costco_ingredients, other_ingredients, instructions: recipeInstructions } = recipe.data;
-const allIngredients = [...costco_ingredients, ...other_ingredients];
-
-// Build keywords from category + dietary tags
+// Keywords for schema
 const keywords: string[] = [];
 if (category.includes('costco-copycats')) keywords.push('costco copycat');
 keywords.push(category.split('/').pop()?.replace(/-/g, ' ') || '');
@@ -32,7 +37,7 @@ if (gluten_free) keywords.push('gluten-free');
 if (dairy_free) keywords.push('dairy-free');
 keywords.push('costco', 'bulk cooking');
 
-// Get related recipes (same category, excluding current)
+// Related recipes
 const allRecipes = await getCollection('recipes');
 const related = allRecipes
   .filter(r => r.data.category === category && r.id !== recipe.id)
@@ -41,20 +46,13 @@ const related = allRecipes
 
 <Base title={`${title} — bulk.recipes`} description={description}>
   <RecipeSchema
-    title={title}
-    description={description}
-    prep={prep}
-    cook={cook}
-    servings={servings}
-    cost={cost}
-    costUnit={cost_unit}
-    category={category}
-    slug={recipe.id}
-    ingredients={allIngredients}
-    instructions={recipeInstructions}
-    keywords={keywords.join(', ')}
+    title={title} description={description} prep={prep} cook={cook}
+    servings={servings} cost={cost} costUnit={cost_unit} category={category}
+    slug={recipe.id} ingredients={[...costco_ingredients, ...other_ingredients]}
+    instructions={recipeInstructions} keywords={keywords.join(', ')}
   />
-  <article class="max-w-4xl mx-auto py-8" data-pagefind-body>
+
+  <article class="max-w-6xl mx-auto py-8" data-pagefind-body>
     <!-- Back link -->
     <a href="/recipes" class="inline-flex items-center gap-1 text-sm text-on-surface-variant hover:text-primary transition-colors mb-6">
       <span class="material-symbols-outlined text-sm">arrow_back</span>
@@ -62,8 +60,7 @@ const related = allRecipes
     </a>
 
     <!-- Hero -->
-    <header class="mb-8">
-      <!-- Category badge -->
+    <header class="mb-10">
       <div class="mb-4">
         <span class="inline-flex items-center gap-2 px-4 py-1.5 bg-secondary-container text-on-secondary-container rounded-full text-xs font-bold uppercase tracking-wider">
           {category.replace(/[-/]/g, ' ')}
@@ -112,26 +109,40 @@ const related = allRecipes
       )}
     </header>
 
-    <!-- Recipe content (rendered markdown) -->
-    <div class="prose prose-lg max-w-none
-      prose-headings:font-headline prose-headings:tracking-tight
-      prose-h2:text-2xl prose-h2:font-bold prose-h2:border-b-4 prose-h2:border-primary prose-h2:inline-block prose-h2:pb-1 prose-h2:mt-10 prose-h2:mb-4
-      prose-h3:text-xl prose-h3:font-bold
-      prose-p:text-on-surface-variant prose-p:leading-relaxed
-      prose-li:text-on-surface-variant
-      prose-strong:text-on-surface
-      prose-blockquote:bg-primary-container/10 prose-blockquote:border-l-4 prose-blockquote:border-primary-container prose-blockquote:rounded-r-lg prose-blockquote:py-3 prose-blockquote:px-4 prose-blockquote:not-italic
-      prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-      prose-table:text-sm
-      prose-th:text-left prose-th:font-bold
-    ">
-      <Content />
+    <!-- Asymmetric Grid: Sidebar + Main -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+
+      <!-- Sidebar (4 cols) -->
+      <aside class="lg:col-span-4 space-y-8">
+        {costco_ingredients.length > 0 && (
+          <IngredientChecklist items={costco_ingredients} />
+        )}
+
+        {other_ingredients.length > 0 && (
+          <IngredientChips items={other_ingredients} />
+        )}
+
+        {storage && (
+          <StorageBox storage={storage} />
+        )}
+      </aside>
+
+      <!-- Main Content (8 cols) -->
+      <div class="lg:col-span-8 space-y-12">
+        {recipeInstructions.length > 0 && (
+          <InstructionSteps steps={recipeInstructions} />
+        )}
+
+        {leftover_ideas.length > 0 && (
+          <LeftoverIdeas ideas={leftover_ideas} />
+        )}
+      </div>
     </div>
   </article>
 
   <!-- Related Recipes -->
   {related.length > 0 && (
-    <section class="max-w-7xl mx-auto mt-16 mb-8">
+    <section class="max-w-6xl mx-auto mt-16 mb-8">
       <div class="flex justify-between items-end mb-8">
         <div>
           <h2 class="text-3xl font-headline font-black tracking-tight">More Like This</h2>

@@ -23,3 +23,17 @@
   --pagefind-ui-border-radius: 1rem;
   --pagefind-ui-font: 'Be Vietnam Pro', sans-serif;
 }
+
+/* Hide scrollbar utility */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Material Icons fill variation */
+.icon-filled {
+  font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}

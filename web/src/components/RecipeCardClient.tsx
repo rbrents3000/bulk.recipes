@@ -42,30 +42,30 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
 
   return (
     <a href={href} class="group block">
-      <div class="bg-white rounded-xl overflow-hidden shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300">
+      <div class="bg-surface-container-lowest rounded-xl overflow-hidden shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300">
         <div class="p-3">
-          <div class="relative h-48 w-full rounded-lg overflow-hidden bg-[#eae8e7]">
-            <div class="w-full h-full flex items-center justify-center text-[#5c5b5b]">
+          <div class="relative h-48 w-full rounded-lg overflow-hidden bg-surface-container">
+            <div class="w-full h-full flex items-center justify-center text-on-surface-variant">
               <span class="material-symbols-outlined text-4xl opacity-20">restaurant</span>
             </div>
             <div class="absolute top-3 left-3 flex flex-col gap-1.5">
-              {isPopular && <span class="bg-[#fdd34d] text-[#5c4900] px-3 py-1 rounded-full text-[10px] font-extrabold">🔥 POPULAR</span>}
-              {isBudget && <span class="bg-white/90 text-[#ba0027] px-3 py-1 rounded-full text-[10px] font-extrabold backdrop-blur">💰 BUDGET</span>}
+              {isPopular && <span class="bg-secondary-container text-on-secondary-container px-3 py-1 rounded-full text-[10px] font-extrabold">🔥 POPULAR</span>}
+              {isBudget && <span class="bg-white/90 text-primary px-3 py-1 rounded-full text-[10px] font-extrabold backdrop-blur">💰 BUDGET</span>}
             </div>
             <div class="absolute bottom-3 right-3">
-              <span class="bg-[#fdd34d] text-[#5c4900] px-2 py-0.5 rounded-full text-[10px] font-bold uppercase">{label}</span>
+              <span class="bg-secondary-container text-on-secondary-container px-2 py-0.5 rounded-full text-[10px] font-bold uppercase">{label}</span>
             </div>
           </div>
         </div>
         <div class="px-5 pb-5 pt-1">
-          <h3 class="font-bold text-lg mb-1 group-hover:text-[#ba0027] transition-colors line-clamp-1" style="font-family: 'Plus Jakarta Sans', sans-serif">
+          <h3 class="font-headline font-bold text-lg mb-1 group-hover:text-primary transition-colors line-clamp-1">
             {title}
           </h3>
-          <p class="text-sm text-[#5c5b5b] line-clamp-2 mb-3">{description}</p>
-          <div class="flex items-center gap-4 text-xs text-[#5c5b5b]">
+          <p class="text-sm text-on-surface-variant line-clamp-2 mb-3">{description}</p>
+          <div class="flex items-center gap-4 text-xs text-on-surface-variant">
             <span class="flex items-center gap-1">
               <span class="material-symbols-outlined text-sm">payments</span>
-              <span class="font-bold text-[#8a4c00]">{costDisplay}</span>
+              <span class="font-bold text-tertiary">{costDisplay}</span>
             </span>
             <span class="flex items-center gap-1">
               <span class="material-symbols-outlined text-sm">timer</span>

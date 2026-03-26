@@ -112,7 +112,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
     <div class="py-8">
       {/* Mobile filter toggle */}
       <button
-        class="md:hidden w-full mb-6 h-14 bg-[#ba0027] text-white rounded-full font-bold text-lg flex items-center justify-center gap-2"
+        class="md:hidden w-full mb-6 h-14 bg-primary text-white rounded-full font-bold text-lg flex items-center justify-center gap-2"
         onClick={() => setShowFilters(!showFilters)}
       >
         <span class="material-symbols-outlined">tune</span>
@@ -122,13 +122,13 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
       <div class="flex flex-col md:flex-row gap-12">
         {/* Sidebar */}
         <aside class={`w-full md:w-80 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
-          <h2 class="text-2xl font-extrabold tracking-tight" style="font-family: 'Plus Jakarta Sans'">Filter by</h2>
+          <h2 class="font-headline text-2xl font-extrabold tracking-tight">Filter by</h2>
 
           {/* Category */}
           <div class="space-y-3">
-            <label class="font-bold text-sm text-[#5c5b5b] uppercase tracking-widest" style="font-family: 'Plus Jakarta Sans'">Category</label>
+            <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Category</label>
             <select
-              class="w-full h-14 bg-[#dedcdc] border-none rounded-xl px-4 font-medium focus:ring-2 focus:ring-[#ba0027]"
+              class="w-full h-14 bg-surface-container-highest border-none rounded-xl px-4 font-medium focus:ring-2 focus:ring-primary"
               value={category}
               onChange={(e) => { setCategory((e.target as HTMLSelectElement).value); setPage(0); }}
             >
@@ -142,8 +142,8 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
           {/* Cost slider */}
           <div class="space-y-3">
             <div class="flex justify-between items-center">
-              <label class="font-bold text-sm text-[#5c5b5b] uppercase tracking-widest" style="font-family: 'Plus Jakarta Sans'">Max Cost</label>
-              <span class="text-[#ba0027] font-bold">{maxCost >= 10 ? 'Any' : `Under $${maxCost}`}</span>
+              <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Max Cost</label>
+              <span class="text-primary font-bold">{maxCost >= 10 ? 'Any' : `Under $${maxCost}`}</span>
             </div>
             <input
               type="range"
@@ -152,16 +152,16 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
               step="0.5"
               value={maxCost}
               onInput={(e) => { setMaxCost(parseFloat((e.target as HTMLInputElement).value)); setPage(0); }}
-              class="w-full accent-[#ba0027] h-2 bg-[#dedcdc] rounded-full appearance-none cursor-pointer"
+              class="w-full accent-primary h-2 bg-surface-container-highest rounded-full appearance-none cursor-pointer"
             />
-            <div class="flex justify-between text-xs font-bold text-[#5c5b5b]">
+            <div class="flex justify-between text-xs font-bold text-on-surface-variant">
               <span>$1</span><span>$10+</span>
             </div>
           </div>
 
           {/* Cook time */}
           <div class="space-y-3">
-            <label class="font-bold text-sm text-[#5c5b5b] uppercase tracking-widest" style="font-family: 'Plus Jakarta Sans'">Cook Time</label>
+            <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Cook Time</label>
             <div class="grid grid-cols-2 gap-2">
               {[
                 { value: '<30', label: '⏱️ < 30m' },
@@ -173,8 +173,8 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
                   key={opt.value}
                   class={`py-3 px-4 rounded-xl font-bold text-xs transition-all ${
                     cookTime === opt.value
-                      ? 'bg-[#fdd34d] text-[#5c4900]'
-                      : 'bg-[#dedcdc] text-[#5c5b5b] hover:bg-[#e4e2e1]'
+                      ? 'bg-secondary-container text-on-secondary-container'
+                      : 'bg-surface-container-highest text-on-surface-variant hover:bg-surface-container-high'
                   }`}
                   onClick={() => { setCookTime(cookTime === opt.value ? '' : opt.value); setPage(0); }}
                 >
@@ -186,7 +186,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
 
           {/* Diet checkboxes */}
           <div class="space-y-3">
-            <label class="font-bold text-sm text-[#5c5b5b] uppercase tracking-widest" style="font-family: 'Plus Jakarta Sans'">Dietary</label>
+            <label class="font-headline font-bold text-sm text-on-surface-variant uppercase tracking-widest">Dietary</label>
             <div class="space-y-3">
               {[
                 { key: 'vegetarian', label: 'Vegetarian', checked: vegetarian, set: setVegetarian },
@@ -198,9 +198,9 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
                     type="checkbox"
                     checked={d.checked}
                     onChange={() => { d.set(!d.checked); setPage(0); }}
-                    class="w-6 h-6 rounded-md border-[#aeadac] text-[#ba0027] focus:ring-[#ba0027] mr-3"
+                    class="w-6 h-6 rounded-md border-outline-variant text-primary focus:ring-primary mr-3"
                   />
-                  <span class={`font-medium ${d.checked ? 'font-bold text-[#ba0027]' : ''}`}>{d.label}</span>
+                  <span class={`font-medium ${d.checked ? 'font-bold text-primary' : ''}`}>{d.label}</span>
                 </label>
               ))}
             </div>
@@ -209,7 +209,7 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
           {/* Clear filters */}
           {hasFilters && (
             <button
-              class="text-[#ba0027] font-bold text-sm hover:underline"
+              class="text-primary font-bold text-sm hover:underline"
               onClick={clearFilters}
             >
               Clear all filters
@@ -222,17 +222,17 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
           {/* Sort bar */}
           <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
             <div>
-              <h1 class="text-3xl font-extrabold tracking-tight" style="font-family: 'Plus Jakarta Sans'">
+              <h1 class="font-headline text-3xl font-extrabold tracking-tight">
                 {filtered.length === recipes.length ? 'All Recipes' : `${filtered.length} Recipes`}
               </h1>
-              <p class="text-[#5c5b5b] font-medium mt-1">
+              <p class="text-on-surface-variant font-medium mt-1">
                 {hasFilters ? 'Filtered results' : `Showing all ${recipes.length} recipes`}
               </p>
             </div>
-            <div class="flex items-center gap-3 bg-[#f3f0f0] p-1.5 rounded-2xl">
-              <span class="text-xs font-bold px-3 text-[#5c5b5b]">SORT</span>
+            <div class="flex items-center gap-3 bg-surface-container-low p-1.5 rounded-2xl">
+              <span class="text-xs font-bold px-3 text-on-surface-variant">SORT</span>
               <select
-                class="bg-white border-none rounded-xl text-sm font-bold py-2 pl-3 pr-8 focus:ring-0"
+                class="bg-surface-container-lowest border-none rounded-xl text-sm font-bold py-2 pl-3 pr-8 focus:ring-0"
                 value={sortBy}
                 onChange={(e) => setSortBy((e.target as HTMLSelectElement).value)}
               >
@@ -252,9 +252,9 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
             </div>
           ) : (
             <div class="text-center py-20">
-              <span class="material-symbols-outlined text-6xl text-[#aeadac] mb-4">search_off</span>
+              <span class="material-symbols-outlined text-6xl text-outline-variant mb-4">search_off</span>
               <p class="text-xl font-bold mb-2">No recipes match your filters</p>
-              <p class="text-[#5c5b5b]">Try adjusting your criteria or <button class="text-[#ba0027] font-bold hover:underline" onClick={clearFilters}>clear all filters</button></p>
+              <p class="text-on-surface-variant">Try adjusting your criteria or <button class="text-primary font-bold hover:underline" onClick={clearFilters}>clear all filters</button></p>
             </div>
           )}
 
@@ -266,8 +266,8 @@ export default function RecipeBrowser({ recipes, categories }: { recipes: Recipe
                   key={i}
                   class={`w-10 h-10 rounded-full font-bold text-sm transition-all ${
                     page === i
-                      ? 'bg-[#ba0027] text-white shadow-lg'
-                      : 'bg-[#dedcdc] text-[#2f2f2f] hover:bg-[#e4e2e1]'
+                      ? 'bg-primary text-white shadow-lg'
+                      : 'bg-surface-container-highest text-on-surface hover:bg-surface-container-high'
                   }`}
                   onClick={() => { setPage(i); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
                 >
