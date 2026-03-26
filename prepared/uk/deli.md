@@ -1,6 +1,6 @@
 # UK Deli & Prepared Foods
 
-Costco UK's deli section carries many of the same US items, adapted with some British specialties.
+Costco UK's deli case is what happens when American bulk shopping meets British comfort food, and the results are deeply satisfying. Scotch eggs, pork pies, Cumberland sausage rolls, chicken tikka masala — the greatest hits of British cuisine, all in family-sized portions. The US staples are here too, but the British specialties are the reason you'll linger at the deli counter longer than you planned.
 
 ## UK-Specific Items
 

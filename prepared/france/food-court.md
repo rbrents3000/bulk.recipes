@@ -1,6 +1,6 @@
 # France Food Court Menu
 
-Costco France is the newest European market, but the food court has had to step up for French tastes. The croque monsieur and ham-and-cheese croissant are standouts.
+Costco France has only three warehouses, but the food court is already punching above its weight. Selling fast food in a country that invented haute cuisine takes nerve, and whoever decided to put a croque monsieur and a ham-and-cheese croissant with Dijon on the menu understood the assignment. These are the standouts — proper French comfort food at food court prices.
 
 **Locations:** 3 warehouses (Villebon-sur-Yvette, Pontault-Combault, Strasbourg)
 

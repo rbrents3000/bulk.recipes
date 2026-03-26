@@ -1,6 +1,6 @@
 # Canada Food Court Menu
 
-Costco Canada's food court is very similar to the US, with a few Canadian-exclusive items. Prices are in CAD.
+Costco Canada's food court runs the same greatest-hits playbook as the US, but with one glorious addition: poutine. Fries, cheese curds, and gravy, right there next to the $1.50 hot dog. The rest of the menu is familiar, but the Canadian exclusives — including chicken wings and regional smoked meat sandwiches — give it just enough personality to stand on its own.
 
 **Locations:** 107 warehouses across Canada
 

@@ -1,6 +1,6 @@
 # Korea Deli & Prepared Foods
 
-Costco Korea's deli section blends the standard US items with Korean staples. The quality of Korean prepared foods is outstanding.
+Costco Korea's deli is legendary for a reason — the bulgogi alone has a cult following, and the rest of the case reads like a Korean home-cooking cheat code. Japchae, kimchi jjigae kits, galbi ready for the grill, gimbap platters — it's all here, all in bulk, and all at prices that make cooking from scratch feel like a questionable life choice.
 
 ## Korea-Exclusive Items
 

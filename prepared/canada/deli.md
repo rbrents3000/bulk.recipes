@@ -1,6 +1,6 @@
 # Canada Deli & Prepared Foods
 
-Mostly mirrors the US deli section with the same items and similar pricing in CAD. A few Canadian-specific items appear regionally.
+The Canadian deli case looks a lot like the US version until you notice the Nanaimo bars, butter tarts, and tourtiere tucked in alongside the rotisserie chickens. Every region adds its own twist — peameal bacon in Ontario, smoked salmon out west — and the result is a deli section that feels familiar but unmistakably Canadian.
 
 ## Canada-Specific Items
 

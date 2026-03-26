@@ -1,6 +1,6 @@
 # Australia Food Court Menu
 
-Costco Australia has a small but growing presence. The food court keeps the US classics with some Australian additions.
+Costco Australia is still relatively new — 15 warehouses and growing — but the food courts have already figured out what matters: meat pies, chicken schnitzel rolls, and lamingtons alongside the usual Costco staples. The meat pie in particular is a stroke of genius — flaky pastry, seasoned beef, under five bucks. It's the most Australian thing in a very American store.
 
 **Locations:** 15 warehouses across Australia (Sydney, Melbourne, Brisbane, Perth, Adelaide, Canberra)
 

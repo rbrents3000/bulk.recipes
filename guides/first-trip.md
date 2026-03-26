@@ -41,7 +41,7 @@ These are the items that deliver the best value per dollar and form the backbone
 Costco is incredible, but it's not the best deal on *everything*. Save your cart space:
 
 - **Fresh produce you can't use fast enough** — A 5 lb bag of spinach is only a deal if you don't throw half of it away. Exception: anything you plan to freeze (see the [Freezer Guide](freezer-guide.md)).
-- **Specialty spices and sauces** — Your local ethnic grocery stores almost always have better prices and better selection on things like whole spices, curry pastes, and specialty sauces.
+- **Specialty spices and sauces** — Your local Asian, Latin, or international grocery store almost always has better prices and better selection on things like whole spices, curry pastes, gochujang, and specialty sauces. This is especially true for our [international copycat recipes](../recipes/costco-copycats/international/) — the Costco ingredients are all standard US items, but the "Other Ingredients" often need a specialty store stop.
 - **Things you don't have room to store** — That 48-pack of paper towels is a great deal per roll, but not if it lives in your bathtub for six months.
 - **Produce with a short shelf life** — Avocados, berries (fresh), and bananas in bulk are a race against time.
 - **Name-brand items when Kirkland exists** — Kirkland Signature is almost always the same quality for less. Almost always.

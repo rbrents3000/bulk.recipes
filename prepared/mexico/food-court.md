@@ -1,6 +1,6 @@
 # Mexico Food Court Menu
 
-Costco Mexico keeps the core menu and adds some Mexican-inspired items. Being in Mexico means the food court has to compete with incredible street food — and it holds its own.
+Costco Mexico has to compete with some of the best street food on earth, which is an absurd bar for a warehouse food court — and yet it holds its own. The tortas are legit, the esquites are properly loaded with mayo and chili powder, and you can wash it all down with horchata or agua fresca. The core US menu is here too, but the Mexican exclusives are the reason to eat before you leave.
 
 **Locations:** 40+ warehouses across Mexico (Mexico City, Guadalajara, Monterrey, etc.)
 

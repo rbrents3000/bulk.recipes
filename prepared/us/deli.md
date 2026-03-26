@@ -1,6 +1,6 @@
 # US Deli & Prepared Foods
 
-The deli section is one of Costco's biggest draws. Items rotate seasonally but the core lineup stays consistent. Everything is designed to feed a family with minimal effort.
+The deli section is honestly why half of Costco members walk through the door. The $4.99 rotisserie chicken is the most famous loss leader in retail, and everything else in the case follows the same playbook: feed your whole family, keep it easy, keep it cheap. Items rotate seasonally, but the core lineup has been earning its spot for years.
 
 ## Year-Round Staples
 

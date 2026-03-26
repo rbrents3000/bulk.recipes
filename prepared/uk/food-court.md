@@ -1,6 +1,6 @@
 # UK Food Court Menu
 
-Costco UK food courts are smaller than the US, but carry the core items plus some British twists.
+Costco UK food courts are cozier than their American cousins, but they've figured out exactly what British shoppers want: jacket potatoes, fish and chips, and a chicken bacon panini that pairs perfectly with the existential exhaustion of a Saturday warehouse run. The core US menu is all here, and the hot dog combo is still GBP 1.50 — which, in a country where a Pret sandwich costs twice that, is genuinely heroic.
 
 **Locations:** 29 warehouses across the UK (England, Scotland, Wales)
 

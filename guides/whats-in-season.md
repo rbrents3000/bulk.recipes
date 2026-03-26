@@ -1,6 +1,6 @@
 # What's In Season
 
-> Your month-by-month guide to what's at Costco and what to cook with it. Updated for March 2026.
+> Costco's shelves change with the seasons, and if you blink, you'll miss the good stuff — here's your month-by-month cheat sheet so you never do.
 
 ---
 

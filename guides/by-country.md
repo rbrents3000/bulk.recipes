@@ -1,6 +1,6 @@
 # Costco by Country
 
-> Same warehouse, different menus. Here's what to expect wherever you are — and how to cook it at home.
+> Costco exists in 14 countries, and somehow every single one of them has a food court item you'll be jealous of.
 
 Whether you're shopping at your local Costco or just curious about what they sell on the other side of the world, this guide maps each country to its prepared foods, copycat recipes, and seasonal highlights.
 

@@ -1,6 +1,6 @@
 # US Food Court Menu
 
-The Costco food court is famous for its low prices and generous portions. The $1.50 hot dog combo hasn't changed since 1985.
+The Costco food court is the great American lunch counter — stubbornly cheap, unapologetically enormous, and somehow still selling a hot dog combo for $1.50 in 2026. That price hasn't budged since 1985, which at this point feels less like a business decision and more like a dare. The rest of the menu follows the same philosophy: big portions, low prices, zero pretense.
 
 ## Core Menu
 

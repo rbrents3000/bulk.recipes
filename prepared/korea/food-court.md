@@ -1,6 +1,6 @@
 # Korea Food Court Menu
 
-Costco Korea has arguably the best food court menu of any country. Korean food culture means the food court items are incredibly good, with several items you can't find anywhere else.
+Costco Korea might have the single best food court in the entire Costco universe, and it's not even close. Korean food culture demands that even a warehouse food court actually be good — so you get a pork bake with caramelized bulgogi filling, genuine tteokbokki in fiery gochujang sauce, double-fried chicken bites, and abalone porridge for under four dollars. The menu reads like a greatest hits of Korean street food and comfort food, except everything costs almost nothing.
 
 **Locations:** 20 warehouses across South Korea (Seoul, Busan, Daegu, etc.)
 

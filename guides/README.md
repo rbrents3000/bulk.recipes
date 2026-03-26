@@ -1,6 +1,6 @@
 # Guides
 
-> Tips, tricks, and strategies for getting the most out of your Costco haul.
+> You've got the cart loaded — now let's make sure nothing goes to waste and every meal slaps.
 
 Beyond recipes and product listings, these guides help you plan, save, and waste less.
 

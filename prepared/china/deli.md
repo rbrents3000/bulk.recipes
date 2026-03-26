@@ -1,6 +1,6 @@
 # China Deli & Prepared Foods
 
-Costco China's deli section combines US items with Chinese-style prepared foods. The quality and value have made Costco extremely popular in China — the deli is one of the first sections to get raided on busy weekends. The roast duck, in particular, has developed a following that rivals some dedicated duck restaurants. At a fraction of the price.
+Costco China's deli gets raided on busy weekends for good reason — the roast duck has developed a following that rivals actual duck restaurants, and the rest of the case is just as strong. Peking duck kits, mapo tofu, lion's head meatballs, dan dan noodles, dim sum platters — it's a greatest-hits tour of Chinese regional cooking, all in grab-and-go form, all at prices that make the membership pay for itself in a single visit.
 
 ## China-Specific Items
 
