@@ -9,7 +9,7 @@ const { items } = Astro.props;
 <div>
   <h3 class="text-xl font-bold mb-4 font-headline">Other Ingredients</h3>
 
-  <div class="flex flex-wrap gap-2">
+  <div class="flex flex-wrap gap-2" data-scalable="other">
     {items.map((item) => (
       <span class="px-4 py-2 bg-secondary-container/30 text-on-secondary-container rounded-full text-sm font-medium border border-secondary-container">
         {item}

@@ -1,5 +1,6 @@
 ---
 import FavoriteButton from './FavoriteButton';
+import { getCategoryImage } from '../data/categoryImages';
 
 interface Props {
   title: string;
@@ -32,6 +33,13 @@ const categoryMap: Record<string, string> = {
   'feeding-a-crowd': 'Crowd',
   'meal-prep': 'Meal Prep',
   'slow-cooker': 'Slow Cooker',
+  'appetizers': 'Appetizers',
+  'desserts': 'Desserts',
+  'drinks': 'Drinks',
+  'grilling': 'Grilling',
+  'salads': 'Salads',
+  'snacks': 'Snacks',
+  'soups': 'Soups',
 };
 const categoryLabel = categoryMap[category] || category.split('/').pop()?.replace(/-/g, ' ') || category;
 
@@ -39,27 +47,8 @@ const categoryLabel = categoryMap[category] || category.split('/').pop()?.replac
 const isBudget = cost <= 2;
 const isQuick = prep.includes('10 min') || prep.includes('5 min');
 
-// Category → image mapping
-const categoryImageMap: Record<string, string> = {
-  'costco-copycats/food-court': '/assets/categories/copycats.webp',
-  'costco-copycats/deli': '/assets/categories/copycats.webp',
-  'costco-copycats/bakery': '/assets/categories/desserts.webp',
-  'costco-copycats/international': '/assets/categories/copycats.webp',
-  'weeknight-dinners': '/assets/categories/weeknight.webp',
-  'rotisserie-chicken': '/assets/categories/rotisserie.webp',
-  'feeding-a-crowd': '/assets/categories/crowd.webp',
-  'meal-prep': '/assets/categories/meal-prep.webp',
-  'slow-cooker': '/assets/categories/slow-cooker.webp',
-  'appetizers': '/assets/categories/appetizers.webp',
-  'desserts': '/assets/categories/desserts.webp',
-  'drinks': '/assets/categories/drinks.webp',
-  'grilling': '/assets/categories/grilling.webp',
-  'salads': '/assets/categories/salads.webp',
-  'snacks': '/assets/categories/snacks.webp',
-  'soups': '/assets/categories/soups.webp',
-};
 const recipeImage = `/assets/recipes/${slug.split('/').pop()}.webp`;
-const categoryImage = categoryImageMap[category] || '/assets/categories/weeknight.webp';
+const categoryImage = getCategoryImage(category);
 ---
 
 <a href={href} class="group block">

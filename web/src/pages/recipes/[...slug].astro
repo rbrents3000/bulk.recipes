@@ -10,6 +10,7 @@ import StorageBox from '../../components/StorageBox.astro';
 import InstructionSteps from '../../components/InstructionSteps.astro';
 import LeftoverIdeas from '../../components/LeftoverIdeas.astro';
 import { extractTag } from '../../data/ingredientTags';
+import { getCategoryImage } from '../../data/categoryImages';
 import ShareBar from '../../components/ShareBar';
 
 export async function getStaticPaths() {
@@ -29,6 +30,11 @@ const {
 } = recipe.data;
 
 const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
+
+// Hero image
+const recipeSlug = recipe.id.split('/').pop();
+const recipeImage = `/assets/recipes/${recipeSlug}.webp`;
+const categoryImage = getCategoryImage(category);
 
 // Keywords for schema
 const keywords: string[] = [];
@@ -97,7 +103,7 @@ const related = currentTags.size > 0
     <header class="mb-10">
       <div class="mb-4">
         <span class="inline-flex items-center gap-2 px-4 py-1.5 bg-secondary-container text-on-secondary-container rounded-full text-xs font-bold uppercase tracking-wider">
-          {category.replace(/[-/]/g, ' ')}
+          {category.replace(/[-/]/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}
         </span>
       </div>
 
@@ -108,6 +114,17 @@ const related = currentTags.size > 0
       <p class="text-xl md:text-2xl text-on-surface-variant font-medium italic mb-6">
         "{description}"
       </p>
+
+      <!-- Hero image -->
+      <div class="rounded-xl overflow-hidden shadow-lg mb-6">
+        <img
+          src={recipeImage}
+          alt={title}
+          class="w-full max-h-[250px] md:max-h-[400px] object-cover"
+          loading="eager"
+          onerror={`this.src='${categoryImage}'`}
+        />
+      </div>
 
       <!-- Metadata bar -->
       <div class="grid grid-cols-2 gap-4 p-4 md:flex md:flex-wrap md:gap-4 md:p-6 bg-surface-container-low rounded-xl">
@@ -186,8 +203,8 @@ const related = currentTags.size > 0
     <section aria-label="Related recipes" class="max-w-6xl mx-auto mt-16 mb-8">
       <div class="flex justify-between items-end mb-8">
         <div>
-          <h2 class="text-3xl font-headline font-black tracking-tight">More Like This</h2>
-          <p class="text-on-surface-variant font-medium">From the same category</p>
+          <h2 class="text-3xl font-headline font-black tracking-tight">More Bulk Brilliance</h2>
+          <p class="text-on-surface-variant font-medium">Keep the pantry full and the wallet happy.</p>
         </div>
         <a href="/recipes" class="px-6 py-2 bg-surface-container-highest rounded-full text-sm font-bold hover:bg-outline-variant transition-colors">
           View All

@@ -65,8 +65,9 @@ function inferCuisine(cat: string): string {
   return 'American';
 }
 
-// Format servings with unit
-const formattedServings = servings.match(/\d+/) ? `${servings} servings` : servings;
+// Format servings with unit — parse leading integer to avoid "12 (24 pieces) servings"
+const servingsNum = parseInt(servings);
+const formattedServings = servingsNum ? `${servingsNum} servings` : servings;
 
 const schema: Record<string, unknown> = {
   "@context": "https://schema.org",

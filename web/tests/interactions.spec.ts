@@ -125,15 +125,17 @@ test.describe('Country Tabs', () => {
 });
 
 test.describe('Servings Scaler', () => {
-  test('servings scaler is present on recipe detail page', async ({ page }) => {
+  test('servings scaler multiplier buttons are present on recipe detail page', async ({ page }) => {
     await page.goto('/recipes/weeknight-dinners/birria-tacos', { waitUntil: 'networkidle' });
     await page.waitForTimeout(2000); // Wait for Preact hydration
 
-    const slider = page.locator('input[type="range"]').first();
-    if (await slider.isVisible()) {
-      // Slider should have a numeric value
-      const value = await slider.inputValue();
-      expect(parseFloat(value)).toBeGreaterThan(0);
+    // 1× button should be visible and selected by default
+    const oneXButton = page.locator('button', { hasText: '1×' });
+    await expect(oneXButton).toBeVisible();
+
+    // All multiplier buttons should be present
+    for (const label of ['½×', '1×', '2×', '3×', '4×']) {
+      await expect(page.locator('button', { hasText: label })).toBeVisible();
     }
   });
 });

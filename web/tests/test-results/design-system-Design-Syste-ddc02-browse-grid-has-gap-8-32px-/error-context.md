@@ -1,0 +1,429 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - navigation "Main navigation" [ref=e3]:
+    - generic [ref=e4]:
+      - link "bulk.recipes" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e6]:
+        - link "Recipes" [ref=e7] [cursor=pointer]:
+          - /url: /recipes
+        - link "Countries" [ref=e8] [cursor=pointer]:
+          - /url: /prepared
+        - link "Guides" [ref=e9] [cursor=pointer]:
+          - /url: /guides
+        - link "Products" [ref=e10] [cursor=pointer]:
+          - /url: /products
+    - button "Search (Ctrl+K)" [ref=e12]:
+      - generic [ref=e13]: search
+      - generic [ref=e14]: ⌘K
+  - main [ref=e15]:
+    - generic [ref=e18]:
+      - complementary [ref=e19]:
+        - heading "Filter by" [level=2] [ref=e20]
+        - generic [ref=e21]:
+          - text: Category
+          - combobox "Category" [ref=e22]:
+            - option "All Categories" [selected]
+            - option "Appetizers"
+            - option "Copycats — Bakery"
+            - option "Copycats — Deli"
+            - option "Copycats — Food Court"
+            - option "Copycats — International"
+            - option "Desserts"
+            - option "Drinks"
+            - option "Feeding a Crowd"
+            - option "Grilling"
+            - option "Meal Prep"
+            - option "Rotisserie Chicken"
+            - option "Salads"
+            - option "Slow Cooker"
+            - option "Snacks & Lunch"
+            - option "Soups"
+            - option "Weeknight Dinners"
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - generic [ref=e25]: Max Cost
+            - generic [ref=e26]: Any
+          - slider "Maximum cost per serving" [ref=e27] [cursor=pointer]: "10"
+          - generic [ref=e28]:
+            - generic [ref=e29]: $1
+            - generic [ref=e30]: $10+
+        - generic [ref=e31]:
+          - text: Cook Time
+          - generic [ref=e32]:
+            - button "All cook times" [pressed] [ref=e33]: All
+            - button "Under 30 minutes" [ref=e34]: ⏱️ < 30m
+            - button "30 to 60 minutes" [ref=e35]: ⏱️ 30-60m
+            - button "1 to 2 hours" [ref=e36]: ⏱️ 1-2h
+            - button "Over 2 hours" [ref=e37]: ⏱️ 2h+
+        - generic [ref=e38]:
+          - text: Ingredients
+          - generic [ref=e39]:
+            - button "Butter" [ref=e40]
+            - button "Eggs" [ref=e41]
+            - button "Olive Oil" [ref=e42]
+            - button "Rotisserie Chicken" [ref=e43]
+            - button "Mexican Cheese" [ref=e44]
+            - button "Heavy Cream" [ref=e45]
+            - button "Jasmine Rice" [ref=e46]
+            - button "Chicken Broth" [ref=e47]
+            - button "Chicken Thighs" [ref=e48]
+            - button "Ground Beef" [ref=e49]
+            - button "Honey" [ref=e50]
+            - button "Flour Tortillas" [ref=e51]
+            - button "Sesame Oil" [ref=e52]
+            - button "Diced Tomatoes" [ref=e53]
+            - button "Bacon" [ref=e54]
+            - button "Parmesan" [ref=e55]
+            - button "Mozzarella" [ref=e56]
+            - button "Chocolate Chips" [ref=e57]
+            - button "Sharp Cheddar" [ref=e58]
+            - button "Marinara Sauce" [ref=e59]
+        - generic [ref=e60]:
+          - text: Dietary
+          - generic [ref=e61]:
+            - generic [ref=e62] [cursor=pointer]:
+              - checkbox "Vegetarian" [ref=e63]
+              - generic [ref=e64]: Vegetarian
+            - generic [ref=e65] [cursor=pointer]:
+              - checkbox "Gluten-Free" [ref=e66]
+              - generic [ref=e67]: Gluten-Free
+            - generic [ref=e68] [cursor=pointer]:
+              - checkbox "Dairy-Free" [ref=e69]
+              - generic [ref=e70]: Dairy-Free
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - heading "Bulk Masterpieces" [level=1] [ref=e74]
+            - paragraph [ref=e75]: Showing 181 recipes for every occasion
+          - generic [ref=e76]:
+            - generic [ref=e77]: SORT BY
+            - combobox "Sort recipes by" [ref=e78]:
+              - option "Default" [selected]
+              - option "Cheapest First"
+              - option "Fastest First"
+              - option "Quickest Total"
+              - option "Alphabetical"
+        - generic [ref=e79]:
+          - link "Add to favorites Appetizers Bacon-Wrapped Stuffed Jalapenos Creamy cheese-stuffed jalapenos wrapped in thick-cut bacon and baked until crispy. The classic party appetizer that always gets finished first. $1.00/serving 25 min 12 (24 pieces)" [ref=e80] [cursor=pointer]:
+            - /url: /recipes/appetizers/bacon-wrapped-stuffed-jalapenos
+            - generic [ref=e81]:
+              - generic [ref=e83]:
+                - img [ref=e84]
+                - button "Add to favorites" [ref=e85]:
+                  - generic [ref=e86]: favorite
+                - generic [ref=e87]: Appetizers
+              - generic [ref=e88]:
+                - heading "Bacon-Wrapped Stuffed Jalapenos" [level=3] [ref=e89]
+                - paragraph [ref=e90]: Creamy cheese-stuffed jalapenos wrapped in thick-cut bacon and baked until crispy. The classic party appetizer that always gets finished first.
+                - generic [ref=e91]:
+                  - generic [ref=e92]:
+                    - generic [ref=e93]: payments
+                    - generic [ref=e94]: $1.00/serving
+                  - generic [ref=e95]:
+                    - generic [ref=e96]: timer
+                    - text: 25 min
+                  - generic [ref=e97]:
+                    - generic [ref=e98]: group
+                    - text: 12 (24 pieces)
+          - link "Add to favorites ⏱️ Quick Appetizers Bruschetta Crispy toasted Costco baguette piled high with garlicky tomatoes and fresh basil. The appetizer that proves simple ingredients done right always win. $0.75/serving 5 min 12 V" [ref=e99] [cursor=pointer]:
+            - /url: /recipes/appetizers/bruschetta
+            - generic [ref=e100]:
+              - generic [ref=e102]:
+                - img [ref=e103]
+                - button "Add to favorites" [ref=e104]:
+                  - generic [ref=e105]: favorite
+                - generic [ref=e106]: ⏱️ Quick
+                - generic [ref=e107]: Appetizers
+              - generic [ref=e108]:
+                - heading "Bruschetta" [level=3] [ref=e109]
+                - paragraph [ref=e110]: Crispy toasted Costco baguette piled high with garlicky tomatoes and fresh basil. The appetizer that proves simple ingredients done right always win.
+                - generic [ref=e111]:
+                  - generic [ref=e112]:
+                    - generic [ref=e113]: payments
+                    - generic [ref=e114]: $0.75/serving
+                  - generic [ref=e115]:
+                    - generic [ref=e116]: timer
+                    - text: 5 min
+                  - generic [ref=e117]:
+                    - generic [ref=e118]: group
+                    - text: "12"
+                - generic [ref=e120]: V
+          - link "Add to favorites ⏱️ Quick Appetizers Buffalo Chicken Dip The ultimate game day dip using Costco rotisserie chicken and cream cheese. Takes 5 minutes to throw together and disappears in 10. $1.50/serving 20 min 8 GF" [ref=e121] [cursor=pointer]:
+            - /url: /recipes/appetizers/buffalo-chicken-dip
+            - generic [ref=e122]:
+              - generic [ref=e124]:
+                - img [ref=e125]
+                - button "Add to favorites" [ref=e126]:
+                  - generic [ref=e127]: favorite
+                - generic [ref=e128]: ⏱️ Quick
+                - generic [ref=e129]: Appetizers
+              - generic [ref=e130]:
+                - heading "Buffalo Chicken Dip" [level=3] [ref=e131]
+                - paragraph [ref=e132]: The ultimate game day dip using Costco rotisserie chicken and cream cheese. Takes 5 minutes to throw together and disappears in 10.
+                - generic [ref=e133]:
+                  - generic [ref=e134]:
+                    - generic [ref=e135]: payments
+                    - generic [ref=e136]: $1.50/serving
+                  - generic [ref=e137]:
+                    - generic [ref=e138]: timer
+                    - text: 20 min
+                  - generic [ref=e139]:
+                    - generic [ref=e140]: group
+                    - text: "8"
+                - generic [ref=e142]: GF
+          - link "Add to favorites Appetizers Charcuterie Board A totally casual, no-big-deal cheese board that just happens to look like you hired a caterer. Costco is your secret weapon. $3.00/serving 0 min 10" [ref=e143] [cursor=pointer]:
+            - /url: /recipes/appetizers/charcuterie-board
+            - generic [ref=e144]:
+              - generic [ref=e146]:
+                - img [ref=e147]
+                - button "Add to favorites" [ref=e148]:
+                  - generic [ref=e149]: favorite
+                - generic [ref=e150]: Appetizers
+              - generic [ref=e151]:
+                - heading "Charcuterie Board" [level=3] [ref=e152]
+                - paragraph [ref=e153]: A totally casual, no-big-deal cheese board that just happens to look like you hired a caterer. Costco is your secret weapon.
+                - generic [ref=e154]:
+                  - generic [ref=e155]:
+                    - generic [ref=e156]: payments
+                    - generic [ref=e157]: $3.00/serving
+                  - generic [ref=e158]:
+                    - generic [ref=e159]: timer
+                    - text: 0 min
+                  - generic [ref=e160]:
+                    - generic [ref=e161]: group
+                    - text: "10"
+          - link "Add to favorites ⏱️ Quick Appetizers Soup Dumplings Fifty dumplings for fifteen bucks. This is why we have a Costco membership. $1.50/serving 10 min 6" [ref=e162] [cursor=pointer]:
+            - /url: /recipes/appetizers/soup-dumplings
+            - generic [ref=e163]:
+              - generic [ref=e165]:
+                - img [ref=e166]
+                - button "Add to favorites" [ref=e167]:
+                  - generic [ref=e168]: favorite
+                - generic [ref=e169]: ⏱️ Quick
+                - generic [ref=e170]: Appetizers
+              - generic [ref=e171]:
+                - heading "Soup Dumplings" [level=3] [ref=e172]
+                - paragraph [ref=e173]: Fifty dumplings for fifteen bucks. This is why we have a Costco membership.
+                - generic [ref=e174]:
+                  - generic [ref=e175]:
+                    - generic [ref=e176]: payments
+                    - generic [ref=e177]: $1.50/serving
+                  - generic [ref=e178]:
+                    - generic [ref=e179]: timer
+                    - text: 10 min
+                  - generic [ref=e180]:
+                    - generic [ref=e181]: group
+                    - text: "6"
+          - link "Add to favorites ⏱️ Quick Appetizers Spinach Artichoke Dip Hot, bubbly, and aggressively cheesy — the dip that turns a bag of tortilla chips into a legitimate dinner if you let it. $1.25/serving 25 min 12 V" [ref=e182] [cursor=pointer]:
+            - /url: /recipes/appetizers/spinach-artichoke-dip
+            - generic [ref=e183]:
+              - generic [ref=e185]:
+                - img [ref=e186]
+                - button "Add to favorites" [ref=e187]:
+                  - generic [ref=e188]: favorite
+                - generic [ref=e189]: ⏱️ Quick
+                - generic [ref=e190]: Appetizers
+              - generic [ref=e191]:
+                - heading "Spinach Artichoke Dip" [level=3] [ref=e192]
+                - paragraph [ref=e193]: Hot, bubbly, and aggressively cheesy — the dip that turns a bag of tortilla chips into a legitimate dinner if you let it.
+                - generic [ref=e194]:
+                  - generic [ref=e195]:
+                    - generic [ref=e196]: payments
+                    - generic [ref=e197]: $1.25/serving
+                  - generic [ref=e198]:
+                    - generic [ref=e199]: timer
+                    - text: 25 min
+                  - generic [ref=e200]:
+                    - generic [ref=e201]: group
+                    - text: "12"
+                - generic [ref=e203]: V
+          - link "Add to favorites ⏱️ Quick Appetizers Street Corn Dip (Esquites-Style) All the elote magic in dip form — creamy, tangy, a little spicy, and dangerously close to the chip bowl at every party. $1.00/serving 10 min 10 V GF" [ref=e204] [cursor=pointer]:
+            - /url: /recipes/appetizers/street-corn-dip
+            - generic [ref=e205]:
+              - generic [ref=e207]:
+                - img [ref=e208]
+                - button "Add to favorites" [ref=e209]:
+                  - generic [ref=e210]: favorite
+                - generic [ref=e211]: ⏱️ Quick
+                - generic [ref=e212]: Appetizers
+              - generic [ref=e213]:
+                - heading "Street Corn Dip (Esquites-Style)" [level=3] [ref=e214]
+                - paragraph [ref=e215]: All the elote magic in dip form — creamy, tangy, a little spicy, and dangerously close to the chip bowl at every party.
+                - generic [ref=e216]:
+                  - generic [ref=e217]:
+                    - generic [ref=e218]: payments
+                    - generic [ref=e219]: $1.00/serving
+                  - generic [ref=e220]:
+                    - generic [ref=e221]: timer
+                    - text: 10 min
+                  - generic [ref=e222]:
+                    - generic [ref=e223]: group
+                    - text: "10"
+                - generic [ref=e224]:
+                  - generic [ref=e225]: V
+                  - generic [ref=e226]: GF
+          - 'link "Add to favorites ⏱️ Quick Bakery Almond Croissants Here''s the hack: buy Kirkland butter croissants, split them, fill with almond cream, rebake, and you''ve got bakery-style almond croissants for a fraction of the price. This is literally what bakeries do with their day-old croissants. $1.25/each 15 min 6 V" [ref=e227] [cursor=pointer]':
+            - /url: /recipes/costco-copycats/bakery/almond-croissants
+            - generic [ref=e228]:
+              - generic [ref=e230]:
+                - img [ref=e231]
+                - button "Add to favorites" [ref=e232]:
+                  - generic [ref=e233]: favorite
+                - generic [ref=e234]: ⏱️ Quick
+                - generic [ref=e235]: Bakery
+              - generic [ref=e236]:
+                - heading "Almond Croissants" [level=3] [ref=e237]
+                - paragraph [ref=e238]: "Here's the hack: buy Kirkland butter croissants, split them, fill with almond cream, rebake, and you've got bakery-style almond croissants for a fraction of the price. This is literally what bakeries do with their day-old croissants."
+                - generic [ref=e239]:
+                  - generic [ref=e240]:
+                    - generic [ref=e241]: payments
+                    - generic [ref=e242]: $1.25/each
+                  - generic [ref=e243]:
+                    - generic [ref=e244]: timer
+                    - text: 15 min
+                  - generic [ref=e245]:
+                    - generic [ref=e246]: group
+                    - text: "6"
+                - generic [ref=e248]: V
+          - link "Add to favorites ⏱️ Quick Bakery Blueberry Muffins The size of a softball. The top is the best part. You know it, we know it, the streusel knows it. $0.75/muffin 25 min 12 muffins" [ref=e249] [cursor=pointer]:
+            - /url: /recipes/costco-copycats/bakery/blueberry-muffins
+            - generic [ref=e250]:
+              - generic [ref=e252]:
+                - img [ref=e253]
+                - button "Add to favorites" [ref=e254]:
+                  - generic [ref=e255]: favorite
+                - generic [ref=e256]: ⏱️ Quick
+                - generic [ref=e257]: Bakery
+              - generic [ref=e258]:
+                - heading "Blueberry Muffins" [level=3] [ref=e259]
+                - paragraph [ref=e260]: The size of a softball. The top is the best part. You know it, we know it, the streusel knows it.
+                - generic [ref=e261]:
+                  - generic [ref=e262]:
+                    - generic [ref=e263]: payments
+                    - generic [ref=e264]: $0.75/muffin
+                  - generic [ref=e265]:
+                    - generic [ref=e266]: timer
+                    - text: 25 min
+                  - generic [ref=e267]:
+                    - generic [ref=e268]: group
+                    - text: 12 muffins
+          - 'link "Add to favorites ⏱️ Quick Bakery Brownies Dense, fudgy, and absurdly thick — Costco''s bakery brownies are the gold standard of sheet pan brownies. This recipe nails the texture: chewy edges, gooey center, shiny crackly top. $0.50/serving 30 min 16 V" [ref=e269] [cursor=pointer]':
+            - /url: /recipes/costco-copycats/bakery/brownies
+            - generic [ref=e270]:
+              - generic [ref=e272]:
+                - img [ref=e273]
+                - button "Add to favorites" [ref=e274]:
+                  - generic [ref=e275]: favorite
+                - generic [ref=e276]: ⏱️ Quick
+                - generic [ref=e277]: Bakery
+              - generic [ref=e278]:
+                - heading "Brownies" [level=3] [ref=e279]
+                - paragraph [ref=e280]: "Dense, fudgy, and absurdly thick — Costco's bakery brownies are the gold standard of sheet pan brownies. This recipe nails the texture: chewy edges, gooey center, shiny crackly top."
+                - generic [ref=e281]:
+                  - generic [ref=e282]:
+                    - generic [ref=e283]: payments
+                    - generic [ref=e284]: $0.50/serving
+                  - generic [ref=e285]:
+                    - generic [ref=e286]: timer
+                    - text: 30 min
+                  - generic [ref=e287]:
+                    - generic [ref=e288]: group
+                    - text: "16"
+                - generic [ref=e290]: V
+          - link "Add to favorites Bakery Chocolate Croissants Pain au chocolat from the Costco bakery — flaky, buttery, with a stripe of dark chocolate running through the middle. The from-scratch version is a project, but there's a puff pastry shortcut that gets you 90% of the way there. $1.00/each 20 min 8 V" [ref=e291] [cursor=pointer]:
+            - /url: /recipes/costco-copycats/bakery/chocolate-croissants
+            - generic [ref=e292]:
+              - generic [ref=e294]:
+                - img [ref=e295]
+                - button "Add to favorites" [ref=e296]:
+                  - generic [ref=e297]: favorite
+                - generic [ref=e298]: Bakery
+              - generic [ref=e299]:
+                - heading "Chocolate Croissants" [level=3] [ref=e300]
+                - paragraph [ref=e301]: Pain au chocolat from the Costco bakery — flaky, buttery, with a stripe of dark chocolate running through the middle. The from-scratch version is a project, but there's a puff pastry shortcut that gets you 90% of the way there.
+                - generic [ref=e302]:
+                  - generic [ref=e303]:
+                    - generic [ref=e304]: payments
+                    - generic [ref=e305]: $1.00/each
+                  - generic [ref=e306]:
+                    - generic [ref=e307]: timer
+                    - text: 20 min
+                  - generic [ref=e308]:
+                    - generic [ref=e309]: group
+                    - text: "8"
+                - generic [ref=e311]: V
+          - link "Add to favorites ⏱️ Quick Bakery Cinnamon Coffee Cake The bakery classic with the streusel topping that falls off in your lap. Worth every crumb. $0.75/serving 45 min 12 V" [ref=e312] [cursor=pointer]:
+            - /url: /recipes/costco-copycats/bakery/cinnamon-coffee-cake
+            - generic [ref=e313]:
+              - generic [ref=e315]:
+                - img [ref=e316]
+                - button "Add to favorites" [ref=e317]:
+                  - generic [ref=e318]: favorite
+                - generic [ref=e319]: ⏱️ Quick
+                - generic [ref=e320]: Bakery
+              - generic [ref=e321]:
+                - heading "Cinnamon Coffee Cake" [level=3] [ref=e322]
+                - paragraph [ref=e323]: The bakery classic with the streusel topping that falls off in your lap. Worth every crumb.
+                - generic [ref=e324]:
+                  - generic [ref=e325]:
+                    - generic [ref=e326]: payments
+                    - generic [ref=e327]: $0.75/serving
+                  - generic [ref=e328]:
+                    - generic [ref=e329]: timer
+                    - text: 45 min
+                  - generic [ref=e330]:
+                    - generic [ref=e331]: group
+                    - text: "12"
+                - generic [ref=e333]: V
+        - generic [ref=e334]:
+          - button "Previous page" [disabled] [ref=e335]:
+            - generic [ref=e336]: chevron_left
+          - button "1" [ref=e337]
+          - button "2" [ref=e338]
+          - generic [ref=e339]: ...
+          - button "16" [ref=e340]
+          - button "Next page" [ref=e341]:
+            - generic [ref=e342]: chevron_right
+  - contentinfo [ref=e343]:
+    - generic [ref=e344]:
+      - link "bulk.recipes" [ref=e345] [cursor=pointer]:
+        - /url: /
+      - paragraph [ref=e346]: © 2026 bulk.recipes
+    - navigation "Footer navigation" [ref=e347]:
+      - link "Meal Plans" [ref=e348] [cursor=pointer]:
+        - /url: /guides/meal-plans
+      - link "Cost Index" [ref=e349] [cursor=pointer]:
+        - /url: /guides/cost-index
+      - link "Dietary Index" [ref=e350] [cursor=pointer]:
+        - /url: /guides/dietary
+      - link "Freezer Guide" [ref=e351] [cursor=pointer]:
+        - /url: /guides/freezer-guide
+      - link "GitHub" [ref=e352] [cursor=pointer]:
+        - /url: https://github.com/rbrents3000/bulk.recipes
+    - generic [ref=e353]:
+      - link "GitHub" [ref=e354] [cursor=pointer]:
+        - /url: https://github.com/rbrents3000/bulk.recipes
+        - generic [ref=e355]: code
+      - button "Share" [ref=e356]:
+        - generic [ref=e357]: share
+  - generic [ref=e360]:
+    - button "Menu" [ref=e361]:
+      - img [ref=e363]
+      - generic: Menu
+    - button "Inspect" [ref=e367]:
+      - img [ref=e369]
+      - generic: Inspect
+    - button "Audit" [ref=e371]:
+      - generic [ref=e372]:
+        - img [ref=e373]
+        - img [ref=e376]
+      - generic: Audit
+    - button "Settings" [ref=e379]:
+      - img [ref=e381]
+      - generic: Settings
+```

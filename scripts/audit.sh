@@ -4,7 +4,7 @@
 
 set -uo pipefail
 
-REPO_ROOT="$(cd "$(dirname "$0")" && pwd)"
+REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 ERRORS=0
 WARNINGS=0
 

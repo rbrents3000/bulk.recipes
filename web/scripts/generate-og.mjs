@@ -27,24 +27,30 @@ const fonts = [
 
 function getAllRecipes() {
   const recipes = [];
-  const categories = fs.readdirSync(RECIPES_DIR).filter(f =>
-    fs.statSync(path.join(RECIPES_DIR, f)).isDirectory()
-  );
-  for (const cat of categories) {
-    const catDir = path.join(RECIPES_DIR, cat);
-    const files = fs.readdirSync(catDir).filter(f => f.endsWith('.md'));
-    for (const file of files) {
-      const raw = fs.readFileSync(path.join(catDir, file), 'utf-8');
-      const { data } = matter(raw);
-      const slug = file.replace('.md', '');
-      recipes.push({
-        id: `${cat}/${slug}`,
-        slug,
-        category: cat,
-        ...data,
-      });
+
+  function scanDir(dir, categoryPrefix) {
+    const entries = fs.readdirSync(dir);
+    for (const entry of entries) {
+      const fullPath = path.join(dir, entry);
+      const stat = fs.statSync(fullPath);
+      if (stat.isDirectory()) {
+        const nextPrefix = categoryPrefix ? `${categoryPrefix}/${entry}` : entry;
+        scanDir(fullPath, nextPrefix);
+      } else if (entry.endsWith('.md') && entry !== 'README.md' && categoryPrefix) {
+        const raw = fs.readFileSync(fullPath, 'utf-8');
+        const { data } = matter(raw);
+        const slug = entry.replace('.md', '');
+        recipes.push({
+          id: `${categoryPrefix}/${slug}`,
+          slug,
+          category: categoryPrefix,
+          ...data,
+        });
+      }
     }
   }
+
+  scanDir(RECIPES_DIR, '');
   return recipes;
 }
 
