@@ -73,7 +73,9 @@ The stuff you wish someone had told you before your first Costco run. Meal plans
 [Your First Trip](guides/first-trip.md) ·
 [Party Planning](guides/party-planning.md) ·
 [Dietary Index](guides/dietary.md) ·
-[Holiday Collections](guides/holidays.md)
+[Holiday Collections](guides/holidays.md) ·
+[What's In Season](guides/whats-in-season.md) ·
+[Costco by Country](guides/by-country.md)
 
 ---
 

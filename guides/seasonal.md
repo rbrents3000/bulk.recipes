@@ -157,3 +157,5 @@ Some things at Costco never change. These are always available, always reliable,
 Costco's seasonal items are a "blink and you miss it" situation. If you see something you love, buy it that trip. The warehouses don't hold inventory for sentimental reasons. That jalapeño artichoke dip you fell in love with last March? It might not be back until next March. Or ever.
 
 The only constant at Costco is the $4.99 rotisserie chicken and the $1.50 hot dog. Everything else is a beautiful, unpredictable adventure.
+
+> **Want a month-by-month breakdown?** See [What's In Season](whats-in-season.md) for specific recipes and bakery/deli highlights for every month of the year.
