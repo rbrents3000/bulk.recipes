@@ -10,6 +10,25 @@ category: "rotisserie-chicken"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Rotisserie Chicken — 1/2 chicken (about 1.5 cups shredded) (~$4.99, 3 lb whole chicken)"
+  - "Stonefire Original Naan — 4 pieces (~$5.49, 4-pack)"
+  - "Kirkland Signature Shredded Mozzarella Cheese — 2 cups (~$12.99, 2.5 lb bag)"
+other_ingredients:
+  - "1/2 cup BBQ sauce (your favorite brand)"
+  - "1/2 small Red onion, thinly sliced"
+  - "2 tablespoons Cilantro, chopped *(optional)*"
+  - "1 tablespoon Olive oil"
+  - "to taste Red pepper flakes *(optional)*"
+instructions:
+  - "Preheat oven to 425°F (220°C). Line a large baking sheet with parchment paper or foil."
+  - "Shred the rotisserie chicken, discarding skin and bones. Toss the shredded chicken with about half the BBQ sauce in a bowl until evenly coated."
+  - "Place the naan pieces on the baking sheet. Brush each one lightly with olive oil, then spread a thin layer of the remaining BBQ sauce over each naan."
+storage: "Refrigerate leftover pizza up to 3 days. Reheat in a 375°F oven for 5-7 minutes or in a skillet over medium heat with a lid on to re-melt the cheese. Avoid the microwave — it makes the naan rubbery."
+leftover_ideas:
+  - "Use the other half of the rotisserie chicken for chicken salad or tacos"
+  - "Extra naan works great as garlic bread — brush with butter and garlic, toast in the oven"
+  - "Leftover BBQ chicken makes a solid quesadilla filling with the extra mozzarella"
 ---
 # BBQ Chicken Pizza
 

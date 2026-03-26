@@ -10,6 +10,35 @@ category: "drinks"
 vegetarian: true
 gluten_free: true
 dairy_free: true
+costco_ingredients:
+  - "Kirkland Frozen Mango Chunks — about 1 lb (~$9.99, 3 lb bag) **OR** Whole Watermelon — use half (~$6.99)"
+  - "Limes — juice of 2 (~$4.99, 3 lb bag)"
+other_ingredients:
+  - "6 cups cold water"
+  - "1/4 cup sugar or honey (adjust to sweetness of your fruit)"
+  - "Ice for serving"
+  - "Fresh mint leaves (optional, but they take it from good to gorgeous)"
+  - "Pinch of salt (optional — same trick as margarita salt, brings out the fruit flavor)"
+instructions:
+  - "If using frozen mango, let it thaw on the counter for about 10 minutes so your blender doesn't sound like it's grinding rocks."
+  - "If using watermelon, cut it into chunks and remove any seeds you see. Don't stress about the small white ones."
+  - "Add the fruit and 2 cups of water to a blender. Blend on high until completely smooth, about 30-45 seconds."
+  - "Here's where the two paths diverge:"
+  - "Add the remaining 4 cups of cold water to the pitcher."
+  - "Squeeze in the juice of 2 limes."
+  - "Add the sugar or honey and stir until dissolved. Start with less — you can always add more."
+  - "Taste and adjust. More lime if it's too sweet, more sweetener if the fruit wasn't at peak ripeness."
+  - "Add a pinch of salt if you want. It sounds weird but it makes the fruit flavor pop."
+  - "Serve over plenty of ice, garnished with mint leaves and a lime wheel if you're showing off."
+  - "For a spicy kick, add a few thin slices of jalapeño to the pitcher and let them steep for 15-20 minutes before serving. Remove them before your guests arrive unless you want to see some interesting facial expressions."
+  - "If serving at a party, set out the pitcher with a ladle or pour it into a dispenser with a spigot. It looks beautiful and disappears fast."
+storage: "Keeps 3-4 days in the fridge in a sealed pitcher. The fruit solids will settle to the bottom — just give it a good stir before each pour. The watermelon version may get a little foamy on top after sitting; that's totally normal, stir it right in."
+leftover_ideas:
+  - "Pour into popsicle molds for homemade paletas"
+  - "Use as a cocktail mixer — mango agua fresca with tequila and a tajin rim is a life-changing decision"
+  - "Pour over shaved ice for an instant raspado"
+  - "Freeze in ice cube trays and add to plain water throughout the week"
+  - "Blend with ice for a slushy version on hot days"
 ---
 # Agua Fresca
 

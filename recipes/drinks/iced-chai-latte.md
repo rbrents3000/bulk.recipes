@@ -10,6 +10,38 @@ category: "drinks"
 vegetarian: true
 gluten_free: true
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Chai Tea — 6 bags (~$14.99, 100-count box)"
+  - "Kirkland Honey — 2 tbsp (~$12.99, 5 lb jar)"
+  - "Kirkland Whole Milk — 2 cups, or use whatever milk you like (~$5.49, 2-gallon pack)"
+other_ingredients:
+  - "2 cups water"
+  - "1 tsp vanilla extract"
+  - "Ice (the more the better)"
+  - "Ground cinnamon for garnish"
+  - "Pinch of ground cardamom (optional, for the overachievers)"
+  - "Whipped cream for topping (optional, but let's be real — you're going to)"
+instructions:
+  - "Bring 2 cups of water to a rolling boil in a small saucepan."
+  - "Remove from heat and add 6 chai tea bags. Yes, six. You need this concentrate strong enough to stand up to ice and milk without turning into vaguely spiced water."
+  - "Let the bags steep for exactly 5 minutes. Set a timer. Under-steeping leaves it weak; over-steeping makes it bitter."
+  - "Remove the tea bags. Do not squeeze them — squeezing pushes out tannins that make the tea taste harsh."
+  - "While the concentrate is still warm, stir in the honey and vanilla extract until the honey fully dissolves."
+  - "Let the concentrate cool to room temperature. To speed this up, pour it into a wide shallow bowl or set the saucepan in an ice bath."
+  - "Once cool, transfer to a jar and refrigerate until cold, at least 30 minutes."
+  - "When you're ready to serve, fill four glasses generously with ice."
+  - "Pour the chai concentrate over the ice, filling each glass about halfway."
+  - "Top with cold milk and stir gently."
+  - "Dust with cinnamon (and cardamom if you went for it). Admire your work."
+  - "Top with whipped cream if you're going full coffee shop mode. No one's judging."
+  - "Pop in a reusable straw and pretend you're not going to finish this in four minutes."
+storage: "The chai concentrate (before adding milk) keeps for up to 5 days in the fridge in a sealed jar. Always add the milk fresh when serving — dairy and tea concentrate don't age well together. Make a big batch on Sunday and pour iced chai all week like the beverage mogul you've become."
+leftover_ideas:
+  - "Pour leftover concentrate into popsicle molds for chai popsicles"
+  - "Warm it up on the stovetop with milk for a rainy-day hot chai"
+  - "Blend with vanilla ice cream for a chai milkshake that has no business being this good"
+  - "Use as a base for chai-spiced overnight oats"
+  - "Mix into pancake or waffle batter for a spiced breakfast situation"
 ---
 # Iced Chai Latte
 

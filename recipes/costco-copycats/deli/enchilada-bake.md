@@ -10,6 +10,32 @@ category: "costco-copycats/deli"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Rotisserie Chicken — 1 whole, shredded (~$4.99, 3 lb chicken)"
+  - "Kirkland Signature Shredded Mexican Blend Cheese — 3 cups (~$12.99, 2.5 lb bag)"
+  - "Kirkland Signature Flour Tortillas — 10 large (~$4.49, 24 count)"
+  - "Kirkland Signature Organic Diced Tomatoes — 1 can, 14.5 oz (~$1.50, 8-pack)"
+other_ingredients:
+  - "2 cans (10 oz each) red enchilada sauce"
+  - "1 can (4 oz) diced green chiles"
+  - "1 cup sour cream"
+  - "1 teaspoon cumin"
+  - "1 teaspoon garlic powder"
+  - "Salt and pepper to taste"
+  - "Fresh cilantro for garnish *(optional)*"
+  - "Sliced green onions for garnish *(optional)*"
+instructions:
+  - "Preheat oven to 375°F (190°C). Grease a 9x13 baking dish."
+  - "In a bowl, mix shredded chicken with sour cream, diced tomatoes, green chiles, cumin, garlic powder, and 1 cup of cheese. Season with salt and pepper."
+  - "Spread 1/2 cup enchilada sauce on the bottom of the baking dish."
+  - "Layer: tortillas (tear to fit), half the chicken mixture, 1/2 cup cheese, more sauce. Repeat. Top with remaining tortillas, remaining sauce, and remaining cheese."
+  - "Cover with foil and bake 20 minutes. Remove foil and bake 10 more minutes until cheese is bubbly and edges are crispy."
+  - "Let rest 5 minutes before slicing. Top with cilantro and green onions."
+storage: "Refrigerate up to 4 days. Freezes great for up to 3 months — thaw overnight in the fridge and reheat at 350°F for 25 minutes."
+leftover_ideas:
+  - "Cut a square and fry it in a skillet until crispy on both sides"
+  - "Top a slice with a fried egg for breakfast enchiladas"
+  - "Crumble into a bowl with rice and beans for a burrito bowl"
 ---
 # Copycat Costco Enchilada Bake
 

@@ -10,6 +10,23 @@ category: "feeding-a-crowd"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Meatloaf — 1 package (~4 lbs) (~$17.99, ~4 lbs (serves 8))"
+  - "Russet Potatoes — 3 lbs (about 6 large) (~$5.99, 10 lb bag)"
+  - "Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)"
+  - "Kirkland Signature Heavy Whipping Cream — 1/2 cup (~$9.99, 1.5 quarts)"
+other_ingredients:
+  - "to taste Salt and pepper"
+  - "1 lb, trimmed Green beans *(optional)*"
+  - "1/4 cup (for extra glaze) Ketchup *(optional)*"
+instructions:
+  - "Preheat oven to 375°F (190°C)."
+  - "Remove the meatloaf from packaging and place on a foil-lined sheet pan or in the provided tray. If you want extra glaze, brush the top with ketchup."
+  - "Bake for 55-65 minutes until internal temperature reaches 160°F."
+storage: "Refrigerate leftover meatloaf and mashed potatoes separately for up to 4 days. Meatloaf freezes well for up to 3 months."
+leftover_ideas:
+  - "Meatloaf sandwiches on Costco bakery bread with ketchup and pickles"
+  - "Crumble leftover meatloaf into pasta sauce for a quick bolognese"
 ---
 # Costco Meatloaf with Mashed Potatoes
 

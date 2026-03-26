@@ -10,6 +10,29 @@ category: "costco-copycats/food-court"
 vegetarian: true
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)"
+  - "Kirkland Signature Large Eggs — 2 eggs (~$7.99, 5 dozen)"
+other_ingredients:
+  - "1 cup Water"
+  - "1 cup All-purpose flour"
+  - "1/2 cup (1/4 cup for dough, 1/4 cup for coating) Sugar"
+  - "1/2 teaspoon Salt"
+  - "1 teaspoon Vanilla extract"
+  - "1 tablespoon Cinnamon"
+  - "3 cups (for frying) Vegetable oil"
+  - "1/2 cup, for dipping Chocolate sauce *(optional)*"
+instructions:
+  - "Combine water, butter, 1/4 cup sugar, and salt in a saucepan. Bring to a boil."
+  - "Remove from heat and stir in flour all at once. Mix vigorously until a dough ball forms and pulls away from the sides of the pan."
+  - "Let cool for 2 minutes, then beat in eggs one at a time and vanilla until smooth. The dough should be thick and pipeable."
+  - "Transfer dough to a piping bag fitted with a large star tip (or a zip-lock bag with the corner cut off)."
+  - "Heat oil to 375°F (190°C) in a deep pot or Dutch oven."
+  - "Pipe 6-inch strips of dough directly into the hot oil, cutting with scissors. Fry 3-4 at a time for 2-3 minutes per side until deep golden brown."
+storage: "Best eaten immediately. You can freeze uncooked dough for up to 1 month — pipe frozen sticks directly into hot oil, adding 1-2 minutes to cook time."
+leftover_ideas:
+  - "Chop stale churros and use as ice cream topping"
+  - "Make churro French toast by dipping in egg and pan-frying"
 ---
 # Copycat Costco Churros
 

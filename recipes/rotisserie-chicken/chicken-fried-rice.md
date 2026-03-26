@@ -10,6 +10,23 @@ category: "rotisserie-chicken"
 vegetarian: false
 gluten_free: false
 dairy_free: true
+costco_ingredients:
+  - "Kirkland Signature Rotisserie Chicken — 2 cups shredded (~$4.99, 3 lb whole chicken)"
+  - "Kirkland Signature Jasmine Rice — 3 cups cooked (about 1.5 cups dry) (~$16.99, 25 lb bag)"
+  - "Kirkland Signature Large Eggs — 3 eggs (~$7.99, 5 dozen)"
+  - "Kirkland Signature Extra Virgin Olive Oil — 2 tablespoons (~$13.99, 2 L)"
+other_ingredients:
+  - "3 tablespoons Soy sauce"
+  - "1 tablespoon Sesame oil"
+  - "1 cup Frozen peas and carrots"
+  - "3 cloves, minced Garlic"
+  - "4 stalks, sliced Green onions"
+instructions:
+  - "Use day-old rice if possible — freshly cooked rice will be too moist. Spread leftover rice on a sheet pan and refrigerate for at least 30 minutes if using fresh."
+storage: "Refrigerate up to 4 days. Reheat in a skillet for best results."
+leftover_ideas:
+  - "Wrap in a tortilla for a fusion burrito"
+  - "Stuff into bell peppers and bake"
 ---
 # Rotisserie Chicken Fried Rice
 

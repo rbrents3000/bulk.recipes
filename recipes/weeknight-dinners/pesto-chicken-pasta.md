@@ -10,6 +10,24 @@ category: "weeknight-dinners"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Rotisserie Chicken — 2 cups shredded (~$4.99, 3 lb whole chicken)"
+  - "Kirkland Signature Penne Rigate — 1 lb penne (~$8.99, 4 x 1 lb boxes)"
+  - "Kirkland Signature Pesto — 3/4 cup (~$9.99, 22 oz jar)"
+  - "Kirkland Signature Shredded Parmigiano Reggiano — 1/2 cup (~$14.99, 1 lb tub)"
+other_ingredients:
+  - "1 cup, halved Cherry tomatoes *(optional)*"
+  - "2 tablespoons, toasted Pine nuts *(optional)*"
+  - "to taste Salt and pepper"
+instructions:
+  - "Cook pasta according to package directions. Reserve 1/2 cup pasta water before draining."
+  - "Return drained pasta to the pot. Add pesto, shredded chicken, and a splash of pasta water. Toss until everything is coated."
+  - "Add cherry tomatoes if using. Season with salt and pepper."
+  - "Serve topped with Parmesan and toasted pine nuts."
+storage: "Refrigerate up to 3 days. Add a splash of olive oil when reheating to loosen the pesto."
+leftover_ideas:
+  - "Eat cold as a pesto pasta salad"
+  - "Stuff into bell peppers and bake with mozzarella on top"
 ---
 # Pesto Chicken Pasta
 

@@ -10,6 +10,32 @@ category: "costco-copycats/international"
 vegetarian: true
 gluten_free: false
 dairy_free: true
+costco_ingredients:
+  - "Kirkland Signature Sesame Oil — 2 tablespoons (~$6.99, 20 oz)"
+other_ingredients:
+  - "2 cups all-purpose flour"
+  - "3/4 cup boiling water"
+  - "1/2 teaspoon salt"
+  - "6 green onions, thinly sliced"
+  - "2 tablespoons sesame oil"
+  - "Vegetable oil for pan-frying (about 3 tablespoons per pancake)"
+  - "Flaky sea salt for finishing"
+  - "2 tablespoons soy sauce"
+  - "1 tablespoon rice vinegar"
+  - "1 teaspoon sesame oil"
+  - "1/2 teaspoon chili oil or sriracha *(optional)*"
+instructions:
+  - "Mix flour and salt in a bowl. Pour in boiling water and stir with chopsticks or a fork until a shaggy dough forms. Knead 5 minutes until smooth. Cover and rest 30 minutes."
+  - "Divide dough into 4 pieces. Roll each piece into a thin circle (about 10 inches)."
+  - "Brush the surface with sesame oil. Scatter sliced scallions generously across."
+  - "Roll up tightly into a log, then coil the log into a spiral. Flatten with your palm, then roll out again into a circle (about 7-8 inches). The layers create the flakiness."
+  - "Heat 2-3 tablespoons vegetable oil in a skillet over medium heat. Fry each pancake 2-3 minutes per side until golden and crispy."
+  - "Drain on paper towels. Sprinkle with flaky salt. Cut into wedges."
+  - "Mix dipping sauce ingredients and serve alongside."
+storage: "Best eaten immediately. Cooked pancakes can be re-crisped in a dry skillet. Freeze the rolled-out (uncooked) pancakes between parchment paper for up to 2 months — fry from frozen, adding 1 minute per side."
+leftover_ideas:
+  - "Wrap around leftover meat and vegetables for a savory crepe"
+  - "Cut into strips and serve with soup instead of crackers"
 ---
 # Copycat Costco China Scallion Pancakes
 

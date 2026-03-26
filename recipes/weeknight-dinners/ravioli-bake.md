@@ -10,6 +10,29 @@ category: "weeknight-dinners"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Fresh Cheese Ravioli — 1 package, about 2 lbs (~$9.99, 2-pack/2 lb each)"
+  - "Kirkland Signature Marinara Sauce — 1 jar, 24 oz (~$7.99, 3-pack/24 oz jars)"
+  - "Kirkland Signature Shredded Mozzarella — 2 cups (~$11.99, 2.5 lb bag)"
+  - "Kirkland Signature Extra Virgin Olive Oil — 1 tablespoon (~$13.99, 2 L)"
+other_ingredients:
+  - "1/2 teaspoon Garlic powder"
+  - "1/2 teaspoon Dried Italian seasoning"
+  - "1/4 teaspoon Red pepper flakes *(optional)*"
+  - "to taste Salt and pepper"
+  - "Fresh basil leaves *(for garnish, optional)*"
+instructions:
+  - "Preheat oven to 400°F (200°C). Lightly grease a 9x13 baking dish with olive oil."
+  - "Spread about 1/2 cup marinara sauce across the bottom of the baking dish."
+  - "Arrange the fresh ravioli in an even layer over the sauce — it's fine if they overlap slightly. Season with garlic powder, Italian seasoning, salt, and pepper."
+  - "Pour the remaining marinara evenly over the ravioli, making sure every piece gets some coverage. Scatter red pepper flakes on top if using."
+  - "Cover tightly with foil and bake for 15 minutes."
+  - "Remove foil, spread mozzarella in an even layer over the top, and return to the oven uncovered for 10 minutes until the cheese is melted and starting to brown at the edges."
+  - "Let rest for 5 minutes before serving. Top with fresh basil if you have it."
+storage: "Refrigerate covered for up to 4 days. Reheat individual portions in the microwave, or cover the dish with foil and warm at 350°F for 15 minutes."
+leftover_ideas:
+  - "Cut cold ravioli bake into squares and pack for lunch — it holds together nicely"
+  - "Top reheated portions with a fried egg for a brunch-worthy leftover meal"
 ---
 # Ravioli Bake
 

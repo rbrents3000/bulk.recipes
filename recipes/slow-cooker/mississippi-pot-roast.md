@@ -10,6 +10,27 @@ category: "slow-cooker"
 vegetarian: false
 gluten_free: true
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Chuck Roast — 3-4 lbs (~$22.00, sold per lb)"
+  - "Pepperoncini Peppers — 8-10 whole peppers + a splash of jar juice (~$3.99, jar)"
+  - "Butter — 1/2 stick (~$8.99, Kirkland 4-pack, 1 lb each)"
+other_ingredients:
+  - "1 packet ranch seasoning mix (1 oz)"
+  - "1 packet au jus gravy mix (1 oz)"
+instructions:
+  - "Place chuck roast in the slow cooker."
+  - "Sprinkle ranch seasoning and au jus mix over the top."
+  - "Scatter pepperoncini peppers around and over the roast. Add a splash of pepperoncini juice."
+  - "Place the half stick of butter on top of the roast."
+  - "Cover and cook on LOW for 8 hours or HIGH for 4-5 hours."
+  - "Shred with two forks. Stir the meat into the sauce."
+  - "Try not to eat the entire batch standing over the slow cooker."
+storage: "Refrigerate for up to 4 days. Freezes well for up to 3 months. The fat will solidify on top in the fridge -- just reheat and it melts right back into saucy perfection."
+leftover_ideas:
+  - "Pile onto hoagie rolls for Mississippi pot roast sandwiches"
+  - "Serve over mashed potatoes or egg noodles"
+  - "Load onto nachos with cheese and pickled jalapenos"
+  - "Stuff into quesadillas with shredded cheese"
 ---
 # Mississippi Pot Roast
 

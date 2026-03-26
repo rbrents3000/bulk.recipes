@@ -10,6 +10,25 @@ category: "drinks"
 vegetarian: true
 gluten_free: true
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Frozen Mango Chunks — 2 cups (~$11.99, 4 lb bag)"
+  - "Kirkland Greek Yogurt — 1 cup (~$7.99, 2-pack tubs)"
+  - "Kirkland Honey — 2 tbsp (~$12.99, 5 lb jug)"
+other_ingredients:
+  - "1 cup milk (whole milk is traditional, any kind works)"
+  - "1/4 tsp ground cardamom"
+  - "Pinch of saffron threads (optional, for the fancy version)"
+instructions:
+  - "Add frozen mango chunks, Greek yogurt, milk, honey, and cardamom to a blender."
+  - "Blend on high until smooth and frothy, about 60 seconds."
+  - "Taste and adjust sweetness -- ripe mangoes may need less honey."
+  - "Pour into glasses. If feeling traditional, sprinkle a tiny pinch of cardamom on top."
+  - "Close your eyes, take a sip, and pretend you're somewhere tropical."
+storage: "Best served fresh. Can be refrigerated for up to 24 hours in a sealed jar. Stir well before drinking as the mango tends to settle."
+leftover_ideas:
+  - "Freeze into popsicle molds for mango lassi pops"
+  - "Pour over chia seeds and refrigerate overnight for mango chia pudding"
+  - "Use as a dipping sauce base for fruit skewers at a party"
 ---
 # Mango Lassi
 

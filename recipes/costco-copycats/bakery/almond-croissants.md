@@ -10,6 +10,34 @@ category: "costco-copycats/bakery"
 vegetarian: true
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Butter Croissants — 6 (~$5.99, 12-pack)"
+  - "Kirkland Signature Sliced Almonds — 1/2 cup (~$9.99, 2 lb bag)"
+  - "Kirkland Signature Unsalted Butter — 4 tablespoons, softened (~$12.99, 4 x 1 lb bars)"
+other_ingredients:
+  - "4 tablespoons softened butter"
+  - "1/3 cup sugar"
+  - "1 egg"
+  - "3/4 cup almond flour (or finely ground blanched almonds)"
+  - "1 tablespoon all-purpose flour"
+  - "1/2 teaspoon almond extract"
+  - "Pinch of salt"
+  - "2 tablespoons sugar"
+  - "2 tablespoons water"
+  - "Sliced almonds for topping"
+  - "Powdered sugar for dusting"
+instructions:
+  - "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper."
+  - "**Almond cream:** Beat butter and sugar until fluffy. Beat in egg, then fold in almond flour, all-purpose flour, almond extract, and salt."
+  - "**Simple syrup:** Heat sugar and water in a small saucepan until sugar dissolves."
+  - "Slice each croissant in half horizontally. Brush the cut sides with simple syrup."
+  - "Spread 2 tablespoons of almond cream on the bottom half. Replace the top. Spread another tablespoon of almond cream on top of the croissant. Press sliced almonds into it."
+  - "Bake 12-15 minutes until the almond cream is golden and set."
+  - "Dust with powdered sugar while warm."
+storage: "Best eaten the day they're made. Store at room temperature up to 1 day. Don't refrigerate — it kills the texture."
+leftover_ideas:
+  - "Slice and use as the base for an over-the-top French toast"
+  - "Crumble into a bowl and top with vanilla ice cream and a drizzle of honey"
 ---
 # Copycat Costco Almond Croissants
 

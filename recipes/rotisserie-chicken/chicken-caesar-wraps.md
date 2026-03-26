@@ -10,6 +10,22 @@ category: "rotisserie-chicken"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Rotisserie Chicken — 1 chicken (about 3 cups shredded) (~$4.99, 3 lb whole chicken)"
+  - "Fresh Express Caesar Salad Kit — 1 bag (~$4.99, 22 oz kit with dressing and croutons)"
+  - "Kirkland Signature Flour Tortillas — 6 tortillas (~$4.49, 24 count)"
+other_ingredients:
+  - "1/2 cup Shredded Parmesan cheese"
+  - "1 tablespoon Lemon juice *(optional)*"
+  - "to taste Black pepper"
+instructions:
+  - "Shred the rotisserie chicken, discarding skin and bones. You should get about 3 cups of shredded meat."
+  - "Open the Caesar salad kit. Toss the lettuce with the dressing packet and croutons in a large bowl. Add the shredded chicken and Parmesan. Toss everything together."
+storage: "Best eaten fresh. If prepping ahead, store the shredded chicken and dressed salad separately in the fridge — assemble wraps right before eating so the tortillas don't get soggy. Shredded chicken keeps up to 4 days refrigerated."
+leftover_ideas:
+  - "Skip the tortilla and serve it as a regular chicken Caesar salad"
+  - "Chop up leftover chicken and toss with Caesar dressing for a chicken Caesar pasta salad"
+  - "Use remaining tortillas for quesadillas or breakfast burritos"
 ---
 # Chicken Caesar Wraps
 

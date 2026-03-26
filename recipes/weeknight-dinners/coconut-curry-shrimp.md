@@ -10,6 +10,36 @@ category: "weeknight-dinners"
 vegetarian: false
 gluten_free: true
 dairy_free: true
+costco_ingredients:
+  - "Kirkland Raw Tail-On Shrimp (31/40 ct) — 1 lb (~$7.00, 2 lb frozen bag)"
+  - "Kirkland Organic Coconut Milk — 1 can, 13.5 oz (~$1.50, 6-pack)"
+  - "Kirkland Jasmine Rice — 2 cups dry (~$0.40, 25 lb bag)"
+  - "Kirkland Organic Bell Peppers — 2 peppers, sliced (~$1.50, 6-pack)"
+other_ingredients:
+  - "2 tbsp Thai red curry paste (Mae Ploy or Thai Kitchen)"
+  - "1 tbsp fish sauce"
+  - "1 tsp brown sugar or palm sugar"
+  - "Juice of 1 lime"
+  - "1 tbsp neutral oil (avocado or vegetable)"
+  - "3 cloves garlic, minced"
+  - "1/2 cup fresh Thai basil leaves (or regular basil)"
+  - "1 small zucchini, sliced into half-moons (optional)"
+  - "Sliced green onions for garnish"
+  - "Red pepper flakes (optional, for extra heat)"
+instructions:
+  - "Thaw shrimp if frozen: place in a colander under cool running water for 5 minutes. Peel if needed, pat dry with paper towels."
+  - "Start your jasmine rice according to package directions (or use a rice cooker)."
+  - "Heat oil in a large skillet or wok over medium-high heat. Add the curry paste and stir for 30 seconds until fragrant and slightly darkened."
+  - "Pour in the coconut milk and stir to dissolve the curry paste. Add the fish sauce and brown sugar. Bring to a gentle simmer."
+  - "Add the sliced bell peppers (and zucchini if using). Cook for 3 minutes until the peppers are just tender but still have some snap."
+  - "Add the shrimp and garlic in a single layer. Cook for 2–3 minutes per side until the shrimp are pink and curled. Do not overcook."
+  - "Remove from heat. Squeeze in the lime juice, scatter the basil leaves on top, and stir gently. The basil will wilt into the sauce."
+  - "Serve immediately over steamed jasmine rice. Garnish with green onions and red pepper flakes if you like heat."
+storage: "Best eaten fresh. Shrimp can get rubbery when reheated, but leftovers keep in the fridge for 1–2 days. Reheat gently in a covered pan over low heat with a splash of coconut milk. The sauce (without shrimp) freezes well for up to 2 months."
+leftover_ideas:
+  - "Toss leftover shrimp and sauce with rice noodles for a quick curry noodle bowl"
+  - "Serve cold over a salad with shredded cabbage and a squeeze of lime"
+  - "Fold into an omelet or scramble for a savory breakfast"
 ---
 # Coconut Curry Shrimp
 

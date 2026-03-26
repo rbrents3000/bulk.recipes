@@ -10,6 +10,34 @@ category: "weeknight-dinners"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Boneless Skinless Chicken Breasts — 2 large (~$4.50, from 6 lb pack)"
+  - "Rao's Marinara Sauce — 1 cup (~$3.50, from 2-pack)"
+  - "Kirkland Shredded Mozzarella — 1 cup (~$1.25, from 2.5 lb bag)"
+  - "Kirkland Panko Bread Crumbs — 1 cup (~$0.50, from 2.5 lb box)"
+  - "Kirkland Olive Oil — 3 tbsp (~$0.30, from 2L bottle)"
+other_ingredients:
+  - "1/2 cup all-purpose flour"
+  - "2 eggs, beaten"
+  - "1/2 cup grated Parmesan cheese"
+  - "1 tsp garlic powder"
+  - "1 tsp Italian seasoning"
+  - "1/2 tsp salt"
+  - "1/2 tsp black pepper"
+  - "8 oz spaghetti or linguine"
+  - "Fresh basil for garnish (optional)"
+instructions:
+  - "Preheat oven to broil. Halve each chicken breast horizontally (butterfly and cut through) to get 4 thin cutlets. Place between plastic wrap and pound to an even 1/2-inch thickness."
+  - "Set up a breading station: flour in one shallow dish, beaten eggs in a second, and panko mixed with Parmesan, garlic powder, Italian seasoning, salt, and pepper in a third."
+  - "Dredge each cutlet in flour, dip in egg, then press into the panko mixture on both sides."
+  - "Heat olive oil in a large oven-safe skillet over medium-high heat. Cook the breaded chicken for 3-4 minutes per side until golden and cooked through (internal temp 165F)."
+  - "Spoon marinara over each cutlet and top with mozzarella. Transfer skillet to the oven and broil for 2-3 minutes until cheese is bubbly and golden."
+  - "While the chicken cooks, boil pasta according to package directions. Serve chicken over pasta with extra sauce on the side."
+storage: "Store cooked chicken Parm in the fridge for up to 3 days. Keep the pasta separate to avoid mush. Reheat the chicken in a 375F oven for 10 minutes to keep the crust crispy — the microwave is the enemy of breading."
+leftover_ideas:
+  - "Slice and pile onto a hoagie roll for a chicken Parm sub"
+  - "Chop up and toss with penne and extra marinara for a chicken Parm pasta bake"
+  - "Serve cold on a salad — it sounds weird, but crispy chicken on greens with a little balsamic is surprisingly great"
 ---
 # Chicken Parmesan
 

@@ -10,6 +10,24 @@ category: "weeknight-dinners"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Atlantic Salmon Fillets — 4 fillets (~$32.99, ~3 lbs (6 fillets))"
+  - "Kirkland Signature Unsalted Butter — 3 tablespoons (~$12.99, 4 x 1 lb bars)"
+  - "Lemons — 2 lemons (~$4.99, 5 lb bag)"
+  - "Broccoli Crowns — 1 lb crowns (~$4.99, 3 lb bag)"
+  - "Kirkland Signature Extra Virgin Olive Oil — 2 tablespoons (~$13.99, 2 L)"
+other_ingredients:
+  - "4 cloves, minced Garlic"
+  - "to taste Salt and pepper"
+  - "2 tablespoons, chopped Fresh dill or parsley *(optional)*"
+  - "1 tablespoon Capers *(optional)*"
+instructions:
+  - "Pat salmon fillets dry with paper towels. Season generously with salt and pepper."
+  - "Heat olive oil in a large skillet over medium-high heat. Place salmon skin-side up and sear for 4 minutes until a golden crust forms. Flip and cook 3 more minutes."
+storage: "Refrigerate leftover salmon up to 2 days. Best at room temperature or cold — don't microwave or it'll dry out."
+leftover_ideas:
+  - "Flake over a green salad"
+  - "Mix into cream cheese for salmon spread on Costco bagels"
 ---
 # Lemon Butter Salmon with Broccoli
 

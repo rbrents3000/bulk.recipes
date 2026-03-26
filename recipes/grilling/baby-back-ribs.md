@@ -10,6 +10,34 @@ category: "grilling"
 vegetarian: false
 gluten_free: true
 dairy_free: true
+costco_ingredients:
+  - "Kirkland Signature Baby Back Ribs — 1 pack (~$27.99, 3-pack rack)"
+  - "Kirkland Signature Brown Sugar — 3 tablespoons (~$7.49, 7 lb bag)"
+  - "Kirkland Signature BBQ Sauce — 1 cup (~$8.99, 2-pack bottles)"
+other_ingredients:
+  - "2 tablespoons Paprika"
+  - "1 tablespoon Garlic powder"
+  - "1 tablespoon Cumin"
+  - "1 tablespoon Chili powder"
+  - "1 tablespoon Salt"
+  - "1 teaspoon Black pepper"
+  - "1 tablespoon Onion powder *(optional)*"
+instructions:
+  - "Remove the membrane from the back of each rack — slide a butter knife under it, grab with a paper towel, and peel off."
+  - "Mix brown sugar, paprika, garlic powder, cumin, chili powder, onion powder, salt, and pepper in a bowl."
+  - "Pat ribs dry. Rub the spice mixture generously over both sides of each rack."
+  - "Preheat oven to 275°F. Wrap each rack tightly in heavy-duty aluminum foil, bone-side up."
+  - "Place foil packets on a sheet pan. Bake for 2.5 hours."
+  - "Unwrap ribs carefully (watch the steam). Brush generously with BBQ sauce."
+  - "Switch oven to broil. Broil ribs 3–5 minutes until the sauce is bubbly and caramelized. Watch closely — it goes from perfect to charred fast."
+  - "Set up your grill for indirect heat — burners on one side only, ribs on the other. Target 275°F."
+  - "Place ribs bone-side down on the cool side. Close the lid and cook for 2.5 hours, maintaining temperature."
+  - "Brush with BBQ sauce and move briefly over direct heat for 2–3 minutes per side to get that sticky char."
+storage: "Wrap leftover ribs tightly in foil and refrigerate up to 4 days. Freeze for up to 3 months. Reheat in a 300°F oven (still wrapped in foil) for 20–30 minutes."
+leftover_ideas:
+  - "Pull the meat off the bone and pile onto slider buns"
+  - "Chop and toss into fried rice or mac and cheese"
+  - "Warm and serve over polenta with extra BBQ sauce"
 ---
 # Baby Back Ribs
 

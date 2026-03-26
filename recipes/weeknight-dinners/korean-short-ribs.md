@@ -10,6 +10,28 @@ category: "weeknight-dinners"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Beef Flanken-Cut Short Ribs — 3 lbs (~$15.99/lb, varies by region, sold in ~3-4 lb packs)"
+  - "Kirkland Signature Jasmine Rice — 2 cups dry (4 cups cooked) (~$16.99, 25 lb bag)"
+  - "Kirkland Signature Organic Sesame Oil — 2 tablespoons (~$8.49, 27 oz bottle)"
+other_ingredients:
+  - "1/2 cup Soy sauce"
+  - "3 tablespoons Brown sugar"
+  - "1 Asian pear or Bosc pear, grated (or 3 tablespoons pear juice)"
+  - "6 cloves Garlic, minced"
+  - "1 tablespoon Fresh ginger, grated"
+  - "2 tablespoons Mirin or rice wine"
+  - "1 tablespoon Sesame seeds"
+  - "4 sliced Green onions"
+  - "Black pepper to taste"
+instructions:
+  - "Make the marinade: whisk together soy sauce, brown sugar, grated pear, garlic, ginger, mirin, sesame oil, and black pepper in a large bowl."
+  - "Add the short ribs to the marinade, making sure each piece is coated. Cover and refrigerate for at least 2 hours, or overnight for the best flavor."
+storage: "Refrigerate cooked ribs up to 3 days. Uncooked marinating ribs keep in the fridge up to 2 days. Freeze marinated raw ribs up to 2 months — thaw overnight in the fridge before cooking."
+leftover_ideas:
+  - "Slice leftover ribs off the bone and make short rib tacos with pickled onions"
+  - "Chop and toss into fried rice with a fried egg on top"
+  - "Serve cold over a bed of greens with sesame dressing"
 ---
 # Korean Short Ribs (LA Galbi)
 

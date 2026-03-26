@@ -10,6 +10,22 @@ category: "rotisserie-chicken"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Rotisserie Chicken — 1 chicken (about 3 cups shredded) (~$4.99, 3 lb whole chicken)"
+  - "Kirkland Signature Shredded Mexican Blend Cheese — 3 cups (~$12.99, 2.5 lb bag)"
+  - "Kirkland Signature Flour Tortillas — 10 tortillas (~$4.49, 24 count)"
+other_ingredients:
+  - "2 cans (15 oz each) Enchilada sauce"
+  - "1/2 cup Sour cream"
+  - "4 stalks Green onions *(optional)*"
+  - "1/4 cup Cilantro *(optional)*"
+instructions:
+  - "Preheat oven to 375°F (190°C)."
+  - "Shred the rotisserie chicken, discarding skin and bones. You should get about 3 cups of shredded meat."
+storage: "Refrigerate leftovers up to 4 days. Freeze uncooked assembled enchiladas up to 3 months — thaw overnight in fridge before baking."
+leftover_ideas:
+  - "Use leftover shredded chicken for quesadillas or chicken salad"
+  - "Remaining cheese works for nachos or breakfast scrambles"
 ---
 # Rotisserie Chicken Enchiladas
 

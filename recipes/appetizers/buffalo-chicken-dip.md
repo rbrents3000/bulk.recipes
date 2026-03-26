@@ -10,6 +10,26 @@ category: "appetizers"
 vegetarian: false
 gluten_free: true
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Rotisserie Chicken — 2 cups shredded (~$4.99, 3 lb whole chicken)"
+  - "Kirkland Signature Cream Cheese — 1 bar (8 oz), softened (~$7.49, 2 x 16 oz bars)"
+  - "Kirkland Signature Shredded Mexican Blend Cheese — 1 cup (~$12.99, 2.5 lb bag)"
+other_ingredients:
+  - "1/2 cup Frank's RedHot sauce"
+  - "1/2 cup Ranch dressing"
+  - "1 bunch, for serving Celery sticks"
+  - "1 bag, for serving Tortilla chips"
+instructions:
+  - "Preheat oven to 350°F (175°C)."
+  - "Mix softened cream cheese, hot sauce, and ranch dressing in a baking dish until smooth."
+  - "Fold in shredded chicken and half the shredded cheese."
+  - "Top with remaining cheese."
+  - "Bake for 20 minutes until bubbly and golden on top."
+  - "Serve hot with tortilla chips and celery sticks."
+storage: "Refrigerate up to 3 days. Reheat in oven or microwave."
+leftover_ideas:
+  - "Spread on a tortilla with lettuce for a buffalo chicken wrap"
+  - "Stuff into jalapeno halves and bake for buffalo chicken poppers"
 ---
 # Buffalo Chicken Dip
 

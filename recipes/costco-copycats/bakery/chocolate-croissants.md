@@ -10,6 +10,25 @@ category: "costco-copycats/bakery"
 vegetarian: true
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Unsalted Butter — 2 tablespoons for brushing (~$12.99, 4 x 1 lb bars)"
+  - "Kirkland Signature Large Eggs — 1 egg for wash (~$7.99, 5 dozen)"
+other_ingredients:
+  - "1 package (17 oz) frozen puff pastry, thawed"
+  - "8 oz dark chocolate (bar, broken into sticks, or chocolate batons)"
+  - "1 egg, beaten (for egg wash)"
+  - "1 tablespoon sugar for sprinkling"
+instructions:
+  - "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper."
+  - "Unfold puff pastry and cut each sheet into 4 rectangles (8 total)."
+  - "Place a stick of chocolate (about 1 oz) along the short end of each rectangle. Roll up tightly, seam-side down."
+  - "Brush tops with beaten egg. Sprinkle with a pinch of sugar."
+  - "Bake 18-20 minutes until deeply golden and puffed."
+  - "Let cool 5 minutes — the chocolate inside is lava."
+storage: "Best eaten warm the day they're baked. Store at room temperature up to 2 days in an airtight container. Reheat in a 350°F oven for 5 minutes. They also freeze beautifully — wrap individually in plastic wrap, then into a freezer bag for up to 1 month. Reheat from frozen in a 350°F oven for 10 minutes."
+leftover_ideas:
+  - "Slice in half and make a chocolate croissant ice cream sandwich"
+  - "Cube and use as the base for a chocolate bread pudding"
 ---
 # Copycat Costco Chocolate Croissants
 

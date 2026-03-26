@@ -10,6 +10,34 @@ category: "desserts"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Apples (Gala, Fuji, or Honeycrisp) — 6-8 apples (~$7.99, bag of 10+)"
+  - "Kirkland Rolled Oats — 1 cup (~$8.99, 10 lb bag)"
+  - "Kirkland Unsalted Butter — 1/2 cup, cold and cubed (~$4.29, 4-stick pack)"
+  - "Kirkland Granulated Sugar — 1/4 cup for filling (~$4.99, 10 lb bag)"
+other_ingredients:
+  - "1/2 cup All-purpose flour"
+  - "1/2 cup Brown sugar, packed (for the topping)"
+  - "1 tsp Ground cinnamon"
+  - "1/4 tsp Ground nutmeg"
+  - "1 tbsp Fresh lemon juice"
+  - "Pinch of salt"
+instructions:
+  - "Preheat the oven to 375 degrees."
+  - "Peel the apples, core them, and slice about 1/4 inch thick."
+  - "Toss the slices with the granulated sugar, cinnamon, nutmeg, and lemon juice."
+  - "Spread the seasoned apple slices evenly in the baking dish."
+  - "In a separate bowl, combine the oats, flour, brown sugar, and salt."
+  - "Scatter the crumble topping evenly over the apples."
+  - "Bake for 35-40 minutes until the topping is deep golden brown and the juices are bubbling."
+  - "Let it cool for 10-15 minutes before serving."
+storage: "Cover and refrigerate for up to 3 days. Reheat in a 350-degree oven for 10 minutes to revive the crunch. Microwave works in a pinch but the topping goes soft. A toaster oven is the secret best reheating method — small, fast, crispy results."
+leftover_ideas:
+  - "Warm a scoop and serve with Greek yogurt and granola for breakfast"
+  - "Fold leftover apple filling into your morning oatmeal"
+  - "Build an apple crisp sundae with vanilla ice cream, caramel sauce, and whipped cream"
+  - "Crumble cold crisp over pancake batter before flipping for apple crisp pancakes"
+  - "Blend cold leftovers into a milkshake with vanilla ice cream"
 ---
 # Apple Crisp
 

@@ -10,6 +10,29 @@ category: "costco-copycats/food-court"
 vegetarian: false
 gluten_free: false
 dairy_free: true
+costco_ingredients:
+  - "Kirkland Signature Beef Hot Dogs — 8 dogs (~$12.99, 14-pack)"
+  - "Hot Dog Buns — 8 buns (~$3.49, 16-pack)"
+other_ingredients:
+  - "Deli mustard (the spicy brown kind, not the yellow squeeze bottle — have some self-respect)"
+  - "Sweet relish"
+  - "Sauerkraut, drained"
+  - "1/2 cup diced white onion"
+  - "Ketchup *(optional, but you will be judged)*"
+  - "Pickled jalapeños *(optional, for the brave)*"
+  - "Shredded cheddar cheese *(optional, for chili dog mode)*"
+instructions:
+  - "Fill a large pot with water and bring to a rolling boil. Drop in the hot dogs and cook for 5-7 minutes until heated through and slightly plumped. You'll know they're ready when they start to swell and the skin gets taut."
+storage: "Cooked hot dogs keep in the fridge for 3-4 days in an airtight container. Reheat in the microwave for 30-45 seconds or drop back in simmering water for a couple minutes. Uncooked dogs stay good in the fridge per the package date, or freeze the whole pack for up to 2 months. Leftover buns freeze well too — just pop them in a freezer bag."
+leftover_ideas:
+  - "Chop into mac and cheese for an easy weeknight dinner the kids will actually eat"
+  - "Wrap in crescent roll dough for pigs in blankets — great party snack"
+  - "Slice into coins and add to baked beans for a campfire-style side dish"
+  - "Dip in cornmeal batter and fry for homemade corn dogs (way better than frozen)"
+  - "Dice and scramble with eggs, peppers, and onions for a diner-style breakfast hash"
+  - "Slice lengthwise, stuff with cheese, wrap in bacon, and bake at 400°F for a truly unhinged appetizer"
+  - "Simmer sliced dogs in barbecue sauce in a slow cooker for a party dip situation"
+  - "Chop and toss into fried rice with soy sauce, frozen peas, and a scrambled egg"
 ---
 # Costco Hot Dog
 

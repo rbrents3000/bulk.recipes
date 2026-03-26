@@ -10,6 +10,31 @@ category: "costco-copycats/food-court"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Shredded Mozzarella — 1 full bag (~$6.50, from 2-pack of 2.5 lb bags)"
+  - "Kirkland Signature Pepperoni — about 1/3 of the pack (~$9.99, bulk 2-pack)"
+  - "Rao's Marinara Sauce — half the jar (~$8.99, 2-pack)"
+other_ingredients:
+  - "2 lbs pizza dough (store-bought, or use our [pizza dough recipe](pizza-dough.md))"
+  - "1 tbsp olive oil"
+  - "Cornmeal for dusting"
+  - "1 tsp dried oregano"
+  - "1/2 tsp garlic powder"
+  - "Pinch of red pepper flakes *(optional)*"
+  - "Fresh basil leaves *(optional, for fancy points)*"
+instructions:
+  - "If making your own dough, get it going 1-2 hours ahead so it has time to rise. If using store-bought, pull it out of the fridge 30 minutes before you start so it relaxes and becomes easier to stretch. Cold dough fights back."
+  - "Preheat your oven to 475°F (245°C). If you have a pizza stone, put it on the lowest rack and let it heat for at least 30 minutes. No stone? A sheet pan works — flip it upside down for a flat surface."
+  - "Oil a large sheet pan (the biggest one you have — aim for 18 inches if possible). Dust lightly with cornmeal to prevent sticking."
+  - "Stretch the dough onto the pan, working from the center outward with your fingertips. If it keeps springing back, let it rest 5 minutes and try again. Patience wins here. Don't use a rolling pin — your hands give you better control and keep air in the dough."
+storage: "Store slices in the fridge for 3-4 days, separated by parchment paper in an airtight container. Freeze individual slices wrapped in foil and stored in a freezer bag for up to 2 months. Reheat frozen slices in a 400°F oven for 8-10 minutes — no need to thaw first."
+leftover_ideas:
+  - "Make a pizza quesadilla — cheese side down in a hot skillet with a tortilla"
+  - "Chop up a slice and stir into tomato soup for pizza soup (yes, really — it's incredible)"
+  - "Eat cold for breakfast, standing in front of the fridge, like nature intended"
+  - "Dice and fold into scrambled eggs for a pizza omelet situation"
+  - "Tear into pieces and toss with fresh greens for a pizza salad that sounds weird but works"
+  - "Cube leftover slices and thread onto skewers with fresh mozzarella and basil for pizza bites"
 ---
 # Costco Pepperoni Pizza
 

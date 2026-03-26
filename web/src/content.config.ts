@@ -15,6 +15,11 @@ const recipes = defineCollection({
     vegetarian: z.boolean(),
     gluten_free: z.boolean(),
     dairy_free: z.boolean(),
+    costco_ingredients: z.array(z.string()).optional().default([]),
+    other_ingredients: z.array(z.string()).optional().default([]),
+    instructions: z.array(z.string()).optional().default([]),
+    storage: z.string().optional().default(''),
+    leftover_ideas: z.array(z.string()).optional().default([]),
   }),
 });
 

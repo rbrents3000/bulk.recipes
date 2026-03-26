@@ -10,6 +10,28 @@ category: "grilling"
 vegetarian: false
 gluten_free: true
 dairy_free: true
+costco_ingredients:
+  - "Kirkland Boneless Skinless Chicken Thighs — about 2 lbs/8 thighs (~$2.99/lb, ~6 lb pack)"
+  - "Kirkland Extra-Virgin Olive Oil — 3 tablespoons (~$13.99, 2 liter bottle)"
+  - "Kirkland Avocado Oil — for oiling the grill grates (~$9.99, 1 liter bottle)"
+other_ingredients:
+  - "3 cloves garlic, minced"
+  - "1 tablespoon smoked paprika"
+  - "1 teaspoon cumin"
+  - "1 teaspoon onion powder"
+  - "Juice of 1 lemon"
+  - "Salt and pepper to taste"
+  - "Optional: 1 teaspoon chili powder if you like a little kick"
+instructions:
+  - "Whisk together olive oil, garlic, smoked paprika, cumin, onion powder, lemon juice, salt, and pepper in a medium bowl. It should look like a rust-colored slurry. That's correct."
+  - "Toss the chicken thighs in the marinade until every piece is well coated. Cover and refrigerate for at least 30 minutes, or up to 4 hours if you're a planner."
+storage: "Sliced or whole thighs keep beautifully for up to 4 days in the fridge. They're honestly great cold straight from the container — no judgment. Store in an airtight container or wrap tightly in foil."
+leftover_ideas:
+  - "Slice for grain bowls with rice, avocado, and a drizzle of tahini"
+  - "Chop into quesadillas with peppers, onions, and melted cheese"
+  - "Toss with rice and roasted veggies for easy meal prep"
+  - "Dice into a wrap with hummus, cucumber, and tomato"
+  - "Shred into a soup — the smoky flavor carries over beautifully"
 ---
 # Grilled Chicken Thighs
 

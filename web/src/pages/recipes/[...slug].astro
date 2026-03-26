@@ -19,24 +19,9 @@ const { title, description, prep, cook, servings, cost, cost_unit, category, veg
 
 const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
 
-// Extract ingredients and instructions from raw markdown for Schema.org
-const rawBody = recipe.body || '';
-
-function extractSection(body: string, heading: string): string[] {
-  const regex = new RegExp(`## ${heading}[\\s]*\\n([\\s\\S]*?)(?=\\n## |$)`);
-  const match = body.match(regex);
-  if (!match) return [];
-  return match[1].split('\n')
-    .filter((line: string) => line.trim().startsWith('- ') || /^\d+\./.test(line.trim()))
-    .map((line: string) => line.replace(/^[\s]*[-]\s*/, '').replace(/^\d+\.\s*/, '').trim())
-    .filter((line: string) => line.length > 0);
-}
-
-const costcoIngredients = extractSection(rawBody, 'Costco Shopping List');
-const otherIngredients = extractSection(rawBody, 'Other Ingredients');
-const allIngredients = [...costcoIngredients, ...otherIngredients];
-
-const instructionLines = extractSection(rawBody, 'Instructions');
+// Ingredients and instructions from frontmatter
+const { costco_ingredients, other_ingredients, instructions: recipeInstructions } = recipe.data;
+const allIngredients = [...costco_ingredients, ...other_ingredients];
 
 // Build keywords from category + dietary tags
 const keywords: string[] = [];
@@ -66,7 +51,7 @@ const related = allRecipes
     category={category}
     slug={recipe.id}
     ingredients={allIngredients}
-    instructions={instructionLines}
+    instructions={recipeInstructions}
     keywords={keywords.join(', ')}
   />
   <article class="max-w-4xl mx-auto py-8" data-pagefind-body>

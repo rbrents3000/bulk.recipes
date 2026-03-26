@@ -10,6 +10,31 @@ category: "costco-copycats/bakery"
 vegetarian: true
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Unsalted Butter — 1 cup (2 sticks) (~$12.99, 4 x 1 lb bars)"
+  - "Kirkland Signature Large Eggs — 4 eggs (~$7.99, 5 dozen)"
+  - "Kirkland Signature Semi-Sweet Chocolate Chips — 2 cups (~$10.99, 4.5 lb bag)"
+other_ingredients:
+  - "1 1/2 cups sugar"
+  - "3/4 cup unsweetened cocoa powder"
+  - "1 cup all-purpose flour"
+  - "1 teaspoon vanilla extract"
+  - "1 teaspoon salt"
+  - "1/2 teaspoon espresso powder *(optional — deepens the chocolate flavor)*"
+instructions:
+  - "Preheat oven to 350°F (175°C). Line a 9x13 baking pan with parchment paper, leaving overhang on the sides."
+  - "Melt butter in a large saucepan over low heat. Remove from heat and stir in 1 cup of chocolate chips until melted and smooth."
+  - "Whisk in sugar, then eggs one at a time, then vanilla."
+  - "Sift in cocoa powder, flour, salt, and espresso powder. Fold until just combined — don't overmix."
+  - "Fold in remaining 1 cup chocolate chips."
+  - "Pour into prepared pan and spread evenly. The batter will be thick."
+  - "Bake 28-32 minutes. A toothpick should come out with moist crumbs (not wet batter, not clean). Err on the side of underdone — they firm up as they cool."
+  - "Let cool completely in the pan before slicing. Use the parchment overhang to lift the whole slab out."
+storage: "Store covered at room temperature up to 4 days. Freeze individually wrapped brownies for up to 3 months."
+leftover_ideas:
+  - "Warm a brownie and top with vanilla ice cream for a sundae"
+  - "Crumble into a mason jar with whipped cream for brownie parfaits"
+  - "Cube and fold into ice cream for homemade brownie ice cream"
 ---
 # Copycat Costco Bakery Brownies
 

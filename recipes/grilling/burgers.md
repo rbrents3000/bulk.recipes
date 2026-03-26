@@ -10,6 +10,32 @@ category: "grilling"
 vegetarian: false
 gluten_free: false
 dairy_free: true
+costco_ingredients:
+  - "Ground Beef 80/20 — 2 lbs (~$4.99/lb, bulk pack)"
+  - "Brioche Buns or Kirkland Hamburger Buns — 8 buns (~$4.49, 8-pack)"
+  - "Kirkland Sharp Cheddar — 8 slices (~$8.99, block — slice it yourself)"
+  - "Kirkland Organic Ketchup — for serving (~$6.99, 2-pack)"
+other_ingredients:
+  - "Salt (be generous — this is a burger, not a health retreat)"
+  - "Black pepper"
+  - "1 tablespoon Worcestershire sauce"
+  - "Dill pickles, sliced"
+  - "Lettuce leaves"
+  - "Tomato slices"
+  - "Onion slices (raw or grilled, your call)"
+  - "Yellow mustard"
+instructions:
+  - "Divide the beef into 8 equal balls, about 4 oz each. Gently shape them — do NOT overwork the meat. Nobody likes a tough burger."
+  - "Mix Worcestershire sauce into the beef before forming balls if you want a little extra savory depth. Totally optional but recommended."
+  - "Heat your grill or cast iron skillet to high. You want it ripping hot. If you're using a grill, a flat cast iron griddle on the grates works beautifully."
+  - "Place a ball on the cooking surface and immediately smash it flat with a sturdy spatula. Press hard, press once, then leave it alone."
+storage: "Cooked patties keep 3–4 days in the fridge. Reheat in a skillet over medium heat — please, not the microwave. You worked too hard on that crust."
+leftover_ideas:
+  - "Crumble leftover patties into chili or taco meat"
+  - "Chop into fried rice with soy sauce and a fried egg"
+  - "Make a chopped cheese sandwich with melted American and peppers"
+  - "Break up over nachos with all the fixings"
+  - "Dice and fold into a breakfast burrito with eggs and salsa"
 ---
 # Classic Smash Burgers
 

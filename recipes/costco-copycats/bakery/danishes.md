@@ -10,6 +10,37 @@ category: "costco-copycats/bakery"
 vegetarian: true
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Large Eggs — 1 egg for wash + 1 for filling (~$7.99, 5 dozen)"
+  - "Kirkland Signature Unsalted Butter — 2 tablespoons (~$12.99, 4 x 1 lb bars)"
+other_ingredients:
+  - "1 package (17 oz) frozen puff pastry, thawed"
+  - "1 egg beaten with 1 tablespoon water (egg wash)"
+  - "4 oz cream cheese, softened"
+  - "2 tablespoons sugar"
+  - "1 egg yolk"
+  - "1/2 teaspoon vanilla extract"
+  - "2 medium apples, peeled and diced small"
+  - "2 tablespoons butter"
+  - "2 tablespoons brown sugar"
+  - "1/2 teaspoon cinnamon"
+  - "1 cup canned cherry pie filling"
+  - "1/2 cup powdered sugar"
+  - "1 tablespoon milk"
+  - "1/4 teaspoon vanilla extract"
+instructions:
+  - "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper."
+  - "**Choose your filling:**"
+  - "Cut each puff pastry sheet into 4 squares (8 total). Place on baking sheet."
+  - "Score a 1/2-inch border around each square with a knife (don't cut all the way through). Prick the center with a fork."
+  - "Spoon 2 tablespoons of filling into the center of each square."
+  - "Brush the borders with egg wash."
+  - "Bake 16-18 minutes until puffed and deeply golden."
+  - "Mix glaze ingredients and drizzle over warm danishes."
+storage: "Best eaten the day they're made. Store at room temperature up to 2 days. Reheat in a 350°F oven for 5 minutes to re-crisp. You can freeze baked danishes for up to 1 month — wrap them individually and reheat from frozen at 350°F for about 10 minutes."
+leftover_ideas:
+  - "Warm a cheese danish and serve with fresh berries for breakfast"
+  - "Crumble and use as a topping for ice cream"
 ---
 # Copycat Costco Bakery Danishes
 

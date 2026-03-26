@@ -10,6 +10,27 @@ category: "snacks"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Costco Everything Bagels — 6, halved (~$6.99, 12-pack)"
+  - "Rao's Marinara Sauce — 1 cup (~$12.99, 2-pack jars)"
+  - "Kirkland Shredded Mozzarella — 2 cups (~$11.99, 2.5 lb bag)"
+  - "Kirkland Pepperoni — about 72 slices (~$9.99, large pack)"
+other_ingredients:
+  - "Italian seasoning to taste"
+  - "Red pepper flakes (optional)"
+instructions:
+  - "Set oven rack to the upper-middle position and turn on the broiler to high."
+  - "Place bagel halves cut-side up on a baking sheet."
+  - "Spread about 1 tablespoon of Rao's marinara on each bagel half."
+  - "Top each with a generous handful of shredded mozzarella and 5-6 pepperoni slices."
+  - "Sprinkle with Italian seasoning and red pepper flakes if you're feeling fancy."
+  - "Broil for 3-5 minutes, watching closely, until cheese is bubbly and edges are golden."
+  - "Let cool for 2 minutes. Serve to the swarm of hungry humans who appeared out of nowhere."
+storage: "Best eaten fresh, but you can refrigerate assembled-but-uncooked bagels for up to 2 days. Broil from the fridge, adding a minute or two to cook time."
+leftover_ideas:
+  - "Swap pepperoni for cooked sausage, veggies, or pulled rotisserie chicken"
+  - 'Use as a base for "pizza bagel bar" and let everyone top their own'
+  - "Dice leftover pizza bagels into croutons for a pizza-flavored salad (seriously)"
 ---
 # Pizza Bagels
 

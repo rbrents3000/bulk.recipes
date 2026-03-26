@@ -10,6 +10,29 @@ category: "costco-copycats/food-court"
 vegetarian: true
 gluten_free: true
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Frozen Mango Chunks — about 1 lb, roughly 1/3 of the bag (~$9.99, 3 lb bag)"
+  - "Kirkland Signature Greek Yogurt — 1 cup (~$7.99, 48 oz tub)"
+other_ingredients:
+  - "1 ripe banana, peeled"
+  - "1 cup orange juice (fresh-squeezed or from carton — both work)"
+  - "2 tbsp honey (or agave nectar if that's your thing)"
+  - "1/2 cup ice *(optional, if you want it thicker)*"
+  - "Pinch of ground turmeric *(optional, for color and anti-inflammatory points)*"
+instructions:
+  - "Pull the mango chunks from the freezer. You don't need to thaw them — frozen is actually what you want here. It's the whole point. Frozen fruit is what makes this thick and creamy instead of just juice with ambition."
+  - "Peel the banana and break it into 3-4 chunks. Drop them into your blender."
+  - "Add the frozen mango chunks, Greek yogurt, orange juice, and honey to the blender."
+  - "Put the lid on. (This seems obvious, but we've all learned this lesson the hard way at least once.)"
+storage: "Smoothies are best fresh — they oxidize and separate if they sit around too long, and nobody wants a brown smoothie. But you can freeze the blended mixture in popsicle molds for frozen treats that last up to 2 months. Pour leftovers into an ice cube tray, freeze solid, then blend the cubes later for a quick smoothie restart."
+leftover_ideas:
+  - "Add a pinch of cardamom and a splash of milk for a quick mango lassi"
+  - "Pour into popsicle molds for creamy frozen mango pops"
+  - "Top with granola, sliced fruit, and coconut flakes for a smoothie bowl"
+  - "Stir leftover smoothie into overnight oats for mango-flavored breakfast"
+  - "Freeze in ice cube trays and toss into sparkling water for a fizzy mango drink"
+  - "Swirl into vanilla ice cream for a quick mango ripple dessert"
+  - "Use as a base for chia pudding — mix 1:1 with chia seeds and refrigerate overnight"
 ---
 # Mango Smoothie
 

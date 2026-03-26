@@ -10,6 +10,28 @@ category: "grilling"
 vegetarian: false
 gluten_free: true
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Wild-Caught Salmon Fillets — 4 fillets/about 1.5 lbs (~$22.99, 3 lb frozen bag)"
+  - "Kirkland Extra-Virgin Olive Oil — 2 tablespoons (~$13.99, 2 liter bottle)"
+  - "Organic Lemons — 1 lemon (~$4.99, 5 lb bag)"
+other_ingredients:
+  - "2 cloves garlic, minced"
+  - "1 tablespoon fresh dill (or 1 teaspoon dried dill)"
+  - "Salt and pepper to taste"
+  - "1 tablespoon butter, for finishing"
+  - "Optional: pinch of red pepper flakes for a little heat"
+instructions:
+  - "If fillets are frozen, thaw in a bowl of cold water for about 20 minutes. No shortcuts — the microwave will betray you."
+  - "Pat the fillets **very** dry with paper towels. This is the most important step. Wet fish and a grill do not get along."
+  - "Brush both sides with olive oil. Season generously with minced garlic, dill, salt, and pepper."
+  - "Get your grill screaming hot over medium-high heat. Oil the grates well with a paper towel dipped in oil and held with tongs."
+storage: "Refrigerate leftover salmon for up to 3 days. It flakes beautifully cold — honestly sometimes better than warm. Wrap tightly in foil or place in an airtight container."
+leftover_ideas:
+  - "Toss flaked salmon over a Caesar salad with shaved parmesan"
+  - "Salmon fried rice with soy sauce, sesame oil, and scallions"
+  - "Stir into pasta with lemon, capers, and a splash of cream"
+  - "Pile onto toast with cream cheese and everything bagel seasoning"
+  - "Mix into scrambled eggs with chives for a fancy breakfast"
 ---
 # Grilled Salmon
 

@@ -10,6 +10,30 @@ category: "costco-copycats/food-court"
 vegetarian: false
 gluten_free: false
 dairy_free: false
+costco_ingredients:
+  - "Kirkland Signature Oven Roasted Turkey Breast — sliced (~$11.99, 2 lb pack)"
+  - "Provolone Cheese Slices — use about half the pack (~$6.99, 2 lb pack)"
+  - "Hoagie Rolls — 6 rolls (~$4.49, 6-pack)"
+other_ingredients:
+  - "2 tbsp yellow mustard"
+  - "3 tbsp mayonnaise"
+  - "1 tbsp pesto (store-bought or homemade, for the secret sauce)"
+  - "4-6 leaves green leaf lettuce, washed and torn"
+  - "2 medium tomatoes, sliced into rounds"
+  - "Salt and pepper to taste"
+  - "1 tbsp olive oil *(optional, for toasting)*"
+instructions:
+  - "Preheat your oven to 375°F (190°C). Line a baking sheet with parchment paper or foil for easy cleanup."
+  - "Slice the hoagie rolls lengthwise, leaving one side attached like a hinge so they open like a book. Open them up and lay them cut-side up on the baking sheet."
+storage: "Assembled sandwiches don't store well — the bread gets sad and the lettuce gives up on life. Prep the components separately instead: keep sliced turkey and cheese in the fridge, wash and dry lettuce, slice tomatoes day-of, and assemble fresh when you're ready to eat. Prepped components last 4-5 days in the fridge."
+leftover_ideas:
+  - "Roll leftover turkey and cheese in a flour tortilla with lettuce for easy turkey wraps"
+  - "Make a turkey melt panini — butter the outside of the bread, add provolone, press in a hot skillet"
+  - "Chop the turkey and toss with greens, croutons, and vinaigrette for a chopped turkey salad"
+  - "Dice turkey and fold into a quesadilla with provolone and a smear of pesto"
+  - "Stack extra turkey on crackers with cheese and mustard for a quick snack plate"
+  - "Chop turkey and toss into a pasta salad with provolone cubes, olives, and Italian dressing"
+  - "Layer in a baked slider with provolone and honey mustard for a party crowd-pleaser"
 ---
 # Turkey & Provolone Sandwich
 

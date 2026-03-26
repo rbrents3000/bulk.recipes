@@ -10,6 +10,27 @@ category: "costco-copycats/food-court"
 vegetarian: true
 gluten_free: true
 dairy_free: true
+costco_ingredients:
+  - "Sambazon Organic Acai Superfruit Packs — 4 packets (~$14.99, 8-pack frozen)"
+  - "Kirkland Signature Granola — 1 cup (~$9.99, 3 lb bag)"
+  - "Kirkland Signature Organic Bananas — 2 bananas (~$1.99, 3 lb bunch)"
+  - "Kirkland Signature Three Berry Blend (frozen) — 1 cup (~$12.49, 4 lb bag)"
+  - "Kirkland Signature Organic Raw Honey — 2 tablespoons (~$14.99, 24 oz bottle)"
+other_ingredients:
+  - "1/2 cup Coconut milk or almond milk"
+  - "2 tablespoons Coconut flakes *(optional)*"
+  - "1 tablespoon Chia seeds *(optional)*"
+instructions:
+  - "Let the frozen acai packets sit at room temperature for 1-2 minutes, just enough to break them apart. Don't let them thaw completely."
+  - "Break the acai into chunks and add to a blender with the coconut milk and half the frozen berries. Blend until thick and smooth — it should be the consistency of soft serve, not a smoothie. Add milk a tablespoon at a time if needed."
+  - "Divide the acai blend between 4 bowls."
+  - "Slice the bananas. Arrange banana slices, remaining berries, and granola on top of each bowl."
+  - "Drizzle with honey. Add coconut flakes and chia seeds if using."
+  - "Serve immediately."
+storage: "Acai bowls don't store well once assembled — the granola gets soggy and the base melts. Keep extra acai packets frozen and blend fresh each time. Prepped toppings keep in the fridge for 2-3 days."
+leftover_ideas:
+  - "Blend extra acai base a little thinner and pour into popsicle molds for acai pops"
+  - "Mix leftover granola and berries into yogurt for a quick parfait"
 ---
 # Copycat Costco Acai Bowl
 
