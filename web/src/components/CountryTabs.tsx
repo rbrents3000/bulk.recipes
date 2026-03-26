@@ -48,7 +48,7 @@ export default function CountryTabs({ foodCourt, deli, bakery }: Props) {
 
       {/* Tab content */}
       <div
-        class="prose prose-lg max-w-none
+        class="prepared-content prose prose-lg max-w-none
           prose-headings:font-headline prose-headings:tracking-tight
           prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-8 prose-h2:mb-4
           prose-h3:text-xl prose-h3:font-bold
@@ -56,9 +56,6 @@ export default function CountryTabs({ foodCourt, deli, bakery }: Props) {
           prose-li:text-on-surface-variant
           prose-strong:text-on-surface
           prose-blockquote:bg-primary-container/10 prose-blockquote:border-l-4 prose-blockquote:border-primary-container prose-blockquote:rounded-r-lg prose-blockquote:py-3 prose-blockquote:px-4 prose-blockquote:not-italic
-          prose-table:text-sm
-          prose-th:text-left prose-th:font-bold prose-th:bg-surface-container-low prose-th:p-3
-          prose-td:p-3 prose-td:border-b prose-td:border-surface-container
         "
         dangerouslySetInnerHTML={{ __html: content[active] }}
       />
