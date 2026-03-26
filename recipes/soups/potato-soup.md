@@ -47,3 +47,4 @@ Refrigerate in an airtight container for up to 5 days. The soup thickens conside
 - Spread in a baking dish, top with extra bacon and cheddar, and broil for a twice-baked potato casserole
 - Thin it out with extra broth and toss in steamed broccoli for a loaded broccoli potato soup
 - Use as a base for breakfast hash — pour into a skillet, crack eggs on top, and bake until set
+- Blend completely smooth and use as a creamy base for scalloped potatoes

@@ -38,7 +38,9 @@
 > **Tip:** Don't have a grill or cast iron? A regular nonstick pan works — just make sure it's screaming hot and you don't crowd it. Cook in 3-4 small batches for the best sear.
 
 ## Storage
-Refrigerate cooked bulgogi for up to 3 days. The marinated raw beef keeps in the fridge for 2 days or in the freezer for up to 3 months. Freeze it flat in zip-lock bags for quick weeknight thaws — goes from frozen to ready in about 20 minutes in a cold water bath.
+Refrigerate cooked bulgogi for up to 3 days. The marinated raw beef keeps in the fridge for 2 days or in the freezer for up to 3 months.
+
+Freeze it flat in zip-lock bags for quick weeknight thaws — goes from frozen to ready in about 20 minutes in a cold water bath.
 
 ## Leftover Ideas
 - Pile into warm flour tortillas with kimchi and pickled cucumbers for Korean fusion tacos
