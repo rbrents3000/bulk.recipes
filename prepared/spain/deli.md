@@ -34,3 +34,13 @@ Standard US items also available:
 - Rotisserie Chicken (€4.99) — still the universal Costco anchor
 - Caesar Salad Kit
 - Mac and Cheese
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco Spain deli items? These copycat recipes use ingredients available at Costco US.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| Croquetas de Jamón | [Croquetas de Jamón](../../recipes/costco-copycats/international/croquetas-de-jamon.md) | ~$0.50/piece |
+| Tortilla Española | [Tortilla Española](../../recipes/costco-copycats/international/tortilla-espanola.md) | ~$1.50 |

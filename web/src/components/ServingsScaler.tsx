@@ -46,12 +46,10 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
   const initialized = useRef(false);
 
   const scaledServings = Math.round(baseServings * ratio);
-  const totalCost = costUnit === 'serving'
-    ? baseCost * baseServings * ratio
-    : baseCost * ratio;
+  const totalCost = baseCost * scaledServings;
   const costDisplay = costUnit === 'serving'
     ? `$${baseCost.toFixed(2)}/serving`
-    : `$${(baseCost * ratio).toFixed(2)}/${costUnit}`;
+    : `$${baseCost.toFixed(2)}/${costUnit}`;
 
   useEffect(() => {
     if (initialized.current) return;

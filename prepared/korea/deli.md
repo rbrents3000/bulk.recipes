@@ -60,3 +60,16 @@ Standard US items also available:
 - Costco Korea's deli section is where Korean home cooks quietly stock up for dinner parties. The bulgogi and galbi are genuinely good quality meat at bulk prices that beat most Korean supermarkets.
 - The banchan items are ready to eat — no cooking required. Buy three or four different ones and you have a proper Korean side dish spread in minutes.
 - Japchae is one of the best reheatable items. Make it the night before a gathering and it's still great the next day.
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco Korea deli items? These copycat recipes use ingredients available at Costco US.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| Korean Fried Chicken | [Korean Fried Chicken](../../recipes/costco-copycats/international/korean-fried-chicken.md) | ~$2.75 |
+| Gimbap | [Gimbap](../../recipes/costco-copycats/international/gimbap.md) | ~$1.50 |
+| Tteokbokki | [Tteokbokki](../../recipes/costco-copycats/international/tteokbokki.md) | ~$1.50 |
+| Galbi (Marinated Short Ribs) | [Galbi](../../recipes/costco-copycats/international/galbi.md) | ~$5.00 |
+| Japchae (Glass Noodles) | [Japchae](../../recipes/costco-copycats/international/japchae.md) | ~$2.25 |

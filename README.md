@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://bulk.recipes"><img src="https://img.shields.io/badge/Live_Site-bulk.recipes-ba0027?style=for-the-badge" alt="Live Site" /></a>
-  <img src="https://img.shields.io/badge/181-Recipes-ba0027?style=for-the-badge" alt="181 Recipes" />
+  <img src="https://img.shields.io/badge/197-Recipes-ba0027?style=for-the-badge" alt="197 Recipes" />
   <img src="https://img.shields.io/badge/14-Countries-705900?style=for-the-badge&labelColor=fdd34d" alt="14 Countries" />
   <a href="https://astro.build"><img src="https://img.shields.io/badge/Built_with-Astro-bc52ee?style=for-the-badge&logo=astro&logoColor=white" alt="Built with Astro" /></a>
 </p>

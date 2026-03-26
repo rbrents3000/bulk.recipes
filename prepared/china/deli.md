@@ -35,3 +35,13 @@ Standard US items also available:
 - Caesar Salad Kit
 - Sushi Platters
 - Croissant Sandwich Platters
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco China deli items? These copycat recipes use ingredients available at Costco US.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| Char Siu (BBQ Pork) | [Char Siu](../../recipes/costco-copycats/international/char-siu.md) | ~$3.00 |
+| Scallion Pancakes | [Scallion Pancakes](../../recipes/costco-copycats/international/scallion-pancakes.md) | ~$0.50 |

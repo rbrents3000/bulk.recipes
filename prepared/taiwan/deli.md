@@ -33,3 +33,13 @@ Standard US items also available:
 - Caesar Salad Kit
 - Chicken Wings
 - Croissant Sandwich Platters
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco Taiwan deli items? These copycat recipes use ingredients available at Costco US.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| Lu Rou Fan (Braised Pork Rice) | [Lu Rou Fan](../../recipes/costco-copycats/international/lu-rou-fan.md) | ~$2.00 |
+| Three-Cup Chicken | [Three-Cup Chicken](../../recipes/costco-copycats/international/three-cup-chicken.md) | ~$2.50 |

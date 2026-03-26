@@ -40,3 +40,13 @@ Standard US items also available:
 - Rotisserie Chicken (€4.99)
 - Caesar Salad Kit
 - Korean Bulgogi (adapted for European palate)
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco France deli items? These copycat recipes use ingredients available at Costco US.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| French Onion Soup | [French Onion Soup](../../recipes/costco-copycats/international/french-onion-soup.md) | ~$2.00 |
+| Quiche Lorraine | [Quiche Lorraine](../../recipes/costco-copycats/international/quiche-lorraine.md) | ~$2.00 |

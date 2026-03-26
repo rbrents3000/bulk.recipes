@@ -21,3 +21,13 @@ Standard US deli items also available:
 - Caesar Salad Kit
 - Korean Bulgogi
 - Chicken Wings
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco Mexico deli items? These copycat recipes use ingredients available at Costco US.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| Cochinita Pibil | [Cochinita Pibil](../../recipes/costco-copycats/international/cochinita-pibil.md) | ~$2.50 |
+| Pozole | [Pozole](../../recipes/costco-copycats/international/pozole.md) | ~$2.50 |

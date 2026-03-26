@@ -61,3 +61,15 @@ Standard US items also available:
 
 - The deli section restocks throughout the day, but sushi platters tend to go fast on weekends. Early afternoon is the sweet spot — fresh stock, full selection.
 - If you're hosting a party in Japan, the Costco deli is one of the best-kept secrets. A sushi party platter plus a karaage platter plus a salad feeds a crowd for under ¥10,000.
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco Japan deli items? These copycat recipes use ingredients available at Costco US.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| Chicken Karaage | [Chicken Karaage](../../recipes/costco-copycats/international/chicken-karaage.md) | ~$2.50 |
+| Gyudon (Beef Bowl) | [Gyudon](../../recipes/costco-copycats/international/gyudon.md) | ~$3.00 |
+| Japanese Curry | [Japanese Curry](../../recipes/costco-copycats/international/japanese-curry.md) | ~$2.50 |
+| Takoyaki | [Takoyaki](../../recipes/costco-copycats/international/takoyaki.md) | ~$0.75/piece |

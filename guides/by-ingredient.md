@@ -64,6 +64,7 @@ Eight ways to use the bird that got you into the store — plus a bunch more tha
 - [Slow Cooker Chicken Tortilla Soup](../recipes/slow-cooker/chicken-tortilla-slow-cooker.md) — ~$2.00/serving
 - [Thai Green Curry](../recipes/weeknight-dinners/thai-green-curry.md) — ~$3.00/serving
 - [Yakisoba Stir Fry](../recipes/costco-copycats/deli/yakisoba-stir-fry.md) — ~$2.50/serving
+- [Three-Cup Chicken](../recipes/costco-copycats/international/three-cup-chicken.md) — ~$2.50/serving
 
 ### Chicken Wings
 
@@ -111,11 +112,13 @@ From burgers to braised short ribs, the Costco beef section is where the serious
 - [Korean BBQ Bulgogi](../recipes/costco-copycats/deli/bulgogi-marinade.md) — ~$3.00/serving
 - [Gyudon](../recipes/costco-copycats/international/gyudon.md) — ~$3.00/serving
 - [Gimbap](../recipes/costco-copycats/international/gimbap.md) — ~$2.00/serving
+- [Japchae](../recipes/costco-copycats/international/japchae.md) — ~$2.25/serving
 
 ### Short Ribs
 
 - [Korean Short Ribs](../recipes/weeknight-dinners/korean-short-ribs.md) — ~$6.00/serving
 - [Beef Short Ribs](../recipes/costco-copycats/deli/beef-short-ribs.md) — ~$5.50/serving
+- [Galbi](../recipes/costco-copycats/international/galbi.md) — ~$5.00/serving
 
 ### Tri-Tip
 
@@ -134,6 +137,11 @@ A Costco pork shoulder might be the best dollar-per-serving deal in the whole st
 - [Honey Garlic Pork](../recipes/slow-cooker/honey-garlic-pork.md) — ~$2.50/serving
 - [Char Siu](../recipes/costco-copycats/international/char-siu.md) — ~$2.50/serving
 - [Cochinita Pibil](../recipes/costco-copycats/international/cochinita-pibil.md) — ~$2.25/serving
+- [Pozole Rojo](../recipes/costco-copycats/international/pozole.md) — ~$2.50/serving
+
+### Pork Belly
+
+- [Lu Rou Fan](../recipes/costco-copycats/international/lu-rou-fan.md) — ~$2.00/serving
 
 ### Ribs
 
@@ -147,6 +155,8 @@ A Costco pork shoulder might be the best dollar-per-serving deal in the whole st
 - [Bacon-Wrapped Stuffed Jalapenos](../recipes/appetizers/bacon-wrapped-stuffed-jalapenos.md) — ~$1.00/serving
 - [Breakfast Croissant Sandwiches](../recipes/meal-prep/breakfast-croissant-sandwiches.md) — ~$2.33/serving
 - [Quiche Lorraine](../recipes/costco-copycats/international/quiche-lorraine.md) — ~$2.00/serving
+- [Scotch Eggs](../recipes/costco-copycats/international/scotch-eggs.md) — ~$1.50/egg
+- [Croquetas de Jamón](../recipes/costco-copycats/international/croquetas-de-jamon.md) — ~$0.50/piece
 - [Combo Calzone](../recipes/costco-copycats/food-court/combo-calzone.md) — ~$2.50/serving
 - [Loaded Baked Potatoes](../recipes/costco-copycats/deli/loaded-baked-potatoes.md) — ~$1.75/serving
 - [Pepperoni Pizza](../recipes/costco-copycats/food-court/pepperoni-pizza.md) — ~$1.50/serving
@@ -160,6 +170,7 @@ A Costco pork shoulder might be the best dollar-per-serving deal in the whole st
 - [Egg Rolls](../recipes/costco-copycats/deli/egg-rolls.md) — ~$0.60/roll
 - [Tourtiere](../recipes/costco-copycats/international/tourtiere.md) — ~$2.00/serving
 - [Soup Dumplings](../recipes/appetizers/soup-dumplings.md) — ~$1.50/serving
+- [Scotch Eggs](../recipes/costco-copycats/international/scotch-eggs.md) — ~$1.50/egg
 
 ### Lamb
 
@@ -211,6 +222,10 @@ That 3-lb bag of frozen shrimp is one of the best buys in the store. Defrost a h
 
 - [Crab Cakes](../recipes/costco-copycats/deli/crab-cakes.md) — ~$3.00/serving
 
+### Octopus
+
+- [Takoyaki](../recipes/costco-copycats/international/takoyaki.md) — ~$0.75/piece
+
 ### Clams
 
 - [Clam Chowder](../recipes/costco-copycats/deli/clam-chowder.md) — ~$2.00/serving
@@ -239,6 +254,8 @@ The Costco 5-dozen pack finally makes sense. Here's where all those eggs go.
 - [Quiche Lorraine](../recipes/costco-copycats/international/quiche-lorraine.md) — ~$2.00/serving
 - [Mini Quiche Tray](../recipes/costco-copycats/bakery/mini-quiche-tray.md) — ~$0.75/each
 - [Berry Protein Pancakes](../recipes/meal-prep/berry-protein-pancakes.md) — ~$1.25/serving
+- [Tortilla Española](../recipes/costco-copycats/international/tortilla-espanola.md) — ~$1.50/serving
+- [Scotch Eggs](../recipes/costco-copycats/international/scotch-eggs.md) — ~$1.50/egg
 
 ---
 
@@ -288,6 +305,7 @@ A 25-lb bag of jasmine rice is a commitment. Here's how to keep things interesti
 - [Stuffed Bell Peppers](../recipes/costco-copycats/deli/stuffed-bell-peppers.md) — ~$2.75/serving
 - [Korean Short Ribs](../recipes/weeknight-dinners/korean-short-ribs.md) — ~$6.00/serving
 - [Tteokbokki](../recipes/costco-copycats/international/tteokbokki.md) — ~$1.50/serving (rice cakes)
+- [Lu Rou Fan](../recipes/costco-copycats/international/lu-rou-fan.md) — ~$2.00/serving
 
 ---
 
@@ -323,6 +341,7 @@ No meat, no problem. Organized by what you're actually cooking with.
 - [Spanakopita](../recipes/costco-copycats/deli/spanakopita.md) — ~$0.35/piece
 - [Scallion Pancakes](../recipes/costco-copycats/international/scallion-pancakes.md) — ~$0.50/serving
 - [Tteokbokki](../recipes/costco-copycats/international/tteokbokki.md) — ~$1.50/serving
+- [Tortilla Española](../recipes/costco-copycats/international/tortilla-espanola.md) — ~$1.50/serving
 
 ### Soups
 
@@ -354,6 +373,7 @@ Every dessert is vegetarian — here's the full lineup:
 - [Banana Bread](../recipes/desserts/banana-bread.md) — ~$0.75/serving
 - [Rice Krispie Treats](../recipes/desserts/rice-krispie-treats.md) — ~$0.25/bar
 - [Tres Leches Cake](../recipes/desserts/tres-leches-cake.md) — ~$2.00/serving
+- [Butter Tarts](../recipes/costco-copycats/international/butter-tarts.md) — ~$0.75/tart
 
 ---
 
@@ -408,6 +428,7 @@ When you've got flour, butter, sugar, and time — recreate the bakery aisle at 
 - [Tuxedo Mousse Cake](../recipes/costco-copycats/bakery/tuxedo-mousse-cake.md) — ~$1.25/slice
 - [Pumpkin Pie](../recipes/costco-copycats/bakery/pumpkin-pie.md) — ~$0.75/slice
 - [Mini Quiche Tray](../recipes/costco-copycats/bakery/mini-quiche-tray.md) — ~$0.75/each
+- [Butter Tarts](../recipes/costco-copycats/international/butter-tarts.md) — ~$0.75/tart
 - [Chocolate Chunk Cookie](../recipes/costco-copycats/food-court/chocolate-chunk-cookie.md) — ~$0.50/cookie
 - [Berry Sundae](../recipes/costco-copycats/food-court/berry-sundae.md) — ~$1.50/serving
 - [Chocolate Lava Cakes](../recipes/desserts/chocolate-lava-cakes.md) — ~$1.25/serving

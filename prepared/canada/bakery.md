@@ -57,3 +57,12 @@ Most US summer bakery items appear in Canada too.
 | Holiday Cookie Tray | ~$27.99 CAD (~$20.75) | 60-count variety pack |
 
 The tourtière is only at Quebec-area locations but it's worth a detour if you're anywhere near the province in December.
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco Canada bakery items? These copycat recipes use ingredients available at Costco US.
+
+| Bakery Item | Copycat Recipe | Cost/Serving |
+|-------------|---------------|-------------|
+| Butter Tarts | [Butter Tarts](../../recipes/costco-copycats/international/butter-tarts.md) | ~$0.75/tart |

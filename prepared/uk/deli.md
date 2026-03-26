@@ -23,3 +23,12 @@ Standard US deli items also available:
 - Caesar Salad Kit
 - Mac and Cheese
 - Chicken Wings
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco UK deli items? These copycat recipes use ingredients available at Costco US.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| Scotch Eggs | [Scotch Eggs](../../recipes/costco-copycats/international/scotch-eggs.md) | ~$1.50/egg |

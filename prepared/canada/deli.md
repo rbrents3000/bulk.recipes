@@ -23,3 +23,12 @@ All standard US deli items are available with similar CAD pricing:
 - Mac and Cheese
 - Chicken Pot Pie
 - All salad kits
+
+
+## Make It at Home
+
+Want to recreate your favorite Costco Canada deli items? These copycat recipes use ingredients available at Costco US.
+
+| Deli Item | Copycat Recipe | Cost/Serving |
+|-----------|---------------|-------------|
+| Tourtière | [Tourtière](../../recipes/costco-copycats/international/tourtiere.md) | ~$2.50 |
