@@ -33,7 +33,7 @@
 
 > **Tip:** The consommé is the whole point. That rich, beefy, chile-stained broth for dipping makes these transcendent. Don't skip it.
 
-*We also have a [weeknight birria tacos recipe](../weeknight-dinners/birria-tacos.md) that's quicker — this version is the full deli-kit treatment.*
+*We also have a [weeknight birria tacos recipe](../../weeknight-dinners/birria-tacos.md) that's quicker — this version is the full deli-kit treatment.*
 
 ## Storage
 Shredded meat and consommé keep 4 days in the fridge, or freeze separately for up to 3 months.

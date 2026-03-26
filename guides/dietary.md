@@ -8,7 +8,7 @@ Whether you're vegetarian, gluten-free, dairy-free, or just trying to figure out
 
 ## Quick Stats
 
-Out of **165 total recipes:**
+Out of **181 total recipes:**
 
 - **51 Vegetarian** — no meat, no fish, no problem
 - **52 Gluten-Free** — naturally, or close enough with easy swaps
@@ -47,6 +47,11 @@ Out of **165 total recipes:**
 | [Danishes](../recipes/costco-copycats/bakery/danishes.md) | Costco Copycats | $0.75 | ✓ | | |
 | [Mini Quiche Tray](../recipes/costco-copycats/bakery/mini-quiche-tray.md) | Costco Copycats | $0.75 | | | |
 | [Triple Chocolate Loaf](../recipes/costco-copycats/bakery/triple-chocolate-loaf.md) | Costco Copycats | $0.75 | ✓ | | |
+| [Blueberry Muffins](../recipes/costco-copycats/bakery/blueberry-muffins.md) | Costco Copycats | $0.75 | | | |
+| [Pumpkin Pie](../recipes/costco-copycats/bakery/pumpkin-pie.md) | Costco Copycats | $0.75 | | | |
+| [Scones](../recipes/costco-copycats/bakery/scones.md) | Costco Copycats | $0.75 | | | |
+| [Sheet Cake](../recipes/costco-copycats/bakery/sheet-cake.md) | Costco Copycats | $0.50 | | | |
+| [Tuxedo Mousse Cake](../recipes/costco-copycats/bakery/tuxedo-mousse-cake.md) | Costco Copycats | $1.25 | | | |
 | [Beef Chili](../recipes/costco-copycats/deli/beef-chili.md) | Costco Copycats | $2.25 | | ✓ | ✓ |
 | [Beef Short Ribs](../recipes/costco-copycats/deli/beef-short-ribs.md) | Costco Copycats | $5.50 | | ✓ | ✓ |
 | [Birria Tacos Kit](../recipes/costco-copycats/deli/birria-tacos-kit.md) | Costco Copycats | $3.00 | | ✓ | ✓ |
@@ -56,6 +61,9 @@ Out of **165 total recipes:**
 | [Chicken Street Tacos](../recipes/costco-copycats/deli/chicken-street-tacos.md) | Costco Copycats | $2.50 | | ✓ | ✓ |
 | [Chicken & Waffles](../recipes/costco-copycats/deli/chicken-waffles.md) | Costco Copycats | $3.50 | | | |
 | [Chicken Wings](../recipes/costco-copycats/deli/chicken-wings.md) | Costco Copycats | $3.50 | | ✓ | |
+| [Bulgogi Marinade](../recipes/costco-copycats/deli/bulgogi-marinade.md) | Costco Copycats | $3.00 | | | |
+| [Chicken Alfredo](../recipes/costco-copycats/deli/chicken-alfredo.md) | Costco Copycats | $2.50 | | | |
+| [Chicken Pot Pie (Deli)](../recipes/costco-copycats/deli/chicken-pot-pie-deli.md) | Costco Copycats | $2.50 | | | |
 | [Chinese Chicken Salad](../recipes/costco-copycats/deli/chinese-chicken-salad.md) | Costco Copycats | $2.25 | | | ✓ |
 | [Clam Chowder](../recipes/costco-copycats/deli/clam-chowder.md) | Costco Copycats | $2.00 | | | |
 | [Crab Cakes](../recipes/costco-copycats/deli/crab-cakes.md) | Costco Copycats | $3.00 | | | |
@@ -124,6 +132,9 @@ Out of **165 total recipes:**
 | [Creamy Tomato Basil Soup](../recipes/soups/creamy-tomato-basil.md) | Soups | $1.25 | ✓ | | |
 | [Minestrone](../recipes/soups/minestrone.md) | Soups | $1.75 | ✓ | | |
 | [Chicken Noodle Soup](../recipes/soups/chicken-noodle-soup.md) | Soups | $1.75 | | | |
+| [Corn Chowder](../recipes/soups/corn-chowder.md) | Soups | $1.50 | | | |
+| [Italian Wedding Soup](../recipes/soups/italian-wedding-soup.md) | Soups | $2.00 | | | |
+| [Potato Soup](../recipes/soups/potato-soup.md) | Soups | $1.50 | | | |
 | [Quinoa Power Salad](../recipes/salads/quinoa-power-salad.md) | Salads | $2.00 | ✓ | ✓ | |
 | [Asian Sesame Noodle Salad](../recipes/salads/asian-sesame-noodle-salad.md) | Salads | $2.25 | | | |
 | [Caprese Salad](../recipes/salads/caprese-salad.md) | Salads | $3.00 | ✓ | ✓ | |
@@ -168,11 +179,16 @@ Out of **165 total recipes:**
 | [Banana Bread](../recipes/desserts/banana-bread.md) | Desserts | $0.75 | ✓ | | ✓ |
 | [Peanut Butter Cookies](../recipes/desserts/peanut-butter-cookies.md) | Desserts | $0.50 | ✓ | ✓ | ✓ |
 | [Cookie Skillet](../recipes/desserts/cookie-skillet.md) | Desserts | $1.00 | ✓ | | |
+| [Apple Crisp](../recipes/desserts/apple-crisp.md) | Desserts | $1.00 | | | |
+| [Rice Krispie Treats](../recipes/desserts/rice-krispie-treats.md) | Desserts | $0.25 | | | |
 | [Beef Stew](../recipes/slow-cooker/beef-stew.md) | Slow Cooker | $3.00 | | ✓ | ✓ |
 | [Chicken Tikka Masala](../recipes/slow-cooker/chicken-tikka-masala.md) | Slow Cooker | $2.75 | | | |
 | [Mississippi Pot Roast](../recipes/slow-cooker/mississippi-pot-roast.md) | Slow Cooker | $3.50 | | ✓ | |
 | [White Chicken Chili](../recipes/slow-cooker/white-chicken-chili.md) | Slow Cooker | $2.25 | | ✓ | |
 | [French Dip Sandwiches](../recipes/slow-cooker/french-dip-sandwiches.md) | Slow Cooker | $3.00 | | | |
+| [Chicken Tortilla Soup (Slow Cooker)](../recipes/slow-cooker/chicken-tortilla-slow-cooker.md) | Slow Cooker | $2.00 | | | |
+| [Honey Garlic Pork](../recipes/slow-cooker/honey-garlic-pork.md) | Slow Cooker | $2.50 | | | |
+| [Italian Beef](../recipes/slow-cooker/italian-beef.md) | Slow Cooker | $3.00 | | | |
 | [Trail Mix](../recipes/snacks/trail-mix.md) | Snacks | $1.50 | ✓ | ✓ | ✓ |
 | [Pizza Bagels](../recipes/snacks/pizza-bagels.md) | Snacks | $1.00 | | | |
 | [Chicken Salad Croissants](../recipes/snacks/chicken-salad-croissants.md) | Snacks | $2.50 | | | |

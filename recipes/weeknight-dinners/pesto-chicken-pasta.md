@@ -21,6 +21,8 @@
 3. Add cherry tomatoes if using. Season with salt and pepper.
 4. Serve topped with Parmesan and toasted pine nuts.
 
+> **Tip:** Reserve that pasta water — a splash of it emulsifies the pesto into a silky sauce instead of a clumpy coating.
+
 ## Storage
 Refrigerate up to 3 days. Add a splash of olive oil when reheating to loosen the pesto.
 

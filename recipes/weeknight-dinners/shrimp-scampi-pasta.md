@@ -28,6 +28,8 @@
 6. Add the remaining 2 tablespoons butter, drained pasta, and shrimp back to the pan. Toss to coat, adding pasta water a splash at a time until the sauce coats the pasta.
 7. Top with Parmesan and fresh parsley. Serve immediately.
 
+> **Tip:** Pat the shrimp completely dry before they hit the pan — wet shrimp steam instead of searing, and you want that golden crust.
+
 ## Storage
 Best eaten fresh. Leftovers keep 1-2 days refrigerated but shrimp can get rubbery when reheated.
 

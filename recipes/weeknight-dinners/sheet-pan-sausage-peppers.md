@@ -23,6 +23,8 @@
 4. Roast for 25-30 minutes, flipping the sausages halfway through, until sausages are cooked through and peppers are tender and slightly charred.
 5. Serve as-is, over rice or pasta, or stuffed into hoagie rolls for sausage and pepper subs.
 
+> **Tip:** Don't crowd the sheet pan — use two if you need to. Crowded veggies steam instead of roasting, and you'll miss that charred flavor.
+
 ## Storage
 Refrigerate up to 4 days. Reheat in oven or skillet.
 

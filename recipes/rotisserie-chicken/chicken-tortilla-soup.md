@@ -29,6 +29,8 @@
 4. Stir in lime juice just before serving.
 5. Ladle into bowls. Top with crushed tortilla chips, shredded cheese, avocado, and sour cream.
 
+> **Tip:** Char a couple of the tortillas directly over a burner flame and crumble them in — adds smoky flavor and thickens the broth slightly.
+
 ## Storage
 Refrigerate up to 5 days. Freezes beautifully for up to 3 months — freeze without toppings.
 

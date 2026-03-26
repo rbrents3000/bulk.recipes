@@ -23,6 +23,8 @@
 5. Bake for 20 minutes until bubbly and golden on top.
 6. Serve hot with tortilla chips and celery sticks.
 
+> **Tip:** For extra crunch, broil the dip for 2-3 minutes at the end until the cheese is golden and bubbly on top.
+
 ## Storage
 Refrigerate up to 3 days. Reheat in oven or microwave.
 
