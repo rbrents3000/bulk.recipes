@@ -20,11 +20,10 @@ const mealPrepCount = categoryCounts['meal-prep'] ?? 0;
     <!-- Costco Copycats: 2x2 -->
     <a
       href="/recipes?category=costco-copycats"
-      class="col-span-2 row-span-2 relative bg-primary rounded-2xl p-6 overflow-hidden group hover:shadow-xl transition-all duration-300"
+      class="col-span-2 row-span-2 relative rounded-2xl p-6 overflow-hidden group hover:shadow-xl transition-all duration-300"
     >
-      <span aria-hidden="true" class="material-symbols-outlined absolute -bottom-6 -right-6 text-[160px] text-white/10 rotate-[-12deg] group-hover:rotate-0 transition-transform duration-500">
-        store
-      </span>
+      <img src="/assets/categories/copycats.png" alt="" class="absolute inset-0 w-full h-full object-cover" aria-hidden="true" />
+      <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-black/10 group-hover:from-black/80 transition-all duration-300"></div>
       <div class="relative z-10 h-full flex flex-col justify-between">
         <div>
           <h3 class="font-headline font-extrabold text-2xl md:text-3xl text-white mb-1">
@@ -47,53 +46,50 @@ const mealPrepCount = categoryCounts['meal-prep'] ?? 0;
     <!-- Weeknight Dinners: 1x1 -->
     <a
       href="/recipes?category=weeknight-dinners"
-      class="relative bg-surface-container-high rounded-2xl p-5 overflow-hidden group hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
+      class="relative rounded-2xl p-5 overflow-hidden group hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
     >
-      <span aria-hidden="true" class="material-symbols-outlined absolute -bottom-3 -right-3 text-[80px] text-on-surface-variant/10 group-hover:text-on-surface-variant/20 transition-colors duration-300">
-        fastfood
-      </span>
+      <img src="/assets/categories/weeknight.png" alt="" class="absolute inset-0 w-full h-full object-cover" aria-hidden="true" />
+      <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-black/10 group-hover:from-black/80 transition-all duration-300"></div>
       <div class="relative z-10 h-full flex flex-col justify-between">
         <div>
-          <h3 class="font-headline font-bold text-lg text-on-surface">Weeknight Dinners</h3>
-          <p class="text-on-surface-variant text-sm">{weeknightCount} recipes</p>
+          <h3 class="font-headline font-bold text-lg text-white">Weeknight Dinners</h3>
+          <p class="text-white/70 text-sm">{weeknightCount} recipes</p>
         </div>
-        <span class="material-symbols-outlined text-primary text-2xl" aria-hidden="true">arrow_forward</span>
+        <span class="material-symbols-outlined text-white text-2xl" aria-hidden="true">arrow_forward</span>
       </div>
     </a>
 
     <!-- Grilling: 1x1 -->
     <a
       href="/recipes?category=grilling"
-      class="relative bg-surface-container-high rounded-2xl p-5 overflow-hidden group hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
+      class="relative rounded-2xl p-5 overflow-hidden group hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
     >
-      <span aria-hidden="true" class="material-symbols-outlined absolute -bottom-3 -right-3 text-[80px] text-on-surface-variant/10 group-hover:text-on-surface-variant/20 transition-colors duration-300">
-        outdoor_grill
-      </span>
+      <img src="/assets/categories/grilling.png" alt="" class="absolute inset-0 w-full h-full object-cover" aria-hidden="true" />
+      <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-black/10 group-hover:from-black/80 transition-all duration-300"></div>
       <div class="relative z-10 h-full flex flex-col justify-between">
         <div>
-          <h3 class="font-headline font-bold text-lg text-on-surface">Grilling</h3>
-          <p class="text-on-surface-variant text-sm">{grillingCount} recipes</p>
+          <h3 class="font-headline font-bold text-lg text-white">Grilling</h3>
+          <p class="text-white/70 text-sm">{grillingCount} recipes</p>
         </div>
-        <span class="material-symbols-outlined text-primary text-2xl" aria-hidden="true">arrow_forward</span>
+        <span class="material-symbols-outlined text-white text-2xl" aria-hidden="true">arrow_forward</span>
       </div>
     </a>
 
     <!-- Meal Prep: 2x1 -->
     <a
       href="/recipes?category=meal-prep"
-      class="col-span-2 relative bg-tertiary-container rounded-2xl p-6 overflow-hidden group hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
+      class="col-span-2 relative rounded-2xl p-6 overflow-hidden group hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
     >
-      <span aria-hidden="true" class="material-symbols-outlined absolute -bottom-4 -right-4 text-[120px] text-on-tertiary-container/10 group-hover:text-on-tertiary-container/20 transition-colors duration-500">
-        calendar_month
-      </span>
+      <img src="/assets/categories/meal-prep.png" alt="" class="absolute inset-0 w-full h-full object-cover" aria-hidden="true" />
+      <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-black/10 group-hover:from-black/80 transition-all duration-300"></div>
       <div class="relative z-10 h-full flex flex-col justify-between">
         <div>
-          <h3 class="font-headline font-extrabold text-xl md:text-2xl text-on-tertiary-container">
+          <h3 class="font-headline font-extrabold text-xl md:text-2xl text-white">
             Meal Prep
           </h3>
-          <p class="text-on-tertiary-container/70 text-sm">{mealPrepCount} recipes</p>
+          <p class="text-white/70 text-sm">{mealPrepCount} recipes</p>
         </div>
-        <span class="material-symbols-outlined text-on-tertiary-container text-2xl" aria-hidden="true">arrow_forward</span>
+        <span class="material-symbols-outlined text-white text-2xl" aria-hidden="true">arrow_forward</span>
       </div>
     </a>
   </div>
