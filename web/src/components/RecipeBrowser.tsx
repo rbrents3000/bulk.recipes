@@ -54,7 +54,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
   const [vegetarian, setVegetarian] = useState(false);
   const [glutenFree, setGlutenFree] = useState(false);
   const [dairyFree, setDairyFree] = useState(false);
-  const [sortBy, setSortBy] = useState<string>('cheapest');
+  const [sortBy, setSortBy] = useState<string>('newest');
   const [page, setPage] = useState(0);
   const [showFilters, setShowFilters] = useState(false);
   const [selectedIngredients, setSelectedIngredients] = useState<Set<string>>(new Set());
@@ -284,6 +284,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                 value={sortBy}
                 onChange={(e) => setSortBy((e.target as HTMLSelectElement).value)}
               >
+                <option value="newest">Newest First</option>
                 <option value="cheapest">Cheapest First</option>
                 <option value="fastest">Fastest First</option>
                 <option value="alpha">Alphabetical</option>
@@ -308,13 +309,21 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
 
           {/* Pagination */}
           {totalPages > 1 && (
-            <div class="flex justify-center gap-2 mt-8">
+            <div class="flex justify-center items-center gap-2 mt-8">
+              <button
+                class="w-12 h-12 rounded-full bg-surface-container-highest text-on-surface hover:bg-surface-container-high transition-all flex items-center justify-center disabled:opacity-30"
+                disabled={page === 0}
+                onClick={() => { setPage(page - 1); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                aria-label="Previous page"
+              >
+                <span class="material-symbols-outlined text-lg">chevron_left</span>
+              </button>
               {Array.from({ length: totalPages }, (_, i) => (
                 <button
                   key={i}
-                  class={`w-10 h-10 rounded-full font-bold text-sm transition-all ${
+                  class={`w-12 h-12 rounded-full font-bold text-sm transition-all ${
                     page === i
-                      ? 'bg-primary text-white shadow-lg'
+                      ? 'bg-primary text-white shadow-lg scale-105'
                       : 'bg-surface-container-highest text-on-surface hover:bg-surface-container-high'
                   }`}
                   onClick={() => { setPage(i); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
@@ -322,6 +331,14 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
                   {i + 1}
                 </button>
               ))}
+              <button
+                class="w-12 h-12 rounded-full bg-surface-container-highest text-on-surface hover:bg-surface-container-high transition-all flex items-center justify-center disabled:opacity-30"
+                disabled={page === totalPages - 1}
+                onClick={() => { setPage(page + 1); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                aria-label="Next page"
+              >
+                <span class="material-symbols-outlined text-lg">chevron_right</span>
+              </button>
             </div>
           )}
         </section>
