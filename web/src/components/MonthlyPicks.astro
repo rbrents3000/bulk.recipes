@@ -6,6 +6,7 @@ interface Recipe {
   title: string;
   slug: string;
   cost: number;
+  cost_unit: string;
   cook: string;
   servings: string;
   category: string;
@@ -61,7 +62,7 @@ const monthName = new Date().toLocaleString('en-US', { month: 'long' });
               </span>
               <span class="flex items-center gap-1">
                 <span class="material-symbols-outlined text-base" aria-hidden="true">payments</span>
-                <span class="font-bold text-tertiary">${recipe.cost.toFixed(2)}</span>
+                <span class="font-bold text-tertiary">${recipe.cost.toFixed(2)}/{recipe.cost_unit}</span>
               </span>
             </div>
           </div>

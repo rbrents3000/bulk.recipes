@@ -1,5 +1,11 @@
 ---
+import { getCollection } from 'astro:content';
+import { countries } from '../data/countries';
 import Base from '../layouts/Base.astro';
+
+const recipes = await getCollection('recipes');
+const recipeCount = recipes.length;
+const countryCount = countries.length;
 ---
 
 <Base title="About — bulk.recipes" description="The unofficial field guide to cooking with Costco groceries.">
@@ -15,12 +21,12 @@ import Base from '../layouts/Base.astro';
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12 text-left">
       <div class="bg-surface-container-lowest p-6 rounded-xl shadow-[0_8px_32px_rgba(47,47,47,0.04)]">
         <span class="material-symbols-outlined text-primary text-3xl mb-3">restaurant</span>
-        <h3 class="font-headline font-bold text-lg mb-2">181 Recipes</h3>
+        <h3 class="font-headline font-bold text-lg mb-2">{recipeCount} Recipes</h3>
         <p class="text-sm text-on-surface-variant">Every recipe has a Costco shopping list and cost-per-serving breakdown.</p>
       </div>
       <div class="bg-surface-container-lowest p-6 rounded-xl shadow-[0_8px_32px_rgba(47,47,47,0.04)]">
         <span class="material-symbols-outlined text-primary text-3xl mb-3">public</span>
-        <h3 class="font-headline font-bold text-lg mb-2">14 Countries</h3>
+        <h3 class="font-headline font-bold text-lg mb-2">{countryCount} Countries</h3>
         <p class="text-sm text-on-surface-variant">Food court, deli, and bakery menus from every country where Costco operates.</p>
       </div>
       <div class="bg-surface-container-lowest p-6 rounded-xl shadow-[0_8px_32px_rgba(47,47,47,0.04)]">
