@@ -207,6 +207,13 @@ if (related.length === 0) {
       />
     </header>
 
+    <!-- Storage callout — shown above instructions on desktop for meal planners -->
+    {storage && (
+      <div class="reveal hidden lg:block mb-8">
+        <StorageBox storage={storage} />
+      </div>
+    )}
+
     <!-- Asymmetric Grid: Sidebar + Main -->
     <div class="reveal grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
 
@@ -221,7 +228,9 @@ if (related.length === 0) {
         )}
 
         {storage && (
-          <StorageBox storage={storage} />
+          <div class="lg:hidden">
+            <StorageBox storage={storage} />
+          </div>
         )}
       </aside>
 

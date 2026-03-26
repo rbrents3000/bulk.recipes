@@ -5,28 +5,28 @@ const sections = [
   {
     title: 'Getting Started',
     guides: [
-      { slug: 'first-trip', title: 'Your First Costco Trip', description: 'Membership tiers, what to buy first, pro tips for newbies', icon: 'shopping_cart' },
-      { slug: 'meal-plans', title: 'Weekly Meal Plans', description: 'Feed a family of 4 for a week — three budget tiers', icon: 'calendar_month' },
-      { slug: 'rotisserie-chicken', title: 'One Chicken, Five Meals', description: 'Break down a rotisserie chicken and stretch it across the week', icon: 'set_meal' },
-      { slug: 'by-country', title: 'Costco by Country', description: "What's at your local Costco — all 14 countries mapped", icon: 'public' },
+      { slug: 'first-trip', title: 'Your First Costco Trip', subtitle: 'Save $50+ on your first haul', description: 'Membership tiers, what to buy first, and pro tips so you don\'t overspend', icon: 'shopping_cart', meta: '5 min read' },
+      { slug: 'meal-plans', title: 'Weekly Meal Plans', subtitle: 'Feed 4 for under $75/week', description: 'Three budget tiers with full shopping lists and day-by-day menus', icon: 'calendar_month', meta: '8 min read' },
+      { slug: 'rotisserie-chicken', title: 'One Chicken, Five Meals', subtitle: 'Stretch $4.99 across the week', description: 'Break down a rotisserie chicken and turn it into 5 completely different dinners', icon: 'set_meal', meta: '6 min read' },
+      { slug: 'by-country', title: 'Costco by Country', subtitle: '14 countries mapped', description: "Every food court, deli, and bakery menu from around the world", icon: 'public', meta: '14 countries' },
     ],
   },
   {
     title: 'Reference',
     guides: [
-      { slug: 'cost-index', title: 'Cost Index', description: 'Every recipe ranked by cost-per-serving', icon: 'payments' },
-      { slug: 'dietary', title: 'Dietary Index', description: 'Which recipes are vegetarian, gluten-free, or dairy-free', icon: 'eco' },
-      { slug: 'seasonal', title: 'Seasonal Guide', description: 'What ingredients to buy by season — produce, meat deals, bakery rotations', icon: 'sunny' },
-      { slug: 'whats-in-season', title: "What's In Season", description: 'What to cook this month — recipes matched to current Costco offerings', icon: 'trending_up' },
-      { slug: 'freezer-guide', title: 'Freezer Guide', description: 'What to freeze, how long it lasts, and how to thaw it', icon: 'ac_unit' },
-      { slug: 'by-ingredient', title: 'Recipes by Ingredient', description: 'Find recipes by what protein or ingredient you have', icon: 'grocery' },
+      { slug: 'cost-index', title: 'Cheapest Recipes Ranked', subtitle: 'From $0.25 to $13/serving', description: 'Every recipe sorted by cost — find meals that stretch your budget the furthest', icon: 'payments', meta: 'All recipes' },
+      { slug: 'dietary', title: 'Dietary Quick-Find', subtitle: 'Vegetarian, GF, dairy-free', description: 'Filter the full recipe collection by dietary restriction in one click', icon: 'eco', meta: 'All recipes' },
+      { slug: 'seasonal', title: 'Seasonal Buying Guide', subtitle: 'What to stock up on now', description: 'Produce deals, meat markdowns, and bakery rotations by season', icon: 'sunny', meta: '4 seasons' },
+      { slug: 'whats-in-season', title: "What's Hot This Month", subtitle: 'Recipes matched to current stock', description: 'What to cook this month based on what Costco is currently carrying', icon: 'trending_up', meta: 'Updated monthly' },
+      { slug: 'freezer-guide', title: 'The Freezer Bible', subtitle: 'Freeze it, thaw it, eat it', description: 'What to freeze, how long it lasts, and the best thaw methods for every protein', icon: 'ac_unit', meta: '5 min read' },
+      { slug: 'by-ingredient', title: 'Cook by Ingredient', subtitle: 'Use what you already bought', description: 'Start with what\'s in your fridge and find every recipe that uses it', icon: 'grocery', meta: 'All recipes' },
     ],
   },
   {
     title: 'Special Occasions',
     guides: [
-      { slug: 'party-planning', title: 'Party Planning', description: 'How to feed 10, 25, or 50 people without losing your mind', icon: 'celebration' },
-      { slug: 'holidays', title: 'Holiday & Event Collections', description: 'Thanksgiving, Super Bowl, Summer BBQ, Holiday Baking, Back to School', icon: 'cake' },
+      { slug: 'party-planning', title: 'Party Planning', subtitle: 'Feed 10, 25, or 50 people', description: 'Complete menus with quantities, timelines, and shopping lists for any crowd size', icon: 'celebration', meta: '3 menus' },
+      { slug: 'holidays', title: 'Holiday Collections', subtitle: 'Thanksgiving to Super Bowl', description: 'Curated recipe sets for every major holiday and gathering', icon: 'cake', meta: '6 events' },
     ],
   },
 ];
@@ -44,19 +44,23 @@ const sections = [
     </div>
 
     {sections.map(section => (
-      <div class="mb-12">
+      <div class="reveal mb-12">
         <h2 class="font-headline text-2xl font-extrabold tracking-tight mb-6 border-b-4 border-primary inline-block pb-1">
           {section.title}
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {section.guides.map(guide => (
             <a href={`/guides/${guide.slug}`} class="group block">
-              <div class="bg-surface-container-lowest rounded-xl p-6 shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300 h-full">
-                <span class="material-symbols-outlined text-3xl text-primary mb-4 block" aria-hidden="true">{guide.icon}</span>
-                <h3 class="font-headline font-bold text-lg mb-2 group-hover:text-primary transition-colors">
+              <div class="bg-surface-container-lowest rounded-xl p-6 shadow-[0_8px_32px_rgba(47,47,47,0.04)] hover:-translate-y-1 hover:shadow-[0_12px_40px_rgba(47,47,47,0.08)] transition-all duration-300 h-full flex flex-col">
+                <div class="flex items-start justify-between mb-3">
+                  <span class="material-symbols-outlined text-3xl text-primary" aria-hidden="true">{guide.icon}</span>
+                  <span class="text-xs font-bold text-on-surface-variant bg-surface-container-high px-2.5 py-1 rounded-full">{guide.meta}</span>
+                </div>
+                <h3 class="font-headline font-bold text-lg mb-0.5 group-hover:text-primary transition-colors">
                   {guide.title}
                 </h3>
-                <p class="text-sm text-on-surface-variant leading-relaxed">
+                <p class="text-sm font-bold text-primary mb-2">{guide.subtitle}</p>
+                <p class="text-sm text-on-surface-variant leading-relaxed flex-1">
                   {guide.description}
                 </p>
               </div>
