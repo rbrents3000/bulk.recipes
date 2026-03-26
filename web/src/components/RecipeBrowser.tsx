@@ -146,7 +146,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
 
       <div class="flex flex-col md:flex-row gap-8 lg:gap-12">
         {/* Sidebar */}
-        <aside class={`w-full md:w-64 lg:w-80 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
+        <aside class={`w-full md:w-56 lg:w-64 flex-shrink-0 space-y-8 ${showFilters ? 'block' : 'hidden md:block'}`}>
           <h2 class="font-headline text-2xl font-extrabold tracking-tight">Filter by</h2>
 
           {/* Category */}
@@ -287,7 +287,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
               <span class="text-xs font-bold px-3 text-on-surface-variant">SORT BY</span>
               <select
                 aria-label="Sort recipes by"
-                class="bg-surface-container-lowest border-none rounded-xl text-sm font-bold py-2 pl-3 pr-8 focus:ring-0"
+                class="bg-surface-container-lowest border-none rounded-xl text-sm font-bold py-2 pl-3 pr-10 focus:ring-0 min-w-[160px]"
                 value={sortBy}
                 onChange={(e) => { setSortBy((e.target as HTMLSelectElement).value); setPage(0); }}
               >
@@ -302,7 +302,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
 
           {/* Recipe grid */}
           {paged.length > 0 ? (
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
               {paged.map(recipe => (
                 <RecipeCardClient key={recipe.id} recipe={recipe} />
               ))}
