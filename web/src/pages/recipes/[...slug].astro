@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import RecipeCard from '../../components/RecipeCard.astro';
 import ServingsScaler from '../../components/ServingsScaler';
+import RecipeSchema from '../../components/RecipeSchema.astro';
 
 export async function getStaticPaths() {
   const recipes = await getCollection('recipes');
@@ -26,6 +27,7 @@ const related = allRecipes
 ---
 
 <Base title={`${title} — bulk.recipes`} description={description}>
+  <RecipeSchema title={title} description={description} prep={prep} cook={cook} servings={servings} cost={cost} costUnit={cost_unit} category={category} slug={recipe.id} />
   <article class="max-w-4xl mx-auto py-8" data-pagefind-body>
     <!-- Back link -->
     <a href="/recipes" class="inline-flex items-center gap-1 text-sm text-on-surface-variant hover:text-primary transition-colors mb-6">

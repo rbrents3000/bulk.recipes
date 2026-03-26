@@ -1,0 +1,43 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  prep: string;
+  cook: string;
+  servings: string;
+  cost: number;
+  costUnit: string;
+  category: string;
+  slug: string;
+}
+
+const { title, description, prep, cook, servings, cost, costUnit, category, slug } = Astro.props;
+
+function toISO(time: string): string {
+  const hrs = time.match(/(\d+)\s*hr/i);
+  const mins = time.match(/(\d+)\s*min/i);
+  let iso = 'PT';
+  if (hrs) iso += hrs[1] + 'H';
+  if (mins) iso += mins[1] + 'M';
+  return iso === 'PT' ? 'PT0M' : iso;
+}
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": title,
+  "description": description,
+  "prepTime": toISO(prep),
+  "cookTime": toISO(cook),
+  "recipeYield": servings,
+  "recipeCategory": category.replace(/[-/]/g, ' '),
+  "author": {
+    "@type": "Organization",
+    "name": "bulk.recipes",
+    "url": "https://bulk.recipes"
+  },
+  "url": `https://bulk.recipes/recipes/${slug}`,
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

@@ -7,12 +7,15 @@ import vercel from '@astrojs/vercel';
 
 import preact from '@astrojs/preact';
 
+import sitemap from '@astrojs/sitemap';
+
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://bulk.recipes',
   vite: {
     plugins: [tailwindcss()]
   },
 
   adapter: vercel(),
-  integrations: [preact()]
+  integrations: [preact(), sitemap()]
 });
