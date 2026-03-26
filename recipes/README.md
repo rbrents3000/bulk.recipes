@@ -4,13 +4,13 @@
 
 This is not what Costco sells ready-to-eat — that's in [prepared foods](../prepared/). These are recipes for when you get home with a cart full of bulk groceries and need to turn it all into actual dinners. Every recipe has a Costco shopping list, step-by-step instructions, and a cost-per-serving breakdown.
 
-157 recipes. Cheapest is $0.35/piece (spanakopita). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
+165 recipes. Cheapest is $0.35/piece (spanakopita). Most expensive is $8.50/serving (stuffed salmon, but you're worth it).
 
 ---
 
 ## Quick Picks
 
-Don't want to scroll through 157 recipes? Start here.
+Don't want to scroll through 165 recipes? Start here.
 
 **Under 30 Minutes:**
 [Chicken Fried Rice](rotisserie-chicken/chicken-fried-rice.md) ·
@@ -29,7 +29,7 @@ Don't want to scroll through 157 recipes? Start here.
 [Peanut Butter Cookies](desserts/peanut-butter-cookies.md) ·
 [Overnight Oats](meal-prep/overnight-oats.md) ·
 [Vegetable Fried Rice](weeknight-dinners/vegetable-fried-rice.md) ·
-[Shakshuka](weeknight-dinners/shakshuka.md) ·
+[Banana Bread](desserts/banana-bread.md) ·
 [Bruschetta](appetizers/bruschetta.md)
 
 **Vegetarian:**

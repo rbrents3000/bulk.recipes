@@ -39,7 +39,7 @@ Highlights:
 
 ### [Recipes](recipes/)
 
-What you make at home with all that stuff. 157 homemade recipes built around Costco ingredients, each with a Costco shopping list and cost-per-serving breakdown.
+What you make at home with all that stuff. 165 homemade recipes built around Costco ingredients, each with a Costco shopping list and cost-per-serving breakdown.
 
 A few favorites:
 - [Birria Tacos](recipes/weeknight-dinners/birria-tacos.md) — slow-braised chuck roast, crispy dipped tacos — $3.50/serving
@@ -59,11 +59,11 @@ A few favorites:
 - [Char Siu](recipes/costco-copycats/international/char-siu.md) — Cantonese BBQ pork, Costco China copycat — $2.50/serving
 - [Granola Bars](recipes/snacks/granola-bars.md) — no-bake, Kirkland oats and peanut butter — $0.50/serving
 
-**[Browse all 157 recipes →](recipes/)**
+**[Browse all 165 recipes →](recipes/)**
 
 ### [Guides](guides/)
 
-The stuff you wish someone had told you before your first Costco run. Meal plans, freezer strategies, a full cost index, and a dietary guide so you can find exactly what fits your budget and your diet without scrolling through 157 recipes.
+The stuff you wish someone had told you before your first Costco run. Meal plans, freezer strategies, a full cost index, and a dietary guide so you can find exactly what fits your budget and your diet without scrolling through 165 recipes.
 
 [Meal Plans](guides/meal-plans.md) ·
 [One Chicken, Five Meals](guides/rotisserie-chicken.md) ·
@@ -79,12 +79,12 @@ The stuff you wish someone had told you before your first Costco run. Meal plans
 
 ## Why This Exists
 
-Costco sells incredible food at incredible prices, but the quantities are... a lot. This repo helps you:
+Costco sells incredible food at incredible prices, but the quantities are... a lot. You bought 6 lbs of chicken thighs and now you need a plan. That's where this comes in.
 
-1. **Know what's out there** — especially prepared items that vary wildly by country and season
-2. **Cook with what you bought** — recipes sized around actual Costco packages, not "1/4 of a chicken breast"
-3. **Waste less** — because nobody should throw away half a 3-lb bag of spinach
-4. **See the real value** — cost-per-serving breakdowns that justify the membership fee
+- **Know what's out there** — especially the prepared foods that vary wildly by country and season (did you know Costco Japan has a bulgogi bake?)
+- **Cook with what you bought** — recipes sized around actual Costco packages, not "1/4 of a chicken breast"
+- **Waste less** — because nobody should throw away half a 3-lb bag of spinach
+- **See the real value** — cost-per-serving breakdowns that justify the membership fee
 
 ## Contributing
 

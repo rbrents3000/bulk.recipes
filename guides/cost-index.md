@@ -17,8 +17,11 @@ The "did that really just cost less than a dollar?" tier.
 | [Agua Fresca](../recipes/drinks/agua-fresca.md) | Drinks | $0.50 | 8 |
 | [Cold Brew Concentrate](../recipes/drinks/cold-brew-concentrate.md) | Drinks | $0.50 | 8 |
 | [Granola Bars](../recipes/snacks/granola-bars.md) | Snacks | $0.50 | 16 |
+| [Double Chocolate Chunk Cookie](../recipes/costco-copycats/food-court/chocolate-chunk-cookie.md) | Costco Copycats | $0.50 | 12 |
 | [Peanut Butter Cookies](../recipes/desserts/peanut-butter-cookies.md) | Desserts | $0.50 | 24 |
 | [Egg Muffin Cups](../recipes/meal-prep/egg-muffin-cups.md) | Meal Prep | $0.75 | 12 |
+| [Cinnamon Coffee Cake](../recipes/costco-copycats/bakery/cinnamon-coffee-cake.md) | Costco Copycats | $0.75 | 12 |
+| [Triple Chocolate Loaf](../recipes/costco-copycats/bakery/triple-chocolate-loaf.md) | Costco Copycats | $0.75 | 10 |
 | [Banana Bread](../recipes/desserts/banana-bread.md) | Desserts | $0.75 | 10 |
 | [Bruschetta](../recipes/appetizers/bruschetta.md) | Appetizers | $0.75 | 12 |
 | [Spanakopita](../recipes/costco-copycats/deli/spanakopita.md) | Costco Copycats | $0.35/piece | 36 |
@@ -108,6 +111,7 @@ The "this is a legitimately good dinner" tier.
 | [White Chicken Chili](../recipes/slow-cooker/white-chicken-chili.md) | Slow Cooker | $2.25 | 8 |
 | [Breakfast Croissant Sandwiches](../recipes/meal-prep/breakfast-croissant-sandwiches.md) | Meal Prep | $2.33 | 6 |
 | [Pesto Chicken Pasta](../recipes/weeknight-dinners/pesto-chicken-pasta.md) | Weeknight Dinners | $2.33 | 6 |
+| [Yakisoba Stir Fry](../recipes/costco-copycats/deli/yakisoba-stir-fry.md) | Costco Copycats | $2.50 | 6 |
 | [Classic Smash Burgers](../recipes/grilling/burgers.md) | Grilling | $2.50 | 8 |
 | [BBQ Chicken Sandwiches](../recipes/grilling/bbq-chicken-sandwiches.md) | Grilling | $2.50 | 6 |
 | [Bibigo Dumpling Stir-Fry](../recipes/weeknight-dinners/bibigo-dumpling-stir-fry.md) | Weeknight Dinners | $2.50 | 4 |
@@ -155,6 +159,7 @@ Weeknight dinners that feel like going out.
 
 | Recipe | Category | Cost/Serving | Servings |
 |--------|----------|-------------|----------|
+| [Birria Tacos Kit](../recipes/costco-copycats/deli/birria-tacos-kit.md) | Costco Copycats | $3.00 | 8 |
 | [Beef Stew](../recipes/slow-cooker/beef-stew.md) | Slow Cooker | $3.00 | 8 |
 | [French Dip Sandwiches](../recipes/slow-cooker/french-dip-sandwiches.md) | Slow Cooker | $3.00 | 8 |
 | [Butter Chicken](../recipes/weeknight-dinners/butter-chicken.md) | Weeknight Dinners | $3.00 | 6 |
@@ -165,6 +170,8 @@ Weeknight dinners that feel like going out.
 | [Greek Chicken Meal Prep](../recipes/meal-prep/greek-chicken-meal-prep.md) | Meal Prep | $3.00 | 6 |
 | [Ravioli Bake](../recipes/weeknight-dinners/ravioli-bake.md) | Weeknight Dinners | $3.00 | 6 |
 | [Thai Green Curry](../recipes/weeknight-dinners/thai-green-curry.md) | Weeknight Dinners | $3.00 | 4 |
+| [Chicken & Waffles](../recipes/costco-copycats/deli/chicken-waffles.md) | Costco Copycats | $3.50 | 4 |
+| [Tempura Shrimp Tacos](../recipes/costco-copycats/deli/tempura-shrimp-tacos.md) | Costco Copycats | $3.50 | 6 |
 | [Acai Bowl](../recipes/costco-copycats/food-court/acai-bowl.md) | Costco Copycats | $3.50 | 4 |
 | [Birria Tacos](../recipes/weeknight-dinners/birria-tacos.md) | Weeknight Dinners | $3.50 | 8 |
 | [Chicken Parmesan](../recipes/weeknight-dinners/chicken-parmesan.md) | Weeknight Dinners | $3.50 | 4 |
@@ -199,6 +206,7 @@ The "treat yourself" tier. Still cheaper than a restaurant.
 | [Beef Short Ribs](../recipes/costco-copycats/deli/beef-short-ribs.md) | Costco Copycats | $5.50 | 6 |
 | [Garlic Butter Steak Bites](../recipes/weeknight-dinners/garlic-butter-steak-bites.md) | Weeknight Dinners | $5.50 | 4 |
 | [Grilled Salmon](../recipes/grilling/grilled-salmon.md) | Grilling | $5.50 | 4 |
+| [Salmon Milano](../recipes/costco-copycats/deli/salmon-milano.md) | Costco Copycats | $6.00 | 4 |
 | [Miso Glazed Salmon](../recipes/weeknight-dinners/miso-glazed-salmon.md) | Weeknight Dinners | $5.50 | 4 |
 | [Korean Short Ribs](../recipes/weeknight-dinners/korean-short-ribs.md) | Weeknight Dinners | $6.00 | 4 |
 | [Lemon Butter Salmon](../recipes/weeknight-dinners/lemon-butter-salmon.md) | Weeknight Dinners | $6.50 | 4 |
@@ -213,7 +221,7 @@ The "treat yourself" tier. Still cheaper than a restaurant.
 - **Cheapest recipe:** Lemonade Concentrate at $0.40/serving — literally cheaper than water from a vending machine
 - **Most expensive:** Baked Stuffed Salmon at $8.50/serving — still less than a sad airport salad
 - **Average cost per serving across all recipes:** ~$2.60
-- **Total recipes indexed:** 157
+- **Total recipes indexed:** 165
 - **Recipes under $2/serving:** 66
 - **Recipes under $3/serving:** 112
 
