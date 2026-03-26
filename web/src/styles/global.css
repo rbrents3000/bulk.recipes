@@ -118,67 +118,160 @@
   nav,
   footer,
   [aria-label="Related recipes"],
-  [aria-label="Main navigation"],
-  .mobile-nav-btn,
-  a[href="#main"] {
+  a[href="#main"],
+  .sr-only {
     display: none !important;
   }
 
-  /* Hide interactive/non-content elements */
-  button,
-  select,
-  input,
-  [data-pagefind-body] ~ script {
+  /* Hide Preact interactive islands (share bar, favorite buttons, servings scaler buttons) */
+  [data-astro-island] button,
+  [data-astro-island] a {
     display: none !important;
   }
 
-  /* Keep ingredient checkboxes visible */
-  input[type="checkbox"] {
-    display: inline-block !important;
+  /* Hide material icons (render as empty boxes in print) */
+  .material-symbols-outlined {
+    display: none !important;
   }
 
-  /* Clean backgrounds and shadows */
-  *,
-  *::before,
-  *::after {
-    background: white !important;
-    color: black !important;
+  /* Hide back link */
+  article > a:first-child {
+    display: none !important;
+  }
+
+  /* Remove fixed nav padding gap */
+  main {
+    padding-top: 0.5rem !important;
+    padding-bottom: 0 !important;
+    max-width: 100% !important;
+  }
+  body {
+    min-height: auto !important;
+  }
+
+  /* Remove all shadows */
+  * {
     box-shadow: none !important;
     text-shadow: none !important;
   }
 
-  /* Restore colored badges for dietary info */
-  [class*="bg-green-100"] { background: #dcfce7 !important; color: #166534 !important; }
-  [class*="bg-amber-100"] { background: #fef3c7 !important; color: #92400e !important; }
-  [class*="bg-blue-100"] { background: #dbeafe !important; color: #1e40af !important; }
+  /* Remove fixed/sticky positioning */
+  .fixed, .sticky {
+    position: static !important;
+  }
 
-  /* Layout: remove padding waste, full width */
-  body { min-height: auto !important; }
-  main { padding: 0.5rem !important; max-width: 100% !important; }
+  /* ── Layout ── */
 
-  /* Single column layout for recipe content */
-  .grid {
+  /* Single column for recipe content grid */
+  .lg\:grid-cols-12 {
+    display: block !important;
+  }
+  .lg\:col-span-4,
+  .lg\:col-span-8 {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-bottom: 2rem;
+  }
+
+  /* Metadata bar: force horizontal */
+  .grid.grid-cols-2 {
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+
+  /* Leftover ideas: single column */
+  .sm\:grid-cols-2,
+  .lg\:grid-cols-3,
+  .lg\:grid-cols-4 {
     display: block !important;
   }
 
-  /* Prevent page breaks inside steps and ingredient items */
-  li,
-  tr,
-  .break-inside-avoid {
+  /* ── Content styling ── */
+
+  /* Hero image: keep but constrain */
+  article img {
+    max-height: 200px !important;
+    width: auto !important;
+    border-radius: 0.5rem;
+  }
+
+  /* Step number circles: keep visible */
+  ol li span[aria-hidden="true"] {
+    background: #eee !important;
+    color: #ba0027 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Ingredient card "K" badge */
+  .bg-primary {
+    background: #ba0027 !important;
+    color: white !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Dietary badges: preserve colors */
+  [class*="bg-green-100"] {
+    background: #dcfce7 !important;
+    color: #166534 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  [class*="bg-amber-100"] {
+    background: #fef3c7 !important;
+    color: #92400e !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  [class*="bg-blue-100"] {
+    background: #dbeafe !important;
+    color: #1e40af !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Category badge */
+  .bg-secondary-container {
+    background: #fdd34d !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Storage box: preserve accent border */
+  .border-tertiary-container {
+    border-color: #ff9727 !important;
+  }
+
+  /* Ingredient checklist: keep card structure */
+  .bg-surface-container-lowest {
+    border: 1px solid #ddd !important;
+  }
+
+  /* Other ingredient chips: subtle border */
+  .border-secondary-container {
+    border-color: #ccc !important;
+  }
+
+  /* ── Page break control ── */
+  li {
     break-inside: avoid;
   }
-
-  /* Page break before instructions for clean separation */
-  article > div > div:last-child {
-    break-before: auto;
+  header {
+    break-after: avoid;
+  }
+  aside {
+    break-after: auto;
   }
 
-  /* Hide images to save ink */
-  img {
-    display: none !important;
+  /* ── Links ── */
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
   }
 
-  /* Show recipe URL for reference */
+  /* ── Footer reference ── */
   article::after {
     content: "Printed from bulk.recipes";
     display: block;
@@ -187,16 +280,5 @@
     color: #999 !important;
     border-top: 1px solid #ddd;
     padding-top: 0.5rem;
-  }
-
-  /* Clean link styling */
-  a {
-    text-decoration: none !important;
-    color: black !important;
-  }
-
-  /* Remove fixed positioning */
-  .fixed {
-    position: static !important;
   }
 }
