@@ -1,0 +1,42 @@
+---
+const currentPath = Astro.url.pathname;
+---
+
+<nav class="fixed top-0 w-full flex justify-between items-center px-6 py-4 max-w-full mx-auto bg-white/80 backdrop-blur-md z-50 shadow-[0_8px_32px_rgba(47,47,47,0.06)]">
+  <div class="flex items-center gap-8">
+    <a class="text-2xl font-black text-primary italic tracking-tighter font-headline" href="/">
+      bulk.recipes
+    </a>
+    <div class="hidden md:flex items-center gap-6">
+      <a
+        class:list={[
+          "font-headline font-bold tracking-tight transition-colors",
+          currentPath.startsWith('/recipes') ? "text-primary border-b-4 border-primary pb-1" : "text-neutral-600 hover:text-primary"
+        ]}
+        href="/recipes"
+      >
+        Recipes
+      </a>
+      <a
+        class:list={[
+          "font-headline font-medium tracking-tight transition-colors",
+          currentPath.startsWith('/prepared') ? "text-primary border-b-4 border-primary pb-1" : "text-neutral-600 hover:text-primary"
+        ]}
+        href="/prepared"
+      >
+        Countries
+      </a>
+      <a class="text-neutral-600 font-medium hover:text-primary transition-colors font-headline tracking-tight" href="/guides">
+        Guides
+      </a>
+      <a class="text-neutral-600 font-medium hover:text-primary transition-colors font-headline tracking-tight" href="/products">
+        Groceries
+      </a>
+    </div>
+  </div>
+  <div class="flex items-center gap-4">
+    <button class="hover:scale-105 transition-transform duration-200 p-2 rounded-full hover:bg-surface-container" aria-label="Search">
+      <span class="material-symbols-outlined text-primary">search</span>
+    </button>
+  </div>
+</nav>

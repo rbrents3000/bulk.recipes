@@ -1,0 +1,41 @@
+---
+const year = new Date().getFullYear();
+const links = [
+  { label: 'Meal Plans', href: '/guides/meal-plans' },
+  { label: 'Cost Index', href: '/guides/cost-index' },
+  { label: 'Dietary Index', href: '/guides/dietary' },
+  { label: 'Freezer Guide', href: '/guides/freezer-guide' },
+  { label: 'By Ingredient', href: '/guides/by-ingredient' },
+];
+---
+
+<footer class="w-full px-8 py-12 flex flex-col md:flex-row justify-between items-center gap-6 bg-surface rounded-t-xl mt-12 pt-12 pb-8">
+  <div class="flex flex-col items-center md:items-start gap-4">
+    <a href="/" class="text-lg font-bold text-primary font-headline italic">bulk.recipes</a>
+    <p class="font-body text-sm text-on-surface-variant">&copy; {year} bulk.recipes</p>
+  </div>
+  <div class="flex flex-wrap justify-center gap-6">
+    {links.map(link => (
+      <a
+        class="font-body text-sm text-on-surface-variant hover:text-primary hover:underline decoration-2 underline-offset-4 transition-all duration-300"
+        href={link.href}
+      >
+        {link.label}
+      </a>
+    ))}
+  </div>
+  <div class="flex gap-4">
+    <a
+      href="https://github.com/rbrents3000/bulk.recipes"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary hover:scale-110 transition-transform"
+      aria-label="GitHub"
+    >
+      <span class="material-symbols-outlined">code</span>
+    </a>
+    <button class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary hover:scale-110 transition-transform" aria-label="Share">
+      <span class="material-symbols-outlined">share</span>
+    </button>
+  </div>
+</footer>
