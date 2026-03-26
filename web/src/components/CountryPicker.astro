@@ -1,19 +1,19 @@
 ---
 const countries = [
-  { emoji: '🇺🇸', label: 'USA', slug: 'us' },
-  { emoji: '🇨🇦', label: 'Canada', slug: 'canada' },
-  { emoji: '🇲🇽', label: 'Mexico', slug: 'mexico' },
-  { emoji: '🇬🇧', label: 'UK', slug: 'uk' },
-  { emoji: '🇰🇷', label: 'Korea', slug: 'korea' },
-  { emoji: '🇯🇵', label: 'Japan', slug: 'japan' },
-  { emoji: '🇦🇺', label: 'Australia', slug: 'australia' },
-  { emoji: '🇪🇸', label: 'Spain', slug: 'spain' },
-  { emoji: '🇫🇷', label: 'France', slug: 'france' },
-  { emoji: '🇨🇳', label: 'China', slug: 'china' },
-  { emoji: '🇮🇸', label: 'Iceland', slug: 'iceland' },
-  { emoji: '🇳🇿', label: 'NZ', slug: 'new-zealand' },
-  { emoji: '🇸🇪', label: 'Sweden', slug: 'sweden' },
-  { emoji: '🇹🇼', label: 'Taiwan', slug: 'taiwan' },
+  { iso: 'us', label: 'USA', slug: 'us' },
+  { iso: 'ca', label: 'Canada', slug: 'canada' },
+  { iso: 'mx', label: 'Mexico', slug: 'mexico' },
+  { iso: 'gb', label: 'UK', slug: 'uk' },
+  { iso: 'kr', label: 'Korea', slug: 'korea' },
+  { iso: 'jp', label: 'Japan', slug: 'japan' },
+  { iso: 'au', label: 'Australia', slug: 'australia' },
+  { iso: 'es', label: 'Spain', slug: 'spain' },
+  { iso: 'fr', label: 'France', slug: 'france' },
+  { iso: 'cn', label: 'China', slug: 'china' },
+  { iso: 'is', label: 'Iceland', slug: 'iceland' },
+  { iso: 'nz', label: 'NZ', slug: 'new-zealand' },
+  { iso: 'se', label: 'Sweden', slug: 'sweden' },
+  { iso: 'tw', label: 'Taiwan', slug: 'taiwan' },
 ];
 ---
 
@@ -31,7 +31,7 @@ const countries = [
           aria-label={`Prepared foods from ${country.label}`}
           class="flex flex-col items-center gap-1.5 min-w-[5rem] rounded-2xl bg-white border border-neutral-200 px-4 py-3 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
         >
-          <span class="text-3xl">{country.emoji}</span>
+          <img src={`/assets/flags/${country.iso}.svg`} alt="" class="w-8 h-8" loading="lazy" />
           <span class="font-body text-sm font-medium text-neutral-700">{country.label}</span>
         </a>
       ))}
