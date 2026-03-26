@@ -85,6 +85,15 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet" crossorigin="anonymous" />
 
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TEBNP70KDY"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-TEBNP70KDY');
+    </script>
+
     <title>{title}</title>
   </head>
   <body class="min-h-screen flex flex-col">
