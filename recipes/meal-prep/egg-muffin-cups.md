@@ -18,7 +18,7 @@ costco_ingredients:
   - 'Kirkland Shredded Sharp Cheddar — 3/4 cup (~$1.20, 2.5 lb bag)'
   - 'Kirkland Organic Bell Peppers — 2 peppers, diced (~$1.50, 6-pack multicolor)'
 other_ingredients:
-  - 1/4 cup milk
+  - 1/4 cup (60g) milk
   - 1/2 tsp garlic powder
   - 1/2 tsp onion powder
   - Salt and pepper to taste

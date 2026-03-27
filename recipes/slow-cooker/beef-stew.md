@@ -20,12 +20,12 @@ costco_ingredients:
   - 'Kirkland Chicken Broth — 4 cups (~$11.49, 6-pack cartons)'
   - 'Kirkland Tomato Paste — 3 tbsp (~$7.49, 12-pack cans)'
 other_ingredients:
-  - 3 tbsp olive oil
+  - 3 tbsp (40g) olive oil
   - '3 cloves garlic, minced'
   - 1 tsp dried thyme
   - 1 tsp dried rosemary
   - 2 tbsp Worcestershire sauce
-  - 2 tbsp flour
+  - 2 tbsp (15g) flour
   - Salt and pepper to taste
 instructions:
   - 'Toss chuck roast cubes with flour, salt, and pepper.'

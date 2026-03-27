@@ -19,8 +19,8 @@ costco_ingredients:
   - 'Kirkland Signature Greek Yogurt — 1 cup (~$7.99, 48 oz tub)'
 other_ingredients:
   - '1 ripe banana, peeled'
-  - 1 cup orange juice (fresh-squeezed or from carton — both work)
-  - 2 tbsp honey (or agave nectar if that's your thing)
+  - 1 cup (250g) orange juice (fresh-squeezed or from carton — both work)
+  - 2 tbsp (40g) honey (or agave nectar if that's your thing)
   - '1/2 cup ice *(optional, if you want it thicker)*'
   - >-
     Pinch of ground turmeric *(optional, for color and anti-inflammatory

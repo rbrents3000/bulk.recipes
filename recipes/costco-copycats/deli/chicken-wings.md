@@ -25,16 +25,16 @@ other_ingredients:
   - 1 teaspoon salt
   - 1/2 teaspoon pepper
   - 1/2 cup Frank's RedHot
-  - 2 tablespoons melted butter
+  - 2 tablespoons (30g) melted butter
   - 1/4 cup soy sauce
-  - 2 tablespoons honey
+  - 2 tablespoons (40g) honey
   - 1 tablespoon rice vinegar
   - 1 teaspoon sesame oil
   - '1 clove garlic, minced'
   - 1 teaspoon cornstarch + 1 tablespoon water
-  - 3 tablespoons melted butter
+  - 3 tablespoons (40g) melted butter
   - '4 cloves garlic, minced'
-  - 1/2 cup grated Parmesan
+  - 1/2 cup (50g) grated Parmesan
   - '1 tablespoon fresh parsley, chopped'
 instructions:
   - >-

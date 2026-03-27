@@ -21,7 +21,7 @@ costco_ingredients:
   - 'Kirkland Signature Penne Pasta — 1 lb (~$8.49, 4 lb box)'
   - 'Kirkland Signature Broccoli Florets (frozen) — 3 cups (~$7.49, 4 lb bag)'
 other_ingredients:
-  - 1/2 cup Pasta water (reserved from cooking)
+  - 1/2 cup (60g) Pasta water (reserved from cooking)
   - 1/2 teaspoon Garlic powder
   - 1/4 teaspoon Black pepper
   - 1/4 cup Grated Parmesan *(optional)*

@@ -17,9 +17,9 @@ costco_ingredients:
   - 'Kirkland Signature Unsalted Butter — 3 tablespoons (~$12.99, 4 x 1 lb bars)'
   - 'Lemons — 1 lemon (~$4.99, 5 lb bag)'
 other_ingredients:
-  - 1 tablespoon Olive oil or avocado oil (high smoke point)
+  - 1 tablespoon (15g) Olive oil or avocado oil (high smoke point)
   - '3 cloves, minced Garlic'
-  - 1/4 cup Dry white wine
+  - 1/4 cup (60g) Dry white wine
   - 1/2 teaspoon Salt
   - 1/4 teaspoon Black pepper
   - '2 tablespoons, chopped Fresh parsley *(optional)*'

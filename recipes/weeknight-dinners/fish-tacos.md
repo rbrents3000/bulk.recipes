@@ -25,9 +25,9 @@ other_ingredients:
   - 1/2 teaspoon Garlic powder
   - 1/2 teaspoon Salt
   - 1/4 teaspoon Black pepper
-  - '2 cups Green cabbage, thinly shredded'
+  - '2 cups (180g) Green cabbage, thinly shredded'
   - '1 Lime, juiced (plus wedges for serving)'
-  - 2 tablespoons Mayonnaise
+  - 2 tablespoons (30g) Mayonnaise
   - to taste Fresh cilantro *(optional)*
   - to taste Hot sauce *(optional)*
 instructions:

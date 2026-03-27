@@ -21,13 +21,13 @@ costco_ingredients:
   - 'Kirkland Signature Sesame Oil — 1 tablespoon (~$8.49, 20 oz bottle)'
 other_ingredients:
   - 1/4 cup Soy sauce
-  - 3 tablespoons Honey
+  - 3 tablespoons (65g) Honey
   - 1 tablespoon Rice vinegar
   - '1 teaspoon Fresh ginger, grated *(or 1/2 teaspoon ground)*'
   - '2 cloves, minced Garlic'
   - 1 teaspoon Cornstarch mixed with 1 tablespoon water
   - '1 medium Cucumber, sliced into half-moons'
-  - 1 tablespoon Sesame seeds
+  - 1 tablespoon (10g) Sesame seeds
   - '2 Green onions, sliced'
 instructions:
   - >-

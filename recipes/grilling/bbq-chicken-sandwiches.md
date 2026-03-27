@@ -19,11 +19,11 @@ costco_ingredients:
   - 'Kirkland Signature BBQ Sauce — 1 cup (~$8.99, 2-pack bottles)'
   - 'Kirkland Signature Brioche Buns — 6 buns (~$5.49, 12 count)'
 other_ingredients:
-  - '2 cups Green cabbage, thinly shredded'
+  - '2 cups (180g) Green cabbage, thinly shredded'
   - '1 medium Carrot, grated'
   - 2 tablespoons Apple cider vinegar
-  - 1 tablespoon Mayonnaise
-  - 1 teaspoon Sugar
+  - 1 tablespoon (15g) Mayonnaise
+  - 1 teaspoon (5g) Sugar
   - 1/4 teaspoon Salt
   - to taste Hot sauce *(optional)*
 instructions:

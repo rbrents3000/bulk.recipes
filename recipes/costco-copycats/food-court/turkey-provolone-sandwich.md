@@ -18,8 +18,8 @@ costco_ingredients:
   - 'Hoagie Rolls — 6 rolls (~$4.49, 6-pack)'
 other_ingredients:
   - 2 tbsp yellow mustard
-  - 3 tbsp mayonnaise
-  - '1 tbsp pesto (store-bought or homemade, for the secret sauce)'
+  - 3 tbsp (40g) mayonnaise
+  - '1 tbsp (15g) pesto (store-bought or homemade, for the secret sauce)'
   - '4-6 leaves green leaf lettuce, washed and torn'
   - '2 medium tomatoes, sliced into rounds'
   - Salt and pepper to taste

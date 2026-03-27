@@ -28,13 +28,13 @@ other_ingredients:
   - 2 anchovy fillets (or 1 teaspoon anchovy paste)
   - '2 cloves garlic, minced'
   - 1 tablespoon Dijon mustard
-  - 2 tablespoons fresh lemon juice
+  - 2 tablespoons (30g) fresh lemon juice
   - 1 teaspoon Worcestershire sauce
-  - 1/3 cup mayonnaise
-  - 1/4 cup olive oil
+  - 1/3 cup (75g) mayonnaise
+  - 1/4 cup (55g) olive oil
   - Salt and pepper to taste
   - '3 cups crusty bread, cubed (day-old works best)'
-  - 2 tablespoons olive oil
+  - 2 tablespoons (30g) olive oil
   - 1/2 teaspoon garlic powder
 instructions:
   - >-

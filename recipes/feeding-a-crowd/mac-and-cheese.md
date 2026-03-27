@@ -21,16 +21,16 @@ costco_ingredients:
   - 'Kirkland Signature Heavy Cream — 1 cup (~$1.50, 2-quart carton at ~$5.99)'
 other_ingredients:
   - 1 lb elbow macaroni
-  - 3 tbsp all-purpose flour
-  - 2.5 cups whole milk
+  - 3 tbsp (25g) all-purpose flour
+  - 2.5 cups (610g) whole milk
   - 1 tsp dry mustard powder
   - 1/2 tsp garlic powder
   - 1/2 tsp smoked paprika
   - 1/4 tsp cayenne pepper (optional)
   - 1 tsp salt
   - 1/2 tsp black pepper
-  - 1/2 cup panko breadcrumbs
-  - 1 tbsp melted butter (for breadcrumb topping)
+  - 1/2 cup (30g) panko breadcrumbs
+  - 1 tbsp (15g) melted butter (for breadcrumb topping)
   - Fresh parsley for garnish (optional)
 instructions:
   - >-

@@ -22,7 +22,7 @@ costco_ingredients:
   - 'Kirkland Grape Tomatoes — 1.5 cups halved (~$2.00, 2 lb clamshell)'
   - 'Kirkland Tzatziki Dip — 6 tbsp (~$1.80, 35 oz tub)'
 other_ingredients:
-  - 3 tbsp olive oil
+  - 3 tbsp (40g) olive oil
   - 2 tbsp red wine vinegar
   - '3 cloves garlic, minced'
   - 1 tbsp dried oregano

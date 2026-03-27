@@ -24,8 +24,8 @@ other_ingredients:
   - 1/2 cup soy sauce
   - 1/4 cup mirin
   - 2 tablespoons sake (or dry white wine)
-  - 2 tablespoons sugar
-  - 1 cup dashi (or 1 cup water + 1 teaspoon dashi powder)
+  - 2 tablespoons (25g) sugar
+  - 1 cup (240g) dashi (or 1 cup water + 1 teaspoon dashi powder)
   - '1 inch fresh ginger, sliced thin'
   - Pickled red ginger (beni shoga) for garnish *(optional)*
   - Shichimi togarashi (seven-spice) for garnish *(optional)*

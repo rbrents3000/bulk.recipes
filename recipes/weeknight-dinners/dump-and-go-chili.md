@@ -34,7 +34,7 @@ other_ingredients:
   - '1/4 tsp cayenne pepper (optional, for heat)'
   - 1 tsp salt
   - 1/2 tsp black pepper
-  - 1 tbsp olive oil
+  - 1 tbsp (15g) olive oil
   - >-
     Optional toppings: shredded cheddar, sour cream, diced avocado, tortilla
     chips, sliced green onions

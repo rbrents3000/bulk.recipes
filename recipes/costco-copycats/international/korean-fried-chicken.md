@@ -19,21 +19,21 @@ costco_ingredients:
     lb pack)
   - 'Kirkland Signature Sesame Oil — 1 tablespoon (~$6.99, 20 oz)'
 other_ingredients:
-  - 1 cup all-purpose flour
-  - 1/2 cup cornstarch
+  - 1 cup (120g) all-purpose flour
+  - 1/2 cup (65g) cornstarch
   - 1 teaspoon salt
   - 1/2 teaspoon pepper
   - 1 teaspoon garlic powder
   - 3/4 cup cold water (or cold soda water for extra crunch)
   - Vegetable oil for frying (about 4 cups)
   - 1/4 cup gochujang (Korean red pepper paste)
-  - 3 tablespoons soy sauce
+  - 3 tablespoons (55g) soy sauce
   - 3 tablespoons rice vinegar
-  - 3 tablespoons honey
+  - 3 tablespoons (65g) honey
   - 1 tablespoon sesame oil
   - '3 cloves garlic, minced'
   - '1 tablespoon ginger, grated'
-  - 1 tablespoon ketchup
+  - 1 tablespoon (15g) ketchup
   - Sesame seeds
   - Sliced green onions
 instructions:

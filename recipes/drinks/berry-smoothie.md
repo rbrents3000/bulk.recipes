@@ -18,7 +18,7 @@ costco_ingredients:
   - 'Kirkland Honey — 2 tbsp (~$12.99, 5 lb jug)'
 other_ingredients:
   - 2 bananas
-  - 1 cup milk (any kind)
+  - 1 cup (245g) milk (any kind)
   - 'Ice cubes (optional, for extra thickness)'
 instructions:
   - 'Add frozen berries, Greek yogurt, bananas, honey, and milk to a blender.'

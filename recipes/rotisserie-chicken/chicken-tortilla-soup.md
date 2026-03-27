@@ -27,7 +27,7 @@ costco_ingredients:
     (~$12.99, 2.5 lb bag)
 other_ingredients:
   - '1 can (15 oz), drained and rinsed Black beans'
-  - 1 cup (frozen or canned) Corn kernels
+  - 1 cup (165g) (frozen or canned) Corn kernels
   - '1 medium, diced Onion'
   - '3 cloves, minced Garlic'
   - 1 tablespoon Cumin

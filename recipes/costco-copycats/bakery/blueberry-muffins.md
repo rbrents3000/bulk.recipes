@@ -19,16 +19,16 @@ costco_ingredients:
     Kirkland Signature Unsalted Butter — 1/2 cup (1 stick), melted (~$12.99, 4 x
     1 lb bars)
 other_ingredients:
-  - 2 3/4 cups all-purpose flour
-  - 1 cup sugar
+  - 2 3/4 cups (330g) all-purpose flour
+  - 1 cup (200g) sugar
   - 1 tablespoon baking powder
   - 1/2 teaspoon salt
-  - 3/4 cup sour cream
-  - 1/3 cup whole milk
+  - 3/4 cup (175g) sour cream
+  - 1/3 cup (80g) whole milk
   - 2 teaspoons vanilla extract
-  - 1/4 cup flour
-  - 1/4 cup sugar
-  - '2 tablespoons cold butter, cubed'
+  - 1/4 cup (30g) flour
+  - 1/4 cup (50g) sugar
+  - '2 tablespoons (30g) cold butter, cubed'
   - Pinch of cinnamon *(optional but recommended)*
 instructions:
   - >-

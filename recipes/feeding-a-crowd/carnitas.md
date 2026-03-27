@@ -33,7 +33,7 @@ other_ingredients:
   - 2 bay leaves
   - 1 cinnamon stick (or 1/2 tsp ground cinnamon)
   - Juice of 2 limes
-  - 1 cup water or chicken broth
+  - 1 cup (240g) water or chicken broth
   - 'Cilantro, diced white onion, and lime wedges for serving'
 instructions:
   - Preheat oven to 300°F. Pat the pork shoulder dry with paper towels.

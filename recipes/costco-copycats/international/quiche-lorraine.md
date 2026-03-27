@@ -20,7 +20,7 @@ costco_ingredients:
   - 'Gruyere or Swiss Cheese — 1.5 cups shredded (~$12.99, 2 lb pack)'
 other_ingredients:
   - '1 deep-dish pie crust (9-inch, store-bought or homemade)'
-  - 1/2 cup whole milk
+  - 1/2 cup (120g) whole milk
   - 1/4 teaspoon nutmeg
   - 1/2 teaspoon salt
   - 1/4 teaspoon white pepper

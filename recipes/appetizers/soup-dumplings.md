@@ -13,7 +13,7 @@ dairy_free: false
 costco_ingredients:
   - 'Frozen Soup Dumplings (Xiao Long Bao) — 1 box (~$14.99, 50-count box)'
 other_ingredients:
-  - 3 tablespoons Soy sauce
+  - 3 tablespoons (55g) Soy sauce
   - 1 tablespoon Rice vinegar
   - '1 teaspoon Fresh ginger, finely grated'
   - 1/2 teaspoon Sesame oil

@@ -23,12 +23,12 @@ costco_ingredients:
   - 'Kirkland Signature Organic Sesame Oil — 2 tablespoons (~$8.49, 27 oz bottle)'
 other_ingredients:
   - 1/2 cup Soy sauce
-  - 3 tablespoons Brown sugar
+  - 3 tablespoons (40g) Brown sugar
   - '1 Asian pear or Bosc pear, grated (or 3 tablespoons pear juice)'
   - '6 cloves Garlic, minced'
   - '1 tablespoon Fresh ginger, grated'
-  - 2 tablespoons Mirin or rice wine
-  - 1 tablespoon Sesame seeds
+  - 2 tablespoons (35g) Mirin or rice wine
+  - 1 tablespoon (10g) Sesame seeds
   - 4 sliced Green onions
   - Black pepper to taste
 instructions:

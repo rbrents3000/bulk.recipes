@@ -19,14 +19,14 @@ costco_ingredients:
   - 'Kirkland Panko Bread Crumbs — 1 cup (~$0.50, from 2.5 lb box)'
   - 'Kirkland Olive Oil — 3 tbsp (~$0.30, from 2L bottle)'
 other_ingredients:
-  - 1/2 cup all-purpose flour
+  - 1/2 cup (60g) all-purpose flour
   - '2 eggs, beaten'
   - 1/2 cup grated Parmesan cheese
   - 1 tsp garlic powder
   - 1 tsp Italian seasoning
   - 1/2 tsp salt
   - 1/2 tsp black pepper
-  - 8 oz spaghetti or linguine
+  - 8 oz (225g) spaghetti or linguine
   - Fresh basil for garnish (optional)
 instructions:
   - >-

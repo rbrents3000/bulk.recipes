@@ -21,8 +21,8 @@ costco_ingredients:
     Kirkland Signature Unsalted Butter — 2 tablespoons for greasing (~$12.99, 4
     x 1 lb bars)
 other_ingredients:
-  - 1 cup Whole milk
-  - 1/3 cup Brown sugar
+  - 1 cup (245g) Whole milk
+  - 1/3 cup (75g) Brown sugar
   - 2 teaspoons Vanilla extract
   - 1.5 teaspoons Cinnamon
   - 1/4 teaspoon Nutmeg

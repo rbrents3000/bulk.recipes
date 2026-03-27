@@ -29,7 +29,7 @@ costco_ingredients:
     Kirkland Signature Shredded Mexican Blend Cheese — 1 cup (~$12.99, 2.5 lb
     bag)
 other_ingredients:
-  - 1/2 cup Sour cream
+  - 1/2 cup (115g) Sour cream
   - '3 cloves, minced Garlic'
   - 1/2 teaspoon Red pepper flakes *(optional)*
   - 1/2 teaspoon Salt

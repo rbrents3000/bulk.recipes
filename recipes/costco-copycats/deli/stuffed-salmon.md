@@ -21,10 +21,10 @@ costco_ingredients:
   - 'Kirkland Signature Unsalted Butter — 3 tablespoons (~$12.99, 4 x 1 lb bars)'
   - 'Kirkland Signature Mayonnaise — 2 tablespoons (~$8.99, 64 oz jar)'
 other_ingredients:
-  - 1/3 cup panko breadcrumbs
+  - 1/3 cup (20g) panko breadcrumbs
   - 1 egg
   - 1 tablespoon Dijon mustard
-  - 1 tablespoon fresh lemon juice
+  - 1 tablespoon (15g) fresh lemon juice
   - 1 teaspoon Old Bay seasoning
   - '2 green onions, thinly sliced'
   - '1 tablespoon fresh parsley, chopped'

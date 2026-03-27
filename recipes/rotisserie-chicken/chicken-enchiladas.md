@@ -22,7 +22,7 @@ costco_ingredients:
   - 'Kirkland Signature Flour Tortillas — 10 tortillas (~$4.49, 24 count)'
 other_ingredients:
   - 2 cans (15 oz each) Enchilada sauce
-  - 1/2 cup Sour cream
+  - 1/2 cup (115g) Sour cream
   - 4 stalks Green onions *(optional)*
   - 1/4 cup Cilantro *(optional)*
 instructions:

@@ -20,9 +20,9 @@ costco_ingredients:
   - 'Kirkland Signature Large Eggs — 4 eggs (~$7.99, 5 dozen)'
   - 'Kirkland Signature Semi-Sweet Chocolate Chips — 2 cups (~$10.99, 4.5 lb bag)'
 other_ingredients:
-  - 1 1/2 cups sugar
-  - 3/4 cup unsweetened cocoa powder
-  - 1 cup all-purpose flour
+  - 1 1/2 cups (300g) sugar
+  - 3/4 cup (65g) unsweetened cocoa powder
+  - 1 cup (120g) all-purpose flour
   - 1 teaspoon vanilla extract
   - 1 teaspoon salt
   - 1/2 teaspoon espresso powder *(optional — deepens the chocolate flavor)*

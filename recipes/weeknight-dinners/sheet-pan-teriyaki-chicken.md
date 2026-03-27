@@ -28,7 +28,7 @@ costco_ingredients:
 other_ingredients:
   - '3 cloves Garlic, minced'
   - '1 tablespoon Fresh ginger, grated *(or 1 teaspoon ground)*'
-  - 1 tablespoon Cornstarch
+  - 1 tablespoon (10g) Cornstarch
   - 2 tablespoons Water
   - 1 tablespoon Rice vinegar
   - 1 tablespoon Sesame oil

@@ -18,7 +18,7 @@ costco_ingredients:
 other_ingredients:
   - 1/4 cup soy sauce
   - 2 tbsp sesame oil
-  - 2 tbsp brown sugar
+  - 2 tbsp (30g) brown sugar
   - '1 Asian pear, grated (or 2 tbsp pear juice)'
   - '4 cloves garlic, minced'
   - '1 tbsp fresh ginger, grated'

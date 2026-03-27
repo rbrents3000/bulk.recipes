@@ -27,9 +27,9 @@ costco_ingredients:
 other_ingredients:
   - '1 medium yellow onion, diced'
   - '3 cloves garlic, minced'
-  - 2 cups whole milk
-  - 3 tbsp butter
-  - 3 tbsp all-purpose flour
+  - 2 cups (490g) whole milk
+  - 3 tbsp (40g) butter
+  - 3 tbsp (25g) all-purpose flour
   - 1/2 tsp smoked paprika *(optional but wonderful)*
   - Salt and pepper to taste
   - 'Fresh chives, chopped, for topping'

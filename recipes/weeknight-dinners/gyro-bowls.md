@@ -21,7 +21,7 @@ costco_ingredients:
 other_ingredients:
   - '2 large tomatoes, diced'
   - 1 cup tzatziki (from the gyro kit or store-bought)
-  - 1 tbsp olive oil
+  - 1 tbsp (15g) olive oil
   - Salt and pepper to taste
   - Fresh dill or parsley for garnish (optional)
 instructions:

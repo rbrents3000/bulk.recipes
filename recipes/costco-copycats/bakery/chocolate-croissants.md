@@ -21,9 +21,9 @@ costco_ingredients:
   - 'Kirkland Signature Large Eggs — 1 egg for wash (~$7.99, 5 dozen)'
 other_ingredients:
   - '1 package (17 oz) frozen puff pastry, thawed'
-  - '8 oz dark chocolate (bar, broken into sticks, or chocolate batons)'
+  - '8 oz (225g) dark chocolate (bar, broken into sticks, or chocolate batons)'
   - '1 egg, beaten (for egg wash)'
-  - 1 tablespoon sugar for sprinkling
+  - 1 tablespoon (10g) sugar for sprinkling
 instructions:
   - Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.
   - Unfold puff pastry and cut each sheet into 4 rectangles (8 total).

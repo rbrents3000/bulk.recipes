@@ -18,10 +18,10 @@ costco_ingredients:
   - 'Costco Red Grapes — 1 cup, halved (~$6.99, 3 lb bag)'
   - 'Kirkland Pecans — 1/2 cup, roughly chopped (~$12.99, 2 lb bag)'
 other_ingredients:
-  - 1/2 cup mayonnaise
+  - 1/2 cup (110g) mayonnaise
   - '2 stalks celery, finely diced'
   - 1 tbsp Dijon mustard
-  - 1 tbsp lemon juice
+  - 1 tbsp (15g) lemon juice
   - Salt and pepper to taste
   - Lettuce leaves (optional)
 instructions:

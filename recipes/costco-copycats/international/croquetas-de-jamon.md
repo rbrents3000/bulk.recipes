@@ -24,7 +24,7 @@ other_ingredients:
   - Pinch of nutmeg
   - Salt and white pepper to taste
   - '2 large eggs, beaten'
-  - 1 1/2 cups plain breadcrumbs
+  - 1 1/2 cups (160g) plain breadcrumbs
   - Vegetable oil for frying (about 4 cups)
 instructions:
   - >-

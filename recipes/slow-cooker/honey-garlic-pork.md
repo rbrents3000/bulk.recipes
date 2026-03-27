@@ -18,9 +18,9 @@ costco_ingredients:
 other_ingredients:
   - 1/3 cup Soy sauce
   - '4 cloves Garlic, minced'
-  - 2 tbsp Ketchup
+  - 2 tbsp (35g) Ketchup
   - '1 tbsp Sriracha or red chili flakes (optional, but encouraged)'
-  - 1 tbsp Cornstarch
+  - 1 tbsp (10g) Cornstarch
   - 2 tbsp Cold water
 instructions:
   - Place the pork shoulder in the slow cooker fat-side up.

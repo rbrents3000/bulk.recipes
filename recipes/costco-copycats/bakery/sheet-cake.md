@@ -19,14 +19,14 @@ costco_ingredients:
     x 1 lb bars)
   - 'Kirkland Signature Granulated Sugar — 2 cups (~$4.99, 10 lb bag)'
 other_ingredients:
-  - 3 cups all-purpose flour
+  - 3 cups (360g) all-purpose flour
   - 1 tablespoon baking powder
   - 1 teaspoon salt
-  - 1 cup whole milk
+  - 1 cup (245g) whole milk
   - 2 teaspoons vanilla extract
   - 2 cups heavy whipping cream
-  - '8 oz cream cheese, softened'
-  - 1 cup powdered sugar
+  - '8 oz (225g) cream cheese, softened'
+  - 1 cup (120g) powdered sugar
   - 1 teaspoon vanilla extract
 instructions:
   - >-

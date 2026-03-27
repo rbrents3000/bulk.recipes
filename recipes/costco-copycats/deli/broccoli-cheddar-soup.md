@@ -20,9 +20,9 @@ costco_ingredients:
 other_ingredients:
   - '1 medium onion, diced'
   - '2 cloves garlic, minced'
-  - 1/3 cup all-purpose flour
-  - 3 cups chicken broth
-  - 1 cup whole milk
+  - 1/3 cup (40g) all-purpose flour
+  - 3 cups (720g) chicken broth
+  - 1 cup (245g) whole milk
   - 1/2 teaspoon dry mustard powder
   - 1/4 teaspoon nutmeg
   - Salt and pepper to taste

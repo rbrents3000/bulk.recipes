@@ -21,10 +21,10 @@ costco_ingredients:
     lb bag)
   - 'Kirkland Signature Organic Celery — 4 stalks, sliced (~$5.99, 2-pack hearts)'
 other_ingredients:
-  - 12 oz wide egg noodles
+  - 12 oz (335g) wide egg noodles
   - '1 medium yellow onion, diced'
   - '3 cloves garlic, minced'
-  - 2 tablespoons olive oil
+  - 2 tablespoons (30g) olive oil
   - 2 bay leaves
   - 1 teaspoon dried thyme
   - 1/2 teaspoon dried rosemary

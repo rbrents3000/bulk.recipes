@@ -17,12 +17,12 @@ costco_ingredients:
   - 'Kirkland Signature Large Eggs — 2 eggs (~$7.99, 5 dozen)'
 other_ingredients:
   - 1 cup Water
-  - 1 cup All-purpose flour
+  - 1 cup (120g) All-purpose flour
   - '1/2 cup (1/4 cup for dough, 1/4 cup for coating) Sugar'
   - 1/2 teaspoon Salt
   - 1 teaspoon Vanilla extract
   - 1 tablespoon Cinnamon
-  - 3 cups (for frying) Vegetable oil
+  - 3 cups (655g) (for frying) Vegetable oil
   - '1/2 cup, for dipping Chocolate sauce *(optional)*'
 instructions:
   - >-

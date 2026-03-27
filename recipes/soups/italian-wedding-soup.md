@@ -20,16 +20,16 @@ costco_ingredients:
     cartons)
   - 'Organic Baby Spinach — half the bag (~$4.99, 1 lb bag)'
 other_ingredients:
-  - 1/3 cup Italian-style breadcrumbs
+  - 1/3 cup (35g) Italian-style breadcrumbs
   - '1/4 cup grated parmesan, plus extra for serving'
-  - 1/2 cup orzo or acini di pepe pasta
+  - 1/2 cup (90g) orzo or acini di pepe pasta
   - '1 medium yellow onion, finely diced'
   - '2 carrots, peeled and diced small'
   - '2 stalks celery, diced small'
   - '3 cloves garlic, minced'
   - 1 tsp Italian seasoning
   - 1/4 tsp red pepper flakes *(optional)*
-  - 1 tbsp olive oil
+  - 1 tbsp (15g) olive oil
   - Salt and pepper to taste
   - Squeeze of fresh lemon juice for finishing
 instructions:

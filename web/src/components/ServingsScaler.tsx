@@ -10,7 +10,7 @@ interface Props {
 const SKIP_PATTERNS = /(\d+)\s*°[FC]|(\d+)-inch|(\d+)-minute|(\d+)-hour|#\d+|Item\s*#/i;
 
 // Quantity patterns we SHOULD scale
-const QTY_PATTERN = /(\d+\.?\d*)\s*(lbs?|pounds?|oz|ounces?|cups?|tbsp|tsp|tablespoons?|teaspoons?|cloves?|sprigs?|slices?|pieces?|strips?|fillets?|pack|bags?|cans?|jars?|bottles?)/gi;
+const QTY_PATTERN = /(\d+\.?\d*)\s*(lbs?|pounds?|oz|ounces?|cups?|tbsp|tsp|tablespoons?|teaspoons?|cloves?|sprigs?|slices?|pieces?|strips?|fillets?|pack|bags?|cans?|jars?|bottles?|g\b|grams?|kg)/gi;
 
 // Fraction patterns like "1/2" or "3/4"
 const FRACTION_PATTERN = /(\d+)\/(\d+)\s*(lbs?|pounds?|oz|ounces?|cups?|tbsp|tsp|tablespoons?|teaspoons?)/gi;

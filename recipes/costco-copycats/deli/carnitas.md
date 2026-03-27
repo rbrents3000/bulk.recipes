@@ -29,7 +29,7 @@ other_ingredients:
   - 1/2 teaspoon cayenne pepper (optional — for heat)
   - 1 tablespoon kosher salt
   - 1 teaspoon black pepper
-  - 2 tablespoons olive oil or avocado oil
+  - 2 tablespoons (30g) olive oil or avocado oil
   - 1 bay leaf
 instructions:
   - >-

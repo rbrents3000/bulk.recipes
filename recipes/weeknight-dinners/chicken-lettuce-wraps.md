@@ -18,7 +18,7 @@ costco_ingredients:
   - 'Kirkland Organic Extra Virgin Olive Oil — for drizzling (~$0.10, 2 L bottle)'
 other_ingredients:
   - '1 can (8 oz) water chestnuts, drained and finely diced'
-  - 2 tbsp hoisin sauce
+  - 2 tbsp (40g) hoisin sauce
   - 1 tbsp sesame oil
   - 1 tbsp rice vinegar
   - '1 tbsp fresh ginger, grated'

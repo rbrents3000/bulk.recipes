@@ -18,11 +18,11 @@ costco_ingredients:
   - 'Kirkland Unsalted Butter — 1/2 cup, cold and cubed (~$4.29, 4-stick pack)'
   - 'Kirkland Granulated Sugar — 1/4 cup for filling (~$4.99, 10 lb bag)'
 other_ingredients:
-  - 1/2 cup All-purpose flour
-  - '1/2 cup Brown sugar, packed (for the topping)'
+  - 1/2 cup (60g) All-purpose flour
+  - '1/2 cup (110g) Brown sugar, packed (for the topping)'
   - 1 tsp Ground cinnamon
   - 1/4 tsp Ground nutmeg
-  - 1 tbsp Fresh lemon juice
+  - 1 tbsp (15g) Fresh lemon juice
   - Pinch of salt
 instructions:
   - Preheat the oven to 375 degrees.

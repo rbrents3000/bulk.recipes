@@ -25,7 +25,7 @@ costco_ingredients:
 other_ingredients:
   - 2 cans (10 oz each) red enchilada sauce
   - 1 can (4 oz) diced green chiles
-  - 1 cup sour cream
+  - 1 cup (230g) sour cream
   - 1 teaspoon cumin
   - 1 teaspoon garlic powder
   - Salt and pepper to taste

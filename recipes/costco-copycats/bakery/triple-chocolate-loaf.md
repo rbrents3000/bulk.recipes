@@ -21,14 +21,14 @@ costco_ingredients:
     bars)
   - 'Kirkland Signature Cage-Free Eggs — 3 eggs (~$7.99, 5 dozen)'
 other_ingredients:
-  - 1 cup all-purpose flour
-  - 1/2 cup unsweetened cocoa powder
-  - 3/4 cup sugar
+  - 1 cup (120g) all-purpose flour
+  - 1/2 cup (45g) unsweetened cocoa powder
+  - 3/4 cup (150g) sugar
   - 1 teaspoon baking powder
   - 1/2 teaspoon salt
-  - 1/2 cup sour cream
+  - 1/2 cup (115g) sour cream
   - 2 teaspoons vanilla extract
-  - 1/2 cup white chocolate chips *(for the drizzle on top)*
+  - 1/2 cup (85g) white chocolate chips *(for the drizzle on top)*
 instructions:
   - >-
     Preheat oven to 350°F (175°C). Grease a standard 9x5 loaf pan and line with

@@ -26,7 +26,7 @@ other_ingredients:
   - 1 tsp turmeric
   - 1 tsp paprika
   - 1/2 tsp cayenne pepper (optional)
-  - 2 tbsp tomato paste
+  - 2 tbsp (30g) tomato paste
   - Salt to taste
   - Fresh cilantro for garnish
 instructions:

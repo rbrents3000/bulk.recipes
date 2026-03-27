@@ -22,7 +22,7 @@ costco_ingredients:
   - 'Kirkland Signature Flour Tortillas — 6 tortillas (~$4.49, 24 count)'
   - 'Kirkland Signature Organic Salsa — for serving (~$7.99, 2-pack 38 oz jars)'
 other_ingredients:
-  - 1 tablespoon Butter or cooking spray
+  - 1 tablespoon (15g) Butter or cooking spray
   - '1/2 cup Sour cream *(optional, for serving)*'
 instructions:
   - >-

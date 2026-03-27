@@ -20,7 +20,7 @@ costco_ingredients:
   - 'Kirkland Signature Flour Tortillas — 4 large (~$4.49, 24 count)'
   - 'Kirkland Signature Organic Spring Mix — 2 cups (~$4.99, 1 lb clamshell)'
 other_ingredients:
-  - '4 tablespoons cream cheese, softened'
+  - '4 tablespoons (60g) cream cheese, softened'
   - 1 tablespoon Dijon mustard
   - 1/2 teaspoon garlic powder
   - Salt and pepper to taste

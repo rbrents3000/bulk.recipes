@@ -20,8 +20,8 @@ costco_ingredients:
 other_ingredients:
   - 1/3 cup fried shallots (plus extra for topping)
   - 3 tablespoons Shaoxing wine (or dry sherry)
-  - 2 tablespoons dark soy sauce (for color)
-  - 2 tablespoons brown sugar or rock sugar
+  - 2 tablespoons (35g) dark soy sauce (for color)
+  - 2 tablespoons (30g) brown sugar or rock sugar
   - 1 teaspoon five-spice powder
   - '4 cloves garlic, smashed'
   - '1-inch piece fresh ginger, sliced'

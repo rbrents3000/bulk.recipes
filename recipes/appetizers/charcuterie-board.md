@@ -27,8 +27,8 @@ costco_ingredients:
   - 'Kirkland Honey — 2 tbsp (~$0.25, 5 lb jug)'
   - 'Costco Crackers — assorted, about 30 crackers (~$2.00, variety available)'
 other_ingredients:
-  - 3 tbsp fig jam or preserves
-  - 1/2 cup mixed olives (Castelvetrano are the crowd favorite)
+  - 3 tbsp (60g) fig jam or preserves
+  - 1/2 cup (70g) mixed olives (Castelvetrano are the crowd favorite)
   - 1 small bunch fresh rosemary sprigs for garnish
   - Cornichons or pickles (optional)
 instructions:

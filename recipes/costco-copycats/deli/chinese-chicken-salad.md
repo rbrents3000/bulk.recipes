@@ -21,16 +21,16 @@ costco_ingredients:
   - 'Kirkland Signature Sesame Oil — 1 tablespoon (~$6.99, 20 oz)'
   - 'Kirkland Signature Sliced Almonds — 1/3 cup, toasted (~$9.99, 2 lb bag)'
 other_ingredients:
-  - 2 cups shredded red cabbage
+  - 2 cups (180g) shredded red cabbage
   - '3 green onions, thinly sliced'
   - 1/2 cup shredded carrots
   - '1/4 cup fresh cilantro, chopped'
   - 1 cup wonton strips or crispy chow mein noodles
   - 3 tablespoons rice vinegar
-  - 2 tablespoons soy sauce
+  - 2 tablespoons (35g) soy sauce
   - 1 tablespoon sesame oil
-  - 2 tablespoons honey
-  - 1 tablespoon vegetable oil
+  - 2 tablespoons (40g) honey
+  - 1 tablespoon (15g) vegetable oil
   - '1 teaspoon fresh ginger, grated'
   - '1 clove garlic, minced'
 instructions:

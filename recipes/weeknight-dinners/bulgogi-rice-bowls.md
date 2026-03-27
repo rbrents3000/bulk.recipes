@@ -21,9 +21,9 @@ costco_ingredients:
 other_ingredients:
   - '1 large, thinly sliced Cucumber'
   - 3 tablespoons Rice vinegar
-  - 1 tablespoon Sugar
+  - 1 tablespoon (10g) Sugar
   - 1 tablespoon Sesame oil
-  - 1 tablespoon Sesame seeds
+  - 1 tablespoon (10g) Sesame seeds
   - 4 sliced Green onions
   - to taste Sriracha or gochujang *(optional)*
   - 1 cup Kimchi *(optional)*

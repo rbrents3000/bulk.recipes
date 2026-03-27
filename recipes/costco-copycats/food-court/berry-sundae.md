@@ -19,8 +19,8 @@ costco_ingredients:
   - 'Kirkland Signature Three Berry Blend (frozen) — 2 cups (~$12.49, 4 lb bag)'
   - 'Joy Waffle Cones — 3 cones (~$6.99, 12-pack box)'
 other_ingredients:
-  - 3 tablespoons Sugar
-  - 1 tablespoon Lemon juice
+  - 3 tablespoons (35g) Sugar
+  - 1 tablespoon (15g) Lemon juice
   - 1 teaspoon Cornstarch
   - 1 tablespoon Water
   - Whipped cream *(optional)*

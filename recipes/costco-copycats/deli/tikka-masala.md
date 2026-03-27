@@ -23,7 +23,7 @@ costco_ingredients:
   - 'Kirkland Signature Unsalted Butter — 2 tablespoons (~$12.99, 4 x 1 lb bars)'
   - 'Kirkland Signature Basmati Rice — 2 cups dry (~$15.99, 25 lb bag)'
 other_ingredients:
-  - 1 cup heavy cream
+  - 1 cup (240g) heavy cream
   - '1 large yellow onion, finely diced'
   - '4 cloves garlic, minced'
   - '1 tablespoon fresh ginger, grated'
@@ -32,7 +32,7 @@ other_ingredients:
   - 1 teaspoon ground turmeric
   - 1 teaspoon paprika
   - 1/2 teaspoon cayenne pepper *(adjust to taste)*
-  - 1 tablespoon tomato paste
+  - 1 tablespoon (15g) tomato paste
   - '1 teaspoon salt, plus more to taste'
   - Fresh cilantro for garnish *(optional)*
 instructions:

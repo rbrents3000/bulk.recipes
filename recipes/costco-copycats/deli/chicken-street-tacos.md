@@ -21,7 +21,7 @@ costco_ingredients:
   - 'Hass Avocados — 2 (~$6.99, 5-pack)'
   - 'Kirkland Signature Organic Salsa Verde — 1/2 cup (~$7.99, 2-pack/38 oz)'
 other_ingredients:
-  - 2 tablespoons olive oil
+  - 2 tablespoons (30g) olive oil
   - 1 tablespoon chili powder
   - 1 teaspoon cumin
   - 1 teaspoon garlic powder

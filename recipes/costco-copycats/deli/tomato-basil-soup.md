@@ -24,8 +24,8 @@ other_ingredients:
   - '3 cloves garlic, minced'
   - 2 cups chicken or vegetable broth
   - '1/2 cup fresh basil leaves, plus more for garnish'
-  - 2 tablespoons tomato paste
-  - 1 tablespoon sugar
+  - 2 tablespoons (30g) tomato paste
+  - 1 tablespoon (10g) sugar
   - 1/2 teaspoon red pepper flakes *(optional)*
   - Salt and pepper to taste
 instructions:

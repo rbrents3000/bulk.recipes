@@ -21,13 +21,13 @@ costco_ingredients:
   - 'Fresh garlic — 10 cloves (~$4.99, 3 lb bag)'
 other_ingredients:
   - '1 large Korean pear (or 2 ripe Bosc pears), grated'
-  - 1/4 cup brown sugar
-  - 2 tablespoons mirin
+  - 1/4 cup (55g) brown sugar
+  - 2 tablespoons (35g) mirin
   - 1 tablespoon rice vinegar
   - 1 teaspoon black pepper
   - '1 medium onion, grated'
   - '3 green onions, sliced (plus more for garnish)'
-  - 1 tablespoon toasted sesame seeds
+  - 1 tablespoon (10g) toasted sesame seeds
 instructions:
   - >-
     **Marinade:** Blend or finely grate the Korean pear. Combine with soy sauce,

@@ -17,8 +17,8 @@ costco_ingredients:
   - 'Kirkland Unsalted Butter — 1/2 cup (1 stick) (~$4.29, 4-stick pack)'
   - 'Kirkland Large Eggs — 3 whole + 3 yolks (~$6.49, 24-count)'
 other_ingredients:
-  - 1/3 cup All-purpose flour
-  - 1/2 cup Powdered sugar
+  - 1/3 cup (40g) All-purpose flour
+  - 1/2 cup (60g) Powdered sugar
   - 1/2 tsp Pure vanilla extract
   - Pinch of salt
   - Butter and cocoa powder for greasing ramekins

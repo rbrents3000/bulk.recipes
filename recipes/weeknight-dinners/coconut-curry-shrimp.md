@@ -18,11 +18,11 @@ costco_ingredients:
   - 'Kirkland Jasmine Rice — 2 cups dry (~$0.40, 25 lb bag)'
   - 'Kirkland Organic Bell Peppers — 2 peppers, sliced (~$1.50, 6-pack)'
 other_ingredients:
-  - 2 tbsp Thai red curry paste (Mae Ploy or Thai Kitchen)
+  - 2 tbsp (30g) Thai red curry paste (Mae Ploy or Thai Kitchen)
   - 1 tbsp fish sauce
   - 1 tsp brown sugar or palm sugar
   - Juice of 1 lime
-  - 1 tbsp neutral oil (avocado or vegetable)
+  - 1 tbsp (15g) neutral oil (avocado or vegetable)
   - '3 cloves garlic, minced'
   - 1/2 cup fresh Thai basil leaves (or regular basil)
   - '1 small zucchini, sliced into half-moons (optional)'

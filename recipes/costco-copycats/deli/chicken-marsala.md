@@ -21,10 +21,10 @@ costco_ingredients:
   - 'Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)'
   - 'Kirkland Signature Extra Virgin Olive Oil — 2 tablespoons (~$13.99, 2 L)'
 other_ingredients:
-  - 3/4 cup Marsala wine
-  - 1/2 cup chicken broth
-  - 1/3 cup heavy cream
-  - 1/3 cup all-purpose flour
+  - 3/4 cup (180g) Marsala wine
+  - 1/2 cup (120g) chicken broth
+  - 1/3 cup (80g) heavy cream
+  - 1/3 cup (40g) all-purpose flour
   - '2 cloves garlic, minced'
   - Salt and pepper to taste
   - Fresh parsley for garnish *(optional)*

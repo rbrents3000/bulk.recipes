@@ -21,15 +21,15 @@ costco_ingredients:
   - 'Kirkland Signature Mayonnaise — 3 tablespoons (~$8.99, 64 oz jar)'
   - 'Kirkland Signature Extra Virgin Olive Oil — 2 tablespoons (~$13.99, 2 L)'
 other_ingredients:
-  - 1/2 cup panko breadcrumbs
+  - 1/2 cup (30g) panko breadcrumbs
   - 1 tablespoon Dijon mustard
   - 1 tablespoon Worcestershire sauce
   - 1 teaspoon Old Bay seasoning
   - '2 green onions, thinly sliced'
-  - 1 tablespoon fresh lemon juice
+  - 1 tablespoon (15g) fresh lemon juice
   - Pinch of cayenne pepper
   - Salt to taste
-  - 2 tablespoons butter (for pan-frying)
+  - 2 tablespoons (30g) butter (for pan-frying)
   - Lemon wedges and tartar sauce for serving
 instructions:
   - >-

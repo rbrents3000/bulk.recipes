@@ -20,7 +20,7 @@ costco_ingredients:
     Kirkland Signature Frozen Mixed Berries — 2.5 cups (~$2.50, 4 lb bag at
     ~$9.99)
 other_ingredients:
-  - 2.5 cups milk (dairy or plant-based)
+  - 2.5 cups (610g) milk (dairy or plant-based)
   - 1 tsp vanilla extract
   - Pinch of salt
   - 'Optional toppings: chia seeds, sliced almonds, peanut butter, banana'

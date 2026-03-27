@@ -22,7 +22,7 @@ other_ingredients:
     3.5 oz achiote paste (found in the Mexican aisle — Goya or El Yucateco
     brands)
   - 1/2 cup lime juice (about 4 limes)
-  - 1/2 cup orange juice
+  - 1/2 cup (125g) orange juice
   - 1/4 cup white vinegar
   - 4 cloves garlic
   - 1 teaspoon cumin

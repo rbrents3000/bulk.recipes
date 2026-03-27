@@ -17,7 +17,7 @@ costco_ingredients:
   - 'Kirkland Greek Yogurt — 1 cup (~$7.99, 2-pack tubs)'
   - 'Kirkland Honey — 2 tbsp (~$12.99, 5 lb jug)'
 other_ingredients:
-  - '1 cup milk (whole milk is traditional, any kind works)'
+  - '1 cup (245g) milk (whole milk is traditional, any kind works)'
   - 1/4 tsp ground cardamom
   - 'Pinch of saffron threads (optional, for the fancy version)'
 instructions:

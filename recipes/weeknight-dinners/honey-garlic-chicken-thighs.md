@@ -24,7 +24,7 @@ costco_ingredients:
   - 'Kirkland Signature Extra Virgin Olive Oil — 2 tablespoons (~$13.99, 2 L)'
 other_ingredients:
   - '6 cloves Garlic, minced'
-  - 3 tablespoons Soy sauce
+  - 3 tablespoons (55g) Soy sauce
   - 1 tablespoon Rice vinegar
   - '1 tablespoon Sriracha *(optional, for heat)*'
   - 1 teaspoon Cornstarch mixed with 1 tablespoon water

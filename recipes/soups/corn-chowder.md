@@ -21,12 +21,12 @@ costco_ingredients:
   - 'Kirkland Heavy Whipping Cream — 1 cup (~$11.99, half gallon)'
 other_ingredients:
   - >-
-    4 cups corn kernels (fresh off the cob in summer, or frozen — no shame in
-    it)
+    4 cups (655g) corn kernels (fresh off the cob in summer, or frozen — no
+    shame in it)
   - '1 medium yellow onion, diced'
   - '3 cloves garlic, minced'
-  - 2 tbsp butter
-  - 2 tbsp all-purpose flour
+  - 2 tbsp (30g) butter
+  - 2 tbsp (15g) all-purpose flour
   - 1 tsp smoked paprika
   - '1/2 tsp cayenne pepper *(optional, for a warm kick)*'
   - 1 bay leaf

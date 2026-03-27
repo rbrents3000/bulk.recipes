@@ -16,7 +16,7 @@ costco_ingredients:
   - 'Kirkland Creamy Peanut Butter — 1 cup (~$1.50, 2-pack/28 oz jars)'
   - 'Kirkland Large Eggs — 1 (~$0.25, 24-count)'
 other_ingredients:
-  - 1 cup granulated sugar
+  - 1 cup (200g) granulated sugar
   - '1 tsp vanilla extract (optional, but nice)'
   - 'Flaky sea salt for topping (optional, but transformative)'
 instructions:

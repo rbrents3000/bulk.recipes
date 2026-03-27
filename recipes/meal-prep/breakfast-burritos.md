@@ -25,7 +25,7 @@ costco_ingredients:
     Kirkland Signature Flour Tortillas — 12 tortillas (~$4.49, 2-pack of 10
     count)
 other_ingredients:
-  - 1 tablespoon Olive oil or butter
+  - 1 tablespoon (15g) Olive oil or butter
   - 1/2 teaspoon Salt
   - 1/4 teaspoon Black pepper
   - 1/4 teaspoon Garlic powder

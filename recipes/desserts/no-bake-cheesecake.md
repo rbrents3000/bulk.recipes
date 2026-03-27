@@ -17,10 +17,10 @@ costco_ingredients:
   - 'Kirkland Heavy Whipping Cream — 1.5 cups (~$4.99, 1/2 gallon)'
   - 'Honey Maid Graham Crackers — 1 sleeve + 2 sheets (~$6.49, 4-sleeve box)'
 other_ingredients:
-  - '6 tbsp Unsalted butter, melted'
-  - 1 cup Granulated sugar
+  - '6 tbsp (85g) Unsalted butter, melted'
+  - 1 cup (200g) Granulated sugar
   - 2 tsp Pure vanilla extract
-  - 1 tbsp Fresh lemon juice
+  - 1 tbsp (15g) Fresh lemon juice
   - Pinch of salt
 instructions:
   - >-

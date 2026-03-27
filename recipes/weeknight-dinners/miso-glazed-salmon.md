@@ -17,11 +17,11 @@ costco_ingredients:
   - 'Kirkland Signature Broccoli Florets — 2 cups (~$7.49, 4 lb bag)'
   - 'Kirkland Signature Jasmine Rice — 2 cups cooked (~$12.99, 25 lb bag)'
 other_ingredients:
-  - 3 tablespoons White miso paste
-  - 2 tablespoons Mirin
-  - 1 tablespoon Soy sauce
+  - 3 tablespoons (55g) White miso paste
+  - 2 tablespoons (35g) Mirin
+  - 1 tablespoon (20g) Soy sauce
   - 1 tablespoon Rice vinegar
-  - 1 tablespoon Brown sugar
+  - 1 tablespoon (15g) Brown sugar
   - 1 teaspoon Sesame oil
   - '1 teaspoon, grated Fresh ginger *(optional)*'
   - Sesame seeds for garnish *(optional)*

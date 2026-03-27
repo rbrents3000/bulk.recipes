@@ -22,9 +22,9 @@ costco_ingredients:
     bag)
   - 'Kirkland Signature Tortilla Chips — for serving (~$4.49, 3 lb bag)'
 other_ingredients:
-  - 1 cup crumbled cotija cheese (or substitute feta)
-  - 3 tbsp lime juice (about 2 limes)
-  - 1/2 cup sour cream
+  - 1 cup (115g) crumbled cotija cheese (or substitute feta)
+  - 3 tbsp (45g) lime juice (about 2 limes)
+  - 1/2 cup (115g) sour cream
   - 2 tsp chili powder
   - 1 tsp smoked paprika
   - 1/2 tsp garlic powder

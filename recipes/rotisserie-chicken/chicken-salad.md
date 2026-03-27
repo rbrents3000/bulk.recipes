@@ -24,7 +24,7 @@ costco_ingredients:
 other_ingredients:
   - '2 stalks Celery, diced'
   - 2 tablespoons Dijon mustard
-  - 1 tablespoon Lemon juice
+  - 1 tablespoon (15g) Lemon juice
   - 1/2 teaspoon Salt
   - 1/4 teaspoon Black pepper
   - 'Bread, crackers, or lettuce wraps *(for serving)*'

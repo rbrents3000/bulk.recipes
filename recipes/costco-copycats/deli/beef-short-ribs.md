@@ -21,12 +21,12 @@ other_ingredients:
   - '1 large onion, roughly chopped'
   - '3 carrots, cut into large chunks'
   - '4 cloves garlic, smashed'
-  - 2 tablespoons tomato paste
-  - 1 cup dry red wine
-  - 2 cups beef broth
+  - 2 tablespoons (30g) tomato paste
+  - 1 cup (240g) dry red wine
+  - 2 cups (480g) beef broth
   - 3 sprigs fresh thyme (or 1 teaspoon dried)
   - 2 bay leaves
-  - 2 tablespoons all-purpose flour
+  - 2 tablespoons (15g) all-purpose flour
   - Salt and pepper to taste
   - Fresh parsley for garnish *(optional)*
 instructions:

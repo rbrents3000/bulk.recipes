@@ -22,15 +22,15 @@ costco_ingredients:
     Kirkland Signature Ketchup — 1/2 cup + 1/4 cup for glaze (~$4.99, 2-pack/40
     oz)
 other_ingredients:
-  - 3/4 cup plain breadcrumbs
-  - 1/2 cup whole milk
+  - 3/4 cup (80g) plain breadcrumbs
+  - 1/2 cup (120g) whole milk
   - '1 medium onion, finely diced'
   - '2 cloves garlic, minced'
   - 1 tablespoon Worcestershire sauce
   - 1 teaspoon dried thyme
   - 1 teaspoon salt
   - 1/2 teaspoon pepper
-  - 2 tablespoons brown sugar (for glaze)
+  - 2 tablespoons (30g) brown sugar (for glaze)
   - 1 tablespoon Dijon mustard (for glaze)
 instructions:
   - Preheat oven to 375°F (190°C). Line a baking sheet with foil.

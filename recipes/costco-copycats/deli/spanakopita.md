@@ -26,7 +26,7 @@ other_ingredients:
   - '1 package (16 oz) phyllo dough, thawed'
   - '1/2 medium onion, finely diced'
   - '2 cloves garlic, minced'
-  - 2 tablespoons olive oil
+  - 2 tablespoons (30g) olive oil
   - '1/4 cup fresh dill, chopped (or 1 tablespoon dried)'
   - 1/4 teaspoon nutmeg
   - Salt and pepper to taste

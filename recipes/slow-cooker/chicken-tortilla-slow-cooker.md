@@ -25,7 +25,7 @@ costco_ingredients:
 other_ingredients:
   - '1 Onion, diced'
   - '2 cloves Garlic, minced'
-  - 1 cup Frozen corn kernels
+  - 1 cup (165g) Frozen corn kernels
   - 1 tbsp Cumin
   - 1 tsp Chili powder
   - 1 tsp Smoked paprika

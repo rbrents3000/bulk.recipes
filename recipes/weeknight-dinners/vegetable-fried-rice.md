@@ -19,7 +19,7 @@ costco_ingredients:
   - 'Kirkland Organic Soy Sauce — 3 tbsp (~$0.20, 1.2 L bottle)'
 other_ingredients:
   - 2 tbsp sesame oil
-  - 1 tbsp vegetable oil
+  - 1 tbsp (15g) vegetable oil
   - '4 cloves garlic, minced'
   - '1 tsp fresh ginger, grated'
   - '2 green onions, sliced'

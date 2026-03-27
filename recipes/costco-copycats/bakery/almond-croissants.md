@@ -20,14 +20,14 @@ costco_ingredients:
     Kirkland Signature Unsalted Butter — 4 tablespoons, softened (~$12.99, 4 x 1
     lb bars)
 other_ingredients:
-  - 4 tablespoons softened butter
-  - 1/3 cup sugar
+  - 4 tablespoons (55g) softened butter
+  - 1/3 cup (65g) sugar
   - 1 egg
-  - 3/4 cup almond flour (or finely ground blanched almonds)
-  - 1 tablespoon all-purpose flour
+  - 3/4 cup (70g) almond flour (or finely ground blanched almonds)
+  - 1 tablespoon (10g) all-purpose flour
   - 1/2 teaspoon almond extract
   - Pinch of salt
-  - 2 tablespoons sugar
+  - 2 tablespoons (25g) sugar
   - 2 tablespoons water
   - Sliced almonds for topping
   - Powdered sugar for dusting

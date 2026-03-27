@@ -29,7 +29,7 @@ other_ingredients:
   - '1 green bell pepper, diced'
   - '4 cloves garlic, minced'
   - 1 can (6 oz) tomato paste
-  - 2 cups beef broth
+  - 2 cups (480g) beef broth
   - 3 tablespoons chili powder
   - 1 tablespoon cumin
   - 1 teaspoon smoked paprika

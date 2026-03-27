@@ -23,13 +23,13 @@ costco_ingredients:
     bag)
   - 'Kirkland Signature Organic Diced Tomatoes — 1 can, 14.5 oz (~$1.50, 8-pack)'
 other_ingredients:
-  - 1 cup cooked white rice
+  - 1 cup (185g) cooked white rice
   - '1/2 medium onion, diced'
   - '2 cloves garlic, minced'
   - 1 teaspoon Italian seasoning
   - 1 teaspoon paprika
   - Salt and pepper to taste
-  - 1/2 cup tomato sauce
+  - 1/2 cup (125g) tomato sauce
 instructions:
   - >-
     Preheat oven to 375°F (190°C). Cut the tops off the bell peppers and remove

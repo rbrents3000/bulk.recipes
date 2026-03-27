@@ -21,9 +21,9 @@ costco_ingredients:
   - 'Kirkland Sunflower Seeds or Sliced Almonds — 1/3 cup (~$9.99, large bag)'
 other_ingredients:
   - '1/2 red onion, diced small'
-  - 3/4 cup mayonnaise
+  - 3/4 cup (165g) mayonnaise
   - 2 tablespoons apple cider vinegar
-  - 2 tablespoons sugar
+  - 2 tablespoons (25g) sugar
   - Salt and pepper to taste
 instructions:
   - >-

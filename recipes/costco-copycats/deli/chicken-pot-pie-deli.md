@@ -20,9 +20,9 @@ costco_ingredients:
   - 'Kirkland Signature Mixed Vegetables Frozen — 2 cups (~$7.99, 5 lb bag)'
   - 'Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)'
 other_ingredients:
-  - 1/3 cup all-purpose flour
-  - 1 cup heavy cream
-  - 1/2 cup whole milk
+  - 1/3 cup (40g) all-purpose flour
+  - 1 cup (240g) heavy cream
+  - 1/2 cup (120g) whole milk
   - '1 medium yellow onion, diced'
   - '2 stalks celery, diced'
   - 1 tsp dried thyme

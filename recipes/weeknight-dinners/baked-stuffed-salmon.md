@@ -20,7 +20,7 @@ costco_ingredients:
   - 'Lemons — 2 lemons (~$4.99, 5 lb bag)'
 other_ingredients:
   - '1 bunch, trimmed Asparagus'
-  - 2 tablespoons Olive oil
+  - 2 tablespoons (30g) Olive oil
   - '3 cloves, minced Garlic'
   - to taste Salt and pepper
   - '2 tablespoons, chopped Fresh dill *(optional)*'

@@ -21,7 +21,7 @@ costco_ingredients:
     bottles)
   - 'Kirkland Brioche Buns — 12 buns (~$4.99, 12-pack)'
 other_ingredients:
-  - 2 tbsp brown sugar
+  - 2 tbsp (30g) brown sugar
   - 1 tbsp paprika
   - 1 tbsp garlic powder
   - 1 tbsp onion powder
@@ -30,7 +30,7 @@ other_ingredients:
   - 2 tsp salt
   - 1 tsp black pepper
   - 1/2 cup apple cider vinegar
-  - 1/2 cup chicken broth or water
+  - 1/2 cup (120g) chicken broth or water
   - 'Optional: coleslaw, pickles, and extra BBQ sauce for serving'
 instructions:
   - >-

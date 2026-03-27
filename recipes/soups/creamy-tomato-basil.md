@@ -20,9 +20,9 @@ costco_ingredients:
 other_ingredients:
   - '1 large yellow onion, diced'
   - '4 cloves garlic, minced'
-  - 2 tablespoons olive oil
-  - 2 tablespoons butter
-  - 1 teaspoon sugar (cuts the acidity)
+  - 2 tablespoons (30g) olive oil
+  - 2 tablespoons (30g) butter
+  - 1 teaspoon (5g) sugar (cuts the acidity)
   - 1 teaspoon salt
   - 1/2 teaspoon black pepper
   - 1/4 teaspoon red pepper flakes (optional)

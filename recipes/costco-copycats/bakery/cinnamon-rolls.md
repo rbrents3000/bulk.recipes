@@ -19,19 +19,19 @@ costco_ingredients:
     lb bars)
   - 'Kirkland Signature Large Eggs — 2 eggs (~$7.99, 5 dozen)'
 other_ingredients:
-  - '1 cup whole milk, warmed to 110°F'
+  - '1 cup (245g) whole milk, warmed to 110°F'
   - 2 1/4 teaspoons active dry yeast (1 packet)
-  - 1/2 cup sugar
-  - 4 1/2 cups all-purpose flour
+  - 1/2 cup (100g) sugar
+  - 4 1/2 cups (540g) all-purpose flour
   - 1 teaspoon salt
-  - 1/2 cup melted butter
+  - 1/2 cup (115g) melted butter
   - 2 eggs
-  - 1 cup packed brown sugar
+  - 1 cup (220g) packed brown sugar
   - 2 1/2 tablespoons cinnamon
-  - 4 tablespoons softened butter
-  - '4 oz cream cheese, softened'
-  - '2 tablespoons butter, softened'
-  - 1 cup powdered sugar
+  - 4 tablespoons (55g) softened butter
+  - '4 oz (110g) cream cheese, softened'
+  - '2 tablespoons (30g) butter, softened'
+  - 1 cup (120g) powdered sugar
   - 1/2 teaspoon vanilla extract
   - 1 tablespoon milk
 instructions:

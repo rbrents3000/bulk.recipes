@@ -26,11 +26,11 @@ costco_ingredients:
     Kirkland Signature Super Premium Vanilla Ice Cream — for topping (~$12.99,
     2-pack half gallon)
 other_ingredients:
-  - 3/4 cup Packed brown sugar
-  - 1/4 cup Granulated sugar
+  - 3/4 cup (165g) Packed brown sugar
+  - 1/4 cup (50g) Granulated sugar
   - 1 large Egg
   - 1 Egg yolk
-  - 1.5 cups All-purpose flour
+  - 1.5 cups (180g) All-purpose flour
   - 1/2 teaspoon Baking soda
   - 1/2 teaspoon Salt
   - Flaky sea salt for finishing (optional but highly recommended)

@@ -21,7 +21,7 @@ costco_ingredients:
 other_ingredients:
   - '1 English cucumber, chopped into chunks'
   - '1/2 red onion, thinly sliced'
-  - 1/2 cup Kalamata olives
+  - 1/2 cup (70g) Kalamata olives
   - 1 teaspoon dried oregano
   - 2 tablespoons red wine vinegar
   - Salt and pepper to taste

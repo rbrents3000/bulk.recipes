@@ -20,7 +20,7 @@ other_ingredients:
   - >-
     2 lbs pizza dough (store-bought, or use our [pizza dough
     recipe](pizza-dough.md))
-  - 1 tbsp olive oil
+  - 1 tbsp (15g) olive oil
   - Cornmeal for dusting
   - 1 tsp dried oregano
   - 1/2 tsp garlic powder

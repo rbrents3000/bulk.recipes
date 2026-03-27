@@ -25,9 +25,9 @@ other_ingredients:
   - '1 medium onion, diced'
   - '2 stalks celery, diced'
   - '3 cloves garlic, minced'
-  - 3 tablespoons all-purpose flour
-  - 2 cups clam juice (from cans + bottled if needed)
-  - 1 cup whole milk
+  - 3 tablespoons (25g) all-purpose flour
+  - 2 cups (480g) clam juice (from cans + bottled if needed)
+  - 1 cup (245g) whole milk
   - 2 bay leaves
   - 1/2 teaspoon dried thyme
   - Salt and pepper to taste

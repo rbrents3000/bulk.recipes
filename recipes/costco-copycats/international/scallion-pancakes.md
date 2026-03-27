@@ -16,14 +16,14 @@ dairy_free: true
 costco_ingredients:
   - 'Kirkland Signature Sesame Oil — 2 tablespoons (~$6.99, 20 oz)'
 other_ingredients:
-  - 2 cups all-purpose flour
+  - 2 cups (240g) all-purpose flour
   - 3/4 cup boiling water
   - 1/2 teaspoon salt
   - '6 green onions, thinly sliced'
   - 2 tablespoons sesame oil
   - Vegetable oil for pan-frying (about 3 tablespoons per pancake)
   - Flaky sea salt for finishing
-  - 2 tablespoons soy sauce
+  - 2 tablespoons (35g) soy sauce
   - 1 tablespoon rice vinegar
   - 1 teaspoon sesame oil
   - 1/2 teaspoon chili oil or sriracha *(optional)*

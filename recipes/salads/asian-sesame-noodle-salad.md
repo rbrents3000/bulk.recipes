@@ -20,15 +20,15 @@ costco_ingredients:
   - 'Shredded Carrots — 1 bag (~$3.49, 10 oz bag)'
   - 'Red Cabbage — 1 head (~$2.49, 1 head)'
 other_ingredients:
-  - 3 tablespoons soy sauce
+  - 3 tablespoons (55g) soy sauce
   - 2 tablespoons rice vinegar
   - 1 tablespoon sesame oil
-  - 1 tablespoon honey or maple syrup
+  - 1 tablespoon (20g) honey or maple syrup
   - '1 tablespoon fresh ginger, grated'
   - '2 cloves garlic, minced'
   - '1 tablespoon sriracha (optional, for heat)'
   - '2 green onions, sliced'
-  - 2 tablespoons sesame seeds
+  - 2 tablespoons (20g) sesame seeds
   - '1 lime, juiced'
 instructions:
   - >-

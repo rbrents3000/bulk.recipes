@@ -24,7 +24,7 @@ costco_ingredients:
     Kirkland Signature Shredded Parmigiano Reggiano — 1/2 cup (~$14.99, 1 lb
     tub)
 other_ingredients:
-  - 1 cup ricotta cheese
+  - 1 cup (245g) ricotta cheese
   - '1/2 medium onion, diced'
   - '2 cloves garlic, minced'
   - 1 teaspoon Italian seasoning

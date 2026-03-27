@@ -17,7 +17,7 @@ costco_ingredients:
   - 'Kirkland Signature Cage-Free Eggs — 2 eggs (~$7.99, 5 dozen)'
   - 'Kirkland Signature Honey — 2 tbsp (~$12.99, 5 lb jug)'
 other_ingredients:
-  - 2 cups all-purpose flour
+  - 2 cups (240g) all-purpose flour
   - 1 tablespoon paprika
   - 1 teaspoon garlic powder
   - 1 teaspoon cayenne pepper

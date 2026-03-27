@@ -22,9 +22,9 @@ costco_ingredients:
   - 'Kirkland Signature Large Eggs — 3 eggs (~$7.99, 5 dozen)'
   - 'Kirkland Signature Extra Virgin Olive Oil — 2 tablespoons (~$13.99, 2 L)'
 other_ingredients:
-  - 3 tablespoons Soy sauce
+  - 3 tablespoons (55g) Soy sauce
   - 1 tablespoon Sesame oil
-  - 1 cup Frozen peas and carrots
+  - 1 cup (160g) Frozen peas and carrots
   - '3 cloves, minced Garlic'
   - '4 stalks, sliced Green onions'
 instructions:

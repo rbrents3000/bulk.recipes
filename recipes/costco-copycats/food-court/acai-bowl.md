@@ -19,7 +19,7 @@ costco_ingredients:
   - 'Kirkland Signature Three Berry Blend (frozen) — 1 cup (~$12.49, 4 lb bag)'
   - 'Kirkland Signature Organic Raw Honey — 2 tablespoons (~$14.99, 24 oz bottle)'
 other_ingredients:
-  - 1/2 cup Coconut milk or almond milk
+  - 1/2 cup (120g) Coconut milk or almond milk
   - 2 tablespoons Coconut flakes *(optional)*
   - 1 tablespoon Chia seeds *(optional)*
 instructions:

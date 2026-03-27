@@ -22,7 +22,7 @@ costco_ingredients:
     Kirkland Signature Frozen Hash Browns — 1 bag, 30 oz (~$2.50, 8 lb bag at
     ~$6.99)
 other_ingredients:
-  - 1 cup whole milk
+  - 1 cup (245g) whole milk
   - 1/2 tsp garlic powder
   - 1/2 tsp onion powder
   - 1/2 tsp salt

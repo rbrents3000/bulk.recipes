@@ -27,8 +27,8 @@ other_ingredients:
   - 1 tsp ground cumin
   - 1 tsp smoked paprika
   - 1/2 tsp cayenne pepper (adjust to taste)
-  - 1 tbsp tomato paste
-  - 1 tsp sugar
+  - 1 tbsp (15g) tomato paste
+  - 1 tsp (5g) sugar
   - Salt to taste
   - Fresh cilantro for garnish
   - Basmati rice or naan for serving

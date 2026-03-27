@@ -18,10 +18,10 @@ costco_ingredients:
   - 'Kirkland Old Fashioned Rolled Oats — 1 cup (~$7.49, 10 lb bag)'
   - 'Kirkland Vanilla Ice Cream — for serving (~$10.49, 2-pack 1/2 gallon)'
 other_ingredients:
-  - 3/4 cup All-purpose flour
-  - '2/3 cup Brown sugar, packed'
-  - 1/4 cup Granulated sugar
-  - 2 tbsp Cornstarch
+  - 3/4 cup (90g) All-purpose flour
+  - '2/3 cup (145g) Brown sugar, packed'
+  - 1/4 cup (50g) Granulated sugar
+  - 2 tbsp (15g) Cornstarch
   - 1 tsp Ground cinnamon
   - 1/4 tsp Salt
   - 1 tsp Pure vanilla extract

@@ -19,13 +19,13 @@ costco_ingredients:
     pack)
   - 'Kirkland Signature Sesame Oil — 1 tablespoon (~$6.99, 20 oz)'
 other_ingredients:
-  - 3 tablespoons soy sauce
+  - 3 tablespoons (55g) soy sauce
   - 1 tablespoon sake (or dry white wine)
   - '1 tablespoon fresh ginger, grated'
   - '3 cloves garlic, grated'
   - 1 tablespoon sesame oil
-  - 1 teaspoon sugar
-  - 3/4 cup potato starch (or cornstarch)
+  - 1 teaspoon (5g) sugar
+  - 3/4 cup (125g) potato starch (or cornstarch)
   - Vegetable oil for frying (about 3 cups)
   - Lemon wedges
   - Japanese mayo (Kewpie) *(optional)*

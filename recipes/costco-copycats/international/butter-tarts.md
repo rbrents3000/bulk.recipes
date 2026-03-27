@@ -21,8 +21,8 @@ costco_ingredients:
   - 'Kirkland Signature Large Eggs — 1 egg (~$7.99, 5 dozen)'
   - 'Kirkland Signature Pure Vanilla Extract — 1 teaspoon (~$8.99, 16 oz)'
 other_ingredients:
-  - 1 cup packed dark brown sugar
-  - 1/3 cup corn syrup
+  - 1 cup (220g) packed dark brown sugar
+  - 1/3 cup (115g) corn syrup
   - 1 tablespoon white vinegar
   - Pinch of salt
   - '12 pre-made tart shells (3-inch), thawed if frozen'

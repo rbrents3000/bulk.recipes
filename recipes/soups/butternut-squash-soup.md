@@ -19,11 +19,11 @@ costco_ingredients:
 other_ingredients:
   - '1 large yellow onion, diced'
   - '4 cloves garlic, minced'
-  - 2 tablespoons olive oil
+  - 2 tablespoons (30g) olive oil
   - 1 teaspoon salt
   - 1/2 teaspoon black pepper
   - 1/4 teaspoon nutmeg
-  - 2 tablespoons butter
+  - 2 tablespoons (30g) butter
 instructions:
   - >-
     Preheat oven to 400°F. Toss the pre-cut butternut squash with olive oil,

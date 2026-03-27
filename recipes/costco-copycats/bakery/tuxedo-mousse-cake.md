@@ -20,13 +20,13 @@ costco_ingredients:
     Kirkland Heavy Whipping Cream — use about 5 cups total (~$9.99, 2 quart
     carton)
 other_ingredients:
-  - 1/2 cup unsweetened cocoa powder
-  - 1 cup sugar
-  - 1 cup all-purpose flour
+  - 1/2 cup (45g) unsweetened cocoa powder
+  - 1 cup (200g) sugar
+  - 1 cup (120g) all-purpose flour
   - 1 teaspoon vanilla extract
   - >-
-    6 oz white chocolate, chopped *(get a good quality bar — white chocolate
-    chips don't melt as smoothly)*
+    6 oz (170g) white chocolate, chopped *(get a good quality bar — white
+    chocolate chips don't melt as smoothly)*
   - Powdered sugar for dusting
   - Chocolate shavings or curls for decoration *(optional)*
 instructions:

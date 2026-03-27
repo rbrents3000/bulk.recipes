@@ -19,13 +19,13 @@ costco_ingredients:
     jar)
   - 'Kirkland Large Eggs — 3 (~$0.75, 24-count)'
 other_ingredients:
-  - 8 oz flat rice noodles (pad thai noodles)
-  - 2 cups bean sprouts
+  - 8 oz (225g) flat rice noodles (pad thai noodles)
+  - 2 cups (210g) bean sprouts
   - 3 tbsp tamarind paste
   - 3 tbsp fish sauce
-  - 2 tbsp brown sugar
+  - 2 tbsp (30g) brown sugar
   - 1 tbsp rice vinegar
-  - 2 tbsp vegetable oil
+  - 2 tbsp (30g) vegetable oil
   - '4 cloves garlic, minced'
   - '3 green onions, sliced'
   - '1 lime, cut into wedges'

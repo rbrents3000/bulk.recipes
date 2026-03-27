@@ -19,7 +19,7 @@ costco_ingredients:
   - 'Organic Celery — 4 stalks, sliced (~$0.75, from celery bunch)'
   - 'Kirkland Olive Oil — 2 tbsp (~$0.20, from 2L bottle)'
 other_ingredients:
-  - 8 oz wide egg noodles
+  - 8 oz (225g) wide egg noodles
   - '1 medium yellow onion, diced'
   - '3 cloves garlic, minced'
   - 2 bay leaves

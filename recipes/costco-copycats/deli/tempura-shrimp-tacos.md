@@ -20,14 +20,14 @@ costco_ingredients:
     Kirkland Signature Flour Tortillas — 12 small, or cut burrito-size in half
     (~$4.49, 24 count)
 other_ingredients:
-  - 1 cup all-purpose flour
-  - 1/2 cup cornstarch
+  - 1 cup (120g) all-purpose flour
+  - 1/2 cup (65g) cornstarch
   - 1 cup ice-cold sparkling water
   - Vegetable oil for frying (about 2 inches in a heavy pot)
-  - 1/2 cup sour cream
-  - 2 tablespoons fresh lime juice (about 1 lime)
+  - 1/2 cup (115g) sour cream
+  - 2 tablespoons (30g) fresh lime juice (about 1 lime)
   - '2 tablespoons fresh cilantro, finely chopped, plus extra for garnish'
-  - '2 cups green cabbage, shredded thin'
+  - '2 cups (180g) green cabbage, shredded thin'
   - Pico de gallo for topping
   - '1/2 teaspoon garlic powder *(for the batter, optional)*'
   - Salt to taste

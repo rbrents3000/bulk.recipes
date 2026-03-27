@@ -19,12 +19,12 @@ costco_ingredients:
   - 'Hass Avocados — 2 (~$6.99, 5-pack)'
   - 'Kirkland Signature Sesame Oil — 1 tablespoon (~$6.99, 20 oz)'
 other_ingredients:
-  - 3 tablespoons soy sauce
+  - 3 tablespoons (55g) soy sauce
   - 1 tablespoon sesame oil
   - 1 teaspoon rice vinegar
   - 1 teaspoon sriracha
   - '1 green onion, thinly sliced'
-  - 1 cup edamame (shelled)
+  - 1 cup (155g) edamame (shelled)
   - '1/2 cucumber, diced'
   - '1 sheet nori, cut into strips'
   - 2 tablespoons pickled ginger

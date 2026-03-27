@@ -22,13 +22,13 @@ costco_ingredients:
 other_ingredients:
   - 8 oz sweet potato starch noodles (dangmyeon)
   - 1/4 cup soy sauce
-  - 2 tablespoons brown sugar
+  - 2 tablespoons (30g) brown sugar
   - 1 tablespoon rice vinegar
   - '3 cloves garlic, minced'
-  - 1 tablespoon sesame seeds
+  - 1 tablespoon (10g) sesame seeds
   - '1 small onion, thinly sliced'
   - '2 green onions, cut into 2-inch pieces'
-  - 1 tablespoon vegetable oil
+  - 1 tablespoon (15g) vegetable oil
   - 1/2 teaspoon black pepper
 instructions:
   - >-

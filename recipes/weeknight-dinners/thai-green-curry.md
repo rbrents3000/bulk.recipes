@@ -19,12 +19,12 @@ costco_ingredients:
   - 'Kirkland Organic Coconut Milk — 2 cans, 13.5 oz each (~$2.50, 6-pack)'
   - 'Kirkland Jasmine Rice — for serving (~$0.50, 25 lb bag)'
 other_ingredients:
-  - 3 tbsp green curry paste
+  - 3 tbsp (50g) green curry paste
   - '1 red bell pepper, sliced thin'
   - '1 can (8 oz) sliced bamboo shoots, drained'
   - 1 tbsp fish sauce
-  - 1 tbsp brown sugar
-  - 1 tbsp vegetable oil
+  - 1 tbsp (15g) brown sugar
+  - 1 tbsp (15g) vegetable oil
   - 1 cup fresh Thai basil leaves (or regular basil)
   - '1 lime, juiced'
   - '1 red Thai chili, sliced (optional, for heat)'

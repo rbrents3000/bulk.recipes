@@ -22,8 +22,8 @@ costco_ingredients:
 other_ingredients:
   - '1 large yellow onion, diced'
   - '4 cloves garlic, minced'
-  - 3 tablespoons butter
-  - 3 tablespoons all-purpose flour
+  - 3 tablespoons (40g) butter
+  - 3 tablespoons (25g) all-purpose flour
   - 1 teaspoon dried thyme
   - 1 teaspoon salt
   - 1/2 teaspoon black pepper

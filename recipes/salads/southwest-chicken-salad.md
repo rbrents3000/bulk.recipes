@@ -27,7 +27,7 @@ costco_ingredients:
     2L bottle)
 other_ingredients:
   - '2 large Tomatoes, diced (or 1 pint cherry tomatoes, halved)'
-  - 3 tablespoons Fresh lime juice (about 2 limes)
+  - 3 tablespoons (45g) Fresh lime juice (about 2 limes)
   - '1/4 cup Fresh cilantro, chopped'
   - '2 cloves Garlic, minced'
   - 1 teaspoon Cumin

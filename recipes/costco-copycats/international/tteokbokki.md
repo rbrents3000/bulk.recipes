@@ -19,11 +19,13 @@ other_ingredients:
   - >-
     1 lb Korean rice cakes (tteok) — fresh or frozen, from Asian grocery or
     Costco's Asian aisle
-  - 2 cups anchovy or dashima broth (or 2 cups water + 1 teaspoon dashi powder)
-  - 3 tablespoons gochujang (Korean red pepper paste)
+  - >-
+    2 cups (480g) anchovy or dashima broth (or 2 cups water + 1 teaspoon dashi
+    powder)
+  - 3 tablespoons (55g) gochujang (Korean red pepper paste)
   - 1 tablespoon gochugaru (Korean red pepper flakes)
-  - 2 tablespoons soy sauce
-  - 1 tablespoon sugar
+  - 2 tablespoons (35g) soy sauce
+  - 1 tablespoon (10g) sugar
   - '2 green onions, cut into 2-inch pieces'
   - '2 sheets fish cake (eomuk), cut into triangles *(optional)*'
   - 1 hard-boiled egg per serving *(optional)*

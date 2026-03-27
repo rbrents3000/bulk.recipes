@@ -21,8 +21,8 @@ costco_ingredients:
   - 'Red Onion — 1 (~$4.49, 3 lb bag)'
   - 'Kalamata Olives — 1 jar (~$6.49, 33 oz jar)'
 other_ingredients:
-  - 3 tablespoons lemon juice (about 2 lemons)
-  - 1/4 cup extra-virgin olive oil
+  - 3 tablespoons (45g) lemon juice (about 2 lemons)
+  - 1/4 cup (55g) extra-virgin olive oil
   - 1 tablespoon red wine vinegar
   - 1 teaspoon Dijon mustard
   - '1 clove garlic, minced'

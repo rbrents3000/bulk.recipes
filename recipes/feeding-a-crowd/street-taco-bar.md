@@ -21,7 +21,7 @@ costco_ingredients:
     bag)
   - 'Hass Avocados — 3 avocados (~$6.99, 5-pack)'
 other_ingredients:
-  - 1 cup Sour cream
+  - 1 cup (230g) Sour cream
   - '4 limes, quartered Limes'
   - 1 jar Pickled jalapenos
   - 1 bottle (your favorite) Hot sauce

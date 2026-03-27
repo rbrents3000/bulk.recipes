@@ -19,14 +19,14 @@ costco_ingredients:
   - 'Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)'
   - 'Gruyere or Swiss Cheese — 2 cups shredded (~$12.99, 2 lb pack)'
 other_ingredients:
-  - 8 cups beef broth
-  - 1/2 cup dry white wine (or dry sherry)
-  - 2 tablespoons olive oil
-  - 1 tablespoon all-purpose flour
+  - 8 cups (1920g) beef broth
+  - 1/2 cup (120g) dry white wine (or dry sherry)
+  - 2 tablespoons (30g) olive oil
+  - 1 tablespoon (10g) all-purpose flour
   - '2 cloves garlic, minced'
   - 2 bay leaves
   - 2 sprigs fresh thyme (or 1 teaspoon dried)
-  - 1 teaspoon sugar
+  - 1 teaspoon (5g) sugar
   - Salt and pepper to taste
   - 6 thick slices crusty bread (baguette or sourdough)
 instructions:

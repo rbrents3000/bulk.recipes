@@ -22,7 +22,7 @@ other_ingredients:
   - 2 refrigerated pie crusts (for top and bottom)
   - '1 medium onion, finely diced'
   - '2 cloves garlic, minced'
-  - 1/2 cup beef broth
+  - 1/2 cup (120g) beef broth
   - 1/2 teaspoon cinnamon
   - 1/4 teaspoon cloves (ground)
   - 1/4 teaspoon allspice

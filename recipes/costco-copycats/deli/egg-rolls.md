@@ -23,9 +23,9 @@ other_ingredients:
   - '4 green onions, thinly sliced'
   - '3 cloves garlic, minced'
   - '1 tablespoon fresh ginger, grated'
-  - 2 tablespoons soy sauce
+  - 2 tablespoons (35g) soy sauce
   - 1 tablespoon rice vinegar
-  - 1 teaspoon sugar
+  - 1 teaspoon (5g) sugar
   - Vegetable oil for frying (about 3 cups)
   - Sweet chili sauce or duck sauce for dipping
 instructions:

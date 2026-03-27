@@ -25,9 +25,9 @@ costco_ingredients:
   - 'Lemons — 2 lemons (~$4.99, 5 lb bag)'
 other_ingredients:
   - '6 cloves, minced Garlic'
-  - 1/2 cup (or sub chicken broth) Dry white wine
+  - 1/2 cup (120g) (or sub chicken broth) Dry white wine
   - 1/2 teaspoon Red pepper flakes
-  - '1/4 cup, chopped Fresh parsley'
+  - '1/4 cup (40g), chopped Fresh parsley'
   - to taste Salt and pepper
 instructions:
   - >-

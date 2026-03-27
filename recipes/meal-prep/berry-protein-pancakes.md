@@ -18,9 +18,9 @@ costco_ingredients:
   - 'Kirkland Signature Greek Yogurt — 1/2 cup (~$7.99, 2-pack 48 oz tubs)'
   - 'Kirkland Signature Maple Syrup — for serving (~$14.99, 33.8 oz bottle)'
 other_ingredients:
-  - 1.5 cups Milk (or water per box instructions)
+  - 1.5 cups (365g) Milk (or water per box instructions)
   - 2 Eggs
-  - 1 tablespoon Butter (for the griddle)
+  - 1 tablespoon (15g) Butter (for the griddle)
   - 1 teaspoon Vanilla extract *(optional)*
   - pinch Cinnamon *(optional)*
 instructions:

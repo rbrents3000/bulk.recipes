@@ -22,7 +22,7 @@ costco_ingredients:
   - 'Kirkland Signature Organic Tortilla Chips — for serving (~$4.99, 40 oz bag)'
 other_ingredients:
   - 1 can (16 oz) refried beans
-  - 1 cup sour cream
+  - 1 cup (230g) sour cream
   - 1 packet taco seasoning (or 2 tablespoons homemade)
   - '1 can (2.25 oz) sliced black olives, drained'
   - '3 green onions, thinly sliced'

@@ -20,8 +20,8 @@ costco_ingredients:
     section)
   - 'Green Onions — 4 stalks, finely chopped (~$1.49, bunch)'
 other_ingredients:
-  - 1 cup all-purpose flour
-  - 2 cups dashi stock (or 2 cups water + 2 teaspoons dashi powder)
+  - 1 cup (120g) all-purpose flour
+  - 2 cups (480g) dashi stock (or 2 cups water + 2 teaspoons dashi powder)
   - 1/2 teaspoon salt
   - 1 teaspoon soy sauce
   - '2 tablespoons pickled red ginger (beni shoga), finely chopped'

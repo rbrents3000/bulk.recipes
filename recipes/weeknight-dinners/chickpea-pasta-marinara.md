@@ -19,7 +19,7 @@ costco_ingredients:
   - 'Rao''s Homemade Marinara Sauce — 1.5 cups (~$4.00, 2-pack/28 oz jars)'
   - 'Kirkland Parmigiano Reggiano — 1/4 cup, freshly grated (~$1.00, 72 oz wedge)'
 other_ingredients:
-  - 1 tbsp extra virgin olive oil
+  - 1 tbsp (15g) extra virgin olive oil
   - '3 cloves garlic, thinly sliced'
   - 1/4 tsp red pepper flakes
   - 'Fresh basil leaves, torn'

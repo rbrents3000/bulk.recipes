@@ -20,9 +20,9 @@ costco_ingredients:
   - 'Kirkland Signature Frozen Mixed Vegetables — 3 cups (~$7.49, 5.5 lb bag)'
   - 'Kirkland Signature Salted Butter — 4 tablespoons (~$12.99, 4-pack/1 lb each)'
 other_ingredients:
-  - 1/3 cup All-purpose flour
-  - 2 cups Chicken broth
-  - 3/4 cup Whole milk
+  - 1/3 cup (40g) All-purpose flour
+  - 2 cups (480g) Chicken broth
+  - 3/4 cup (185g) Whole milk
   - 1 teaspoon Salt
   - 1/2 teaspoon Black pepper
   - 1/2 teaspoon Garlic powder

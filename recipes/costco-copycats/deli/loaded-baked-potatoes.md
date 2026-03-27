@@ -19,7 +19,7 @@ costco_ingredients:
   - 'Kirkland Signature Shredded Sharp Cheddar — 1.5 cups (~$14.99, 2 lb block)'
   - 'Kirkland Signature Unsalted Butter — 4 tablespoons (~$12.99, 4 x 1 lb bars)'
 other_ingredients:
-  - 1/2 cup sour cream
+  - 1/2 cup (115g) sour cream
   - '4 green onions, thinly sliced'
   - Salt and pepper to taste
 instructions:

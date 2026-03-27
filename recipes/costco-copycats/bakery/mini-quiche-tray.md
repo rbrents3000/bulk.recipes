@@ -21,12 +21,12 @@ costco_ingredients:
 other_ingredients:
   - 2 packages (15 oz each) refrigerated pie crust (or 24 mini tart shells)
   - 6 eggs
-  - 3/4 cup heavy cream
+  - 3/4 cup (180g) heavy cream
   - 1/4 teaspoon nutmeg
   - Salt and pepper to taste
   - '6 slices bacon, cooked and crumbled'
   - 1/2 cup shredded Swiss/Gruyere
-  - '1 cup frozen spinach, thawed and squeezed very dry'
+  - '1 cup (30g) frozen spinach, thawed and squeezed very dry'
   - 1/2 cup shredded Swiss/Gruyere
   - '2 tablespoons sun-dried tomatoes, chopped *(optional)*'
 instructions:

@@ -25,9 +25,9 @@ other_ingredients:
     Curry — medium or hot)
   - '2 carrots, cut into large chunks'
   - '1 large onion, diced'
-  - 2 tablespoons vegetable oil
+  - 2 tablespoons (30g) vegetable oil
   - 4 cups water
-  - 1 tablespoon soy sauce
+  - 1 tablespoon (20g) soy sauce
   - 1 tablespoon honey *(optional — for extra sweetness)*
   - Fukujinzuke (pickled relish) for serving *(optional)*
 instructions:

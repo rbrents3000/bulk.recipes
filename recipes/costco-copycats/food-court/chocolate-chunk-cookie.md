@@ -19,12 +19,12 @@ costco_ingredients:
     bars)
   - 'Kirkland Signature Cage-Free Eggs — 2 large (~$7.99, 5 dozen)'
 other_ingredients:
-  - 2 1/4 cups all-purpose flour
-  - 1/2 cup unsweetened cocoa powder
+  - 2 1/4 cups (270g) all-purpose flour
+  - 1/2 cup (45g) unsweetened cocoa powder
   - 1 teaspoon baking soda
   - 1 teaspoon salt
-  - 3/4 cup packed brown sugar
-  - 1/2 cup granulated sugar
+  - 3/4 cup (165g) packed brown sugar
+  - 1/2 cup (100g) granulated sugar
   - 2 teaspoons vanilla extract
   - 1/4 cup hot fudge sauce for drizzling *(optional)*
   - Flaky sea salt for topping *(optional but highly recommended)*

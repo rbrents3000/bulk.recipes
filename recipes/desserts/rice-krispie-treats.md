@@ -16,7 +16,7 @@ costco_ingredients:
   - 'Kirkland Unsalted Butter — 3 tbsp (~$4.29, 4-stick pack)'
   - 'Large Bag of Marshmallows — 10 oz / half bag (~$5.99, full bag)'
 other_ingredients:
-  - 6 cups Rice Krispies cereal
+  - 6 cups (170g) Rice Krispies cereal
   - Pinch of salt (don't skip this — it makes the sweetness pop)
   - 1 tsp Vanilla extract (optional but worth it)
 instructions:

@@ -21,10 +21,10 @@ other_ingredients:
   - 3.5 cups (450g) bread flour
   - 1 packet (2.25 tsp) instant yeast
   - 1.5 tsp salt
-  - 1 tsp sugar
+  - 1 tsp (5g) sugar
   - 1.25 cups warm water (110°F)
-  - 1 tbsp olive oil (for the dough)
-  - '1 cup pizza sauce (store-bought or homemade, see tip)'
+  - 1 tbsp (15g) olive oil (for the dough)
+  - '1 cup (250g) pizza sauce (store-bought or homemade, see tip)'
   - Cornmeal for dusting
 instructions:
   - >-

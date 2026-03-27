@@ -21,12 +21,12 @@ costco_ingredients:
   - 'Kirkland Large Eggs — 2 (~$0.50, 24-count)'
   - 'Kirkland Semi-Sweet Chocolate Chips — 1/2 cup, optional (~$0.75, 4.5 lb bag)'
 other_ingredients:
-  - 3/4 cup granulated sugar
+  - 3/4 cup (150g) granulated sugar
   - 1 tsp pure vanilla extract
   - 1 tsp baking soda
   - 1/2 tsp salt
   - 1/2 tsp ground cinnamon
-  - 1/4 cup sour cream or Greek yogurt
+  - 1/4 cup (60g) sour cream or Greek yogurt
 instructions:
   - >-
     Preheat the oven to 350 degrees. Grease a 9x5-inch loaf pan or line it with

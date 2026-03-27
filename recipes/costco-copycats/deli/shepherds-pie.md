@@ -22,13 +22,13 @@ costco_ingredients:
   - 'Kirkland Signature Frozen Mixed Vegetables — 2 cups (~$7.49, 5.5 lb bag)'
   - 'Kirkland Signature Shredded Sharp Cheddar — 1 cup (~$14.99, 2 lb block)'
 other_ingredients:
-  - 1/2 cup milk or heavy cream
+  - 1/2 cup (120g) milk or heavy cream
   - '1 medium onion, diced'
   - '2 cloves garlic, minced'
-  - 2 tablespoons tomato paste
+  - 2 tablespoons (30g) tomato paste
   - 1 tablespoon Worcestershire sauce
-  - 1 cup beef broth
-  - 1 tablespoon all-purpose flour
+  - 1 cup (240g) beef broth
+  - 1 tablespoon (10g) all-purpose flour
   - 1 teaspoon dried thyme
   - Salt and pepper to taste
 instructions:

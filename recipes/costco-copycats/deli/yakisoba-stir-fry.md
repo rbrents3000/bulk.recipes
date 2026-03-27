@@ -21,14 +21,14 @@ costco_ingredients:
     5.5 lb frozen bag)
 other_ingredients:
   - 1 lb yakisoba noodles (or lo mein or ramen noodles)
-  - 3 tablespoons soy sauce
-  - 2 tablespoons oyster sauce
+  - 3 tablespoons (55g) soy sauce
+  - 2 tablespoons (35g) oyster sauce
   - 1 tablespoon sesame oil
   - 1 tablespoon rice vinegar
-  - 1 tablespoon brown sugar
+  - 1 tablespoon (15g) brown sugar
   - '2 cloves garlic, minced'
   - '1 teaspoon fresh ginger, grated'
-  - 2 tablespoons vegetable oil for cooking
+  - 2 tablespoons (30g) vegetable oil for cooking
   - Sesame seeds for garnish *(optional)*
   - Sliced scallions for garnish *(optional)*
 instructions:

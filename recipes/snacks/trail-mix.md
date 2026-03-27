@@ -18,7 +18,7 @@ costco_ingredients:
   - 'Kirkland Semi-Sweet Chocolate Chips — 1 cup (~$10.99, 4.5 lb bag)'
   - 'Kirkland Dried Cranberries — 1 cup (~$9.99, 2 lb bag)'
 other_ingredients:
-  - '1 cup coconut flakes (sweetened or unsweetened, your call)'
+  - '1 cup (80g) coconut flakes (sweetened or unsweetened, your call)'
 instructions:
   - Grab your biggest mixing bowl.
   - >-

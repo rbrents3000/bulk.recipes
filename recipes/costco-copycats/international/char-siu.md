@@ -19,10 +19,10 @@ costco_ingredients:
     piece)
   - 'Kirkland Signature Sesame Oil — 1 tablespoon (~$6.99, 20 oz)'
 other_ingredients:
-  - 3 tablespoons hoisin sauce
-  - 3 tablespoons soy sauce
-  - 3 tablespoons honey
-  - 2 tablespoons oyster sauce
+  - 3 tablespoons (55g) hoisin sauce
+  - 3 tablespoons (55g) soy sauce
+  - 3 tablespoons (65g) honey
+  - 2 tablespoons (35g) oyster sauce
   - 2 tablespoons Shaoxing wine (or dry sherry)
   - 1 tablespoon sesame oil
   - 1 teaspoon five-spice powder

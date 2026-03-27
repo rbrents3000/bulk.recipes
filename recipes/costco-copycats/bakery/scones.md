@@ -23,14 +23,14 @@ costco_ingredients:
     Fresh Blueberries — 1 cup (~$6.99, 18 oz container) OR Kirkland Dried
     Cranberries — 3/4 cup (~$9.99, 64 oz bag)
 other_ingredients:
-  - 2 1/2 cups all-purpose flour
-  - 1/3 cup sugar
+  - 2 1/2 cups (300g) all-purpose flour
+  - 1/3 cup (65g) sugar
   - 1 tablespoon baking powder
   - 1/2 teaspoon salt
-  - 1/2 cup heavy cream
+  - 1/2 cup (120g) heavy cream
   - 1 teaspoon vanilla extract
   - Zest of 1 orange *(if making cranberry version)*
-  - 1 cup powdered sugar
+  - 1 cup (120g) powdered sugar
   - 2 tablespoons milk
   - 1/2 teaspoon vanilla extract
 instructions:

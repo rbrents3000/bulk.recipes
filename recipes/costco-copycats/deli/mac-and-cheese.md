@@ -19,15 +19,15 @@ costco_ingredients:
 other_ingredients:
   - 1 lb elbow macaroni or cavatappi
   - '4 oz Gruyère cheese, shredded'
-  - '4 oz Monterey Jack cheese, shredded'
-  - 2 tbsp all-purpose flour
-  - 2 cups whole milk
+  - '4 oz (110g) Monterey Jack cheese, shredded'
+  - 2 tbsp (15g) all-purpose flour
+  - 2 cups (490g) whole milk
   - 1 tsp Dijon mustard
   - 1/2 tsp garlic powder
   - 1/4 tsp smoked paprika
   - '1/4 tsp cayenne *(optional, but it wakes up the cheese)*'
-  - 1 cup panko breadcrumbs
-  - 2 tbsp melted butter *(for the topping)*
+  - 1 cup (60g) panko breadcrumbs
+  - 2 tbsp (30g) melted butter *(for the topping)*
   - Salt and pepper to taste
 instructions:
   - >-

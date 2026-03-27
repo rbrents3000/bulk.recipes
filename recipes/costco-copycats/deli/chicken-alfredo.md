@@ -22,7 +22,7 @@ costco_ingredients:
 other_ingredients:
   - 1 lb penne pasta
   - '4 cloves garlic, minced'
-  - 1 tbsp olive oil
+  - 1 tbsp (15g) olive oil
   - '1/4 tsp nutmeg *(optional, but highly recommended)*'
   - Salt and pepper to taste
   - 'Fresh parsley, chopped, for garnish'

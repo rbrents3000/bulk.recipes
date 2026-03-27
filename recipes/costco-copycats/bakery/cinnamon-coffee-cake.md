@@ -19,11 +19,11 @@ costco_ingredients:
   - 'Kirkland Signature Cage-Free Eggs — 2 eggs (~$7.99, 5 dozen)'
   - 'Kirkland Signature Granulated Sugar — 1 cup (~$8.99, 25 lb bag)'
 other_ingredients:
-  - 2 cups all-purpose flour
+  - 2 cups (240g) all-purpose flour
   - 1 teaspoon baking powder
   - 1/2 teaspoon baking soda
   - 1/2 teaspoon salt
-  - 1 cup sour cream
+  - 1 cup (230g) sour cream
   - 2 teaspoons vanilla extract
   - >-
     **Streusel:** 1/3 cup brown sugar, 1/3 cup flour, 2 tablespoons cinnamon, 3

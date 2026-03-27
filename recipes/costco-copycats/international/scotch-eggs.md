@@ -26,7 +26,7 @@ other_ingredients:
   - 1 teaspoon salt
   - 1/2 teaspoon black pepper
   - 1/2 teaspoon garlic powder
-  - 1/2 cup all-purpose flour
+  - 1/2 cup (60g) all-purpose flour
   - '2 eggs, beaten (for egg wash)'
   - Vegetable oil for frying (about 4 cups)
   - 'English mustard, for serving'

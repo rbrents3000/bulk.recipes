@@ -22,14 +22,14 @@ costco_ingredients:
 other_ingredients:
   - 8 sheets roasted seaweed (gim/nori)
   - >-
-    3 cups cooked rice, seasoned with 1 tablespoon sesame oil and 1 teaspoon
-    salt
+    3 cups (555g) cooked rice, seasoned with 1 tablespoon sesame oil and 1
+    teaspoon salt
   - '2 carrots, julienned'
   - '1 English cucumber, cut into long strips'
   - 4 strips yellow pickled radish (danmuji)
   - '1 bunch spinach, blanched and squeezed dry'
-  - 2 tablespoons soy sauce
-  - 1 tablespoon sugar
+  - 2 tablespoons (35g) soy sauce
+  - 1 tablespoon (10g) sugar
   - '1 clove garlic, minced'
   - Sesame seeds
   - Vegetable oil for cooking

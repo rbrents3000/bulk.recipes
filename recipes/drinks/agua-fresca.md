@@ -19,7 +19,7 @@ costco_ingredients:
   - 'Limes — juice of 2 (~$4.99, 3 lb bag)'
 other_ingredients:
   - 6 cups cold water
-  - 1/4 cup sugar or honey (adjust to sweetness of your fruit)
+  - 1/4 cup (85g) sugar or honey (adjust to sweetness of your fruit)
   - Ice for serving
   - 'Fresh mint leaves (optional, but they take it from good to gorgeous)'
   - >-

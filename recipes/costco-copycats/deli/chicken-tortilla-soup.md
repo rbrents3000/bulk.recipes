@@ -27,7 +27,7 @@ other_ingredients:
   - '1 poblano pepper, seeded and diced'
   - '1 jalapeño, seeded and minced'
   - '4 cloves garlic, minced'
-  - 2 tablespoons olive oil
+  - 2 tablespoons (30g) olive oil
   - 2 teaspoons ground cumin
   - 1 teaspoon chili powder
   - 1 teaspoon smoked paprika

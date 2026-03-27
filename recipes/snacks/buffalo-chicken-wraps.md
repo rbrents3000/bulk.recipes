@@ -18,8 +18,8 @@ costco_ingredients:
   - Kirkland Ranch Dressing — a few tablespoons (~$6.99)
 other_ingredients:
   - 1/3 cup Frank's RedHot or your favorite buffalo sauce
-  - 2 cups shredded iceberg or romaine lettuce
-  - 1 cup shredded Mexican blend cheese
+  - 2 cups (95g) shredded iceberg or romaine lettuce
+  - 1 cup (115g) shredded Mexican blend cheese
   - '2 stalks celery, diced small (optional, for crunch)'
   - '1 avocado, sliced (optional, but strongly encouraged)'
 instructions:

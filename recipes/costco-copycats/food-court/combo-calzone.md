@@ -24,7 +24,7 @@ costco_ingredients:
 other_ingredients:
   - '2 lbs pizza dough (store-bought, or 2 standard dough balls)'
   - '1 medium yellow onion, diced'
-  - 1 tbsp olive oil
+  - 1 tbsp (15g) olive oil
   - 1 tsp Italian seasoning
   - 1/2 tsp garlic powder
   - '1 egg, beaten (for egg wash)'

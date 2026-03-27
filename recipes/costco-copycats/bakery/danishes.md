@@ -21,16 +21,16 @@ costco_ingredients:
 other_ingredients:
   - '1 package (17 oz) frozen puff pastry, thawed'
   - 1 egg beaten with 1 tablespoon water (egg wash)
-  - '4 oz cream cheese, softened'
-  - 2 tablespoons sugar
+  - '4 oz (110g) cream cheese, softened'
+  - 2 tablespoons (25g) sugar
   - 1 egg yolk
   - 1/2 teaspoon vanilla extract
   - '2 medium apples, peeled and diced small'
-  - 2 tablespoons butter
-  - 2 tablespoons brown sugar
+  - 2 tablespoons (30g) butter
+  - 2 tablespoons (30g) brown sugar
   - 1/2 teaspoon cinnamon
-  - 1 cup canned cherry pie filling
-  - 1/2 cup powdered sugar
+  - 1 cup (270g) canned cherry pie filling
+  - 1/2 cup (60g) powdered sugar
   - 1 tablespoon milk
   - 1/4 teaspoon vanilla extract
 instructions:

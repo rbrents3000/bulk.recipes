@@ -26,8 +26,8 @@ costco_ingredients:
 other_ingredients:
   - '1 large yellow onion, diced'
   - '4 cloves garlic, minced'
-  - '1 cup small pasta (ditalini, elbow, or small shells)'
-  - 2 tablespoons olive oil
+  - '1 cup (115g) small pasta (ditalini, elbow, or small shells)'
+  - 2 tablespoons (30g) olive oil
   - 1 teaspoon dried oregano
   - 1 teaspoon dried basil
   - 1/2 teaspoon salt

@@ -19,10 +19,10 @@ costco_ingredients:
   - 'Stonefire Original Naan — 4 pieces (~$5.49, 4-pack)'
   - 'Kirkland Signature Shredded Mozzarella Cheese — 2 cups (~$12.99, 2.5 lb bag)'
 other_ingredients:
-  - 1/2 cup BBQ sauce (your favorite brand)
+  - 1/2 cup (135g) BBQ sauce (your favorite brand)
   - '1/2 small Red onion, thinly sliced'
   - '2 tablespoons Cilantro, chopped *(optional)*'
-  - 1 tablespoon Olive oil
+  - 1 tablespoon (15g) Olive oil
   - to taste Red pepper flakes *(optional)*
 instructions:
   - >-

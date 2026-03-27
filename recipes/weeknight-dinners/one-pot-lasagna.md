@@ -18,7 +18,7 @@ costco_ingredients:
   - 'Kirkland Shredded Mozzarella — 2 cups (~$2.50, from 2.5 lb bag)'
   - 'Galbani Ricotta Cheese — 1 cup (~$2.50, from 32 oz container)'
 other_ingredients:
-  - '8 oz lasagna noodles, broken into rough pieces'
+  - '8 oz (225g) lasagna noodles, broken into rough pieces'
   - 3 cups water
   - '3 cloves garlic, minced'
   - 1 tsp Italian seasoning

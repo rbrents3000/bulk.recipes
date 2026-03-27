@@ -23,7 +23,7 @@ other_ingredients:
   - '8 cloves garlic, smashed'
   - 'One 3-inch piece fresh ginger, sliced into coins'
   - 2 cups fresh Thai basil leaves (about 2 large bunches)
-  - 1 tablespoon sugar
+  - 1 tablespoon (10g) sugar
   - '2-3 dried red chilies (optional, for heat)'
   - 'Steamed white rice, for serving'
 instructions:

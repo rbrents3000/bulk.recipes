@@ -22,7 +22,7 @@ other_ingredients:
   - '2 cloves garlic, minced'
   - 1 tablespoon fresh dill (or 1 teaspoon dried dill)
   - Salt and pepper to taste
-  - '1 tablespoon butter, for finishing'
+  - '1 tablespoon (15g) butter, for finishing'
   - 'Optional: pinch of red pepper flakes for a little heat'
 instructions:
   - >-
