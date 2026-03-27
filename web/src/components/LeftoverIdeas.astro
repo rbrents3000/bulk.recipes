@@ -42,7 +42,7 @@ function parseIdea(raw: string): { emoji: string; title: string; description: st
     {ideas.map((raw) => {
       const { emoji, title, description } = parseIdea(raw);
       return (
-        <div class="p-4 bg-surface-container-lowest rounded-lg hover:shadow-lg transition-all cursor-pointer">
+        <div class="p-4 bg-surface-container-lowest rounded-lg hover:shadow-lg transition-all">
           <span class="text-3xl mb-2 block" aria-hidden="true">{emoji}</span>
           <h4 class="font-bold mb-1 font-headline">{title}</h4>
           {description && <p class="text-xs text-on-surface-variant">{description}</p>}

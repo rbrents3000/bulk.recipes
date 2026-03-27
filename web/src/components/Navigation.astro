@@ -59,7 +59,8 @@ const currentPath = Astro.url.pathname;
 </nav>
 
 <script>
-  const isMac = /Mac|iPhone|iPad|iPod/.test(navigator.platform);
+  const platform = navigator.userAgentData?.platform || navigator.platform || '';
+  const isMac = /Mac|iPhone|iPad|iPod/i.test(platform);
   document.querySelectorAll('.kbd-shortcut').forEach(el => {
     el.textContent = isMac ? '⌘K' : 'Ctrl+K';
     if (window.innerWidth >= 1024) el.classList.remove('hidden');

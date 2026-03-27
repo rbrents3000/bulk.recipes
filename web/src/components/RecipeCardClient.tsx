@@ -27,7 +27,6 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const href = `/recipes/${id}`;
   const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
   const label = categoryLabels[category] || category.split('/').pop()?.replace(/-/g, ' ') || '';
-  const isBudget = cost <= 2;
   const isQuick = isQuickPrep(recipe.prep);
   const recipeImage = `/assets/recipes/${id.split('/').pop()}.webp`;
   const categoryImage = getCategoryImage(category);

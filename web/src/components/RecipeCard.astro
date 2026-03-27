@@ -45,8 +45,6 @@ const categoryMap: Record<string, string> = {
 };
 const categoryLabel = categoryMap[category] || category.split('/').pop()?.replace(/-/g, ' ') || category;
 
-// Budget badge
-const isBudget = cost <= 2;
 const isQuick = isQuickPrep(prep);
 
 const recipeImage = `/assets/recipes/${slug.split('/').pop()}.webp`;

@@ -39,15 +39,19 @@ const countries = allCountries.map(c => ({
 </section>
 
 <script>
-  const scroller = document.getElementById('country-scroll');
-  const fadeLeft = document.getElementById('fade-left');
-  const fadeRight = document.getElementById('fade-right');
-  if (scroller && fadeLeft && fadeRight) {
-    function updateFades() {
-      fadeLeft.style.opacity = scroller.scrollLeft > 10 ? '1' : '0';
-      fadeRight.style.opacity = scroller.scrollLeft < scroller.scrollWidth - scroller.clientWidth - 10 ? '1' : '0';
+  function initCountryFades() {
+    const scroller = document.getElementById('country-scroll');
+    const fadeLeft = document.getElementById('fade-left');
+    const fadeRight = document.getElementById('fade-right');
+    if (scroller && fadeLeft && fadeRight) {
+      function updateFades() {
+        fadeLeft.style.opacity = scroller.scrollLeft > 10 ? '1' : '0';
+        fadeRight.style.opacity = scroller.scrollLeft < scroller.scrollWidth - scroller.clientWidth - 10 ? '1' : '0';
+      }
+      scroller.addEventListener('scroll', updateFades, { passive: true });
+      updateFades();
     }
-    scroller.addEventListener('scroll', updateFades, { passive: true });
-    updateFades();
   }
+  initCountryFades();
+  document.addEventListener('astro:page-load', initCountryFades);
 </script>

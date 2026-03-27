@@ -155,7 +155,7 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
     vegetarian,
     glutenFree,
     dairyFree,
-    selectedIngredients.size,
+    selectedIngredients.size > 0,
   ].filter(Boolean).length;
 
   return (

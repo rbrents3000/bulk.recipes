@@ -60,15 +60,19 @@ const { recipes } = Astro.props;
 </section>
 
 <script>
-  const scroller = document.getElementById('copycats-scroll');
-  const fadeLeft = document.getElementById('copycats-fade-left');
-  const fadeRight = document.getElementById('copycats-fade-right');
-  if (scroller && fadeLeft && fadeRight) {
-    function updateFades() {
-      fadeLeft.style.opacity = scroller.scrollLeft > 10 ? '1' : '0';
-      fadeRight.style.opacity = scroller.scrollLeft < scroller.scrollWidth - scroller.clientWidth - 10 ? '1' : '0';
+  function initCopycatsFades() {
+    const scroller = document.getElementById('copycats-scroll');
+    const fadeLeft = document.getElementById('copycats-fade-left');
+    const fadeRight = document.getElementById('copycats-fade-right');
+    if (scroller && fadeLeft && fadeRight) {
+      function updateFades() {
+        fadeLeft.style.opacity = scroller.scrollLeft > 10 ? '1' : '0';
+        fadeRight.style.opacity = scroller.scrollLeft < scroller.scrollWidth - scroller.clientWidth - 10 ? '1' : '0';
+      }
+      scroller.addEventListener('scroll', updateFades, { passive: true });
+      updateFades();
     }
-    scroller.addEventListener('scroll', updateFades, { passive: true });
-    updateFades();
   }
+  initCopycatsFades();
+  document.addEventListener('astro:page-load', initCopycatsFades);
 </script>

@@ -1,5 +1,5 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import RecipeCard from '../../components/RecipeCard.astro';
 import ServingsScaler from '../../components/ServingsScaler';
@@ -67,7 +67,7 @@ const currentTags = new Set(
     .filter((t): t is string => t !== null)
 );
 
-const related = currentTags.size > 0
+let related = currentTags.size > 0
   ? allRecipes
       .filter(r => r.id !== recipe.id)
       .map(r => {
