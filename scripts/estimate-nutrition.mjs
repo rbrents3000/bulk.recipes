@@ -48,7 +48,9 @@ const UNIT_TO_TBSP = {
 function parseRef(ref) {
   const m = ref.match(/^([\d.\/]+)\s+(.+)$/);
   if (!m) return { qty: 1, unit: ref };
-  let qty = m[1].includes('/') ? eval(m[1]) : parseFloat(m[1]);
+  let qty = m[1].includes('/')
+    ? parseInt(m[1].split('/')[0]) / parseInt(m[1].split('/')[1])
+    : parseFloat(m[1]);
   return { qty, unit: m[2].toLowerCase().trim() };
 }
 
