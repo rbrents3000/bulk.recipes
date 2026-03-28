@@ -75,12 +75,28 @@ const schema: Record<string, unknown> = {
   "@type": "Recipe",
   "name": title,
   "description": description,
-  "image": `https://bulk.recipes/og/${slug}.png`,
+  "image": [
+    `https://bulk.recipes/assets/recipes/${slug.split('/').pop()}.webp`,
+    `https://bulk.recipes/og/${slug}.png`
+  ],
   "prepTime": toISO(prep),
   "cookTime": toISO(cook),
   "totalTime": minutesToISO(totalMinutes),
   "recipeYield": formattedServings,
-  "recipeCategory": category.replace(/[-/]/g, ' '),
+  "recipeCategory": ({
+    'weeknight-dinners': 'dinner',
+    'rotisserie-chicken': 'dinner',
+    'feeding-a-crowd': 'dinner',
+    'meal-prep': 'dinner',
+    'slow-cooker': 'dinner',
+    'grilling': 'dinner',
+    'appetizers': 'appetizer',
+    'desserts': 'dessert',
+    'drinks': 'drink',
+    'salads': 'salad',
+    'snacks': 'snack',
+    'soups': 'soup',
+  } as Record<string, string>)[category.split('/')[0]] || 'dinner',
   "recipeCuisine": inferCuisine(category),
   "keywords": keywords,
   "author": {
@@ -89,6 +105,7 @@ const schema: Record<string, unknown> = {
     "url": "https://bulk.recipes"
   },
   "url": `https://bulk.recipes/recipes/${slug}`,
+  "datePublished": "2026-03-01",
 };
 
 // Add nutrition if available
@@ -102,9 +119,19 @@ if (nutrition) {
   };
 }
 
-// Only add ingredients if we found any
+// Clean ingredients for schema — strip Costco pricing/pack info and brand names
 if (ingredients.length > 0) {
-  schema["recipeIngredient"] = ingredients;
+  schema["recipeIngredient"] = ingredients.map(ing => {
+    // Strip "Kirkland Signature" / "Kirkland" prefix
+    let clean = ing.replace(/^Kirkland\s+(Signature\s+)?/i, '');
+    // Strip pricing parentheticals like "(~$8.00, 6.5 lb pack)"
+    clean = clean.replace(/\s*\(~?\$[\d.]+.*?\)\s*/g, '');
+    // Strip " — " separator between product name and quantity
+    clean = clean.replace(/\s*—\s*/, ' — ');
+    // Strip weight annotations like "(120g)"
+    clean = clean.replace(/\s*\(\d+g\)/g, '');
+    return clean.trim();
+  });
 }
 
 // Only add instructions if we found any

@@ -110,7 +110,7 @@ if (related.length === 0) {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bulk.recipes/" },
-      { "@type": "ListItem", "position": 2, "name": category.split('/').pop()?.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase()) || "Recipes", "item": `https://bulk.recipes/recipes/${category}` },
+      { "@type": "ListItem", "position": 2, "name": category.split('/').pop()?.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase()) || "Recipes", "item": `https://bulk.recipes/recipes?category=${category}` },
       { "@type": "ListItem", "position": 3, "name": title }
     ]
   })} />

@@ -74,7 +74,12 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
       "@type": "Organization",
       "name": "bulk.recipes",
       "url": "https://bulk.recipes",
-      "logo": "https://bulk.recipes/apple-touch-icon.png",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://bulk.recipes/apple-touch-icon.png",
+        "width": 180,
+        "height": 180
+      },
       "description": "The unofficial field guide to cooking with Costco groceries."
     })} />
 
