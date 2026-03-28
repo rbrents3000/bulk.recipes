@@ -57,9 +57,9 @@ leftover_ideas:
   - Chop and toss into fried rice or mac and cheese
   - Warm and serve over polenta with extra BBQ sauce
 nutrition:
-  calories: 277
-  protein: 12
-  carbs: 26
+  calories: 269
+  protein: 11
+  carbs: 24
   fat: 13
 ---
 # Baby Back Ribs

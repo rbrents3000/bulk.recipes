@@ -63,10 +63,10 @@ leftover_ideas:
   - Slice and pan-fry for crispy gimbap (amazing)
   - Unroll and use the fillings in a rice bowl
 nutrition:
-  calories: 666
-  protein: 24
+  calories: 1098
+  protein: 54
   carbs: 79
-  fat: 27
+  fat: 62
 ---
 # Copycat Costco Korea Gimbap
 

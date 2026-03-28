@@ -61,9 +61,9 @@ leftover_ideas:
   - Chop and toss into fried rice with a fried egg on top
   - Serve cold over a bed of greens with sesame dressing
 nutrition:
-  calories: 256
+  calories: 266
   protein: 5
-  carbs: 40
+  carbs: 42
   fat: 9
 ---
 # Korean Short Ribs (LA Galbi)

@@ -65,9 +65,9 @@ leftover_ideas:
   - Chop it up and stuff it into an omelet for a fusion breakfast
   - Toss with fresh herbs and extra lime for a cold noodle salad
 nutrition:
-  calories: 333
-  protein: 26
-  carbs: 22
+  calories: 540
+  protein: 28
+  carbs: 70
   fat: 17
 ---
 # Pad Thai

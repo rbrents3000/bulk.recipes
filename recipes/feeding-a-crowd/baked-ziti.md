@@ -73,10 +73,10 @@ leftover_ideas:
   - Scoop onto garlic bread for an open-faced ziti sandwich
   - Break it up in a skillet with extra sauce for a pasta stir-fry
 nutrition:
-  calories: 697
-  protein: 40
-  carbs: 55
-  fat: 36
+  calories: 733
+  protein: 41
+  carbs: 61
+  fat: 37
 ---
 # Baked Ziti
 

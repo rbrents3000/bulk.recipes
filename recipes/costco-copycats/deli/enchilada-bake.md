@@ -54,7 +54,7 @@ leftover_ideas:
   - Top a slice with a fried egg for breakfast enchiladas
   - Crumble into a bowl with rice and beans for a burrito bowl
 nutrition:
-  calories: 437
+  calories: 441
   protein: 19
   carbs: 38
   fat: 25

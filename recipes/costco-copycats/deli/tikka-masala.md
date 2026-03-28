@@ -77,9 +77,9 @@ leftover_ideas:
     Wrap in a tortilla with rice, shredded lettuce, and a squeeze of lime for a
     tikka burrito
 nutrition:
-  calories: 542
-  protein: 47
-  carbs: 21
+  calories: 558
+  protein: 48
+  carbs: 24
   fat: 30
 ---
 # Copycat Costco Tikka Masala (Butter Chicken Kit)

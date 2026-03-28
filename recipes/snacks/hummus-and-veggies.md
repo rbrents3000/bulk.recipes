@@ -70,10 +70,10 @@ leftover_ideas:
     Use hummus as a pizza base instead of tomato sauce — surprisingly great with
     roasted veggies on top
 nutrition:
-  calories: 44
+  calories: 59
   protein: 1
-  carbs: 6
-  fat: 2
+  carbs: 8
+  fat: 3
 ---
 # Hummus & Veggie Cups
 

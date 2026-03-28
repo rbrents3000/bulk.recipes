@@ -65,10 +65,10 @@ leftover_ideas:
   - Serve cold over a salad with shredded cabbage and a squeeze of lime
   - Fold into an omelet or scramble for a savory breakfast
 nutrition:
-  calories: 291
-  protein: 4
-  carbs: 32
-  fat: 16
+  calories: 375
+  protein: 5
+  carbs: 35
+  fat: 25
 ---
 # Coconut Curry Shrimp
 

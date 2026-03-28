@@ -58,7 +58,7 @@ leftover_ideas:
   - Make a crab cake sandwich on a brioche bun with slaw and remoulade
   - Break into pieces and fold into scrambled eggs
 nutrition:
-  calories: 171
+  calories: 169
   protein: 11
   carbs: 4
   fat: 12

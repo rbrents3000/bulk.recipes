@@ -70,9 +70,9 @@ leftover_ideas:
   - Roll the pork into flour tortillas with cabbage slaw for quick tacos
   - Thin out leftover broth and use as a base for Mexican rice
 nutrition:
-  calories: 480
+  calories: 474
   protein: 34
-  carbs: 21
+  carbs: 20
   fat: 29
 ---
 # Copycat Costco Mexico Pozole Rojo

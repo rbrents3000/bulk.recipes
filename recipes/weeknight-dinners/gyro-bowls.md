@@ -48,9 +48,9 @@ leftover_ideas:
     salad
   - Chop up the gyro meat and scramble it into eggs for breakfast
 nutrition:
-  calories: 297
+  calories: 300
   protein: 12
-  carbs: 28
+  carbs: 29
   fat: 15
 ---
 # Gyro Bowls

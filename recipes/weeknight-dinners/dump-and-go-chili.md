@@ -71,9 +71,9 @@ leftover_ideas:
   - Use as a filling for chili cheese nachos or burritos
   - Stir into cooked macaroni for a quick chili mac
 nutrition:
-  calories: 468
-  protein: 30
-  carbs: 20
+  calories: 494
+  protein: 32
+  carbs: 25
   fat: 29
 ---
 # Dump-and-Go Chili

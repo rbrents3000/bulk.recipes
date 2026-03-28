@@ -64,7 +64,7 @@ export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
             </span>
             <span class="flex items-center gap-1">
               <span class="material-symbols-outlined text-sm" aria-hidden="true">group</span>
-              {servings}
+              {parseInt(servings) || servings}
             </span>
           </div>
           {(vegetarian || gluten_free || dairy_free) && (

@@ -76,7 +76,7 @@ leftover_ideas:
   - 'Top a baked sweet potato with carnitas, black beans, and avocado'
   - Stir into fried rice with a drizzle of the braising liquid
 nutrition:
-  calories: 545
+  calories: 547
   protein: 38
   carbs: 28
   fat: 31

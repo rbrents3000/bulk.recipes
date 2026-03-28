@@ -65,10 +65,10 @@ leftover_ideas:
   - Top a bowl of ramen or pho for a fusion twist
   - Mix into scrambled eggs for the best breakfast of your life
 nutrition:
-  calories: 440
-  protein: 33
-  carbs: 7
-  fat: 31
+  calories: 417
+  protein: 32
+  carbs: 5
+  fat: 29
 ---
 # Copycat Costco Carnitas (Pulled Pork)
 

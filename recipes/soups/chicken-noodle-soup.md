@@ -58,7 +58,7 @@ leftover_ideas:
     Reduce the broth and toss with buttered egg noodles for a quick chicken
     noodle skillet
 nutrition:
-  calories: 180
+  calories: 181
   protein: 8
   carbs: 26
   fat: 5

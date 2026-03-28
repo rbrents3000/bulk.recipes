@@ -463,6 +463,15 @@ export const NUTRITION = {
   'vanilla ice cream': { ref: '0.5 cup', cal: 140, p: 2, c: 17, f: 7 },
   'vegetable oil': { ref: '1 tbsp', cal: 120, p: 0, c: 0, f: 14 },
 
+  // ─── Additional entries for Costco-specific items ───
+  'white sheet cake': { ref: '1 slice', cal: 260, p: 3, c: 42, f: 9 },
+  'tri-tip roast': { ref: '1 lb', cal: 840, p: 100, c: 0, f: 44 },
+  'carnation evaporated milk': { ref: '0.25 cup', cal: 85, p: 4, c: 6, f: 5 },
+  'la lechera sweetened condensed milk': { ref: '2 tbsp', cal: 130, p: 3, c: 22, f: 3 },
+  'xiao long bao': { ref: '4 pieces', cal: 200, p: 8, c: 24, f: 8 },
+  'frozen soup dumplings': { ref: '4 pieces', cal: 200, p: 8, c: 24, f: 8 },
+  'takoyaki batter': { ref: '1 cup', cal: 200, p: 6, c: 36, f: 3 },
+
   // ─── W ───
   'waffle cones': { ref: '1 cone', cal: 60, p: 1, c: 12, f: 1 },
   'waffles': { ref: '1 waffle', cal: 180, p: 4, c: 25, f: 7 },

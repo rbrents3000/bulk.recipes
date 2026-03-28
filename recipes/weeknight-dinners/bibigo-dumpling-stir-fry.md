@@ -65,9 +65,9 @@ leftover_ideas:
     Pack into a lunch container over rice — the sauce keeps everything moist
     even cold
 nutrition:
-  calories: 150
+  calories: 152
   protein: 3
-  carbs: 9
+  carbs: 10
   fat: 12
 ---
 # Bibigo Dumpling Stir-Fry

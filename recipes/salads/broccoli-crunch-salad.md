@@ -52,7 +52,7 @@ leftover_ideas:
   - Serve alongside grilled chicken thighs for an easy weeknight dinner
   - 'Pile on top of a baked potato — sounds weird, tastes incredible'
 nutrition:
-  calories: 224
+  calories: 220
   protein: 2
   carbs: 12
   fat: 18

@@ -54,9 +54,9 @@ leftover_ideas:
   - Thin it out with more broth for a lighter lunch portion
   - Scramble eggs into reheated soup for a Tex-Mex breakfast bowl
 nutrition:
-  calories: 318
-  protein: 23
-  carbs: 17
+  calories: 349
+  protein: 25
+  carbs: 23
   fat: 17
 ---
 # Slow Cooker Chicken Tortilla Soup

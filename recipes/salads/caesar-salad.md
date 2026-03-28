@@ -63,9 +63,9 @@ leftover_ideas:
     Chop everything fine and toss with farro or rice for Caesar-inspired grain
     bowls
 nutrition:
-  calories: 70
+  calories: 75
   protein: 4
-  carbs: 4
+  carbs: 5
   fat: 5
 ---
 # Caesar Salad

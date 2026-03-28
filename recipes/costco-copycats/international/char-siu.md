@@ -56,9 +56,9 @@ leftover_ideas:
   - Stuff into steamed buns (bao) with hoisin and cucumber
   - Toss with ramen noodles
 nutrition:
-  calories: 378
+  calories: 371
   protein: 25
-  carbs: 13
+  carbs: 11
   fat: 25
 ---
 # Copycat Costco China Char Siu (BBQ Pork)

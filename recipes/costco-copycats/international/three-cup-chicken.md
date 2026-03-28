@@ -56,9 +56,9 @@ leftover_ideas:
   - Toss with rice noodles and a squeeze of lime
   - Spoon over congee for the ultimate comfort breakfast
 nutrition:
-  calories: 635
-  protein: 41
-  carbs: 7
+  calories: 713
+  protein: 42
+  carbs: 22
   fat: 48
 ---
 # Copycat Costco Taiwan Three-Cup Chicken (San Bei Ji)

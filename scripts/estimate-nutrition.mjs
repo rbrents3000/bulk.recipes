@@ -98,7 +98,12 @@ function parseUnit(rest) {
 // Costco format: "Kirkland Product Name — 2.5 lbs (~$8.00, pack info)"
 function parseCostcoIngredient(raw) {
   const parts = raw.split(' — ');
-  const name = parts[0].replace(/^Kirkland\s+(Signature\s+)?/i, '').trim();
+  const name = parts[0]
+    .replace(/^Kirkland\s+(Signature\s+)?/i, '')
+    .replace(/^(USDA\s+(Choice|Prime|Select)\s+)/i, '')
+    .replace(/^(Nestle\s+|Costco\s+|Bibigo\s+|Frank's\s+)/i, '')
+    .replace(/^(Organic\s+|Frozen\s+)/i, '')
+    .trim();
 
   if (parts.length < 2) return { name: name.toLowerCase(), qty: 1, unit: null };
 
@@ -106,6 +111,20 @@ function parseCostcoIngredient(raw) {
   let qtyStr = parts[1].split('(')[0].trim();
   // Remove trailing comma
   qtyStr = qtyStr.replace(/,\s*$/, '').trim();
+
+  // If quantity contains a count (e.g. "1 box, 50-count" or "2 bags, 4 lbs each"),
+  // try to extract a more meaningful quantity
+  const countMatch = qtyStr.match(/(\d+)[- ]count/i);
+  if (countMatch) {
+    return { name: name.toLowerCase(), qty: parseInt(countMatch[1]), unit: null };
+  }
+
+  // If quantity string contains a weight buried after a comma (e.g. "1 roast, about 2.5 lbs"),
+  // prefer the weight portion for nutrition calculation
+  const weightMatch = qtyStr.match(/(\d+\.?\d*)\s*(lbs?|pounds?|oz|ounces?)/i);
+  if (weightMatch) {
+    return { name: name.toLowerCase(), qty: parseFloat(weightMatch[1]), unit: weightMatch[2].toLowerCase() };
+  }
 
   const { qty, rest } = parseQty(qtyStr);
   const { unit } = parseUnit(rest);
@@ -144,12 +163,21 @@ function findNutrition(name) {
   const plural = name + 's';
   if (NUTRITION[plural]) return { key: plural, data: NUTRITION[plural] };
 
-  // Fuzzy: check if any key is contained in the name or vice versa
+  // Fuzzy: find the LONGEST key that is contained in the name (or vice versa)
+  // Require minimum 4 chars to avoid false matches like "ice", "oil", "ham"
+  let bestMatch = null;
+  let bestLen = 0;
   for (const [key, data] of Object.entries(NUTRITION)) {
-    if (name.includes(key) || key.includes(name)) {
-      return { key, data };
+    if (key.length < 4) continue;
+    if (name.includes(key) && key.length > bestLen) {
+      bestMatch = { key, data };
+      bestLen = key.length;
+    } else if (key.includes(name) && name.length > bestLen) {
+      bestMatch = { key, data };
+      bestLen = name.length;
     }
   }
+  if (bestMatch) return bestMatch;
 
   return null;
 }

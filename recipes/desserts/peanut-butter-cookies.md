@@ -54,10 +54,10 @@ leftover_ideas:
   - Sandwich two cookies with Nutella or jam in the middle
   - Crush them into a crust for a no-bake peanut butter pie
 nutrition:
-  calories: 104
-  protein: 0
-  carbs: 8
-  fat: 8
+  calories: 98
+  protein: 3
+  carbs: 10
+  fat: 6
 ---
 # Peanut Butter Cookies
 

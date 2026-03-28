@@ -68,10 +68,10 @@ leftover_ideas:
   - Use as a taco filling with pickled onions and a tangy slaw
   - 'Top a baked potato with pulled pork, cheddar, and sour cream'
 nutrition:
-  calories: 395
-  protein: 13
+  calories: 938
+  protein: 60
   carbs: 52
-  fat: 14
+  fat: 52
 ---
 # Slow Cooker Pulled Pork
 

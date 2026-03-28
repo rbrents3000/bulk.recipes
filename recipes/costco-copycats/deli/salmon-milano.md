@@ -81,9 +81,9 @@ leftover_ideas:
   - Mix flaked salmon with a bit of mayo and lemon for salmon salad sandwiches
   - Stuff into a pita with arugula and a squeeze of lemon for a quick lunch
 nutrition:
-  calories: 197
+  calories: 201
   protein: 7
-  carbs: 2
+  carbs: 4
   fat: 18
 ---
 # Copycat Costco Salmon Milano

@@ -54,10 +54,10 @@ leftover_ideas:
   - Crumble over a salad for an easy protein boost
   - Chop and fold into a breakfast burrito with salsa and avocado
 nutrition:
-  calories: 145
-  protein: 12
-  carbs: 2
-  fat: 10
+  calories: 125
+  protein: 9
+  carbs: 1
+  fat: 9
 ---
 # Egg Muffin Cups
 

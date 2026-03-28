@@ -47,10 +47,10 @@ leftover_ideas:
   - 'Fill flour tortillas with pork, pickled onions, and cilantro'
   - Stir into mac and cheese for a sweet-savory situation
 nutrition:
-  calories: 177
-  protein: 11
+  calories: 526
+  protein: 41
   carbs: 15
-  fat: 8
+  fat: 33
 ---
 # Honey Garlic Pork
 

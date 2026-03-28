@@ -89,10 +89,10 @@ leftover_ideas:
     Reduce the broth down and serve over creamy polenta for a deconstructed
     Italian wedding bowl
 nutrition:
-  calories: 268
-  protein: 17
-  carbs: 16
-  fat: 15
+  calories: 230
+  protein: 18
+  carbs: 18
+  fat: 9
 ---
 # Italian Wedding Soup
 

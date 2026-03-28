@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /pagefind/
 
 Sitemap: https://bulk.recipes/sitemap-index.xml

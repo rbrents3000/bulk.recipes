@@ -65,7 +65,7 @@ leftover_ideas:
   - Spoon over baked potatoes with cheese and sour cream
   - Use as filling for chili cheese nachos
 nutrition:
-  calories: 447
+  calories: 443
   protein: 30
   carbs: 12
   fat: 30

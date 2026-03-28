@@ -56,7 +56,7 @@ leftover_ideas:
   - Chop buffalo wings and stuff into a grilled cheese
   - Shred teriyaki wings over rice for a quick bowl
 nutrition:
-  calories: 766
+  calories: 767
   protein: 46
   carbs: 9
   fat: 60

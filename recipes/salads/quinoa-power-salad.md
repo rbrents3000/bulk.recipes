@@ -53,7 +53,7 @@ leftover_ideas:
   - Serve over a bed of greens for a double-salad power move
   - Scoop onto avocado halves for a quick lunch
 nutrition:
-  calories: 176
+  calories: 177
   protein: 2
   carbs: 13
   fat: 14

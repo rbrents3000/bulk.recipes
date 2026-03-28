@@ -90,7 +90,7 @@ const categoryImage = getCategoryImage(category);
         </span>
         <span class="flex items-center gap-1">
           <span class="material-symbols-outlined text-sm" aria-hidden="true">group</span>
-          {servings}
+          {parseInt(servings) || servings}
         </span>
       </div>
       <!-- Diet badges -->

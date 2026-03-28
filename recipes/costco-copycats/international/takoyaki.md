@@ -65,8 +65,8 @@ leftover_ideas:
     Flatten leftover batter into a thin okonomiyaki-style pancake with the same
     toppings
 nutrition:
-  calories: 46
-  protein: 2
+  calories: 67
+  protein: 6
   carbs: 5
   fat: 2
 ---

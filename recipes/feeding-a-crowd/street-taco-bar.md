@@ -48,9 +48,9 @@ leftover_ideas:
   - Toss leftover chicken into scrambled eggs for breakfast tacos
   - Mix with rice and beans for a burrito bowl
 nutrition:
-  calories: 222
+  calories: 229
   protein: 8
-  carbs: 12
+  carbs: 13
   fat: 17
 ---
 # Costco Street Taco Bar for a Crowd

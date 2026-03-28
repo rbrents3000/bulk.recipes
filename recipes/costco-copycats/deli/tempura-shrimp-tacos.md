@@ -83,8 +83,8 @@ leftover_ideas:
     party going
   - Toss extra shrimp (sans batter) into a stir-fry or fried rice the next day
 nutrition:
-  calories: 476
-  protein: 12
+  calories: 532
+  protein: 25
   carbs: 77
   fat: 13
 ---

@@ -52,10 +52,10 @@ leftover_ideas:
     nicely
   - Top reheated portions with a fried egg for a brunch-worthy leftover meal
 nutrition:
-  calories: 201
-  protein: 11
-  carbs: 11
-  fat: 13
+  calories: 401
+  protein: 19
+  carbs: 36
+  fat: 20
 ---
 # Ravioli Bake
 

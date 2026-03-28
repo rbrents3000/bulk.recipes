@@ -63,9 +63,9 @@ leftover_ideas:
   - Break up over nachos with all the fixings
   - Dice and fold into a breakfast burrito with eggs and salsa
 nutrition:
-  calories: 648
+  calories: 656
   protein: 33
-  carbs: 37
+  carbs: 39
   fat: 40
 ---
 # Classic Smash Burgers

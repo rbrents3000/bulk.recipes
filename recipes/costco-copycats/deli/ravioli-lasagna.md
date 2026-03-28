@@ -52,10 +52,10 @@ leftover_ideas:
   - Cut a square and pan-fry it in butter until crispy on both sides
   - 'Scoop into a bowl, add broth, and call it ravioli soup'
 nutrition:
-  calories: 580
-  protein: 37
-  carbs: 25
-  fat: 37
+  calories: 610
+  protein: 38
+  carbs: 29
+  fat: 38
 ---
 # Copycat Costco Ravioli Lasagna
 

@@ -53,10 +53,10 @@ leftover_ideas:
   - Use as a base for butternut squash risotto
   - 'Pour into ramekins, top with gruyère, and broil for a quick gratin'
 nutrition:
-  calories: 111
+  calories: 105
   protein: 1
-  carbs: 3
-  fat: 12
+  carbs: 5
+  fat: 10
 ---
 # Butternut Squash Soup
 

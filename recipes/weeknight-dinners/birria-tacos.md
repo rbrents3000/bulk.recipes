@@ -75,10 +75,10 @@ leftover_ideas:
   - Make birria quesadillas (quesabirria) with flour tortillas and extra cheese
   - Pile shredded birria over fries with cheese and consomme for birria fries
 nutrition:
-  calories: 650
-  protein: 35
-  carbs: 94
-  fat: 23
+  calories: 753
+  protein: 56
+  carbs: 42
+  fat: 42
 ---
 # Birria Tacos
 

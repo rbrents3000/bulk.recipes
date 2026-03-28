@@ -54,9 +54,9 @@ leftover_ideas:
   - Mix with rice and beans for a burrito bowl
   - Scramble with eggs for breakfast tacos
 nutrition:
-  calories: 571
+  calories: 573
   protein: 29
-  carbs: 52
+  carbs: 53
   fat: 26
 ---
 # Copycat Costco Chicken Street Tacos

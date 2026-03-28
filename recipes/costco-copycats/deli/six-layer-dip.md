@@ -49,9 +49,9 @@ leftover_ideas:
   - Scoop into a burrito with rice and chicken
   - Spread on a tortilla and roll up for a quick wrap
 nutrition:
-  calories: 167
+  calories: 168
   protein: 6
-  carbs: 9
+  carbs: 10
   fat: 12
 ---
 # Copycat Costco Six-Layer Dip

@@ -64,9 +64,9 @@ leftover_ideas:
   - Make grilled cheese sandwiches with a mix of the leftover cheeses
   - Dice everything into a pasta salad with olive oil and fresh herbs
 nutrition:
-  calories: 383
+  calories: 370
   protein: 19
-  carbs: 18
+  carbs: 15
   fat: 27
 ---
 # Charcuterie Board

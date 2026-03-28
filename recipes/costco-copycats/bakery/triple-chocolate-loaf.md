@@ -58,9 +58,9 @@ leftover_ideas:
   - Chocolate bread pudding with a splash of bourbon cream
   - Crumble over vanilla ice cream for an instant sundae
 nutrition:
-  calories: 410
+  calories: 412
   protein: 6
-  carbs: 48
+  carbs: 47
   fat: 24
 ---
 # Triple Chocolate Loaf

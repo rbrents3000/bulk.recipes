@@ -61,10 +61,10 @@ leftover_ideas:
     other desserts for you
   - Crumble over oatmeal or yogurt for breakfast if you're feeling reckless
 nutrition:
-  calories: 284
+  calories: 271
   protein: 2
-  carbs: 33
-  fat: 17
+  carbs: 38
+  fat: 13
 ---
 # Copycat Costco Canada Butter Tarts
 

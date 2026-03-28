@@ -59,9 +59,9 @@ leftover_ideas:
   - Pour into bread bowls for a restaurant-style presentation
   - Thin with a little broth and toss with pasta for clam chowder pasta
 nutrition:
-  calories: 253
+  calories: 255
   protein: 6
-  carbs: 13
+  carbs: 14
   fat: 20
 ---
 # Copycat Costco Clam Chowder

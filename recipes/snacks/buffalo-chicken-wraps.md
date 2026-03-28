@@ -71,7 +71,7 @@ leftover_ideas:
     Toss leftover buffalo chicken into mac and cheese for a wildly good comfort
     food mashup
 nutrition:
-  calories: 284
+  calories: 285
   protein: 10
   carbs: 28
   fat: 15

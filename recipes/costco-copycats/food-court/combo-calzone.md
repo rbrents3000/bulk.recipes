@@ -64,10 +64,10 @@ leftover_ideas:
     substitute
   - Wrap in foil and pack for road trip snacks — they travel like champs
 nutrition:
-  calories: 661
-  protein: 26
+  calories: 731
+  protein: 30
   carbs: 75
-  fat: 27
+  fat: 33
 ---
 # Costco Food Court Combo Calzone
 

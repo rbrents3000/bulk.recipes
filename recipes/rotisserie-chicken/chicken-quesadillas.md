@@ -49,10 +49,10 @@ leftover_ideas:
   - Dip cold quesadilla wedges into guacamole for a quick snack
   - Use remaining shredded chicken for chicken salad or soup
 nutrition:
-  calories: 352
+  calories: 335
   protein: 15
   carbs: 26
-  fat: 21
+  fat: 19
 ---
 # Chicken Quesadillas
 

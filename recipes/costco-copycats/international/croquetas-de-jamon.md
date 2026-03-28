@@ -68,10 +68,10 @@ leftover_ideas:
     trust us)
   - Serve with tomato soup for dipping
 nutrition:
-  calories: 55
-  protein: 2
-  carbs: 4
-  fat: 4
+  calories: 93
+  protein: 4
+  carbs: 8
+  fat: 5
 ---
 # Copycat Costco Spain Croquetas de Jamón
 

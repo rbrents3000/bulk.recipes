@@ -56,9 +56,9 @@ leftover_ideas:
   - Shred into a panini with provolone and arugula
   - Chop and toss with penne for a quick marsala pasta
 nutrition:
-  calories: 467
-  protein: 51
-  carbs: 8
+  calories: 472
+  protein: 52
+  carbs: 9
   fat: 24
 ---
 # Copycat Costco Chicken Marsala

@@ -52,10 +52,10 @@ leftover_ideas:
   - Flake over a salad with lemon vinaigrette
   - Break into chunks and fold into pasta with a cream sauce
 nutrition:
-  calories: 258
-  protein: 15
+  calories: 284
+  protein: 18
   carbs: 4
-  fat: 19
+  fat: 21
 ---
 # Copycat Costco Stuffed Salmon
 

@@ -60,7 +60,7 @@ leftover_ideas:
   - Crumble over a bowl of fresh berries for a deconstructed dessert
   - Cut into cubes and layer with strawberries for parfaits
 nutrition:
-  calories: 143
+  calories: 147
   protein: 1
   carbs: 17
   fat: 9

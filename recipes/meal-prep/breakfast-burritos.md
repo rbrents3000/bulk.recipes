@@ -62,7 +62,7 @@ leftover_ideas:
   - Cut in half and serve with a side of guacamole and salsa
   - Crumble into a bowl and top with sour cream for a deconstructed burrito bowl
 nutrition:
-  calories: 323
+  calories: 324
   protein: 16
   carbs: 26
   fat: 17

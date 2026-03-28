@@ -67,10 +67,10 @@ leftover_ideas:
   - 'Dice into a wrap with hummus, cucumber, and tomato'
   - Shred into a soup — the smoky flavor carries over beautifully
 nutrition:
-  calories: 229
-  protein: 13
+  calories: 378
+  protein: 27
   carbs: 1
-  fat: 19
+  fat: 28
 ---
 # Grilled Chicken Thighs
 

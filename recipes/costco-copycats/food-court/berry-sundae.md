@@ -53,10 +53,10 @@ leftover_ideas:
     Layer berry sauce, ice cream, and crushed cones in a glass for a
     parfait-style dessert
 nutrition:
-  calories: 81
-  protein: 1
-  carbs: 18
-  fat: 1
+  calories: 361
+  protein: 5
+  carbs: 52
+  fat: 15
 ---
 # Copycat Costco Berry Sundae
 

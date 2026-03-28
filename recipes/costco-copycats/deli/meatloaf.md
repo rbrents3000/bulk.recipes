@@ -55,9 +55,9 @@ leftover_ideas:
   - Crumble into pasta sauce for a quick bolognese
   - Dice and fry in a skillet with eggs for a diner-style breakfast
 nutrition:
-  calories: 439
-  protein: 27
-  carbs: 13
+  calories: 473
+  protein: 29
+  carbs: 18
   fat: 31
 ---
 # Copycat Costco Meatloaf

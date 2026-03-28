@@ -41,10 +41,10 @@ leftover_ideas:
   - Load onto nachos with cheese and pickled jalapenos
   - Stuff into quesadillas with shredded cheese
 nutrition:
-  calories: 121
-  protein: 11
+  calories: 458
+  protein: 44
   carbs: 0
-  fat: 8
+  fat: 31
 ---
 # Mississippi Pot Roast
 

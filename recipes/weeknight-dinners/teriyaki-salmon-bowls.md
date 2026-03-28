@@ -64,9 +64,9 @@ leftover_ideas:
     Mash into rice with a little sriracha mayo for a quick salmon rice bowl
     remix
 nutrition:
-  calories: 335
+  calories: 336
   protein: 16
-  carbs: 43
+  carbs: 44
   fat: 11
 ---
 # Teriyaki Salmon Bowls

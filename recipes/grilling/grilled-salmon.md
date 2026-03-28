@@ -64,10 +64,10 @@ leftover_ideas:
   - Pile onto toast with cream cheese and everything bagel seasoning
   - Mix into scrambled eggs with chives for a fancy breakfast
 nutrition:
-  calories: 143
-  protein: 6
+  calories: 403
+  protein: 35
   carbs: 2
-  fat: 13
+  fat: 28
 ---
 # Grilled Salmon
 

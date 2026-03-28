@@ -50,9 +50,9 @@ leftover_ideas:
     pasta salad
   - Use remaining tortillas for quesadillas or breakfast burritos
 nutrition:
-  calories: 176
+  calories: 177
   protein: 6
-  carbs: 25
+  carbs: 26
   fat: 6
 ---
 # Chicken Caesar Wraps

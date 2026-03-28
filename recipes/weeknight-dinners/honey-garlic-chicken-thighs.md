@@ -64,9 +64,9 @@ leftover_ideas:
   - Chop and stir into fried rice with a fried egg
   - Dice and toss with greens for an Asian-inspired salad
 nutrition:
-  calories: 536
+  calories: 537
   protein: 36
-  carbs: 29
+  carbs: 30
   fat: 28
 ---
 # Honey Garlic Chicken Thighs

@@ -51,9 +51,9 @@ leftover_ideas:
   - Pour over grilled cheese for an open-faced situation
   - Stir in cooked tortellini for a quick tortellini soup
 nutrition:
-  calories: 117
+  calories: 124
   protein: 1
-  carbs: 6
+  carbs: 7
   fat: 11
 ---
 # Copycat Costco Tomato Basil Soup

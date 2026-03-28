@@ -56,9 +56,9 @@ leftover_ideas:
   - Wrap in rice paper with fresh herbs for impromptu spring rolls
   - Toss with fresh greens for a noodle-salad mashup
 nutrition:
-  calories: 111
+  calories: 126
   protein: 5
-  carbs: 11
+  carbs: 15
   fat: 6
 ---
 # Asian Sesame Noodle Salad

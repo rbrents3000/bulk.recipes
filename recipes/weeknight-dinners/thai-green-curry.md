@@ -64,10 +64,10 @@ leftover_ideas:
   - Spoon over a baked sweet potato for a hearty lunch
   - Use as a sauce for a Thai-inspired pizza with mozzarella and basil
 nutrition:
-  calories: 695
-  protein: 35
-  carbs: 25
-  fat: 49
+  calories: 659
+  protein: 34
+  carbs: 24
+  fat: 46
 ---
 # Thai Green Curry
 

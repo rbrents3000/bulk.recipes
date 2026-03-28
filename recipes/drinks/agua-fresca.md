@@ -71,9 +71,9 @@ leftover_ideas:
   - Freeze in ice cube trays and add to plain water throughout the week
   - Blend with ice for a slushy version on hot days
 nutrition:
-  calories: 47
+  calories: 59
   protein: 0
-  carbs: 13
+  carbs: 16
   fat: 0
 ---
 # Agua Fresca

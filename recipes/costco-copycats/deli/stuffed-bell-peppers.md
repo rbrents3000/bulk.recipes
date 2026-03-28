@@ -58,9 +58,9 @@ leftover_ideas:
   - Scoop out the filling and use it as taco meat
   - Slice in half and serve open-faced on toast
 nutrition:
-  calories: 479
-  protein: 29
-  carbs: 19
+  calories: 484
+  protein: 30
+  carbs: 20
   fat: 32
 ---
 # Copycat Costco Stuffed Bell Peppers

@@ -76,10 +76,10 @@ leftover_ideas:
   - Crumble a leftover slice over toast and top with hot sauce
   - Chop it up and fry it in a skillet with extra eggs for a hash-style scramble
 nutrition:
-  calories: 344
-  protein: 21
-  carbs: 4
-  fat: 26
+  calories: 384
+  protein: 22
+  carbs: 10
+  fat: 28
 ---
 # Overnight Breakfast Casserole
 

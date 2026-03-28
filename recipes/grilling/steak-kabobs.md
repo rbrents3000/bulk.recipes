@@ -50,10 +50,10 @@ leftover_ideas:
   - Chop and toss over a big Greek salad
   - Serve over rice with a drizzle of chimichurri
 nutrition:
-  calories: 127
-  protein: 2
+  calories: 427
+  protein: 39
   carbs: 8
-  fat: 11
+  fat: 26
 ---
 # Steak Kabobs
 

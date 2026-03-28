@@ -51,9 +51,9 @@ leftover_ideas:
   - Add cheese on top and broil for cheesy tteokbokki
   - Toss with ramen noodles for a carb-on-carb situation (rabokki)
 nutrition:
-  calories: 139
-  protein: 7
-  carbs: 12
+  calories: 239
+  protein: 9
+  carbs: 34
   fat: 7
 ---
 # Copycat Costco Korea Tteokbokki

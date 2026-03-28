@@ -64,10 +64,10 @@ leftover_ideas:
   - Slice thin and toss into a steak salad with blue cheese and balsamic
   - Chop and fold into breakfast tacos with scrambled eggs and salsa
 nutrition:
-  calories: 1
-  protein: 0
+  calories: 351
+  protein: 42
   carbs: 0
-  fat: 0
+  fat: 18
 ---
 # Smoked Tri-Tip
 

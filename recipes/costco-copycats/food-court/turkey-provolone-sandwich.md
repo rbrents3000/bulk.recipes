@@ -85,10 +85,10 @@ leftover_ideas:
     Layer in a baked slider with provolone and honey mustard for a party
     crowd-pleaser
 nutrition:
-  calories: 346
-  protein: 10
+  calories: 363
+  protein: 11
   carbs: 48
-  fat: 12
+  fat: 13
 ---
 # Turkey & Provolone Sandwich
 

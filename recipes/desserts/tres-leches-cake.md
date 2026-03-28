@@ -63,10 +63,10 @@ leftover_ideas:
   - Serve a cold slice alongside hot coffee as a mid-afternoon treat
   - Blend a small piece into a milkshake for an absurdly rich drink
 nutrition:
-  calories: 48
-  protein: 2
-  carbs: 5
-  fat: 2
+  calories: 221
+  protein: 6
+  carbs: 33
+  fat: 7
 ---
 # Tres Leches Cake
 

@@ -93,9 +93,9 @@ leftover_ideas:
     Warm a slice for 15 seconds in the microwave and top with a drizzle of maple
     syrup
 nutrition:
-  calories: 156
+  calories: 175
   protein: 4
-  carbs: 21
+  carbs: 25
   fat: 6
 ---
 # Copycat Costco Bakery Pumpkin Pie

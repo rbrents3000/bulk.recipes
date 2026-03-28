@@ -44,7 +44,7 @@ leftover_ideas:
   - Pile onto nachos with melted provolone and pickled peppers
   - Wrap in egg roll wrappers and fry for Italian beef egg rolls
 nutrition:
-  calories: 596
+  calories: 597
   protein: 42
   carbs: 47
   fat: 26

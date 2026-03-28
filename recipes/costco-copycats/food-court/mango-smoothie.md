@@ -72,10 +72,10 @@ leftover_ideas:
     Use as a base for chia pudding — mix 1:1 with chia seeds and refrigerate
     overnight
 nutrition:
-  calories: 117
-  protein: 5
-  carbs: 23
-  fat: 1
+  calories: 142
+  protein: 6
+  carbs: 30
+  fat: 2
 ---
 # Mango Smoothie
 

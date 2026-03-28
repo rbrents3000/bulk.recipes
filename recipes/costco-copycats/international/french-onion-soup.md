@@ -60,9 +60,9 @@ leftover_ideas:
     base
   - Toss the onions into a grilled cheese sandwich
 nutrition:
-  calories: 241
+  calories: 251
   protein: 8
-  carbs: 20
+  carbs: 22
   fat: 14
 ---
 # Copycat Costco France French Onion Soup

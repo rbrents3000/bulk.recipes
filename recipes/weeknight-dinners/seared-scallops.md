@@ -54,10 +54,10 @@ leftover_ideas:
   - Chop and fold into risotto or pasta with cream sauce
   - 'Dice into a quick scallop ceviche with lime, cilantro, and avocado'
 nutrition:
-  calories: 266
-  protein: 22
-  carbs: 11
-  fat: 16
+  calories: 239
+  protein: 21
+  carbs: 8
+  fat: 14
 ---
 # Seared Scallops
 

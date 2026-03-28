@@ -72,10 +72,10 @@ leftover_ideas:
   - Warm a wedge and drizzle with caramel sauce and whipped cream
   - Crumble into a milkshake — blend with ice cream and milk for a cookie shake
 nutrition:
-  calories: 466
-  protein: 5
-  carbs: 63
-  fat: 22
+  calories: 501
+  protein: 6
+  carbs: 67
+  fat: 24
 ---
 # Cookie Skillet
 

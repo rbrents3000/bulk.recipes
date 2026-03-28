@@ -61,7 +61,7 @@ leftover_ideas:
   - Top with a fried egg for a quick noodle bowl
   - Wrap in lettuce leaves for a low-carb snack
 nutrition:
-  calories: 258
+  calories: 261
   protein: 10
   carbs: 31
   fat: 11

@@ -61,9 +61,9 @@ leftover_ideas:
   - Top a bowl of congee for the ultimate breakfast
   - Pile onto crispy scallion pancakes like a Taiwanese taco
 nutrition:
-  calories: 949
-  protein: 22
-  carbs: 11
+  calories: 983
+  protein: 23
+  carbs: 18
   fat: 88
 ---
 # Copycat Costco Taiwan Lu Rou Fan (Braised Pork Rice)

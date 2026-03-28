@@ -68,9 +68,9 @@ leftover_ideas:
   - Use as a filling for wraps or stuffed naan with pickled onions
   - Toss with cooked pasta for a fusion butter chicken pasta
 nutrition:
-  calories: 514
-  protein: 35
-  carbs: 13
+  calories: 530
+  protein: 36
+  carbs: 16
   fat: 34
 ---
 # Butter Chicken
