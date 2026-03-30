@@ -1,0 +1,72 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import RecipeCard from '../../components/RecipeCard.astro';
+
+const recipes = await getCollection('recipes');
+---
+
+<Base title="Favorites — bulk.recipes" description="Your saved Costco recipes.">
+  <div class="py-8">
+    <div class="text-center mb-12">
+      <h1 class="text-4xl md:text-6xl font-headline font-black tracking-tight mb-4">
+        Your <span class="text-primary">Favorites</span>
+      </h1>
+      <p class="text-lg text-on-surface-variant font-body max-w-2xl mx-auto">
+        Recipes you've hearted. Stored in your browser — no account needed.
+      </p>
+    </div>
+
+    <div id="favorites-empty" class="hidden text-center py-20">
+      <span class="material-symbols-outlined text-6xl text-outline-variant mb-4" aria-hidden="true">favorite</span>
+      <p class="text-xl font-bold mb-2">No favorites yet</p>
+      <p class="text-on-surface-variant mb-6">Tap the heart on any recipe card to save it here.</p>
+      <a href="/recipes" class="inline-flex items-center gap-2 px-8 py-3 bg-primary text-on-primary font-bold rounded-full hover:scale-105 transition-transform">
+        Browse Recipes
+      </a>
+    </div>
+
+    <div id="favorites-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+      {recipes.map(r => (
+        <div data-favorite-card data-recipe-id={r.id} class="hidden">
+          <RecipeCard
+            title={r.data.title}
+            description={r.data.description}
+            card_description={r.data.card_description}
+            cost={r.data.cost}
+            cost_unit={r.data.cost_unit}
+            prep={r.data.prep}
+            cook={r.data.cook}
+            servings={r.data.servings}
+            category={r.data.category}
+            vegetarian={r.data.vegetarian}
+            gluten_free={r.data.gluten_free}
+            dairy_free={r.data.dairy_free}
+            slug={r.id}
+          />
+        </div>
+      ))}
+    </div>
+  </div>
+</Base>
+
+<script>
+  function showFavorites() {
+    const favs = new Set(JSON.parse(localStorage.getItem('bulk-recipes-favorites') || '[]'));
+    const cards = document.querySelectorAll('[data-favorite-card]');
+    let shown = 0;
+    cards.forEach(card => {
+      const id = (card as HTMLElement).dataset.recipeId;
+      if (id && favs.has(id)) {
+        card.classList.remove('hidden');
+        shown++;
+      } else {
+        card.classList.add('hidden');
+      }
+    });
+    const empty = document.getElementById('favorites-empty');
+    if (empty) empty.classList.toggle('hidden', shown > 0);
+  }
+  showFavorites();
+  document.addEventListener('astro:page-load', showFavorites);
+</script>

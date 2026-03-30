@@ -18,7 +18,7 @@ export const countries: Country[] = [
   { slug: 'china', name: 'China', iso: 'cn', warehouses: '~7', highlight: 'Truffle pizza, earl grey soft serve, Peking duck roll' },
   { slug: 'spain', name: 'Spain', iso: 'es', warehouses: '~5', highlight: 'Jamón ibérico, paella kits, croquetas' },
   { slug: 'france', name: 'France', iso: 'fr', warehouses: '3', highlight: 'Croque monsieur, canelés, madeleines' },
-  { slug: 'sweden', name: 'Sweden', iso: 'se', warehouses: '~2', highlight: 'Kanelbullar, princess cake, meatball rivalry' },
+  { slug: 'sweden', name: 'Sweden', iso: 'se', warehouses: '1', highlight: 'Kanelbullar, princess cake, meatball rivalry' },
   { slug: 'iceland', name: 'Iceland', iso: 'is', warehouses: '1', highlight: 'Gelato, Icelandic pylsur, kleinur' },
   { slug: 'new-zealand', name: 'New Zealand', iso: 'nz', warehouses: '1', highlight: 'Meat pies, lamingtons, pavlova debate' },
 ];

@@ -1,27 +1,9 @@
 import { useState, useMemo, useEffect } from 'preact/hooks';
 import RecipeCardClient from './RecipeCardClient';
 import { type Recipe, parseMinutes, effectiveCostPerServing } from '../types/recipe';
+import { categoryDisplayNames } from '../data/categoryLabels';
 
 const PAGE_SIZE = 12;
-
-const categoryDisplayNames: Record<string, string> = {
-  'costco-copycats/food-court': 'Copycats — Food Court',
-  'costco-copycats/deli': 'Copycats — Deli',
-  'costco-copycats/bakery': 'Copycats — Bakery',
-  'costco-copycats/international': 'Copycats — International',
-  'weeknight-dinners': 'Weeknight Dinners',
-  'rotisserie-chicken': 'Rotisserie Chicken',
-  'feeding-a-crowd': 'Feeding a Crowd',
-  'meal-prep': 'Meal Prep',
-  'slow-cooker': 'Slow Cooker',
-  'appetizers': 'Appetizers',
-  'desserts': 'Desserts',
-  'drinks': 'Drinks',
-  'grilling': 'Grilling',
-  'salads': 'Salads',
-  'snacks': 'Snacks & Lunch',
-  'soups': 'Soups',
-};
 
 export default function RecipeBrowser({ recipes, categories, ingredientTags }: { recipes: Recipe[]; categories: string[]; ingredientTags: string[] }) {
   // Read initial filter state from URL params

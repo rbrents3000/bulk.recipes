@@ -2,9 +2,11 @@
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { marked } from 'marked';
+import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import CountryTabs from '../../components/CountryTabs';
 import { countries } from '../../data/countries';
+import RecipeCard from '../../components/RecipeCard.astro';
 
 export function getStaticPaths() {
   return countries.map(c => ({
@@ -18,21 +20,46 @@ const { country } = Astro.props;
 // Read and render markdown files
 const basePath = join(process.cwd(), '..', 'prepared', country.slug);
 
-function readAndRender(filename: string): string | null {
+function readMd(filename: string): string | null {
   const filePath = join(basePath, filename);
   if (!existsSync(filePath)) return null;
-  const md = readFileSync(filePath, 'utf-8');
+  return readFileSync(filePath, 'utf-8');
+}
+
+function renderMd(md: string): string {
   const html = marked(md) as string;
-  // Fix markdown links: ../../recipes/costco-copycats/food-court/chicken-bake.md → /recipes/costco-copycats/food-court/chicken-bake
   return html.replace(/href="\.\.\/\.\.\/recipes\/([^"]+)\.md"/g, 'href="/recipes/$1"');
 }
 
-const foodCourt = readAndRender('food-court.md') || '<p>No food court data available.</p>';
-const deli = readAndRender('deli.md') || '<p>No deli data available.</p>';
-const bakery = readAndRender('bakery.md');
+// Extract recipe slugs from markdown links like ../../recipes/costco-copycats/food-court/chicken-bake.md
+function extractRecipeSlugs(md: string): string[] {
+  const matches = [...md.matchAll(/\(\.\.\/\.\.\/recipes\/([^)]+)\.md\)/g)];
+  return matches.map(m => m[1]);
+}
+
+const foodCourtMd = readMd('food-court.md');
+const deliMd = readMd('deli.md');
+const bakeryMd = readMd('bakery.md');
+
+const foodCourt = foodCourtMd ? renderMd(foodCourtMd) : '<p>No food court data available.</p>';
+const deli = deliMd ? renderMd(deliMd) : '<p>No deli data available.</p>';
+const bakery = bakeryMd ? renderMd(bakeryMd) : null;
+
+// Collect recipe slugs from all prepared files
+const recipeSlugs = new Set<string>();
+[foodCourtMd, deliMd, bakeryMd].forEach(md => {
+  if (md) extractRecipeSlugs(md).forEach(s => recipeSlugs.add(s));
+});
+
+// Load matching recipes from content collection
+const allRecipes = await getCollection('recipes');
+const countryRecipes = allRecipes
+  .filter(r => recipeSlugs.has(r.id))
+  .sort((a, b) => a.data.cost - b.data.cost);
+
 ---
 
-<Base title={`${country.name} Costco — bulk.recipes`} description={`Costco ${country.name}: food court menu, deli items, and bakery offerings across ${country.warehouses} warehouses.`}>
+<Base title={`${country.name} Costco — bulk.recipes`} description={`Costco ${country.name}: copycat recipes, food court menu, deli items, and bakery offerings across ${country.warehouses} warehouses.`}>
   <div class="py-8 max-w-6xl mx-auto overflow-x-hidden" data-pagefind-body>
     <!-- Country Hero -->
     <header class="text-center mb-12">
@@ -49,8 +76,41 @@ const bakery = readAndRender('bakery.md');
       <p class="text-lg text-on-surface-variant font-medium">{country.highlight}</p>
     </header>
 
-    <!-- Tabs -->
-    <CountryTabs client:load foodCourt={foodCourt} deli={deli} bakery={bakery} />
+    <!-- Recipes -->
+    {countryRecipes.length > 0 && (
+      <section class="mb-16">
+        <h2 class="text-2xl md:text-3xl font-headline font-extrabold tracking-tight text-center mb-8">
+          Make It at Home
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {countryRecipes.map(r => (
+            <RecipeCard
+              title={r.data.title}
+              description={r.data.description}
+              card_description={r.data.card_description}
+              cost={r.data.cost}
+              cost_unit={r.data.cost_unit}
+              prep={r.data.prep}
+              cook={r.data.cook}
+              servings={r.data.servings}
+              category={r.data.category}
+              vegetarian={r.data.vegetarian}
+              gluten_free={r.data.gluten_free}
+              dairy_free={r.data.dairy_free}
+              slug={r.id}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- In-Store Menus -->
+    <section>
+      <h2 class="text-2xl md:text-3xl font-headline font-extrabold tracking-tight text-center mb-8">
+        What's In Store
+      </h2>
+      <CountryTabs client:load foodCourt={foodCourt} deli={deli} bakery={bakery} />
+    </section>
 
     <!-- Back link -->
     <div class="text-center mt-12">

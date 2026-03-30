@@ -2,6 +2,7 @@
 import FavoriteButton from './FavoriteButton';
 import { getCategoryImage } from '../data/categoryImages';
 import { isQuickPrep } from '../types/recipe';
+import { getCategoryLabel } from '../data/categoryLabels';
 
 interface Props {
   title: string;
@@ -24,26 +25,7 @@ const { title, description, card_description, cost, cost_unit, prep, cook, servi
 const href = `/recipes/${slug}`;
 const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
 
-// Category display name
-const categoryMap: Record<string, string> = {
-  'costco-copycats/food-court': 'Food Court',
-  'costco-copycats/deli': 'Deli',
-  'costco-copycats/bakery': 'Bakery',
-  'costco-copycats/international': 'International',
-  'weeknight-dinners': 'Weeknight',
-  'rotisserie-chicken': 'Rotisserie',
-  'feeding-a-crowd': 'Crowd',
-  'meal-prep': 'Meal Prep',
-  'slow-cooker': 'Slow Cooker',
-  'appetizers': 'Appetizers',
-  'desserts': 'Desserts',
-  'drinks': 'Drinks',
-  'grilling': 'Grilling',
-  'salads': 'Salads',
-  'snacks': 'Snacks',
-  'soups': 'Soups',
-};
-const categoryLabel = categoryMap[category] || category.split('/').pop()?.replace(/-/g, ' ') || category;
+const categoryLabel = getCategoryLabel(category);
 
 const isQuick = isQuickPrep(prep);
 

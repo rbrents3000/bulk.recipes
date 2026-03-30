@@ -15,6 +15,7 @@ export async function GET(context: APIContext) {
         title: recipe.data.title,
         description: recipe.data.description,
         link: `/recipes/${recipe.id}/`,
+        pubDate: new Date('2026-03-01'),
       })),
     customData: '<language>en-us</language>',
   });

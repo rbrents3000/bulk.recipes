@@ -1,32 +1,14 @@
 import FavoriteButton from './FavoriteButton';
 import { getCategoryImage } from '../data/categoryImages';
 import { type Recipe, isQuickPrep } from '../types/recipe';
-
-const categoryLabels: Record<string, string> = {
-  'costco-copycats/food-court': 'Food Court',
-  'costco-copycats/deli': 'Deli',
-  'costco-copycats/bakery': 'Bakery',
-  'costco-copycats/international': 'International',
-  'weeknight-dinners': 'Weeknight',
-  'rotisserie-chicken': 'Rotisserie',
-  'feeding-a-crowd': 'Crowd',
-  'meal-prep': 'Meal Prep',
-  'slow-cooker': 'Slow Cooker',
-  'appetizers': 'Appetizers',
-  'desserts': 'Desserts',
-  'drinks': 'Drinks',
-  'grilling': 'Grilling',
-  'salads': 'Salads',
-  'snacks': 'Snacks',
-  'soups': 'Soups',
-};
+import { getCategoryLabel } from '../data/categoryLabels';
 
 
 export default function RecipeCardClient({ recipe }: { recipe: Recipe }) {
   const { id, title, description, cost, cost_unit, prep, cook, servings, category, vegetarian, gluten_free, dairy_free } = recipe;
   const href = `/recipes/${id}`;
   const costDisplay = cost_unit === 'serving' ? `$${cost.toFixed(2)}/serving` : `$${cost.toFixed(2)}/${cost_unit}`;
-  const label = categoryLabels[category] || category.split('/').pop()?.replace(/-/g, ' ') || '';
+  const label = getCategoryLabel(category);
   const isQuick = isQuickPrep(recipe.prep);
   const recipeImage = `/assets/recipes/${id.split('/').pop()}.webp`;
   const categoryImage = getCategoryImage(category);
