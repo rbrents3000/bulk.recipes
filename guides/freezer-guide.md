@@ -2,7 +2,9 @@
 
 > You bought in bulk. Now let's make sure none of it goes to waste.
 
-The number-one mistake people make at Costco is buying more than they can eat before it goes bad. The number-one solution? Your freezer. Here's what to freeze, how long it lasts, and how to thaw it without turning dinner into a science experiment.
+The number-one mistake people make at Costco is buying more than they can eat before it goes bad. The number-one solution? **Your freezer.**
+
+Here's what to freeze, how long it lasts, and how to thaw it without turning dinner into a science experiment.
 
 ---
 

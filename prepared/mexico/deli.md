@@ -1,6 +1,8 @@
 # Mexico Deli & Prepared Foods
 
-Costco Mexico's deli is where bulk shopping meets real Mexican cooking, and it works beautifully. Cochinita pibil, pozole kits, tamales, chiles rellenos — the kind of food that normally takes hours of prep, ready to grab and go. The US staples are here too, but the Mexican-specific items are the ones that empty the case first.
+Costco Mexico's deli is where bulk shopping meets real Mexican cooking. **Cochinita pibil, pozole kits, tamales, chiles rellenos** — the kind of food that normally takes hours of prep, ready to grab and go.
+
+The US staples are here too, but the Mexican-specific items are the ones that empty the case first.
 
 ## Mexico-Specific Items
 

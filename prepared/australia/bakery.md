@@ -1,6 +1,8 @@
 # Australia Bakery
 
-Australia has 15 Costco warehouses, and the bakery section does what it should — it respects the classics. You'll find lamingtons, meat pies, and sausage rolls sitting alongside the usual Costco croissant mountain, which is exactly the kind of cultural diplomacy we need more of. The pavlova is here too, and no, we're not going to say who invented it. (We're not starting that fight. Not today.)
+Australia has 15 Costco warehouses, and the bakery section does what it should — it respects the classics. **Lamingtons, meat pies, and sausage rolls** sit alongside the usual Costco croissant mountain, which is exactly the kind of cultural diplomacy we need more of.
+
+The pavlova is here too, and no, we're not going to say who invented it. Not today.
 
 ## Bakery Items
 
@@ -25,7 +27,7 @@ Standard US bakery lineup is mostly here — muffins, cinnamon rolls, cakes, and
 
 ### Easter Seasonal (March-April)
 
-Easter in Australia happens in autumn, which means you're eating hot cross buns in a light cardigan instead of a sundress. The vibes are different but the baked goods are just as good.
+Easter in Australia happens in **autumn**, which means you're eating hot cross buns in a light cardigan instead of a sundress. Different vibes, same great baked goods.
 
 | Item | Price | Notes |
 |------|-------|-------|
@@ -33,7 +35,7 @@ Easter in Australia happens in autumn, which means you're eating hot cross buns 
 | Easter Decorated Cake | ~$18.99 AUD | Chocolate cake with pastel decorations |
 | Fruit Mince Pies | ~$12.99 AUD (12-pack) | Technically Christmas but Costco Australia sometimes extends them into autumn |
 
-Australians complain every single year that hot cross buns appear earlier and earlier — and then immediately buy them. It's a national tradition in its own right. The buns show up in January, everyone says "this is ridiculous," and then the 12-packs fly off the shelves anyway. We love a good contradiction.
+Australians complain every year that hot cross buns appear earlier and earlier — and then immediately buy them. The buns show up in **January**, everyone says "this is ridiculous," and the 12-packs fly off the shelves anyway.
 
 ### Summer/Christmas Seasonal (Dec-Feb)
 

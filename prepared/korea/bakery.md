@@ -27,7 +27,7 @@ Also carries most US bakery staples:
 
 ### Spring Seasonal (March-May)
 
-Korean strawberry season runs December through May, and it's basically a national obsession. Costco Korea leans into it hard — the bakery case turns into a strawberry shrine every spring. These are worth a special trip.
+Korean strawberry season runs December through May, and it's basically a national obsession. Costco Korea leans into it hard — the bakery case turns into a **strawberry shrine** every spring.
 
 | Item | Price (₩) | Price (~USD) | Description |
 |------|-----------|-------------|-------------|
@@ -36,7 +36,7 @@ Korean strawberry season runs December through May, and it's basically a nationa
 
 ### Year-Round Trending Items
 
-These aren't strictly seasonal, but they rotate in and out of Korea's bakery depending on what Seoul is obsessing over this month. Korean bakery trends move fast — if something's hot on social media, Costco Korea will have a bulk version within weeks.
+These aren't strictly seasonal — they rotate in and out depending on what Seoul is obsessing over this month. Korean bakery trends move fast: if something's hot on social media, Costco Korea will have a **bulk version within weeks**.
 
 | Item | Price (₩) | Price (~USD) | Description |
 |------|-----------|-------------|-------------|
@@ -49,7 +49,7 @@ These aren't strictly seasonal, but they rotate in and out of Korea's bakery dep
 
 ### Winter Seasonal (Dec-Feb)
 
-Korean Christmas is more of a couples' holiday — think Valentine's Day with better desserts. The cakes sell accordingly: smaller, fancier, and marketed toward date night rather than family gatherings.
+Korean Christmas is more of a **couples' holiday** — think Valentine's Day with better desserts. The cakes sell accordingly: smaller, fancier, and marketed toward date night rather than family gatherings.
 
 | Item | Price (₩) | Price (~USD) | Description |
 |------|-----------|-------------|-------------|

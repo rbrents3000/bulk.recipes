@@ -1,6 +1,8 @@
 # China Bakery
 
-China has 7 Costco warehouses (and growing), and the bakery section already reads like it was designed by someone who actually lives here. Egg tarts, red bean bread, pork floss bread, mango mille crepe — this isn't a token international selection, it's a legitimate Chinese bakery that happens to be inside a warehouse. The mooncakes during Mid-Autumn Festival are an event unto themselves. The line is legendary. Plan accordingly.
+China has 7 Costco warehouses (and growing), and the bakery section reads like it was designed by someone who actually lives here. **Egg tarts, red bean bread, pork floss bread, mango mille crepe** — this isn't a token international selection, it's a legitimate Chinese bakery that happens to be inside a warehouse.
+
+The **mooncakes** during Mid-Autumn Festival are an event unto themselves. The line is legendary. Plan accordingly.
 
 ## Bakery Items
 
@@ -19,7 +21,9 @@ China has 7 Costco warehouses (and growing), and the bakery section already read
 
 ### Mid-Autumn Festival Mooncakes
 
-During Mid-Autumn Festival (usually September or October), the mooncake display takes over a significant chunk of the bakery. The line gets long. Legendarily long. "Take a number and go do your shopping" long. People buy multiple boxes for gifting — it's a whole cultural thing where the box matters almost as much as the mooncake inside.
+During Mid-Autumn Festival (usually September or October), the mooncake display takes over a significant chunk of the bakery. The line gets **legendarily long** — "take a number and go do your shopping" long.
+
+People buy multiple boxes for gifting — it's a cultural tradition where the box matters almost as much as the mooncake inside.
 
 - **In-House Mooncakes** — Costco bakes their own at a price point that undercuts specialty bakeries by 30-40%. Fillings rotate but typically include lotus seed paste with salted egg yolk (the classic), red bean, and mixed nuts (wu ren).
 - **Premium Gift Boxes** — Beautifully packaged sets from well-known brands. These are the ones you bring to your boss or your in-laws. Presentation game is strong.

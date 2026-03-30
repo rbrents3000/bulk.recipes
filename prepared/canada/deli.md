@@ -1,6 +1,8 @@
 # Canada Deli & Prepared Foods
 
-The Canadian deli case looks a lot like the US version until you notice the Nanaimo bars, butter tarts, and tourtiere tucked in alongside the rotisserie chickens. Every region adds its own twist — peameal bacon in Ontario, smoked salmon out west — and the result is a deli section that feels familiar but unmistakably Canadian.
+The Canadian deli case looks a lot like the US version — until you notice the **Nanaimo bars, butter tarts, and tourtière** tucked in alongside the rotisserie chickens.
+
+Every region adds its own twist: peameal bacon in Ontario, smoked salmon out west. Familiar but unmistakably Canadian.
 
 ## Canada-Specific Items
 

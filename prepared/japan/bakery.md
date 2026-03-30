@@ -24,7 +24,9 @@ Also carries most US bakery items:
 
 ### Spring Seasonal (March-May)
 
-Sakura season turns every Costco Japan bakery into a pink wonderland. From mid-March through early May, the bakery case gets a full cherry blossom makeover — and these items typically sell out within hours of being stocked. If you see them, grab them. Hesitation is not your friend here.
+Sakura season turns every Costco Japan bakery into a **pink wonderland**. From mid-March through early May, the bakery case gets a full cherry blossom makeover.
+
+These items typically sell out within hours of being stocked. If you see them, grab them.
 
 | Item | Price (¥) | Price (~USD) | Description |
 |------|-----------|-------------|-------------|
@@ -35,7 +37,7 @@ Sakura season turns every Costco Japan bakery into a pink wonderland. From mid-M
 
 ### Summer Seasonal (June-Aug)
 
-When the humidity hits and Tokyo feels like a steam room, the bakery pivots to tropical. Expect bright fruit flavors and lighter pastries — because nobody wants a heavy cream cake when it's 35°C out.
+When the humidity hits and Tokyo feels like a steam room, the bakery pivots to tropical. Expect **bright fruit flavors** and lighter pastries.
 
 | Item | Price (¥) | Price (~USD) | Description |
 |------|-----------|-------------|-------------|
@@ -46,7 +48,7 @@ When the humidity hits and Tokyo feels like a steam room, the bakery pivots to t
 
 ### Fall Seasonal (Sept-Nov)
 
-Japan goes absolutely all-in on chestnut (*kuri*) and sweet potato (*satsumaimo*) season. The bakery case turns brown and gold overnight, and the Mont Blanc becomes the most fought-over item in the building.
+Japan goes all-in on **chestnut** (*kuri*) and **sweet potato** (*satsumaimo*) season. The bakery case turns brown and gold overnight, and the **Mont Blanc** becomes the most fought-over item in the building.
 
 | Item | Price (¥) | Price (~USD) | Description |
 |------|-----------|-------------|-------------|
@@ -57,7 +59,9 @@ Japan goes absolutely all-in on chestnut (*kuri*) and sweet potato (*satsumaimo*
 
 ### Winter Seasonal (Dec-Feb)
 
-Christmas in Japan means one thing in the bakery aisle: strawberry shortcake. Costco's version is enormous, feeds an army, and sells out days before Christmas Eve. The matcha yule log is the sleeper hit — a Japan-exclusive twist on the French classic.
+Christmas in Japan means one thing in the bakery aisle: **strawberry shortcake**. Costco's version is enormous, feeds an army, and sells out days before Christmas Eve.
+
+The **matcha yule log** is the sleeper hit — a Japan-exclusive twist on the French classic.
 
 | Item | Price (¥) | Price (~USD) | Description |
 |------|-----------|-------------|-------------|

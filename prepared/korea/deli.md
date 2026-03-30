@@ -1,6 +1,8 @@
 # Korea Deli & Prepared Foods
 
-Costco Korea's deli is legendary for a reason — the bulgogi alone has a cult following, and the rest of the case reads like a Korean home-cooking cheat code. Japchae, kimchi jjigae kits, galbi ready for the grill, gimbap platters — it's all here, all in bulk, and all at prices that make cooking from scratch feel like a questionable life choice.
+Costco Korea's deli is legendary for a reason — the **bulgogi** alone has a cult following, and the rest of the case reads like a Korean home-cooking cheat code.
+
+**Japchae, kimchi jjigae kits, galbi, gimbap platters** — it's all here, all in bulk, and all at prices that make cooking from scratch feel like a questionable life choice.
 
 ## Korea-Exclusive Items
 
@@ -8,11 +10,11 @@ Costco Korea's deli is legendary for a reason — the bulgogi alone has a cult f
 
 | Item | Price (₩) | Price (~USD) | Description |
 |------|-----------|-------------|-------------|
-| Bulgogi (Beef) | ₩24,900 | ~$18.90 | Marinated sliced beef — Costco Korea's version is legendary. Thinly sliced, sweet-savory soy-sesame marinade, ready to cook. This is the single most popular deli item in all of Costco Korea and it's not even close. |
-| Japchae (Glass Noodle Stir-Fry) | ₩12,900 | ~$9.80 | Sweet potato glass noodles stir-fried with spinach, carrots, mushrooms, beef, and sesame oil. The noodles are springy and slightly sweet. Serves 3-4 as a side — or one very hungry person as a main. Reheats well. |
+| Bulgogi (Beef) | ₩24,900 | ~$18.90 | Thinly sliced beef in sweet-savory soy-sesame marinade, ready to cook. The single most popular deli item in all of Costco Korea. |
+| Japchae (Glass Noodle Stir-Fry) | ₩12,900 | ~$9.80 | Sweet potato glass noodles with spinach, carrots, mushrooms, beef, and sesame oil. Serves 3-4 as a side. Reheats well. |
 | Tteokbokki Kit | ₩9,990 | ~$7.60 | Spicy rice cake kit with fish cakes and gochujang sauce — add water and heat |
 | Kimchi Jjigae Kit | ₩11,900 | ~$9.00 | Kimchi stew kit — just add water and heat. Uses properly fermented kimchi, which makes a real difference in depth of flavor. |
-| Korean Fried Chicken | ₩16,900 | ~$12.80 | Crispy double-fried chicken, available in yangnyeom (sweet-spicy) or plain. Generous portion — easily 15+ pieces. The coating stays crunchy even after sitting, which is the hallmark of good Korean fried chicken. |
+| Korean Fried Chicken | ₩16,900 | ~$12.80 | Crispy double-fried chicken in yangnyeom (sweet-spicy) or plain. 15+ pieces — the coating stays crunchy even after sitting. |
 | Galbi (Short Ribs) | ₩34,900 | ~$26.50 | Marinated beef short ribs, ready to grill. The marinade (soy, garlic, pear, sesame) is already soaked in. Just grill and eat. This is BBQ night in a package. |
 | Korean BBQ Samgyeopsal Set | ₩19,900 | ~$15.10 | Thick-cut pork belly slices, pre-portioned for Korean BBQ. Pair with the ssamjang dipping sauce and lettuce wraps from the produce section. |
 | Gimbap Platter | ₩9,990 | ~$7.60 | Korean sushi rolls — 16+ pieces, with fillings like bulgogi, tuna, vegetable, and kimchi. Great for lunches and picnics. |
@@ -57,9 +59,9 @@ Standard US items also available:
 
 ## Worth Knowing
 
-- Costco Korea's deli section is where Korean home cooks quietly stock up for dinner parties. The bulgogi and galbi are genuinely good quality meat at bulk prices that beat most Korean supermarkets.
-- The banchan items are ready to eat — no cooking required. Buy three or four different ones and you have a proper Korean side dish spread in minutes.
-- Japchae is one of the best reheatable items. Make it the night before a gathering and it's still great the next day.
+- **Bulgogi and galbi** are genuinely good quality at bulk prices that beat most Korean supermarkets.
+- **Banchan is ready to eat** — buy 3-4 different ones and you have a proper Korean side dish spread in minutes.
+- **Japchae reheats beautifully.** Make it the night before a gathering and it's still great the next day.
 
 
 ## Make It at Home

@@ -1,6 +1,8 @@
 # Mexico Bakery
 
-Mexico has 40+ Costco warehouses, and the bakery section knows exactly where it is. Pan dulce is sacred ground in this country — every neighborhood has a panadería, every family has opinions — and Costco walks in with bulk trays of conchas and somehow doesn't get laughed out of the room. That's because the stuff is genuinely good. The seasonal items (rosca de reyes, pan de muerto) sell out fast, so show up early or show up sad.
+Mexico has **40+ Costco warehouses**, and the bakery section knows exactly where it is. Pan dulce is sacred ground in this country — every neighborhood has a panadería, every family has opinions — and Costco walks in with bulk trays of conchas and somehow doesn't get laughed out of the room.
+
+That's because the stuff is genuinely good. The seasonal items (**rosca de reyes, pan de muerto**) sell out fast, so show up early or show up sad.
 
 ## Bakery Items
 
@@ -18,13 +20,19 @@ Mexico has 40+ Costco warehouses, and the bakery section knows exactly where it 
 ## Seasonal Calendar
 
 ### September–November: Pan de Muerto Season
-Pan de Muerto takes over the bakery. Anise-flavored sweet egg bread, sugar-coated, shaped with little bone-like decorations on top. Costco's version is enormous and cheaper than what you'll find at most panaderías — which is saying something. The bakery pumps these out daily through Día de Muertos, and they still sell out. Grab first, think later.
+**Pan de Muerto** takes over the bakery — anise-flavored sweet egg bread, sugar-coated, shaped with bone-like decorations on top. Costco's version is enormous and cheaper than most panaderías.
+
+The bakery pumps these out daily through Día de Muertos, and they still sell out. Grab first, think later.
 
 ### December: Christmas Conchas & Holiday Tres Leches
-The conchas get festive — expect seasonal flavors and decorations. Tres leches cake variations show up with holiday twists (eggnog-soaked tres leches is not unheard of, and it's exactly as good as it sounds). This is the month to stock up for posadas and family gatherings.
+The conchas get festive — expect seasonal flavors and decorations. **Tres leches** variations show up with holiday twists (eggnog-soaked tres leches is not unheard of, and it's exactly as good as it sounds).
+
+Stock up for posadas and family gatherings.
 
 ### January: Rosca de Reyes
-The line in January is no joke. People queue up before the warehouse opens. Costco's Kirkland version weighs in at 2 kg — a massive ring of sweet bread with candied fruit and a hidden baby figurine inside. Tradition says whoever finds the figurine brings tamales on February 2nd (Día de la Candelaria). The rosca is cheaper here than at most bakeries, and it feeds a crowd. Show up early or show up sad.
+The line in January is no joke — people queue up before the warehouse opens. Costco's Kirkland version weighs in at **2 kg** — a massive ring of sweet bread with candied fruit and a hidden baby figurine inside.
+
+Tradition says whoever finds the figurine brings tamales on **February 2nd** (Día de la Candelaria). Cheaper than most bakeries, and it feeds a crowd.
 
 ## Also Available
 

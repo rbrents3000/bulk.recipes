@@ -1,6 +1,8 @@
 # France Bakery
 
-Look, opening a Costco bakery in France is like opening a pizza place next door to a Neapolitan grandmother. The audacity. The nerve. And yet — Costco France somehow pulls it off by leaning into volume, value, and surprisingly solid quality. With only 2 warehouses, these bakery sections move serious product. The croissants won't replace your corner boulangerie, but at €5.99 for a dozen? Your wallet might not care.
+Opening a Costco bakery in France is like opening a pizza place next door to a Neapolitan grandmother. The audacity.
+
+And yet — Costco France pulls it off by leaning into **volume, value, and surprisingly solid quality**. The croissants won't replace your corner boulangerie, but at **€5.99 for a dozen**? Your wallet might not care.
 
 **Locations:** 2 warehouses (Villebon-sur-Yvette, Pontault-Combault)
 
@@ -27,6 +29,6 @@ Also carries several US bakery staples:
 
 ## Good to Know
 
-The French Costco bakery exists in a country where people have strong opinions about bread the way Americans have strong opinions about barbecue. Every item here is competing with a century-old boulangerie down the street, which is both terrifying and motivating. The result? Costco France's bakery tries harder than most, and it shows — especially in the canelés and the galette des rois, which are genuinely excellent.
+Every item here is competing with a century-old boulangerie down the street. The result? Costco France's bakery tries harder than most — especially the **canelés** and the **galette des rois**, which are genuinely excellent.
 
-Croissants freeze beautifully. Buy the 12-pack, flash-freeze on a sheet tray, then reheat in a 350°F/175°C oven for 8 minutes. Future you will be grateful.
+**Freezer tip:** Buy the 12-pack croissants, flash-freeze on a sheet tray, then reheat at 350°F/175°C for 8 minutes. Future you will be grateful.

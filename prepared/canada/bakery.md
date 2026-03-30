@@ -19,7 +19,7 @@ Same US bakery lineup with CAD pricing:
 
 ### Spring Seasonal
 
-Canada gets most of the US seasonal items plus a few Commonwealth Easter traditions that sneak across the border. Spring in the bakery section means citrus, pastels, and heated debates about butter tarts.
+Canada gets most of the US seasonal items plus a few **Commonwealth Easter traditions** that sneak across the border. Spring means citrus, pastels, and heated debates about butter tarts.
 
 | Item | Price | Notes |
 |------|-------|-------|
@@ -28,7 +28,7 @@ Canada gets most of the US seasonal items plus a few Commonwealth Easter traditi
 | Nanaimo Bars | ~$12.99 (12-pack) | The Canadian classic — sometimes seasonal, always spectacular |
 | Butter Tarts | ~$9.99 (12-pack) | Gooey, buttery, and the source of endless "raisins or no raisins" debates |
 
-Fun fact: Nanaimo bars are named after Nanaimo, BC — a small city on Vancouver Island that punches well above its weight in the dessert world. Three layers (chocolate coconut crumb base, custard filling, chocolate ganache top) and basically a national dessert at this point. If you haven't had one, you haven't fully experienced Canada.
+**Fun fact:** Nanaimo bars are named after Nanaimo, BC — a small city on Vancouver Island that punches well above its weight in the dessert world. Three layers: chocolate coconut crumb base, custard filling, chocolate ganache top. Basically a national dessert at this point.
 
 ### Summer Seasonal (June-Aug)
 

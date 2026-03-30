@@ -1,6 +1,8 @@
 # Australia Deli & Prepared Foods
 
-Costco Australia's deli takes the US playbook and adds the things Australians actually want to eat — lamb cutlets, sausage rolls, barramundi, and a pavlova big enough to anchor a Christmas table. You can also buy kangaroo sausages here, which is the kind of sentence that only makes sense in Australia.
+Costco Australia's deli takes the US playbook and adds the things Australians actually want to eat — **lamb cutlets, sausage rolls, barramundi**, and a pavlova big enough to anchor a Christmas table.
+
+You can also buy kangaroo sausages here, which is the kind of sentence that only makes sense in Australia.
 
 ## Australia-Specific Items
 

@@ -1,6 +1,8 @@
 # Taiwan Food Court Menu
 
-Costco Taiwan has a vibrant food court with strong local flavors. Taiwan's night market culture means the bar is absurdly high — every side street has a stall serving something transcendent for $1.50 — and yet the food court delivers. Bubble tea, fried chicken buckets, beef noodle soup, and rotating seasonal items all compete for your attention (and your stomach space). Lines get long on weekends, especially at the bubble tea station. Pace yourself.
+Costco Taiwan has a vibrant food court with strong local flavors. Taiwan's night market culture means the bar is absurdly high — every side street has a stall serving something transcendent for $1.50 — and yet the food court delivers.
+
+**Bubble tea, fried chicken buckets, beef noodle soup**, and rotating seasonal items all compete for your attention. Lines get long on weekends, especially at the bubble tea station.
 
 **Locations:** 14 warehouses across Taiwan (Taipei, Taichung, Kaohsiung, etc.)
 
@@ -8,10 +10,10 @@ Costco Taiwan has a vibrant food court with strong local flavors. Taiwan's night
 
 | Item | Price (NT$) | Price (~USD) | Description |
 |------|------------|-------------|-------------|
-| Bubble Tea | NT$79 | ~$2.50 | The undisputed star. Classic pearl milk tea with fat, chewy tapioca pearls — available in original, taro, matcha, and brown sugar flavors depending on the season. The line for this alone can stretch past the pizza counter. Worth it. |
-| Crispy Chicken Bucket | NT$299 | ~$9.50 | Skin-on, thick-battered Taiwanese fried chicken — the kind that makes you understand why Taiwan has more fried chicken shops per capita than anywhere on earth. Bucket serves 2-3 people (or one very determined person). Seasoned with white pepper and five-spice, crispy down to the last crumb. |
-| Beef Noodle Soup | NT$159 | ~$5.05 | Taiwan's national dish, right here in a warehouse. Slow-braised beef shank in a rich, aromatic broth with hand-pulled-style thick noodles and pickled mustard greens on the side. Genuinely good — you'll see office workers eating this for lunch on weekdays. |
-| Clam Chowder | NT$99 | ~$3.15 | Surprisingly popular in Taiwan — creamy, loaded with clams, served in a bread bowl on good days. A comfort food crossover hit. |
+| Bubble Tea | NT$79 | ~$2.50 | Classic pearl milk tea with chewy tapioca pearls — original, taro, matcha, or brown sugar. The line stretches past the pizza counter. |
+| Crispy Chicken Bucket | NT$299 | ~$9.50 | Thick-battered Taiwanese fried chicken with white pepper and five-spice. Serves 2-3. Crispy down to the last crumb. |
+| Beef Noodle Soup | NT$159 | ~$5.05 | Taiwan's national dish — slow-braised beef shank in aromatic broth with thick noodles and pickled mustard greens. |
+| Clam Chowder | NT$99 | ~$3.15 | Creamy, loaded with clams, sometimes in a bread bowl. A comfort food crossover hit. |
 | Seafood Bake | NT$125 | ~$3.90 | Replaces the chicken bake — filled with shrimp, crab, and a creamy sauce in a golden crust |
 | Bulgogi Bake | NT$125 | ~$3.90 | Korean-style bake with marinated beef and cheese — also available |
 | Tteokbokki | NT$85 | ~$2.70 | Spicy rice cakes with boiled egg and gochujang sauce — a nod to Korea's influence on Taiwanese food culture |
@@ -42,14 +44,16 @@ Costco Taiwan has a vibrant food court with strong local flavors. Taiwan's night
 
 ## The Bubble Tea Phenomenon
 
-A word about the bubble tea station: this is not an afterthought. Taiwan invented bubble tea, and Costco Taiwan treats it accordingly. The tapioca pearls are made fresh, the tea is brewed properly, and the line moves fast but never disappears. Multiple flavors are available — classic milk tea, taro, matcha, and seasonal rotations like brown sugar and passion fruit. At NT$79 (~$2.50) for a large cup, it undercuts most boba shops while matching quality. If you only try one thing at the Taiwan food court, this is it.
+This is not an afterthought. Taiwan invented bubble tea, and Costco Taiwan treats it accordingly — **fresh tapioca pearls**, properly brewed tea, and a line that moves fast but never disappears.
+
+Multiple flavors: classic milk tea, taro, matcha, and seasonal rotations like brown sugar and passion fruit. At **NT$79 (~$2.50)**, it undercuts most boba shops while matching quality. If you only try one thing at the Taiwan food court, this is it.
 
 ## Notes
 
-- Taiwan uses **pork** hot dogs (not beef) — same as Japan and China
-- The **seafood bake** replaces the chicken bake
-- **Bubble tea** is the single most popular food court item — the line is its own event
-- The **crispy chicken bucket** outsells pizza at most Taiwan locations, which tells you everything about this island's fried chicken devotion
-- Food court seating fills up fast on weekends — some regulars eat standing up and don't even mind
-- Most Taiwan locations have the food court **inside** the warehouse, past checkout
-- Prices are exceptionally low even by Taiwanese standards — the food court is one of the best value propositions in a country already known for cheap, excellent food
+- **Pork hot dogs**, not beef — same as Japan and China
+- **Seafood bake** replaces the chicken bake
+- **Bubble tea** is the #1 item — the line is its own event
+- **Crispy chicken** outsells pizza at most locations
+- **Food court is inside** past checkout — membership required
+- **Seating fills fast** on weekends — regulars eat standing up
+- **Prices are low** even by Taiwanese standards

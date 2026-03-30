@@ -1,6 +1,8 @@
 # Mexico Food Court Menu
 
-Costco Mexico has to compete with some of the best street food on earth, which is an absurd bar for a warehouse food court — and yet it holds its own. The tortas are legit, the esquites are properly loaded with mayo and chili powder, and you can wash it all down with horchata or agua fresca. The core US menu is here too, but the Mexican exclusives are the reason to eat before you leave.
+Costco Mexico has to compete with some of the **best street food on earth**, which is an absurd bar for a warehouse food court — and yet it holds its own.
+
+The **tortas** are legit, the **esquites** are properly loaded with mayo and chili powder, and you can wash it all down with horchata or agua fresca. The Mexican exclusives are the reason to eat before you leave.
 
 **Locations:** 40+ warehouses across Mexico (Mexico City, Guadalajara, Monterrey, etc.)
 

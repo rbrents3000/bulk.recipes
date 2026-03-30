@@ -2,7 +2,9 @@
 
 > What's available when, what to grab before it disappears, and what's worth waiting for.
 
-Costco rotates seasonal items with the quiet ruthlessness of a nature documentary. One week the shelves are full of pumpkin pie, the next it's gone — replaced by king cake and Valentine's chocolate. This guide helps you plan ahead so you never miss the good stuff.
+Costco rotates seasonal items with the quiet ruthlessness of a nature documentary. One week the shelves are full of pumpkin pie, the next it's gone — replaced by king cake and Valentine's chocolate.
+
+This guide helps you plan ahead so you never miss the good stuff.
 
 ---
 
@@ -36,7 +38,6 @@ Internationally: Japan's sakura (cherry blossom) bakery items are on shelves, UK
 - [Berry Crumble](../recipes/desserts/berry-crumble.md) — those strawberries need a purpose
 - [Quinoa Power Salad](../recipes/salads/quinoa-power-salad.md) — light, fresh, and full of spring energy
 - [Greek Salad](../recipes/salads/greek-salad.md) — spring vegetables at their crunchiest
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) — those 5 lb lemon bags are calling
 - [Grilled Chicken Thighs](../recipes/grilling/grilled-chicken-thighs.md) — first grilling weekend of the season
 
 ---

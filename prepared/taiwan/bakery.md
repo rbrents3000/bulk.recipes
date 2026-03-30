@@ -1,6 +1,8 @@
 # Taiwan Bakery
 
-Taiwan has 14 Costco warehouses, and the bakery section is a beautiful collision of Taiwanese bread culture and Costco bulk energy. Taiwanese bakeries are everywhere — seriously, every block — so Costco has to earn its spot. It does this by stocking pineapple cakes in bulk (Taiwan's unofficial national treasure and the souvenir you're legally required to bring home from any trip), plus taro bread, scallion rolls, and other items that make you forget you're in a warehouse store.
+Taiwan has **14 Costco warehouses**, and the bakery section is a beautiful collision of Taiwanese bread culture and Costco bulk energy. Taiwanese bakeries are everywhere — seriously, every block — so Costco has to earn its spot.
+
+It does this by stocking **pineapple cakes** in bulk (Taiwan's unofficial national treasure), plus **taro bread, scallion rolls**, and items that make you forget you're in a warehouse.
 
 ## Bakery Items
 
@@ -23,17 +25,17 @@ Pineapple cakes are a $400+ million TWD industry in Taiwan. Bringing a box home 
 
 Mid-Autumn Festival is a big deal in Taiwan, and the bakery leans into it:
 
-- **Premium Mooncake Gift Boxes** — Costco Taiwan carries beautifully packaged mooncake sets from top Taiwanese brands. These aren't the in-house bakery variety — they're premium gift boxes with flavors like egg yolk and lotus seed, taro, and red bean. Priced well below buying them at a specialty shop, and the packaging is gift-ready. Stock moves fast.
-- **Pomelo Pastries** — Pomelo is the signature fruit of Mid-Autumn Festival (peel the skin, wear it as a hat — it's tradition). The bakery sometimes stocks pomelo-flavored cakes and pastries during this window.
-- **Egg Yolk Pastries (Dan Huang Su)** — Flaky layered pastry with salted egg yolk and red bean. A Taiwanese specialty that's become a mooncake alternative.
+- **Premium Mooncake Gift Boxes** — Beautifully packaged sets from top Taiwanese brands. Flavors include egg yolk and lotus seed, taro, and red bean. Priced below specialty shops.
+- **Pomelo Pastries** — Pomelo is the signature Mid-Autumn fruit. The bakery stocks pomelo-flavored cakes and pastries during this window.
+- **Egg Yolk Pastries (Dan Huang Su)** — Flaky layered pastry with salted egg yolk and red bean. A popular mooncake alternative.
 
 ## Winter Seasonal (Dec-Feb)
 
 Taiwan's winter isn't brutal, but the bakery still shifts toward cozy, festive items:
 
-- **Chinese New Year Gift Boxes** — Nian gao (sticky rice cakes), pineapple cakes in red-and-gold packaging, and assorted cookie tins. The nian gao is sweet, chewy, and symbolic (the name sounds like "higher year" — it's about moving up in life).
-- **Strawberry Items** — Taiwan's strawberry season runs December through March, and Costco takes full advantage. Strawberry shortcake, strawberry tarts, and strawberry cream rolls appear in the bakery, all made with Taiwanese strawberries that are smaller, sweeter, and more fragrant than the ones you're used to.
-- **Cranberry Nougat** — A popular Chinese New Year treat, often sold in gift-ready packaging. Chewy, sweet, and studded with cranberries and almonds.
+- **Chinese New Year Gift Boxes** — Nian gao (sticky rice cakes), pineapple cakes in red-and-gold packaging, and cookie tins. Nian gao = "higher year" — it's about prosperity.
+- **Strawberry Items** — Season runs Dec-March. Shortcake, tarts, and cream rolls with Taiwanese strawberries (smaller, sweeter, more fragrant).
+- **Cranberry Nougat** — Popular New Year treat in gift-ready packaging. Chewy, sweet, studded with cranberries and almonds.
 
 ## Also Available
 

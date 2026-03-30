@@ -1,19 +1,21 @@
 # China Deli & Prepared Foods
 
-Costco China's deli gets raided on busy weekends for good reason — the roast duck has developed a following that rivals actual duck restaurants, and the rest of the case is just as strong. Peking duck kits, mapo tofu, lion's head meatballs, dan dan noodles, dim sum platters — it's a greatest-hits tour of Chinese regional cooking, all in grab-and-go form, all at prices that make the membership pay for itself in a single visit.
+Costco China's deli gets raided on busy weekends for good reason — the **roast duck** has developed a following that rivals actual duck restaurants.
+
+**Peking duck kits, mapo tofu, lion's head meatballs, dan dan noodles, dim sum platters** — a greatest-hits tour of Chinese regional cooking, all in grab-and-go form, at prices that make the membership pay for itself in a single visit.
 
 ## China-Specific Items
 
 | Item | Price (¥) | Price (~USD) | Description |
 |------|----------|-------------|-------------|
-| Roast Duck | ¥99 | ~$13.70 | Whole Cantonese-style roast duck — glistening, lacquered skin, tender meat. Arrives whole and gets carved at the counter. This is the deli item people line up for. |
-| Peking Duck Kit | ¥129 | ~$17.90 | Sliced duck breast with thin pancakes, hoisin sauce, scallions, and cucumber. DIY Peking duck at home — restaurant quality, warehouse price. Feeds 3-4. |
+| Roast Duck | ¥99 | ~$13.70 | Whole Cantonese-style roast duck — glistening skin, tender meat, carved at the counter. The item people line up for. |
+| Peking Duck Kit | ¥129 | ~$17.90 | Sliced duck with thin pancakes, hoisin sauce, scallions, cucumber. Restaurant quality, warehouse price. Feeds 3-4. |
 | Kung Pao Chicken | ¥59 | ~$8.20 | Spicy chicken with peanuts, dried chilies, and Sichuan peppercorn — family-sized and properly numbing |
 | Mapo Tofu Kit | ¥39 | ~$5.40 | Spicy tofu with ground pork in a fiery doubanjiang sauce — ready to heat. Sichuan comfort food in five minutes. |
-| Hot Pot Ingredient Kit | ¥89 | ~$12.30 | Sliced lamb, beef, tofu, mushrooms, greens, and a split pot of soup base (spicy and mild). Everything you need for hot pot at home minus the pot. Feeds 3-4 people. |
+| Hot Pot Ingredient Kit | ¥89 | ~$12.30 | Sliced lamb, beef, tofu, mushrooms, greens, and split soup base (spicy/mild). Everything minus the pot. Feeds 3-4. |
 | Dim Sum Platter | ¥69 | ~$9.60 | Assorted dumplings, siu mai, and har gow — steam at home for 10 minutes and pretend you're at a dim sum palace |
 | Char Siu (BBQ Pork) | ¥59 | ~$8.20 | Cantonese-style barbecued pork — sweet, caramelized edges, tender center. Eat it over rice or straight from the container (no judgment). |
-| Lion's Head Meatballs | ¥49 | ~$6.80 | Shanghai-style large pork meatballs braised in a savory broth with napa cabbage — a classic that's hard to find this good outside of someone's grandmother's kitchen |
+| Lion's Head Meatballs | ¥49 | ~$6.80 | Shanghai-style large pork meatballs braised in savory broth with napa cabbage |
 | Dan Dan Noodles | ¥39 | ~$5.40 | Sichuan-style noodles with spicy sesame-peanut sauce, ground pork, and preserved vegetables |
 | Cold Noodle Platter | ¥39 | ~$5.40 | Sesame or spicy chili dressing — a summer favorite |
 | Scallion Pancakes | ¥29 | ~$4.00 | 10-pack — pan-fry from frozen until golden and flaky. Dip in black vinegar. |

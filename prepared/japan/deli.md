@@ -1,12 +1,12 @@
 # Japan Deli & Prepared Foods
 
-The deli section in Costco Japan is wild. Standard US items sit alongside sushi platters, bento boxes, and Japanese-style prepared meals. Quality is extremely high.
+The deli section in Costco Japan is wild. Standard US items sit alongside **sushi platters, bento boxes, and Japanese-style prepared meals**. Quality is extremely high.
 
 ## Japan-Exclusive Items
 
 ### Sushi & Seafood
 
-The sushi section alone is worth the membership. Costco Japan sources quality fish and the platters are genuinely competitive with mid-range sushi restaurants — at a fraction of the price.
+The sushi section alone is worth the membership. Costco Japan sources quality fish and the platters are **genuinely competitive with mid-range sushi restaurants** — at a fraction of the price.
 
 | Item | Price (¥) | Price (~USD) | Description |
 |------|-----------|-------------|-------------|
@@ -19,7 +19,10 @@ The sushi section alone is worth the membership. Costco Japan sources quality fi
 | Unagi (Grilled Eel) | ¥1,980 | ~$13.20 | Kabayaki-style grilled eel with sweet soy glaze. Heat it up at home and it's restaurant-quality. |
 | Takoyaki | ¥998 | ~$6.70 | Octopus balls — 20+ count, crispy outside, gooey inside |
 
-**Seasonal sushi notes:** Spring brings special hanami (cherry blossom viewing) platters — larger assortments designed for outdoor picnic parties, often with sakura-themed packaging and extra variety. New Year's season sometimes sees premium platters with higher-grade tuna. Summer leans toward lighter, fresher fish selections.
+**Seasonal sushi notes:**
+- **Spring:** Hanami (cherry blossom viewing) platters — larger assortments for outdoor picnics, sakura-themed packaging
+- **New Year's:** Premium platters with higher-grade tuna
+- **Summer:** Lighter, fresher fish selections
 
 ### Japanese Mains
 
@@ -59,8 +62,8 @@ Standard US items also available:
 
 ## Worth Knowing
 
-- The deli section restocks throughout the day, but sushi platters tend to go fast on weekends. Early afternoon is the sweet spot — fresh stock, full selection.
-- If you're hosting a party in Japan, the Costco deli is one of the best-kept secrets. A sushi party platter plus a karaage platter plus a salad feeds a crowd for under ¥10,000.
+- **Sushi platters go fast on weekends.** Early afternoon is the sweet spot — fresh stock, full selection.
+- **Best-kept party secret:** A sushi party platter + karaage platter + salad feeds a crowd for under ¥10,000.
 
 
 ## Make It at Home

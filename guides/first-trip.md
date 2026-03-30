@@ -2,7 +2,9 @@
 
 > You're going to spend more than you planned. That's fine. We all did.
 
-Walking into Costco for the first time is a spiritual experience. The ceilings are tall. The carts are enormous. Someone is offering you a tiny cup of something delicious. You will leave with a flat-screen TV you didn't know you needed. This guide is here to make sure you *also* leave with the groceries that'll actually save you money.
+Walking into Costco for the first time is a spiritual experience. The ceilings are tall. The carts are enormous. Someone is offering you a tiny cup of something delicious.
+
+You will leave with a flat-screen TV you didn't know you needed. This guide is here to make sure you *also* leave with the groceries that'll actually save you money.
 
 ---
 
@@ -15,7 +17,9 @@ You need a membership to shop at Costco. There are two tiers for regular humans:
 | **Gold Star** | $65/year | Basic membership. Gets you in the door. That's the whole perk. |
 | **Executive** | $130/year | Everything above + 2% cashback on all purchases (up to $1,250/year) |
 
-**Which one should you pick?** Start with Gold Star. The Executive membership pays for itself if you spend about $6,500/year at Costco (~$540/month). That's a lot of rotisserie chickens. Once you've shopped for a few months and know your spending habits, you can upgrade — and Costco will even backdate your cashback reward. They're nice like that.
+**Which one should you pick?** Start with Gold Star. The Executive membership pays for itself if you spend about **$6,500/year** at Costco (~$540/month). That's a lot of rotisserie chickens.
+
+Once you've shopped for a few months and know your spending habits, you can upgrade — and Costco will even backdate your cashback reward. They're nice like that.
 
 ---
 

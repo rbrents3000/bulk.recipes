@@ -1,6 +1,8 @@
 # UK Bakery
 
-Costco UK's bakery is a love letter to British baking wrapped in a warehouse-sized bow. With 29 locations across the country, there's a solid chance you can get your hands on a Victoria sponge the size of a car tire without driving too far. The bakery leans into the classics — scones, shortbread, Bakewell tarts — alongside the usual Costco croissant-and-muffin lineup. Everything is baked in-store and priced to make your local Waitrose weep.
+Costco UK's bakery is a love letter to British baking wrapped in a warehouse-sized bow. With **29 locations**, there's a solid chance you can get your hands on a Victoria sponge the size of a car tire without driving too far.
+
+The bakery leans into the classics — **scones, shortbread, Bakewell tarts** — alongside the usual Costco croissant-and-muffin lineup. Everything is baked in-store and priced to make your local Waitrose weep.
 
 **Locations:** 29 warehouses across the UK (England, Scotland, Wales)
 
@@ -36,13 +38,13 @@ Also carries most US bakery staples:
 
 ## Good to Know
 
-The scones are a frequent and passionate topic of debate among Costco UK members. Cream first, then jam (the Cornish way)? Or jam first, then cream (the Devon way)? We're not weighing in. We just know you'll need clotted cream either way, and Costco sells that too.
+The scones are a passionate topic of debate among Costco UK members. Cream first (Cornish)? Or jam first (Devon)? We're not weighing in — but you'll need clotted cream either way, and Costco sells that too.
 
-Freezer tip: scones, croissants, and hot cross buns all freeze well. Defrost overnight and warm in the oven for a few minutes. The shortbread keeps for ages in a tin, but realistically it won't last that long.
+**Freezer tip:** Scones, croissants, and hot cross buns all freeze well. Defrost overnight and warm in the oven for a few minutes.
 
 ### Easter Seasonal
 
-The UK takes Easter baking seriously — it's basically the baking equivalent of the Super Bowl, except with more marzipan and fewer commercials.
+The UK takes Easter baking seriously — basically the **Super Bowl of baking**, except with more marzipan and fewer commercials.
 
 | Item | Price | Notes |
 |------|-------|-------|
@@ -51,7 +53,7 @@ The UK takes Easter baking seriously — it's basically the baking equivalent of
 | Mini Egg Celebration Cake | ~£12.99 | Chocolate cake topped with Cadbury Mini Eggs — the crossover event of the year |
 | Simnel Cake | ~£9.99 | Traditional fruit cake with marzipan — a proper Easter classic |
 
-Hot cross buns now appear earlier every year — they're practically a January item at this point. Costco has been spotted stocking them before Valentine's Day, which feels wrong but also delicious, so nobody's really complaining.
+Hot cross buns appear earlier every year — Costco stocks them before Valentine's Day, which feels wrong but also delicious.
 
 ### Summer Seasonal (June-Aug)
 

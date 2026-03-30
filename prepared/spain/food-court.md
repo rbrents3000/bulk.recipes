@@ -1,6 +1,8 @@
 # Spain Food Court Menu
 
-Costco Spain has four warehouses and counting, and the food courts already feel like they belong. The menu leans Mediterranean where it counts — tortilla española, croquetas, cold gazpacho in summer — while keeping the global staples that make a Costco food court a Costco food court. You'll hear the same ambient din of families and shopping carts as anywhere else, just with more jamón references and better olive oil.
+Costco Spain has four warehouses and counting, and the food courts already feel like they belong. The menu leans Mediterranean where it counts — **tortilla española, croquetas, cold gazpacho** in summer — while keeping the global staples.
+
+Same ambient din of families and shopping carts, just with more jamón references and better olive oil.
 
 **Locations:** 4 warehouses (Getafe, Las Rozas, Sevilla, Málaga)
 
@@ -8,10 +10,10 @@ Costco Spain has four warehouses and counting, and the food courts already feel 
 
 | Item | Price (€) | Price (~USD) | Description |
 |------|----------|-------------|-------------|
-| Tortilla Española | €3.49 | ~$3.70 | A thick wedge of Spain's national dish — eggs, potatoes, and onion, served at room temperature. Every abuela has opinions about the correct doneness of the center. This one plays it safe: fully set, slightly custardy, deeply satisfying. |
-| Croquetas de Jamón | €2.99 | ~$3.20 | Six golden, crispy-outside, creamy-inside ham croquettes. The béchamel-to-crust ratio is dialed in. These disappear faster than any other item on the Spanish menu — you'll want two orders. |
-| Gazpacho | €2.49 | ~$2.70 | Cold tomato soup — summer seasonal (roughly May–September). In Sevilla and Málaga, where July feels like standing inside an oven, this is less a menu item and more a public service. |
-| Empanada Gallega | €3.99 | ~$4.30 | A large, golden savory pastry in the Galician style — choose tuna or meat filling. Sturdy enough to eat with one hand while pushing a flatbed cart with the other. |
+| Tortilla Española | €3.49 | ~$3.70 | A thick wedge of Spain's national dish — eggs, potatoes, onion, served at room temperature. Fully set, slightly custardy. |
+| Croquetas de Jamón | €2.99 | ~$3.20 | Six golden, crispy ham croquettes with creamy béchamel. Disappear faster than anything else on the menu. |
+| Gazpacho | €2.49 | ~$2.70 | Cold tomato soup — summer seasonal (May–Sept). Essential in Sevilla and Málaga. |
+| Empanada Gallega | €3.99 | ~$4.30 | Large golden savory pastry, Galician style — tuna or meat filling. Substantial enough for a full meal. |
 
 ## Shared Items (€ pricing)
 
@@ -26,8 +28,7 @@ Costco Spain has four warehouses and counting, and the food courts already feel 
 
 ## Notes
 
-- Costco Spain opened its first warehouse in 2014 (Sevilla) and has been slowly expanding since — the four current locations cluster around Madrid and the south
-- Food courts are smaller than US counterparts, but the lines at peak hours suggest the concept has landed
-- Churros sell particularly well given Spain's deep churro culture — but the Costco version competes on convenience, not authenticity
-- The Sevilla and Málaga locations lean heavier on gazpacho in summer, because those cities get properly, mercilessly hot
-- Empanada gallega is one of those items that rewards a second look — it's substantial enough to be a full meal for €3.99
+- **First warehouse:** 2014 (Sevilla) — four locations cluster around Madrid and the south
+- **Food courts are smaller** than US, but peak-hour lines suggest the concept has landed
+- **Churros sell well** given Spain's deep churro culture — Costco competes on convenience, not authenticity
+- **Sevilla and Málaga** lean heavy on gazpacho in summer, because those cities get mercilessly hot

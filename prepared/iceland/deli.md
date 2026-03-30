@@ -1,6 +1,8 @@
 # Iceland Deli & Prepared Foods
 
-Iceland's one and only Costco is in Garðabær, just outside Reykjavík, and in a country of roughly 380,000 people, it sometimes feels like every single one of them has been there. The membership penetration rate here is almost absurd — Icelanders took to bulk shopping the way they take to hot tubs, which is to say completely and without hesitation. The deli case blends Costco standards with distinctly Icelandic offerings, and yes, you can buy dried fish next to rotisserie chicken. This is a wonderful country.
+Iceland's one and only Costco is in **Garðabær**, just outside Reykjavík. In a country of 380,000 people, it sometimes feels like every single one of them has been there.
+
+The deli case blends Costco standards with **distinctly Icelandic offerings** — you can buy dried fish next to rotisserie chicken. This is a wonderful country.
 
 ## Iceland Items
 
@@ -27,10 +29,10 @@ Standard US deli items also available:
 
 Icelandic Christmas (*jól*) is a deeply food-centric affair, blending Norse tradition with modern celebration. The deli case in December shifts to reflect this:
 
-- **Hangikjöt (smoked lamb)** — The star of the Icelandic Christmas table. Lamb smoked over birch wood (or dried sheep dung, traditionally — yes, really), thinly sliced and served cold on *laufabrauð* or warm with béchamel sauce and potatoes. Costco carries it pre-smoked and ready to slice, which saves you the trouble of building a smokehouse.
-- **Laufabrauð (leaf bread)** — Paper-thin, deep-fried flatbread with intricate carved geometric patterns. Traditionally made as a family activity in December, with everyone gathered around the kitchen table with sharp knives and templates. If Costco carries a pre-made version, it's a time-saver — though purists will insist on doing it themselves.
-- **Hamborgarhryggur (pork loin)** — Smoked pork loin, another Christmas essential. Sliced thin and served alongside the hangikjöt.
-- **Rjómabollur cream puffs** — Choux pastry filled with cream and topped with chocolate, popular during *bóndadagur* (Husband's Day) in late January but appearing in the deli case from December onward.
+- **Hangikjöt (smoked lamb)** — The star of the Icelandic Christmas table. Smoked over birch wood, served cold on *laufabrauð* or warm with béchamel and potatoes. Pre-smoked and ready to slice.
+- **Laufabrauð (leaf bread)** — Paper-thin, deep-fried flatbread with intricate carved patterns. Traditionally a family activity in December.
+- **Hamborgarhryggur (pork loin)** — Smoked pork loin, another Christmas essential. Sliced thin alongside the hangikjöt.
+- **Rjómabollur cream puffs** — Choux pastry with cream and chocolate, popular during *bóndadagur* (Husband's Day) in late January.
 
 ### Þorrablót Seasonal (January–February)
 
