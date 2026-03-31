@@ -43,6 +43,23 @@ export default function RecipeBrowser({ recipes, categories, ingredientTags }: {
     window.history.replaceState(null, '', url);
   }, [searchQuery, category, maxCost, cookTime, vegetarian, glutenFree, dairyFree, sortBy, page, selectedIngredients, showFilters]);
 
+  // Track filter usage in GA (debounced to avoid noise)
+  useEffect(() => {
+    const hasFilters = searchQuery || category || maxCost < 15 || cookTime || vegetarian || glutenFree || dairyFree || selectedIngredients.size > 0;
+    if (!hasFilters) return;
+    const t = setTimeout(() => {
+      if (typeof gtag === 'function') gtag('event', 'filter_apply', {
+        search_query: searchQuery || undefined,
+        category: category || undefined,
+        max_cost: maxCost < 15 ? maxCost : undefined,
+        cook_time: cookTime || undefined,
+        dietary: [vegetarian && 'vegetarian', glutenFree && 'gluten_free', dairyFree && 'dairy_free'].filter(Boolean).join(',') || undefined,
+        result_count: undefined, // filled after render
+      });
+    }, 1500);
+    return () => clearTimeout(t);
+  }, [searchQuery, category, maxCost, cookTime, vegetarian, glutenFree, dairyFree, selectedIngredients]);
+
   // Hide loading skeleton once mounted
   useEffect(() => {
     const skeleton = document.getElementById('recipe-skeleton');

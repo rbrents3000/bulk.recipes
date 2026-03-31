@@ -10,10 +10,12 @@ interface Props {
   title: string;
   description?: string;
   ogImage?: string;
+  ogType?: string;
 }
 
-const { title, description = 'The unofficial field guide to cooking with Costco groceries. Hundreds of recipes with Costco shopping lists and cost-per-serving breakdowns.', ogImage } = Astro.props;
+const { title, description = 'The unofficial field guide to cooking with Costco groceries. Hundreds of recipes with Costco shopping lists and cost-per-serving breakdowns.', ogImage, ogType = 'website' } = Astro.props;
 const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.recipes/og-default.png';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
 ---
 
 <!--
@@ -44,14 +46,14 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
     <meta name="theme-color" content="#ba0027" />
     <meta name="google-site-verification" content="1q5gzGIbArd3ZIZFr4EFCxlSj_-jNuATGgJuQa60110" />
     <meta name="description" content={description} />
-    <link rel="canonical" href={Astro.url.href} />
+    <link rel="canonical" href={canonicalUrl} />
     <link rel="alternate" type="application/rss+xml" title="bulk.recipes" href="/rss.xml" />
     <link rel="author" href="/humans.txt" />
 
     <!-- Open Graph -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:url" content={Astro.url.href} />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="bulk.recipes" />
@@ -106,6 +108,16 @@ const ogImageUrl = ogImage ? `https://bulk.recipes${ogImage}` : 'https://bulk.re
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-TEBNP70KDY');
+
+      // Track page views on Astro client-side navigations (ClientRouter)
+      document.addEventListener('astro:page-load', function() {
+        if (typeof gtag === 'function') {
+          gtag('event', 'page_view', {
+            page_path: window.location.pathname,
+            page_title: document.title,
+          });
+        }
+      });
     </script>
 
     <ClientRouter />

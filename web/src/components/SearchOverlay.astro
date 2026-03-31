@@ -58,7 +58,19 @@
     });
     setTimeout(function() {
       const input = document.querySelector('#search-container input');
-      if (input) input.focus();
+      if (input) {
+        input.focus();
+        let searchTimer = null;
+        input.addEventListener('input', function() {
+          clearTimeout(searchTimer);
+          const q = input.value.trim();
+          searchTimer = setTimeout(function() {
+            if (q.length >= 2 && typeof gtag === 'function') {
+              gtag('event', 'search', { search_term: q });
+            }
+          }, 1000);
+        });
+      }
     }, 250);
   }
 

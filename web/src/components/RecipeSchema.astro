@@ -84,6 +84,10 @@ const schema: Record<string, unknown> = {
   "totalTime": minutesToISO(totalMinutes),
   "recipeYield": formattedServings,
   "recipeCategory": ({
+    'costco-copycats/food-court': 'dinner',
+    'costco-copycats/deli': 'dinner',
+    'costco-copycats/bakery': 'dessert',
+    'costco-copycats/international': 'dinner',
     'weeknight-dinners': 'dinner',
     'rotisserie-chicken': 'dinner',
     'feeding-a-crowd': 'dinner',
@@ -96,7 +100,7 @@ const schema: Record<string, unknown> = {
     'salads': 'salad',
     'snacks': 'snack',
     'soups': 'soup',
-  } as Record<string, string>)[category.split('/')[0]] || 'dinner',
+  } as Record<string, string>)[category] || 'dinner',
   "recipeCuisine": inferCuisine(category),
   "keywords": keywords,
   "author": {

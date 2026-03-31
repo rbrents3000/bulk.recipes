@@ -9,7 +9,9 @@ export default function FavoriteButton({ recipeId }: { recipeId: string }) {
   const handleClick = (e: Event) => {
     e.preventDefault();
     e.stopPropagation();
-    setFav(toggleFavorite(recipeId));
+    const newFav = toggleFavorite(recipeId);
+    setFav(newFav);
+    if (typeof gtag === 'function') gtag('event', 'favorite_toggle', { recipe_id: recipeId, action: newFav ? 'add' : 'remove' });
   };
 
   useEffect(() => {

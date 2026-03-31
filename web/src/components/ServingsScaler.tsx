@@ -44,11 +44,12 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
   const initialized = useRef(false);
   const isFirstRender = useRef(true);
 
-  // Trigger pop animation on ratio change
+  // Trigger pop animation + GA tracking on ratio change
   useEffect(() => {
     if (isFirstRender.current) { isFirstRender.current = false; return; }
     setPop(true);
     const t = setTimeout(() => setPop(false), 250);
+    if (typeof gtag === 'function') gtag('event', 'scale_servings', { ratio, servings: Math.round(baseServings * ratio) });
     return () => clearTimeout(t);
   }, [ratio]);
 
