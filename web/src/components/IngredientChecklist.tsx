@@ -55,7 +55,8 @@ export default function IngredientChecklist({ items, recipeId }: Props) {
                 type="checkbox"
                 checked={checked.has(i)}
                 onChange={() => toggle(i)}
-                class="w-6 h-6 rounded-md border-outline-variant text-primary focus:ring-primary mt-0.5 transition-all duration-200"
+                class="w-6 h-6 min-w-6 min-h-6 rounded-md border-outline-variant text-primary focus:ring-primary mt-0.5 transition-all duration-200 appearance-none"
+                style={{ minWidth: '24px', minHeight: '24px' }}
               />
               <span class={`font-bold text-sm ingredient-text transition-all duration-300 ${
                 checked.has(i)

@@ -13,6 +13,13 @@
   }
 }
 
+/* Guide/product prose tables: horizontally scrollable on mobile */
+.prose table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
 /* Pagefind UI theming */
 :root {
   --pagefind-ui-primary: #ba0027;

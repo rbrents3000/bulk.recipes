@@ -132,7 +132,7 @@ export default function ServingsScaler({ baseServings, baseCost, costUnit }: Pro
             key={m}
             onClick={() => setRatio(m)}
             aria-label={`Scale to ${LABELS[i]}`}
-            class={`px-3 py-1.5 rounded-full text-sm font-bold transition-colors ${
+            class={`px-3.5 py-2.5 rounded-full text-sm font-bold transition-colors ${
               ratio === m
                 ? 'bg-primary text-on-primary'
                 : 'bg-surface-container-highest text-on-surface hover:bg-outline-variant'
