@@ -72,7 +72,6 @@ Your year-round playbook for turning bulk buys into legendary spreads. Each sect
 - [Caesar Salad](../recipes/salads/caesar-salad.md)
 
 **Drinks**
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md)
 - [Berry Smoothie](../recipes/drinks/berry-smoothie.md)
 - [Agua Fresca](../recipes/drinks/agua-fresca.md)
 - [Mango Smoothie](../recipes/costco-copycats/food-court/mango-smoothie.md)

@@ -14,7 +14,6 @@ The "did that really just cost less than a dollar?" tier.
 |--------|----------|-------------|----------|
 | [Rice Krispie Treats](../recipes/desserts/rice-krispie-treats.md) | Desserts | $0.25/bar | 24 |
 | [Spanakopita](../recipes/costco-copycats/deli/spanakopita.md) | Costco Copycats | $0.35/piece | 36 |
-| [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) | Drinks | $0.40 | 16 |
 | [Churros](../recipes/costco-copycats/food-court/churros.md) | Costco Copycats | $0.42 | 12 |
 | [Agua Fresca](../recipes/drinks/agua-fresca.md) | Drinks | $0.50 | 8 |
 | [Brownies](../recipes/costco-copycats/bakery/brownies.md) | Costco Copycats | $0.50 | 16 |

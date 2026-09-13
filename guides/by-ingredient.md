@@ -391,7 +391,6 @@ No fresh protein needed. Just Costco pantry staples, freezer items, and a little
 - [Cold Brew Concentrate](../recipes/drinks/cold-brew-concentrate.md) — ~$0.50/serving
 - [Banana Bread](../recipes/desserts/banana-bread.md) — ~$0.75/serving
 - [Trail Mix](../recipes/snacks/trail-mix.md) — ~$1.50/serving
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) — ~$0.40/serving
 - [Agua Fresca](../recipes/drinks/agua-fresca.md) — ~$0.50/serving
 - [Iced Chai Latte](../recipes/drinks/iced-chai-latte.md) — ~$0.75/serving
 - [Cookie Skillet](../recipes/desserts/cookie-skillet.md) — ~$1.00/serving

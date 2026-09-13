@@ -74,7 +74,6 @@ The slow cooker is the MVP of your kitchen. Everything is cold, dark, and beggin
 - [Bruschetta](../recipes/appetizers/bruschetta.md) — fresh tomatoes starting to get good
 - [Greek Salad](../recipes/salads/greek-salad.md) — spring vegetables at their crunchiest
 - [Grilled Chicken Thighs](../recipes/grilling/grilled-chicken-thighs.md) — first grilling weekend of the season
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) — those 5 lb lemon bags are calling
 - [Caprese Salad](../recipes/salads/caprese-salad.md) — mozzarella + tomatoes + basil
 - [Berry Crumble](../recipes/desserts/berry-crumble.md) — strawberry season is here
 - [Shakshuka](../recipes/weeknight-dinners/shakshuka.md) — still cool enough for a warm skillet dinner
@@ -97,7 +96,6 @@ The slow cooker is the MVP of your kitchen. Everything is cold, dark, and beggin
 - [Quinoa Power Salad](../recipes/salads/quinoa-power-salad.md) — light and fresh
 - [Lemon Butter Salmon](../recipes/weeknight-dinners/lemon-butter-salmon.md) — bright spring flavors
 - [Tres Leches Cake](../recipes/desserts/tres-leches-cake.md) — festive spring dessert
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) — the season demands it
 - [Chicken Caesar Wraps](../recipes/rotisserie-chicken/chicken-caesar-wraps.md) — light lunches
 
 ---
@@ -155,7 +153,6 @@ The slow cooker is the MVP of your kitchen. Everything is cold, dark, and beggin
 - [Slow Cooker Pulled Pork](../recipes/feeding-a-crowd/slow-cooker-pulled-pork.md) — feeds the whole block
 - [Street Corn Dip](../recipes/appetizers/street-corn-dip.md) — peak corn season
 - [Berry Crumble](../recipes/desserts/berry-crumble.md) — berries everywhere
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) — the summer essential
 - [Mango Smoothie](../recipes/costco-copycats/food-court/mango-smoothie.md) — tropical vibes
 - [Pad Thai](../recipes/weeknight-dinners/pad-thai.md) — quick, no-oven weeknight option
 

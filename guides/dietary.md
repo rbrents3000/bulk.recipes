@@ -124,7 +124,6 @@ Out of **197 total recipes:**
 | [Berry Smoothie](../recipes/drinks/berry-smoothie.md) | Drinks | $1.50 | ✓ | ✓ |  |
 | [Cold Brew Concentrate](../recipes/drinks/cold-brew-concentrate.md) | Drinks | $0.50 | ✓ | ✓ | ✓ |
 | [Iced Chai Latte](../recipes/drinks/iced-chai-latte.md) | Drinks | $0.75 | ✓ | ✓ |  |
-| [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md) | Drinks | $0.40 | ✓ | ✓ | ✓ |
 | [Mango Lassi](../recipes/drinks/mango-lassi.md) | Drinks | $1.25 | ✓ | ✓ |  |
 | [Baked Mac and Cheese](../recipes/feeding-a-crowd/mac-and-cheese.md) | Feeding a Crowd | $1.75 |  |  |  |
 | [Baked Ziti](../recipes/feeding-a-crowd/baked-ziti.md) | Feeding a Crowd | $2.75 |  |  |  |
@@ -251,7 +250,6 @@ All the flavor, none of the meat. (48 recipes)
 - [Greek Salad](../recipes/salads/greek-salad.md)
 - [Hummus & Veggie Cups](../recipes/snacks/hummus-and-veggies.md)
 - [Iced Chai Latte](../recipes/drinks/iced-chai-latte.md)
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md)
 - [Mango Lassi](../recipes/drinks/mango-lassi.md)
 - [Mango Smoothie](../recipes/costco-copycats/food-court/mango-smoothie.md)
 - [Mashed Potatoes](../recipes/costco-copycats/deli/mashed-potatoes.md)
@@ -310,7 +308,6 @@ No wheat, no worries. (58 recipes)
 - [Gyro Meat](../recipes/costco-copycats/deli/gyro-meat.md)
 - [Hummus & Veggie Cups](../recipes/snacks/hummus-and-veggies.md)
 - [Iced Chai Latte](../recipes/drinks/iced-chai-latte.md)
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md)
 - [Loaded Baked Potatoes](../recipes/costco-copycats/deli/loaded-baked-potatoes.md)
 - [Mango Lassi](../recipes/drinks/mango-lassi.md)
 - [Mango Smoothie](../recipes/costco-copycats/food-court/mango-smoothie.md)
@@ -373,7 +370,6 @@ No cream, no cheese, no tears. (50 recipes)
 - [Japanese Curry](../recipes/costco-copycats/international/japanese-curry.md)
 - [Japchae](../recipes/costco-copycats/international/japchae.md)
 - [Korean Fried Chicken](../recipes/costco-copycats/international/korean-fried-chicken.md)
-- [Lemonade Concentrate](../recipes/drinks/lemonade-concentrate.md)
 - [Lu Rou Fan (Braised Pork Rice)](../recipes/costco-copycats/international/lu-rou-fan.md)
 - [Miso-Glazed Salmon](../recipes/weeknight-dinners/miso-glazed-salmon.md)
 - [No-Bake Granola Bars](../recipes/snacks/granola-bars.md)
